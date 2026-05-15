@@ -1,0 +1,44 @@
+------------------------------------------------
+dle output started at: Fri Jul 24 17:14:23 2020
+------------------------------------------------
+dblink = "C:\ghs\comp_201715\host64\dblink"
+------------------------------------------------
+argv[0] = "C:\ghs\comp_201715\host64\dblink.exe"
+argv[1] = "-dbopath=obj"
+argv[2] = "-a"
+argv[3] = "-nm=gnm"
+argv[4] = "C:\Users\MSWELT21\AppData\Local\Temp\gh_0000fak1.nm"
+argv[5] = "-o"
+argv[6] = "w501.dnm"
+argv[7] = "-top_project"
+argv[8] = "D:\SVN\MMahindra\W501\4.Software_Code\4.1.Software_Source_Code\vlib_v1.8\app\gfx_apps\W501\target\W501.gpj"
+argv[9] = "-Dscope.target=v850elf"
+argv[10] = "-Dscope.processor=800"
+argv[11] = "-Dscope.cpuname=rh850g3m"
+argv[12] = "-Dscope.fputype=hard"
+argv[13] = "-Dscope.tools_dir=C:\ghs\comp_201715"
+argv[14] = "-Dscope.deflibdir=C:\ghs\comp_201715\lib\rh850_22"
+argv[15] = "C:\ghs\comp_201715\lib\rh850_22\crt0.dbo"
+argv[16] = "C:\ghs\comp_201715\lib\rh850_22\libmulti.dba"
+argv[17] = "C:\ghs\comp_201715\lib\rh850_22\libfmalloc.dba"
+argv[18] = "C:\ghs\comp_201715\lib\rh850_22\libwchar_s32.dba"
+argv[19] = "C:\ghs\comp_201715\lib\rh850_22\libansi.dba"
+argv[20] = "C:\ghs\comp_201715\lib\rh850_22\libwc_s32.dba"
+argv[21] = "C:\ghs\comp_201715\lib\rh850_22\libmath_fp.dba"
+argv[22] = "C:\ghs\comp_201715\lib\rh850_22\libind_fp.dba"
+argv[23] = "C:\ghs\comp_201715\lib\rh850_22\libstartup.dba"
+argv[24] = "C:\ghs\comp_201715\lib\rh850_22\libsys.dba"
+argv[25] = "C:\ghs\comp_201715\lib\rh850_22\libarch.dba"
+------------------------------------------------
+dblink: WARNING: could not find .dbo for "D:\SVN\MMahindra\W501\4.Software_Code\4.1.Software_Source_Code\DROME_LIB_5.4.0\out\drome.dlo" with magic="..bof.D.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0.5Cout.5Cdrome...44.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0..5EE1AB70..0". Source level debugging will not be available for this object.
+dblink: WARNING: could not find .dbo for "D:\SVN\MMahindra\W501\4.Software_Code\4.1.Software_Source_Code\DROME_LIB_5.4.0\out\drdbif.dlo" with magic="..bof.D.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0.5Cout.5Cdrdbif...44.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0..5EE1AB72..0". Source level debugging will not be available for this object.
+dblink: WARNING: could not find .dbo for "D:\SVN\MMahindra\W501\4.Software_Code\4.1.Software_Source_Code\DROME_LIB_5.4.0\out\drdpif.dlo" with magic="..bof.D.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0.5Cout.5Cdrdpif...44.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0..5EE1AB72..0". Source level debugging will not be available for this object.
+dblink: WARNING: could not find .dbo for "D:\SVN\MMahindra\W501\4.Software_Code\4.1.Software_Source_Code\DROME_LIB_5.4.0\out\drgodbif.dlo" with magic="..bof.D.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0.5Cout.5Cdrgodbif...44.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0..5EE1AB72..0". Source level debugging will not be available for this object.
+dblink: WARNING: could not find .dbo for "D:\SVN\MMahindra\W501\4.Software_Code\4.1.Software_Source_Code\DROME_LIB_5.4.0\out\drsmdbif.dlo" with magic="..bof.D.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0.5Cout.5Cdrsmdbif...44.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0..5EE1AB73..0". Source level debugging will not be available for this object.
+dblink: WARNING: could not find .dbo for "D:\SVN\MMahindra\W501\4.Software_Code\4.1.Software_Source_Code\DROME_LIB_5.4.0\out\drwidbif.dlo" with magic="..bof.D.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0.5Cout.5Cdrwidbif...44.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0..5EE1AB73..0". Source level debugging will not be available for this object.
+dblink: WARNING: could not find .dbo for "D:\SVN\MMahindra\W501\4.Software_Code\4.1.Software_Source_Code\DROME_LIB_5.4.0\out\drpropstack.dlo" with magic="..bof.D.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0.5Cout.5Cdrpropstack...44.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0..5EE1AB74..0". Source level debugging will not be available for this object.
+dblink: WARNING: could not find .dbo for "D:\SVN\MMahindra\W501\4.Software_Code\4.1.Software_Source_Code\DROME_LIB_5.4.0\out\drglif_dhd.dlo" with magic="..bof.D.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0.5Cout.5Cdrglif_dhd...44.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0..5EE1AB75..0". Source level debugging will not be available for this object.
+dblink: WARNING: could not find .dbo for "D:\SVN\MMahindra\W501\4.Software_Code\4.1.Software_Source_Code\DROME_LIB_5.4.0\out\drglgmm_dhd.dlo" with magic="..bof.D.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0.5Cout.5Cdrglgmm_dhd...44.3A.5CSVN.5CMMahindra.5CW501.5C4.2ESoftware_Code.5C4.2E1.2ESoftware_Source_Code.5CDROME_LIB_5.2E4.2E0..5EE1AB76..0". Source level debugging will not be available for this object.
+dblink: WARNING: This warning (.dbo not found) has been encountered 9 times and will no longer be printed.
+Use the "-warn_dbo_not_found_max=" option to control this threshold.
+dblink: WARNING: during processing, some .dbo files were not found.  Use the "-dbo_trace" option to diagnose.

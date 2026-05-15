@@ -1,0 +1,2158 @@
+                                                                      Page 1
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+Command Line: C:\ghs\comp_201715\ease850.exe -w -elf -b0 -I..\..\..\..\..\app\common\dhd -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\res -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\images -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\config -I..\..\..\..\..\bsp\board\\config -I..\..\..\..\..\bsp\board\\src\gfx -I..\..\..\..\..\bsp\board\\src\hmi -I..\..\..\..\..\bsp\board\\src\stdio -I..\..\..\..\..\bsp\board\d1mx_mango\config -I..\..\..\..\..\bsp\board\d1mx_mango\src -I..\..\..\..\..\bsp\board\d1mx_mango\src\gfx -I..\..\..\..\..\bsp\board\d1mx_mango\src\hmi -I..\..\..\..\..\bsp\board\d1mx_mango\src\stdio -I..\..\..\..\..\bsp\gfx\lib -I..\..\..\..\..\bsp\gfx\src -I..\..\..\..\..\bsp\hmi\lib -I..\..\..\..\..\bsp\hmi\src -I..\..\..\..\..\bsp\lib -I..\..\..\..\..\bsp\stdio\lib -I..\..\..\..\..\bsp\stdio\src -I..\..\..\..\..\cdi\lib -I..\..\..\..\..\cdi\src -I..\..\..\..\..\compiler\rh850_ghs\inc -I..\..\..\..\..\device\d1mx\lib -I..\..\..\..\..\device\d1mx\macro_cfg -I..\..\..\..\..\device\d1mx\src\dev -I..\..\..\..\..\device\d1mx\src\dhd -I..\..\..\..\..\device\d1mx\src\jcua -I..\..\..\..\..\device\d1mx\src\rh850_ghs -I..\..\..\..\..\device\d1mx\src\vowe -I..\..\..\..\..\device\d1x_common\macro_cfg -I..\..\..\..\..\device\d1x_common\src\csisw -I..\..\..\..\..\device\d1x_common\src\dev -I..\..\..\..\..\device\d1x_common\src\gfxbus -I..\..\..\..\..\device\d1x_common\src\gpio -I..\..\..\..\..\device\d1x_common\src\ostm -I..\..\..\..\..\device\d1x_common\src\pbg -I..\..\..\..\..\device\d1x_common\src\riic -I..\..\..\..\..\device\d1x_common\src\sfma -I..\..\..\..\..\device\d1x_common\src\spea -I..\..\..\..\..\device\d1x_common\src\tauj -I..\..\..\..\..\device\d1x_common\src\tick -I..\..\..\..\..\device\d1x_common\src\vdce -I..\..\..\..\..\device\d1x_common\src\wm -I..\..\..\..\..\device\d1x_common\src\xbus -I..\..\..\..\..\device\lib -I..\..\..\..\..\macro\bus\pbg\lib -I..\..\..\..\..\macro\bus\pbg\src -I..\..\..\..\..\macro\csi\csisw\lib -I..\..\..\..\..\macro\csi\csisw\src -I..\..\..\..\..\macro\drw2d\lib -I..\..\..\..\..\macro\drw2d\platform\davehd -I..\..\..\..\..\macro\drw2d\platform\os\no_os -I..\..\..\..\..\macro\drw2d\src -I..\..\..\..\..\macro\flashc\sfcdb\lib -I..\..\..\..\..\macro\flashc\sfcdb\src -I..\..\..\..\..\macro\flashc\sfma\lib -I..\..\..\..\..\macro\flashc\sfma\src -I..\..\..\..\..\macro\gfxbus\lib -I..\..\..\..\..\macro\gfxbus\src -I..\..\..\..\..\macro\gfxbus\xbus\lib -I..\..\..\..\..\macro\gfxbus\xbus\src -I..\..\..\..\..\macro\gpio\lib -I..\..\..\..\..\macro\gpio\src -I..\..\..\..\..\macro\gpu\davehd\common\inc -I..\..\..\..\..\macro\gpu\davehd\common\inc\platform -I..\..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx -I..\..\..\..\..\macro\gpu\davehd\kernel\inc -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\ree -I..\..\..\..\..\macro\gpu\davehd\kernel\src -I..\..\..\..\..\macro\gpu\davehd\user\inc -I..\..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os -I..\..\..\..\..\macro\gpu\davehd\user\src -I..\..\..\..\..\macro\gpu\jcua\lib -I..\..\..\..\..\macro\gpu\jcua\src -I..\..\..\..\..\macro\i2c\riic\lib -I..\..\..\..\..\macro\i2c\riic\src -I..\..\..\..\..\macro\tick\lib -I..\..\..\..\..\macro\tick\src -I..\..\..\..\..\macro\timer\ostm\lib -I..\..\..\..\..\macro\timer\ostm\src -I..\..\..\..\..\macro\timer\tauj\lib -I..\..\..\..\..\macro\timer\tauj\src -I..\..\..\..\..\macro\vdce\lib -I..\..\..\..\..\macro\vdce\src -I..\..\..\..\..\macro\vo\ddb\lib -I..\..\..\..\..\macro\vo\ddb\src -I..\..\..\..\..\macro\vo\spea\lib -I..\..\..\..\..\macro\vo\spea\src -I..\..\..\..\..\macro\vo\vowe\lib -I..\..\..\..\..\macro\vo\vowe\src -I..\..\..\..\..\macro\wm\lib -I..\..\..\..\..\macro\wm\src -I..\..\..\..\..\middleware\gfxutils\lib -I..\..\..\..\..\middleware\gfxutils\src -I..\..\..\..\..\device\d1mx\macro_cfg\csisw -I..\..\..\..\..\device\d1mx\macro_cfg\davehd -I..\..\..\..\..\device\d1mx\macro_cfg\ddb -I..\..\..\..\..\device\d1mx\macro_cfg\drw2d -I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus -I..\..\..\..\..\device\d1mx\macro_cfg\gpio -I..\..\..\..\..\device\d1mx\macro_cfg\hypb -I..\..\..\..\..\device\d1mx\macro_cfg\hypdb -I..\..\..\..\..\device\d1mx\macro_cfg\jcua -I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare -I..\..\..\..\..\device\d1mx\macro_cfg\octa -I..\..\..\..\..\device\d1mx\macro_cfg\octacdb -I..\..\..\..\..\device\d1mx\macro_cfg\ostm -I..\..\..\..\..\device\d1mx\macro_cfg\pbg -I..\..\..\..\..\device\d1mx\macro_cfg\riic -I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb -I..\..\..\..\..\device\d1mx\macro_cfg\sfma -I..\..\..\..\..\device\d1mx\macro_cfg\spea -I..\..\..\..\..\device\d1mx\macro_cfg\tauj -I..\..\..\..\..\device\d1mx\macro_cfg\tick -I..\..\..\..\..\device\d1mx\macro_cfg\vdce -I..\..\..\..\..\device\d1mx\macro_cfg\vowe -I..\..\..\..\..\device\d1mx\macro_cfg\wm -I..\..\..\..\..\device\d1mx\macro_cfg\xbus -I..\..\..\..\..\device\d1x_common\macro_cfg\csisw -I..\..\..\..\..\device\d1x_common\macro_cfg\davehd -I..\..\..\..\..\device\d1x_common\macro_cfg\ddb -I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d -I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus -I..\..\..\..\..\device\d1x_common\macro_cfg\gpio -I..\..\..\..\..\device\d1x_common\macro_cfg\hypb -I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb -I..\..\..\..\..\device\d1x_common\macro_cfg\jcua -I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare -I..\..\..\..\..\device\d1x_common\macro_cfg\octa -I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb -I..\..\..\..\..\device\d1x_common\macro_cfg\ostm -I..\..\..\..\..\device\d1x_common\macro_cfg\pbg -I..\..\..\..\..\device\d1x_common\macro_cfg\riic -I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb -I..\..\..\..\..\device\d1x_common\macro_cfg\sfma -I..\..\..\..\..\device\d1x_common\macro_cfg\spea -I..\..\..\..\..\device\d1x_common\macro_cfg\tauj -I..\..\..\..\..\device\d1x_common\macro_cfg\tick -I..\..\..\..\..\device\d1x_common\macro_cfg\vdce -I..\..\..\..\..\device\d1x_common\macro_cfg\vowe -I..\..\..\..\..\device\d1x_common\macro_cfg\wm -I..\..\..\..\..\device\d1x_common\macro_cfg\xbus -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY -IC:\ghs\comp_201715\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -nomacro -patch_dbo=D:\MY_1_8_D1x_RGL_org\rgl_ghs_D1Mx_obj_V1.8.0\vlib\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\obj\oil.dbo -source=oil.c -o .\obj\gh_00008741.o -list=.\obj\oil.lst C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si 
+Original File: C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+Source File: oil.c
+Directory: D:\MY_1_8_D1x_RGL_org\rgl_ghs_D1Mx_obj_V1.8.0\vlib\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2016 Green Hills Software.  All Rights Reserved.
+Release: MULTI v800-v2017.1.5-comp-P04
+Custom String: TOOLS-28024 unreached assembly routines deleted by linker
+Build Directory: [Directory] BTOWINBOX:c:/build_2017_1_bto/2017-10-04.2100-2017_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2017-1-bto/src@603992 (built by build)
+Revision Date: Thu Oct 05 10:11:26 2017
+
+Release Date: Tue Oct 10 02:48:58 2017
+
+                           1 --Driver Command: ccv850 -c -MD -I..\..\..\..\..\app\common\dhd
+                           2 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\res
+                           3 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src
+                           4 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\images
+                           5 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+                           6 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\config
+                           7 --		-I..\..\..\..\..\bsp\board\\config
+                           8 --		-I..\..\..\..\..\bsp\board\\src\gfx
+                           9 --		-I..\..\..\..\..\bsp\board\\src\hmi
+                          10 --		-I..\..\..\..\..\bsp\board\\src\stdio
+                          11 --		-I..\..\..\..\..\bsp\board\d1mx_mango\config
+                          12 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src
+                          13 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\gfx
+                          14 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\hmi
+                          15 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\stdio
+                          16 --		-I..\..\..\..\..\bsp\gfx\lib -I..\..\..\..\..\bsp\gfx\src
+                          17 --		-I..\..\..\..\..\bsp\hmi\lib -I..\..\..\..\..\bsp\hmi\src
+                          18 --		-I..\..\..\..\..\bsp\lib -I..\..\..\..\..\bsp\stdio\lib
+                          19 --		-I..\..\..\..\..\bsp\stdio\src -I..\..\..\..\..\cdi\lib
+                          20 --		-I..\..\..\..\..\cdi\src -I..\..\..\..\..\compiler\rh850_ghs\inc
+                          21 --		-I..\..\..\..\..\device\d1mx\lib
+                          22 --		-I..\..\..\..\..\device\d1mx\macro_cfg
+                          23 --		-I..\..\..\..\..\device\d1mx\src\dev
+                          24 --		-I..\..\..\..\..\device\d1mx\src\dhd
+                          25 --		-I..\..\..\..\..\device\d1mx\src\jcua
+                          26 --		-I..\..\..\..\..\device\d1mx\src\rh850_ghs
+                          27 --		-I..\..\..\..\..\device\d1mx\src\vowe
+                          28 --		-I..\..\..\..\..\device\d1x_common\macro_cfg
+                          29 --		-I..\..\..\..\..\device\d1x_common\src\csisw
+                          30 --		-I..\..\..\..\..\device\d1x_common\src\dev
+                          31 --		-I..\..\..\..\..\device\d1x_common\src\gfxbus
+                          32 --		-I..\..\..\..\..\device\d1x_common\src\gpio
+                          33 --		-I..\..\..\..\..\device\d1x_common\src\ostm
+                          34 --		-I..\..\..\..\..\device\d1x_common\src\pbg
+                          35 --		-I..\..\..\..\..\device\d1x_common\src\riic
+                          36 --		-I..\..\..\..\..\device\d1x_common\src\sfma
+                          37 --		-I..\..\..\..\..\device\d1x_common\src\spea
+                          38 --		-I..\..\..\..\..\device\d1x_common\src\tauj
+                          39 --		-I..\..\..\..\..\device\d1x_common\src\tick
+                          40 --		-I..\..\..\..\..\device\d1x_common\src\vdce
+                          41 --		-I..\..\..\..\..\device\d1x_common\src\wm
+                          42 --		-I..\..\..\..\..\device\d1x_common\src\xbus
+                          43 --		-I..\..\..\..\..\device\lib -I..\..\..\..\..\macro\bus\pbg\lib
+                          44 --		-I..\..\..\..\..\macro\bus\pbg\src
+                          45 --		-I..\..\..\..\..\macro\csi\csisw\lib
+                          46 --		-I..\..\..\..\..\macro\csi\csisw\src
+                          47 --		-I..\..\..\..\..\macro\drw2d\lib
+                          48 --		-I..\..\..\..\..\macro\drw2d\platform\davehd
+                          49 --		-I..\..\..\..\..\macro\drw2d\platform\os\no_os
+
+                                                                      Page 2
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+                          50 --		-I..\..\..\..\..\macro\drw2d\src
+                          51 --		-I..\..\..\..\..\macro\flashc\sfcdb\lib
+                          52 --		-I..\..\..\..\..\macro\flashc\sfcdb\src
+                          53 --		-I..\..\..\..\..\macro\flashc\sfma\lib
+                          54 --		-I..\..\..\..\..\macro\flashc\sfma\src
+                          55 --		-I..\..\..\..\..\macro\gfxbus\lib
+                          56 --		-I..\..\..\..\..\macro\gfxbus\src
+                          57 --		-I..\..\..\..\..\macro\gfxbus\xbus\lib
+                          58 --		-I..\..\..\..\..\macro\gfxbus\xbus\src
+                          59 --		-I..\..\..\..\..\macro\gpio\lib -I..\..\..\..\..\macro\gpio\src
+                          60 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc
+                          61 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc\platform
+                          62 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx
+                          63 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\inc
+                          64 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx
+                          65 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge
+                          66 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\ree
+                          67 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\src
+                          68 --		-I..\..\..\..\..\macro\gpu\davehd\user\inc
+                          69 --		-I..\..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os
+                          70 --		-I..\..\..\..\..\macro\gpu\davehd\user\src
+                          71 --		-I..\..\..\..\..\macro\gpu\jcua\lib
+                          72 --		-I..\..\..\..\..\macro\gpu\jcua\src
+                          73 --		-I..\..\..\..\..\macro\i2c\riic\lib
+                          74 --		-I..\..\..\..\..\macro\i2c\riic\src
+                          75 --		-I..\..\..\..\..\macro\tick\lib -I..\..\..\..\..\macro\tick\src
+                          76 --		-I..\..\..\..\..\macro\timer\ostm\lib
+                          77 --		-I..\..\..\..\..\macro\timer\ostm\src
+                          78 --		-I..\..\..\..\..\macro\timer\tauj\lib
+                          79 --		-I..\..\..\..\..\macro\timer\tauj\src
+                          80 --		-I..\..\..\..\..\macro\vdce\lib -I..\..\..\..\..\macro\vdce\src
+                          81 --		-I..\..\..\..\..\macro\vo\ddb\lib
+                          82 --		-I..\..\..\..\..\macro\vo\ddb\src
+                          83 --		-I..\..\..\..\..\macro\vo\spea\lib
+                          84 --		-I..\..\..\..\..\macro\vo\spea\src
+                          85 --		-I..\..\..\..\..\macro\vo\vowe\lib
+                          86 --		-I..\..\..\..\..\macro\vo\vowe\src -I..\..\..\..\..\macro\wm\lib
+                          87 --		-I..\..\..\..\..\macro\wm\src
+                          88 --		-I..\..\..\..\..\middleware\gfxutils\lib
+                          89 --		-I..\..\..\..\..\middleware\gfxutils\src
+                          90 --		-I..\..\..\..\..\device\d1mx\macro_cfg\csisw
+                          91 --		-I..\..\..\..\..\device\d1mx\macro_cfg\davehd
+                          92 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ddb
+                          93 --		-I..\..\..\..\..\device\d1mx\macro_cfg\drw2d
+                          94 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus
+                          95 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gpio
+                          96 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypb
+                          97 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypdb
+                          98 --		-I..\..\..\..\..\device\d1mx\macro_cfg\jcua
+                          99 --		-I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare
+                         100 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octa
+                         101 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octacdb
+                         102 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ostm
+                         103 --		-I..\..\..\..\..\device\d1mx\macro_cfg\pbg
+                         104 --		-I..\..\..\..\..\device\d1mx\macro_cfg\riic
+                         105 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb
+                         106 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfma
+                         107 --		-I..\..\..\..\..\device\d1mx\macro_cfg\spea
+                         108 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tauj
+                         109 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tick
+                         110 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vdce
+
+                                                                      Page 3
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+                         111 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vowe
+                         112 --		-I..\..\..\..\..\device\d1mx\macro_cfg\wm
+                         113 --		-I..\..\..\..\..\device\d1mx\macro_cfg\xbus
+                         114 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\csisw
+                         115 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\davehd
+                         116 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ddb
+                         117 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d
+                         118 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus
+                         119 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gpio
+                         120 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypb
+                         121 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb
+                         122 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\jcua
+                         123 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare
+                         124 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octa
+                         125 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb
+                         126 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ostm
+                         127 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\pbg
+                         128 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\riic
+                         129 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb
+                         130 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfma
+                         131 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\spea
+                         132 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tauj
+                         133 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tick
+                         134 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vdce
+                         135 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vowe
+                         136 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\wm
+                         137 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\xbus
+                         138 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY
+                         139 --		--no_commons --no_implicit_include --prototype_errors
+                         140 --		-DBSP_INIT_QOS_SDRAM_ORG -DBSP_INIT_SFMA_ORG -DRENESAS_D1X
+                         141 --		-DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD -DUSED_CPU=RH850G3M
+                         142 --		-DUSE_BSP_GFX -DUSE_BSP_HMI_ORG -DUSE_BSP_STDIO -DUSE_CDI
+                         143 --		-DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D -DUSE_GFXBUS
+                         144 --		-DUSE_GFXUTILS -DUSE_GPIO -DUSE_JCUA -DUSE_OSTM -DUSE_PBG
+                         145 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA_ORG -DUSE_SPEA -DUSE_TAUJ
+                         146 --		-DUSE_TICK -DUSE_VDCE -DUSE_VOWE -DUSE_WM -DUSE_XBUS -G -MD
+                         147 --		-Odebug -Zuse1bit -allocate_ep -cpu=rh850g3m -large_sda -list
+                         148 --		-no_callt -notda -passsource -preprocess_assembly_files
+                         149 --		-registermode=22 -reserve_r2 --diag_warning 1 -object_dir=.\obj
+                         150 --		-DBSP_INIT_QOS_VRAM -filetype.c
+                         151 --		..\..\..\..\gfx_apps\d1m1_flashdash_demo\src\oil.c -o .\obj\oil.o
+                         152 --Source File:   ..\..\..\..\gfx_apps\d1m1_flashdash_demo\src\oil.c
+                         153 --Directory:     
+                         154 --		D:\MY_1_8_D1x_RGL_org\rgl_ghs_D1Mx_obj_V1.8.0\vlib\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+                         155 --Compile Date:  Mon Sep 10 10:45:14 2018
+                         156 --Host OS:       Win32
+                         157 --Version:       C-RH850 2017.1.5 RELEASE VERSION
+                         158 --Release:       Compiler v2017.1.5
+                         159 --Revision Date: Tue Apr 11 09:29:40 2017
+                         160 --Release Date:  Tue Apr 11 11:12:26 2017
+                         161 -- ecom  -g -w
+                         162 
+                         163 	.section ".rodata","a"
+                         164 	.align	128
+                         165 	.global	_my_oil
+00000000 00              166 _my_oil:	.space	1
+00000001 00              167 	.space	1
+00000002 00              168 	.space	1
+00000003 ff0a0a0a        169 	.byte	255,10,10,10
+00000007 ff0b0b0b        170 	.byte	255,11,11,11
+0000000b ff020202        171 	.byte	255,2,2,2
+
+                                                                      Page 4
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+0000000f ff0b0b0b        172 	.byte	255,11,11,11
+00000013 ff0c0c0c        173 	.byte	255,12,12,12
+00000017 ff030303        174 	.byte	255,3,3,3
+0000001b ff0e0e0e        175 	.byte	255,14,14,14
+0000001f ff0f0f0f        176 	.byte	255,15,15,15
+00000023 ff060606        177 	.byte	255,6,6,6
+00000027 ff101010        178 	.byte	255,16,16,16
+0000002b ff111111        179 	.byte	255,17,17,17
+0000002f ff080808        180 	.byte	255,8,8,8
+00000033 ff121212        181 	.byte	255,18,18,18
+00000037 ff131313        182 	.byte	255,19,19,19
+0000003b ff0a0a0a        183 	.byte	255,10,10,10
+0000003f ff151515        184 	.byte	255,21,21,21
+00000043 ff161616        185 	.byte	255,22,22,22
+00000047 ff0c0c0c        186 	.byte	255,12,12,12
+0000004b ff171717        187 	.byte	255,23,23,23
+0000004f ff171717        188 	.byte	255,23,23,23
+00000053 ff0f0f0f        189 	.byte	255,15,15,15
+00000057 ff181818        190 	.byte	255,24,24,24
+0000005b ff191919        191 	.byte	255,25,25,25
+0000005f ff121212        192 	.byte	255,18,18,18
+00000063 ff1b1b1b        193 	.byte	255,27,27,27
+00000067 ff1c1c1c        194 	.byte	255,28,28,28
+0000006b ff151515        195 	.byte	255,21,21,21
+0000006f ff1e1e1e        196 	.byte	255,30,30,30
+00000073 ff1f1f1f        197 	.byte	255,31,31,31
+00000077 ff171717        198 	.byte	255,23,23,23
+0000007b ff202020        199 	.byte	255,32,32,32
+0000007f ff212121        200 	.byte	255,33,33,33
+00000083 ff1a1a1a        201 	.byte	255,26,26,26
+00000087 ff232323        202 	.byte	255,35,35,35
+0000008b ff242424        203 	.byte	255,36,36,36
+0000008f ff1d1d1d        204 	.byte	255,29,29,29
+00000093 ff262626        205 	.byte	255,38,38,38
+00000097 ff272727        206 	.byte	255,39,39,39
+0000009b ff202020        207 	.byte	255,32,32,32
+0000009f ff282828        208 	.byte	255,40,40,40
+000000a3 ff292929        209 	.byte	255,41,41,41
+000000a7 ff222222        210 	.byte	255,34,34,34
+000000ab ff2a2a2a        211 	.byte	255,42,42,42
+000000af ff2c2c2c        212 	.byte	255,44,44,44
+000000b3 ff272727        213 	.byte	255,39,39,39
+000000b7 ff333333        214 	.byte	255,51,51,51
+000000bb ff353535        215 	.byte	255,53,53,53
+000000bf ff212121        216 	.byte	255,33,33,33
+000000c3 ff010101        217 	.byte	255,1,1,1
+000000c7 ff1e1e1e        218 	.byte	255,30,30,30
+000000cb ff1f1f1f        219 	.byte	255,31,31,31
+000000cf ff010101        220 	.byte	255,1,1,1
+000000d3 ff1c1c1c        221 	.byte	255,28,28,28
+000000d7 ff1d1d1d        222 	.byte	255,29,29,29
+000000db ff              223 	.byte	255
+000000dc 00              224 	.space	1
+000000dd 00              225 	.space	1
+000000de 00              226 	.space	1
+000000df ff1b1b1b        227 	.byte	255,27,27,27
+000000e3 ff1b1b1b        228 	.byte	255,27,27,27
+000000e7 ff010101        229 	.byte	255,1,1,1
+000000eb ff191919        230 	.byte	255,25,25,25
+000000ef ff1b1b1b        231 	.byte	255,27,27,27
+000000f3 ff010101        232 	.byte	255,1,1,1
+
+                                                                      Page 5
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+000000f7 ff181818        233 	.byte	255,24,24,24
+000000fb ff191919        234 	.byte	255,25,25,25
+000000ff ff010101        235 	.byte	255,1,1,1
+00000103 ff171717        236 	.byte	255,23,23,23
+00000107 ff181818        237 	.byte	255,24,24,24
+0000010b ff010101        238 	.byte	255,1,1,1
+0000010f ff161616        239 	.byte	255,22,22,22
+00000113 ff161616        240 	.byte	255,22,22,22
+00000117 ff010101        241 	.byte	255,1,1,1
+0000011b ff141414        242 	.byte	255,20,20,20
+0000011f ff151515        243 	.byte	255,21,21,21
+00000123 ff010101        244 	.byte	255,1,1,1
+00000127 ff131313        245 	.byte	255,19,19,19
+0000012b ff131313        246 	.byte	255,19,19,19
+0000012f ff010101        247 	.byte	255,1,1,1
+00000133 ff111111        248 	.byte	255,17,17,17
+00000137 ff111111        249 	.byte	255,17,17,17
+0000013b ff010101        250 	.byte	255,1,1,1
+0000013f ff0f0f0f        251 	.byte	255,15,15,15
+00000143 ff101010        252 	.byte	255,16,16,16
+00000147 ff010101        253 	.byte	255,1,1,1
+0000014b ff0d0d0d        254 	.byte	255,13,13,13
+0000014f ff0e0e0e        255 	.byte	255,14,14,14
+00000153 ff010101        256 	.byte	255,1,1,1
+00000157 ff0c0c0c        257 	.byte	255,12,12,12
+0000015b ff0d0d0d        258 	.byte	255,13,13,13
+0000015f ff              259 	.byte	255
+00000160 00              260 	.space	1
+00000161 00              261 	.space	1
+00000162 00              262 	.space	1
+00000163 ff0b0b0b        263 	.byte	255,11,11,11
+00000167 ff0b0b0b        264 	.byte	255,11,11,11
+0000016b ff              265 	.byte	255
+0000016c 00              266 	.space	1
+0000016d 00              267 	.space	1
+0000016e 00              268 	.space	1
+0000016f ff090909        269 	.byte	255,9,9,9
+00000173 ff090909        270 	.byte	255,9,9,9
+00000177 ff              271 	.byte	255
+00000178 00              272 	.space	1
+00000179 00              273 	.space	1
+0000017a 00              274 	.space	1
+0000017b ff080808        275 	.byte	255,8,8,8
+0000017f ff242424        276 	.byte	255,36,36,36
+00000183 ff1d1d1d        277 	.byte	255,29,29,29
+00000187 ff060606        278 	.byte	255,6,6,6
+0000018b ff232323        279 	.byte	255,35,35,35
+0000018f ff1d1d1d        280 	.byte	255,29,29,29
+00000193 ff030303        281 	.byte	255,3,3,3
+00000197 ff1e1e1e        282 	.byte	255,30,30,30
+0000019b ff1c1c1c        283 	.byte	255,28,28,28
+0000019f ff010101        284 	.byte	255,1,1,1
+000001a3 ff1e1e1e        285 	.byte	255,30,30,30
+000001a7 ff1c1c1c        286 	.byte	255,28,28,28
+000001ab ff030303        287 	.byte	255,3,3,3
+000001af ff202020        288 	.byte	255,32,32,32
+000001b3 ff1d1d1d        289 	.byte	255,29,29,29
+000001b7 ff050505        290 	.byte	255,5,5,5
+000001bb ff232323        291 	.byte	255,35,35,35
+000001bf ff1d1d1d        292 	.byte	255,29,29,29
+000001c3 ff040404        293 	.byte	255,4,4,4
+
+                                                                      Page 6
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+000001c7 ff1f1f1f        294 	.byte	255,31,31,31
+000001cb ff161616        295 	.byte	255,22,22,22
+000001cf ff030303        296 	.byte	255,3,3,3
+000001d3 ff131313        297 	.byte	255,19,19,19
+000001d7 ff0d0d0d        298 	.byte	255,13,13,13
+000001db ff040404        299 	.byte	255,4,4,4
+000001df ff101010        300 	.byte	255,16,16,16
+000001e3 ff0b0b0b        301 	.byte	255,11,11,11
+000001e7 ff050505        302 	.byte	255,5,5,5
+000001eb ff131313        303 	.byte	255,19,19,19
+000001ef ff0f0f0f        304 	.byte	255,15,15,15
+000001f3 ff050505        305 	.byte	255,5,5,5
+000001f7 ff191919        306 	.byte	255,25,25,25
+000001fb ff181818        307 	.byte	255,24,24,24
+000001ff ff050505        308 	.byte	255,5,5,5
+00000203 ff212121        309 	.byte	255,33,33,33
+00000207 ff1b1b1b        310 	.byte	255,27,27,27
+0000020b ff050505        311 	.byte	255,5,5,5
+0000020f ff212121        312 	.byte	255,33,33,33
+00000213 ff1c1c1c        313 	.byte	255,28,28,28
+00000217 ff050505        314 	.byte	255,5,5,5
+0000021b ff202020        315 	.byte	255,32,32,32
+0000021f ff1b1b1b        316 	.byte	255,27,27,27
+00000223 ff040404        317 	.byte	255,4,4,4
+00000227 ff202020        318 	.byte	255,32,32,32
+0000022b ff1b1b1b        319 	.byte	255,27,27,27
+0000022f ff040404        320 	.byte	255,4,4,4
+00000233 ff202020        321 	.byte	255,32,32,32
+00000237 ff1a1a1a        322 	.byte	255,26,26,26
+0000023b ff040404        323 	.byte	255,4,4,4
+0000023f ff              324 	.byte	255
+00000240 00              325 	.space	1
+00000241 00              326 	.space	1
+00000242 00              327 	.space	1
+00000243 ff242424        328 	.byte	255,36,36,36
+00000247 ff232323        329 	.byte	255,35,35,35
+0000024b ff              330 	.byte	255
+0000024c 00              331 	.space	1
+0000024d 00              332 	.space	1
+0000024e 00              333 	.space	1
+0000024f ff1d1d1d        334 	.byte	255,29,29,29
+00000253 ff191919        335 	.byte	255,25,25,25
+00000257 ff              336 	.byte	255
+00000258 00              337 	.space	1
+00000259 00              338 	.space	1
+0000025a 00              339 	.space	1
+0000025b ff131313        340 	.byte	255,19,19,19
+0000025f ff151515        341 	.byte	255,21,21,21
+00000263 ff              342 	.byte	255
+00000264 00              343 	.space	1
+00000265 00              344 	.space	1
+00000266 00              345 	.space	1
+00000267 ff181818        346 	.byte	255,24,24,24
+0000026b ff191919        347 	.byte	255,25,25,25
+0000026f ff              348 	.byte	255
+00000270 00              349 	.space	1
+00000271 00              350 	.space	1
+00000272 00              351 	.space	1
+00000273 ff1c1c1c        352 	.byte	255,28,28,28
+00000277 ff1e1e1e        353 	.byte	255,30,30,30
+0000027b ff              354 	.byte	255
+
+                                                                      Page 7
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+0000027c 00              355 	.space	1
+0000027d 00              356 	.space	1
+0000027e 00              357 	.space	1
+0000027f ff202020        358 	.byte	255,32,32,32
+00000283 ff1d1d1d        359 	.byte	255,29,29,29
+00000287 ff              360 	.byte	255
+00000288 00              361 	.space	1
+00000289 00              362 	.space	1
+0000028a 00              363 	.space	1
+0000028b ff131313        364 	.byte	255,19,19,19
+0000028f ff101010        365 	.byte	255,16,16,16
+00000293 ff              366 	.byte	255
+00000294 00              367 	.space	1
+00000295 00              368 	.space	1
+00000296 00              369 	.space	1
+00000297 ff0b0b0b        370 	.byte	255,11,11,11
+0000029b ff0c0c0c        371 	.byte	255,12,12,12
+0000029f ff              372 	.byte	255
+000002a0 00              373 	.space	1
+000002a1 00              374 	.space	1
+000002a2 00              375 	.space	1
+000002a3 ff101010        376 	.byte	255,16,16,16
+000002a7 ff121212        377 	.byte	255,18,18,18
+000002ab ff              378 	.byte	255
+000002ac 00              379 	.space	1
+000002ad 00              380 	.space	1
+000002ae 00              381 	.space	1
+000002af ff141414        382 	.byte	255,20,20,20
+000002b3 ff171717        383 	.byte	255,23,23,23
+000002b7 ff              384 	.byte	255
+000002b8 00              385 	.space	1
+000002b9 00              386 	.space	1
+000002ba 00              387 	.space	1
+000002bb ff1e1e1e        388 	.byte	255,30,30,30
+000002bf ff212121        389 	.byte	255,33,33,33
+000002c3 ff              390 	.byte	255
+000002c4 00              391 	.space	1
+000002c5 00              392 	.space	1
+000002c6 00              393 	.space	1
+000002c7 ff242424        394 	.byte	255,36,36,36
+000002cb ff242424        395 	.byte	255,36,36,36
+000002cf ff              396 	.byte	255
+000002d0 00              397 	.space	1
+000002d1 00              398 	.space	1
+000002d2 00              399 	.space	1
+000002d3 ff242424        400 	.byte	255,36,36,36
+000002d7 ff242424        401 	.byte	255,36,36,36
+000002db ff              402 	.byte	255
+000002dc 00              403 	.space	1
+000002dd 00              404 	.space	1
+000002de 00              405 	.space	1
+000002df ff242424        406 	.byte	255,36,36,36
+000002e3 ff242424        407 	.byte	255,36,36,36
+000002e7 ff              408 	.byte	255
+000002e8 00              409 	.space	1
+000002e9 00              410 	.space	1
+000002ea 00              411 	.space	1
+000002eb ff242424        412 	.byte	255,36,36,36
+000002ef ff242424        413 	.byte	255,36,36,36
+000002f3 ff              414 	.byte	255
+000002f4 00              415 	.space	1
+
+                                                                      Page 8
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+000002f5 00              416 	.space	1
+000002f6 00              417 	.space	1
+000002f7 ff242424        418 	.byte	255,36,36,36
+000002fb ff242424        419 	.byte	255,36,36,36
+000002ff ff242424        420 	.byte	255,36,36,36
+00000303 ff1a1a1a        421 	.byte	255,26,26,26
+00000307 ff090909        422 	.byte	255,9,9,9
+0000030b ff1e1e1e        423 	.byte	255,30,30,30
+0000030f ff111111        424 	.byte	255,17,17,17
+00000313 ff090909        425 	.byte	255,9,9,9
+00000317 ff0c0c0c        426 	.byte	255,12,12,12
+0000031b ff080808        427 	.byte	255,8,8,8
+0000031f ff0a0a0a        428 	.byte	255,10,10,10
+00000323 ff090909        429 	.byte	255,9,9,9
+00000327 ff              430 	.byte	255
+00000328 00              431 	.space	1
+00000329 00              432 	.space	1
+0000032a 00              433 	.space	1
+0000032b ff090909        434 	.byte	255,9,9,9
+0000032f ff101010        435 	.byte	255,16,16,16
+00000333 ff0a0a0a        436 	.byte	255,10,10,10
+00000337 ff090909        437 	.byte	255,9,9,9
+0000033b ff1b1b1b        438 	.byte	255,27,27,27
+0000033f ff121212        439 	.byte	255,18,18,18
+00000343 ff070707        440 	.byte	255,7,7,7
+00000347 ff0c0c0c        441 	.byte	255,12,12,12
+0000034b ff040404        442 	.byte	255,4,4,4
+0000034f ff              443 	.byte	255
+00000350 00              444 	.space	1
+00000351 00              445 	.space	1
+00000352 00              446 	.space	1
+00000353 ff040404        447 	.byte	255,4,4,4
+00000357 ff040404        448 	.byte	255,4,4,4
+0000035b ff              449 	.byte	255
+0000035c 00              450 	.space	1
+0000035d 00              451 	.space	1
+0000035e 00              452 	.space	1
+0000035f ff070707        453 	.byte	255,7,7,7
+00000363 ff131313        454 	.byte	255,19,19,19
+00000367 ff              455 	.byte	255
+00000368 00              456 	.space	1
+00000369 00              457 	.space	1
+0000036a 00              458 	.space	1
+0000036b ff191919        459 	.byte	255,25,25,25
+0000036f ff191919        460 	.byte	255,25,25,25
+00000373 ff              461 	.byte	255
+00000374 00              462 	.space	1
+00000375 00              463 	.space	1
+00000376 00              464 	.space	1
+00000377 ff1c1c1c        465 	.byte	255,28,28,28
+0000037b ff191919        466 	.byte	255,25,25,25
+0000037f ff080808        467 	.byte	255,8,8,8
+00000383 ff232323        468 	.byte	255,35,35,35
+00000387 ff191919        469 	.byte	255,25,25,25
+0000038b ff0a0a0a        470 	.byte	255,10,10,10
+0000038f ff242424        471 	.byte	255,36,36,36
+00000393 ff191919        472 	.byte	255,25,25,25
+00000397 ff0a0a0a        473 	.byte	255,10,10,10
+0000039b ff242424        474 	.byte	255,36,36,36
+0000039f ff181818        475 	.byte	255,24,24,24
+000003a3 ff0b0b0b        476 	.byte	255,11,11,11
+
+                                                                      Page 9
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+000003a7 ff242424        477 	.byte	255,36,36,36
+000003ab ff181818        478 	.byte	255,24,24,24
+000003af ff0b0b0b        479 	.byte	255,11,11,11
+000003b3 ff242424        480 	.byte	255,36,36,36
+000003b7 ff181818        481 	.byte	255,24,24,24
+000003bb ff0b0b0b        482 	.byte	255,11,11,11
+000003bf ff242424        483 	.byte	255,36,36,36
+000003c3 ff020202        484 	.byte	255,2,2,2
+000003c7 ff1d1d1d        485 	.byte	255,29,29,29
+000003cb ff1d1d1d        486 	.byte	255,29,29,29
+000003cf ff020203        487 	.byte	255,2,2,3
+000003d3 ff032c3d        488 	.byte	255,3,44,61
+000003d7 ff1c5066        489 	.byte	255,28,80,102
+000003db ff1d323b        490 	.byte	255,29,50,59
+000003df ff3b4144        491 	.byte	255,59,65,68
+000003e3 ff303030        492 	.byte	255,48,48,48
+000003e7 ff0c0c0c        493 	.byte	255,12,12,12
+000003eb ff020202        494 	.byte	255,2,2,2
+000003ef ff020202        495 	.byte	255,2,2,2
+000003f3 ff020202        496 	.byte	255,2,2,2
+000003f7 ff0d0d0d        497 	.byte	255,13,13,13
+000003fb ff191919        498 	.byte	255,25,25,25
+000003ff ff02070a        499 	.byte	255,2,7,10
+00000403 ff104f6a        500 	.byte	255,16,79,106
+00000407 ff135772        501 	.byte	255,19,87,114
+0000040b ff0d506c        502 	.byte	255,13,80,108
+0000040f ff125671        503 	.byte	255,18,86,113
+00000413 ff135671        504 	.byte	255,19,86,113
+00000417 ff0c4e6b        505 	.byte	255,12,78,107
+0000041b ff135a78        506 	.byte	255,19,90,120
+0000041f ff051014        507 	.byte	255,5,16,20
+00000423 ff              508 	.byte	255
+00000424 00              509 	.space	1
+00000425 00              510 	.space	1
+00000426 00              511 	.space	1
+00000427 ff202020        512 	.byte	255,32,32,32
+0000042b ff232323        513 	.byte	255,35,35,35
+0000042f ff020202        514 	.byte	255,2,2,2
+00000433 ff202020        515 	.byte	255,32,32,32
+00000437 ff232323        516 	.byte	255,35,35,35
+0000043b ff020202        517 	.byte	255,2,2,2
+0000043f ff202020        518 	.byte	255,32,32,32
+00000443 ff232323        519 	.byte	255,35,35,35
+00000447 ff030303        520 	.byte	255,3,3,3
+0000044b ff202020        521 	.byte	255,32,32,32
+0000044f ff232323        522 	.byte	255,35,35,35
+00000453 ff030303        523 	.byte	255,3,3,3
+00000457 ff191919        524 	.byte	255,25,25,25
+0000045b ff1a1a1a        525 	.byte	255,26,26,26
+0000045f ff030303        526 	.byte	255,3,3,3
+00000463 ff161616        527 	.byte	255,22,22,22
+00000467 ff1d1d1d        528 	.byte	255,29,29,29
+0000046b ff030303        529 	.byte	255,3,3,3
+0000046f ff1f1f1f        530 	.byte	255,31,31,31
+00000473 ff242424        531 	.byte	255,36,36,36
+00000477 ff030303        532 	.byte	255,3,3,3
+0000047b ff202020        533 	.byte	255,32,32,32
+0000047f ff              534 	.byte	255
+00000480 00              535 	.space	1
+00000481 00              536 	.space	1
+00000482 00              537 	.space	1
+
+                                                                      Page 10
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000483 ff242424        538 	.byte	255,36,36,36
+00000487 ff212121        539 	.byte	255,33,33,33
+0000048b ff              540 	.byte	255
+0000048c 00              541 	.space	1
+0000048d 00              542 	.space	1
+0000048e 00              543 	.space	1
+0000048f ff090f11        544 	.byte	255,9,15,17
+00000493 ff094a64        545 	.byte	255,9,74,100
+00000497 ff1e9dd2        546 	.byte	255,30,157,210
+0000049b ff22a0d5        547 	.byte	255,34,160,213
+0000049f ff238ab6        548 	.byte	255,35,138,182
+000004a3 ff1b6382        549 	.byte	255,27,99,130
+000004a7 ff325969        550 	.byte	255,50,89,105
+000004ab ff374247        551 	.byte	255,55,66,71
+000004af ff080b0d        552 	.byte	255,8,11,13
+000004b3 ff030303        553 	.byte	255,3,3,3
+000004b7 ff040404        554 	.byte	255,4,4,4
+000004bb ff              555 	.byte	255
+000004bc 00              556 	.space	1
+000004bd 00              557 	.space	1
+000004be 00              558 	.space	1
+000004bf ff1d2528        559 	.byte	255,29,37,40
+000004c3 ff3198c1        560 	.byte	255,49,152,193
+000004c7 ff4dc9fb        561 	.byte	255,77,201,251
+000004cb ff4bc6f9        562 	.byte	255,75,198,249
+000004cf ff49c3f7        563 	.byte	255,73,195,247
+000004d3 ff45bff2        564 	.byte	255,69,191,242
+000004d7 ff3eb8eb        565 	.byte	255,62,184,235
+000004db ff38b1e4        566 	.byte	255,56,177,228
+000004df ff02151d        567 	.byte	255,2,21,29
+000004e3 ff262626        568 	.byte	255,38,38,38
+000004e7 ff242424        569 	.byte	255,36,36,36
+000004eb ff              570 	.byte	255
+000004ec 00              571 	.space	1
+000004ed 00              572 	.space	1
+000004ee 00              573 	.space	1
+000004ef ff232323        574 	.byte	255,35,35,35
+000004f3 ff232323        575 	.byte	255,35,35,35
+000004f7 ff              576 	.byte	255
+000004f8 00              577 	.space	1
+000004f9 00              578 	.space	1
+000004fa 00              579 	.space	1
+000004fb ff232323        580 	.byte	255,35,35,35
+000004ff ff232323        581 	.byte	255,35,35,35
+00000503 ff              582 	.byte	255
+00000504 00              583 	.space	1
+00000505 00              584 	.space	1
+00000506 00              585 	.space	1
+00000507 ff212121        586 	.byte	255,33,33,33
+0000050b ff1c1c1c        587 	.byte	255,28,28,28
+0000050f ff              588 	.byte	255
+00000510 00              589 	.space	1
+00000511 00              590 	.space	1
+00000512 00              591 	.space	1
+00000513 ff101010        592 	.byte	255,16,16,16
+00000517 ff0c0c0c        593 	.byte	255,12,12,12
+0000051b ff              594 	.byte	255
+0000051c 00              595 	.space	1
+0000051d 00              596 	.space	1
+0000051e 00              597 	.space	1
+0000051f ff090909        598 	.byte	255,9,9,9
+
+                                                                      Page 11
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000523 ff090909        599 	.byte	255,9,9,9
+00000527 ff              600 	.byte	255
+00000528 00              601 	.space	1
+00000529 00              602 	.space	1
+0000052a 00              603 	.space	1
+0000052b ff101010        604 	.byte	255,16,16,16
+0000052f ff171717        605 	.byte	255,23,23,23
+00000533 ff              606 	.byte	255
+00000534 00              607 	.space	1
+00000535 00              608 	.space	1
+00000536 00              609 	.space	1
+00000537 ff232323        610 	.byte	255,35,35,35
+0000053b ff242424        611 	.byte	255,36,36,36
+0000053f ff242424        612 	.byte	255,36,36,36
+00000543 ff242424        613 	.byte	255,36,36,36
+00000547 ff              614 	.byte	255
+00000548 00              615 	.space	1
+00000549 00              616 	.space	1
+0000054a 00              617 	.space	1
+0000054b ff212121        618 	.byte	255,33,33,33
+0000054f ff04161d        619 	.byte	255,4,22,29
+00000553 ff0a5979        620 	.byte	255,10,89,121
+00000557 ff22a1d6        621 	.byte	255,34,161,214
+0000055b ff26a5da        622 	.byte	255,38,165,218
+0000055f ff2caadf        623 	.byte	255,44,170,223
+00000563 ff32b0e5        624 	.byte	255,50,176,229
+00000567 ff38b6eb        625 	.byte	255,56,182,235
+0000056b ff3ab3e6        626 	.byte	255,58,179,230
+0000056f ff2f90b8        627 	.byte	255,47,144,184
+00000573 ff155874        628 	.byte	255,21,88,116
+00000577 ff021015        629 	.byte	255,2,16,21
+0000057b ff171717        630 	.byte	255,23,23,23
+0000057f ff181e21        631 	.byte	255,24,30,33
+00000583 ff3291b2        632 	.byte	255,50,145,178
+00000587 ff4cb9de        633 	.byte	255,76,185,222
+0000058b ff58d0f5        634 	.byte	255,88,208,245
+0000058f ff5bd5ff        635 	.byte	255,91,213,255
+00000593 ff53cdfd        636 	.byte	255,83,205,253
+00000597 ff40b1e0        637 	.byte	255,64,177,224
+0000059b ff38aad9        638 	.byte	255,56,170,217
+0000059f ff1c2a30        639 	.byte	255,28,42,48
+000005a3 ff222222        640 	.byte	255,34,34,34
+000005a7 ff              641 	.byte	255
+000005a8 00              642 	.space	1
+000005a9 00              643 	.space	1
+000005aa 00              644 	.space	1
+000005ab ff222222        645 	.byte	255,34,34,34
+000005af ff242424        646 	.byte	255,36,36,36
+000005b3 ff              647 	.byte	255
+000005b4 00              648 	.space	1
+000005b5 00              649 	.space	1
+000005b6 00              650 	.space	1
+000005b7 ff242424        651 	.byte	255,36,36,36
+000005bb ff242424        652 	.byte	255,36,36,36
+000005bf ff              653 	.byte	255
+000005c0 00              654 	.space	1
+000005c1 00              655 	.space	1
+000005c2 00              656 	.space	1
+000005c3 ff1c1c1c        657 	.byte	255,28,28,28
+000005c7 ff131313        658 	.byte	255,19,19,19
+000005cb ff              659 	.byte	255
+
+                                                                      Page 12
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+000005cc 00              660 	.space	1
+000005cd 00              661 	.space	1
+000005ce 00              662 	.space	1
+000005cf ff0c0c0c        663 	.byte	255,12,12,12
+000005d3 ff090909        664 	.byte	255,9,9,9
+000005d7 ff              665 	.byte	255
+000005d8 00              666 	.space	1
+000005d9 00              667 	.space	1
+000005da 00              668 	.space	1
+000005db ff040404        669 	.byte	255,4,4,4
+000005df ff040404        670 	.byte	255,4,4,4
+000005e3 ff              671 	.byte	255
+000005e4 00              672 	.space	1
+000005e5 00              673 	.space	1
+000005e6 00              674 	.space	1
+000005e7 ff060606        675 	.byte	255,6,6,6
+000005eb ff090c0e        676 	.byte	255,9,12,14
+000005ef ff              677 	.byte	255
+000005f0 00              678 	.space	1
+000005f1 0102ff17        679 	.byte	1,2,255,23
+000005f5 1717ff1e        680 	.byte	23,23,255,30
+000005f9 1e1e            681 	.byte	30,30
+000005fb ff              682 	.byte	255
+000005fc 00              683 	.space	1
+000005fd 00              684 	.space	1
+000005fe 00              685 	.space	1
+000005ff ff242424        686 	.byte	255,36,36,36
+00000603 ff              687 	.byte	255
+00000604 00              688 	.space	1
+00000605 00              689 	.space	1
+00000606 00              690 	.space	1
+00000607 ff242424        691 	.byte	255,36,36,36
+0000060b ff232323        692 	.byte	255,35,35,35
+0000060f ff032635        693 	.byte	255,3,38,53
+00000613 ff1779a3        694 	.byte	255,23,121,163
+00000617 ff26a5da        695 	.byte	255,38,165,218
+0000061b ff2192c1        696 	.byte	255,33,146,193
+0000061f ff1e769a        697 	.byte	255,30,118,154
+00000623 ff30a4d3        698 	.byte	255,48,164,211
+00000627 ff3fbdf1        699 	.byte	255,63,189,241
+0000062b ff4ac8fc        700 	.byte	255,74,200,252
+0000062f ff53d0ff        701 	.byte	255,83,208,255
+00000633 ff5cd9ff        702 	.byte	255,92,217,255
+00000637 ff266c81        703 	.byte	255,38,108,129
+0000063b ff141414        704 	.byte	255,20,20,20
+0000063f ff              705 	.byte	255
+00000640 00              706 	.space	1
+00000641 00              707 	.space	1
+00000642 00              708 	.space	1
+00000643 ff141414        709 	.byte	255,20,20,20
+00000647 ff171819        710 	.byte	255,23,24,25
+0000064b ff11556d        711 	.byte	255,17,85,109
+0000064f ff6feaff        712 	.byte	255,111,234,255
+00000653 ff43a7c3        713 	.byte	255,67,167,195
+00000657 ff              714 	.byte	255
+00000658 00              715 	.space	1
+00000659 0507ff1b        716 	.byte	5,7,255,27
+0000065d 1b1bff18        717 	.byte	27,27,255,24
+00000661 1818            718 	.byte	24,24
+00000663 ff              719 	.byte	255
+00000664 00              720 	.space	1
+
+                                                                      Page 13
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000665 00              721 	.space	1
+00000666 00              722 	.space	1
+00000667 ff171717        723 	.byte	255,23,23,23
+0000066b ff1b1b1b        724 	.byte	255,27,27,27
+0000066f ff              725 	.byte	255
+00000670 00              726 	.space	1
+00000671 00              727 	.space	1
+00000672 00              728 	.space	1
+00000673 ff232323        729 	.byte	255,35,35,35
+00000677 ff212121        730 	.byte	255,33,33,33
+0000067b ff              731 	.byte	255
+0000067c 00              732 	.space	1
+0000067d 00              733 	.space	1
+0000067e 00              734 	.space	1
+0000067f ff131313        735 	.byte	255,19,19,19
+00000683 ff0f0f0f        736 	.byte	255,15,15,15
+00000687 ff              737 	.byte	255
+00000688 00              738 	.space	1
+00000689 00              739 	.space	1
+0000068a 00              740 	.space	1
+0000068b ff0b0b0b        741 	.byte	255,11,11,11
+0000068f ff070707        742 	.byte	255,7,7,7
+00000693 ff              743 	.byte	255
+00000694 00              744 	.space	1
+00000695 00              745 	.space	1
+00000696 00              746 	.space	1
+00000697 ff              747 	.byte	255
+00000698 00              748 	.space	1
+00000699 00              749 	.space	1
+0000069a 00              750 	.space	1
+0000069b ff              751 	.byte	255
+0000069c 00              752 	.space	1
+0000069d 0102ff01        753 	.byte	1,2,255,1
+000006a1 0e14ff03        754 	.byte	14,20,255,3
+000006a5 2d3eff07        755 	.byte	45,62,255,7
+000006a9 5271ff09        756 	.byte	82,113,255,9
+000006ad 688eff0b        757 	.byte	104,142,255,11
+000006b1 3f55ff18        758 	.byte	63,85,255,24
+000006b5 1e20            759 	.byte	30,32
+000006b7 ff              760 	.byte	255
+000006b8 00              761 	.space	1
+000006b9 00              762 	.space	1
+000006ba 00              763 	.space	1
+000006bb ff222222        764 	.byte	255,34,34,34
+000006bf ff              765 	.byte	255
+000006c0 00              766 	.space	1
+000006c1 00              767 	.space	1
+000006c2 00              768 	.space	1
+000006c3 ff242424        769 	.byte	255,36,36,36
+000006c7 ff272727        770 	.byte	255,39,39,39
+000006cb ff050708        771 	.byte	255,5,7,8
+000006cf ff053b51        772 	.byte	255,5,59,81
+000006d3 ff229ed2        773 	.byte	255,34,158,210
+000006d7 ff2aa9df        774 	.byte	255,42,169,223
+000006db ff13323f        775 	.byte	255,19,50,63
+000006df ff111517        776 	.byte	255,17,21,23
+000006e3 ff010c10        777 	.byte	255,1,12,16
+000006e7 ff193844        778 	.byte	255,25,56,68
+000006eb ff15556e        779 	.byte	255,21,85,110
+000006ef ff56cff1        780 	.byte	255,86,207,241
+000006f3 ff6ce9ff        781 	.byte	255,108,233,255
+
+                                                                      Page 14
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+000006f7 ff2f7f92        782 	.byte	255,47,127,146
+000006fb ff              783 	.byte	255
+000006fc 00              784 	.space	1
+000006fd 0a0eff06        785 	.byte	10,14,255,6
+00000701 1014ff07        786 	.byte	16,20,255,7
+00000705 1015ff01        787 	.byte	16,21,255,1
+00000709 0c11ff13        788 	.byte	12,17,255,19
+0000070d 556dff87        789 	.byte	85,109,255,135
+00000711 ffffff65        790 	.byte	255,255,255,101
+00000715 d4dfff07        791 	.byte	212,223,255,7
+00000719 1a23ff0b        792 	.byte	26,35,255,11
+0000071d 1519            793 	.byte	21,25
+0000071f ff              794 	.byte	255
+00000720 00              795 	.space	1
+00000721 0a0dff0a        796 	.byte	10,13,255,10
+00000725 1317ff0d        797 	.byte	19,23,255,13
+00000729 161a            798 	.byte	22,26
+0000072b ff              799 	.byte	255
+0000072c 00              800 	.space	1
+0000072d 00              801 	.space	1
+0000072e 00              802 	.space	1
+0000072f ff151515        803 	.byte	255,21,21,21
+00000733 ff181818        804 	.byte	255,24,24,24
+00000737 ff              805 	.byte	255
+00000738 00              806 	.space	1
+00000739 00              807 	.space	1
+0000073a 00              808 	.space	1
+0000073b ff0e0e0e        809 	.byte	255,14,14,14
+0000073f ff0d0d0d        810 	.byte	255,13,13,13
+00000743 ff              811 	.byte	255
+00000744 00              812 	.space	1
+00000745 00              813 	.space	1
+00000746 00              814 	.space	1
+00000747 ff070707        815 	.byte	255,7,7,7
+0000074b ff              816 	.byte	255
+0000074c 00              817 	.space	1
+0000074d 00              818 	.space	1
+0000074e 00              819 	.space	1
+0000074f ff              820 	.byte	255
+00000750 00              821 	.space	1
+00000751 080bff06        822 	.byte	8,11,255,6
+00000755 2836ff0e        823 	.byte	40,54,255,14
+00000759 5776ff09        824 	.byte	87,118,255,9
+0000075d 6f99ff0b        825 	.byte	111,153,255,11
+00000761 7aa8ff0a        826 	.byte	122,168,255,10
+00000765 7aa9ff0b        827 	.byte	122,169,255,11
+00000769 7ba9ff0b        828 	.byte	123,169,255,11
+0000076d 7aa8ff09        829 	.byte	122,168,255,9
+00000771 6b94ff04        830 	.byte	107,148,255,4
+00000775 394fff21        831 	.byte	57,79,255,33
+00000779 2729ff23        832 	.byte	39,41,255,35
+0000077d 2323ff24        833 	.byte	35,35,255,36
+00000781 2424ff24        834 	.byte	36,36,255,36
+00000785 2424ff07        835 	.byte	36,36,255,7
+00000789 0707ff2b        836 	.byte	7,7,255,43
+0000078d 3539ff0d        837 	.byte	53,57,255,13
+00000791 526fff28        838 	.byte	82,111,255,40
+00000795 a7ddff2f        839 	.byte	167,221,255,47
+00000799 aee3ff16        840 	.byte	174,227,255,22
+0000079d 5d7cff03        841 	.byte	93,124,255,3
+000007a1 2431ff0b        842 	.byte	36,49,255,11
+
+                                                                      Page 15
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+000007a5 1b21ff0c        843 	.byte	27,33,255,12
+000007a9 1011ff02        844 	.byte	16,17,255,2
+000007ad 202cff4e        845 	.byte	32,44,255,78
+000007b1 bbd1ff7a        846 	.byte	187,209,255,122
+000007b5 f8ffff83        847 	.byte	248,255,255,131
+000007b9 f9faff82        848 	.byte	249,250,255,130
+000007bd e9ecff8b        849 	.byte	233,236,255,139
+000007c1 eaeeff93        850 	.byte	234,238,255,147
+000007c5 eaeeff94        851 	.byte	234,238,255,148
+000007c9 eaeeff9e        852 	.byte	234,238,255,158
+000007cd f7f8ff9f        853 	.byte	247,248,255,159
+000007d1 ffffff95        854 	.byte	255,255,255,149
+000007d5 ffffff7a        855 	.byte	255,255,255,122
+000007d9 ecefff6b        856 	.byte	236,239,255,107
+000007dd dfefff59        857 	.byte	223,239,255,89
+000007e1 cdecff4c        858 	.byte	205,236,255,76
+000007e5 bfedff3e        859 	.byte	191,237,255,62
+000007e9 b3e2ff13        860 	.byte	179,226,255,19
+000007ed 5571ff0c        861 	.byte	85,113,255,12
+000007f1 0c0c            862 	.byte	12,12
+000007f3 ff              863 	.byte	255
+000007f4 00              864 	.space	1
+000007f5 00              865 	.space	1
+000007f6 00              866 	.space	1
+000007f7 ff0c0c0c        867 	.byte	255,12,12,12
+000007fb ff0c0c0c        868 	.byte	255,12,12,12
+000007ff ff              869 	.byte	255
+00000800 00              870 	.space	1
+00000801 0203ff02        871 	.byte	2,3,255,2
+00000805 1a24ff06        872 	.byte	26,36,255,6
+00000809 4159ff0a        873 	.byte	65,89,255,10
+0000080d 6c94ff0c        874 	.byte	108,148,255,12
+00000811 7cabff0c        875 	.byte	124,171,255,12
+00000815 7eacff0c        876 	.byte	126,172,255,12
+00000819 7eaeff0c        877 	.byte	126,174,255,12
+0000081d 7dadff0b        878 	.byte	125,173,255,11
+00000821 7cacff0a        879 	.byte	124,172,255,10
+00000825 77a5ff0c        880 	.byte	119,165,255,12
+00000829 6a91ff0b        881 	.byte	106,145,255,11
+0000082d 7aa8ff0b        882 	.byte	122,168,255,11
+00000831 79a8ff0e        883 	.byte	121,168,255,14
+00000835 6d94ff1d        884 	.byte	109,148,255,29
+00000839 4b5eff02        885 	.byte	75,94,255,2
+0000083d 0202ff24        886 	.byte	2,2,255,36
+00000841 2424            887 	.byte	36,36
+00000843 ff              888 	.byte	255
+00000844 00              889 	.space	1
+00000845 00              890 	.space	1
+00000846 00              891 	.space	1
+00000847 ff2b2b2b        892 	.byte	255,43,43,43
+0000084b ff2b424c        893 	.byte	255,43,66,76
+0000084f ff156c90        894 	.byte	255,21,108,144
+00000853 ff2babe0        895 	.byte	255,43,171,224
+00000857 ff33b2e7        896 	.byte	255,51,178,231
+0000085b ff3ab9ef        897 	.byte	255,58,185,239
+0000085f ff41bef4        898 	.byte	255,65,190,244
+00000863 ff46bfed        899 	.byte	255,70,191,237
+00000867 ff389dbc        900 	.byte	255,56,157,188
+0000086b ff185e77        901 	.byte	255,24,94,119
+0000086f ff6ae1ea        902 	.byte	255,106,225,234
+00000873 ff89ffff        903 	.byte	255,137,255,255
+
+                                                                      Page 16
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000877 ff99ffff        904 	.byte	255,153,255,255
+0000087b ffa7ffff        905 	.byte	255,167,255,255
+0000087f ffb3ffff        906 	.byte	255,179,255,255
+00000883 ffbbffff        907 	.byte	255,187,255,255
+00000887 ffbfffff        908 	.byte	255,191,255,255
+0000088b ffbeffff        909 	.byte	255,190,255,255
+0000088f ffb7ffff        910 	.byte	255,183,255,255
+00000893 ffabffff        911 	.byte	255,171,255,255
+00000897 ff9bffff        912 	.byte	255,155,255,255
+0000089b ff89feff        913 	.byte	255,137,254,255
+0000089f ff74eeff        914 	.byte	255,116,238,255
+000008a3 ff60d9ff        915 	.byte	255,96,217,255
+000008a7 ff4ec6f9        916 	.byte	255,78,198,249
+000008ab ff3cb4e6        917 	.byte	255,60,180,230
+000008af ff08435b        918 	.byte	255,8,67,91
+000008b3 ff0b2028        919 	.byte	255,11,32,40
+000008b7 ff083446        920 	.byte	255,8,52,70
+000008bb ff0d6386        921 	.byte	255,13,99,134
+000008bf ff117dab        922 	.byte	255,17,125,171
+000008c3 ff0f82b2        923 	.byte	255,15,130,178
+000008c7 ff0f84b4        924 	.byte	255,15,132,180
+000008cb ff0e82b2        925 	.byte	255,14,130,178
+000008cf ff0d80b0        926 	.byte	255,13,128,176
+000008d3 ff0c7faf        927 	.byte	255,12,127,175
+000008d7 ff0c7eae        928 	.byte	255,12,126,174
+000008db ff0c7dad        929 	.byte	255,12,125,173
+000008df ff116183        930 	.byte	255,17,97,131
+000008e3 ff395764        931 	.byte	255,57,87,100
+000008e7 ff42484b        932 	.byte	255,66,72,75
+000008eb ff1d343e        933 	.byte	255,29,52,62
+000008ef ff0c77a4        934 	.byte	255,12,119,164
+000008f3 ff1c5e7a        935 	.byte	255,28,94,122
+000008f7 ff0a171c        936 	.byte	255,10,23,28
+000008fb ff272727        937 	.byte	255,39,39,39
+000008ff ff              938 	.byte	255
+00000900 00              939 	.space	1
+00000901 00              940 	.space	1
+00000902 00              941 	.space	1
+00000903 ff242424        942 	.byte	255,36,36,36
+00000907 ff292929        943 	.byte	255,41,41,41
+0000090b ff0e1315        944 	.byte	255,14,19,21
+0000090f ff2e4c58        945 	.byte	255,46,76,88
+00000913 ff286781        946 	.byte	255,40,103,129
+00000917 ff1e7aa0        947 	.byte	255,30,122,160
+0000091b ff31a4d4        948 	.byte	255,49,164,212
+0000091f ff49c8fd        949 	.byte	255,73,200,253
+00000923 ff56d5ff        950 	.byte	255,86,213,255
+00000927 ff64e3ff        951 	.byte	255,100,227,255
+0000092b ff74f3ff        952 	.byte	255,116,243,255
+0000092f ff85ffff        953 	.byte	255,133,255,255
+00000933 ff96ffff        954 	.byte	255,150,255,255
+00000937 ff6ebfc8        955 	.byte	255,110,191,200
+0000093b ff2b5e6e        956 	.byte	255,43,94,110
+0000093f ff407182        957 	.byte	255,64,113,130
+00000943 ff427283        958 	.byte	255,66,114,131
+00000947 ff336273        959 	.byte	255,51,98,115
+0000094b ff437283        960 	.byte	255,67,114,131
+0000094f ff437384        961 	.byte	255,67,115,132
+00000953 ff316374        962 	.byte	255,49,99,116
+00000957 ff3f7485        963 	.byte	255,63,116,133
+0000095b ff3c7485        964 	.byte	255,60,116,133
+
+                                                                      Page 17
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+0000095f ff286174        965 	.byte	255,40,97,116
+00000963 ff2f6a80        966 	.byte	255,47,106,128
+00000967 ff369dc8        967 	.byte	255,54,157,200
+0000096b ff43bcee        968 	.byte	255,67,188,238
+0000096f ff33abdc        969 	.byte	255,51,171,220
+00000973 ff2597c7        970 	.byte	255,37,151,199
+00000977 ff2097c8        971 	.byte	255,32,151,200
+0000097b ff1a90c1        972 	.byte	255,26,144,193
+0000097f ff158bbc        973 	.byte	255,21,139,188
+00000983 ff1287b8        974 	.byte	255,18,135,184
+00000987 ff117daa        975 	.byte	255,17,125,170
+0000098b ff136a8e        976 	.byte	255,19,106,142
+0000098f ff0b7ead        977 	.byte	255,11,126,173
+00000993 ff0d7fb0        978 	.byte	255,13,127,176
+00000997 ff0c7eae        979 	.byte	255,12,126,174
+0000099b ff106486        980 	.byte	255,16,100,134
+0000099f ff344c55        981 	.byte	255,52,76,85
+000009a3 ff353535        982 	.byte	255,53,53,53
+000009a7 ff080808        983 	.byte	255,8,8,8
+000009ab ff262626        984 	.byte	255,38,38,38
+000009af ff242b2e        985 	.byte	255,36,43,46
+000009b3 ff040a0c        986 	.byte	255,4,10,12
+000009b7 ff272727        987 	.byte	255,39,39,39
+000009bb ff262626        988 	.byte	255,38,38,38
+000009bf ff242424        989 	.byte	255,36,36,36
+000009c3 ff242424        990 	.byte	255,36,36,36
+000009c7 ff030303        991 	.byte	255,3,3,3
+000009cb ff2b2b2b        992 	.byte	255,43,43,43
+000009cf ff323232        993 	.byte	255,50,50,50
+000009d3 ff1a1a1a        994 	.byte	255,26,26,26
+000009d7 ff3f4244        995 	.byte	255,63,66,68
+000009db ff3c4d54        996 	.byte	255,60,77,84
+000009df ff1e4657        997 	.byte	255,30,70,87
+000009e3 ff2b7894        998 	.byte	255,43,120,148
+000009e7 ff3b9eb8        999 	.byte	255,59,158,184
+000009eb ff64dae3       1000 	.byte	255,100,218,227
+000009ef ff8dffff       1001 	.byte	255,141,255,255
+000009f3 ffa0ffff       1002 	.byte	255,160,255,255
+000009f7 ff49838e       1003 	.byte	255,73,131,142
+000009fb ff333333       1004 	.byte	255,51,51,51
+000009ff ff323232       1005 	.byte	255,50,50,50
+00000a03 ff             1006 	.byte	255
+00000a04 00             1007 	.space	1
+00000a05 00             1008 	.space	1
+00000a06 00             1009 	.space	1
+00000a07 ff242424       1010 	.byte	255,36,36,36
+00000a0b ff242525       1011 	.byte	255,36,37,37
+00000a0f ff030404       1012 	.byte	255,3,4,4
+00000a13 ff2a2b2b       1013 	.byte	255,42,43,43
+00000a17 ff303131       1014 	.byte	255,48,49,49
+00000a1b ff121313       1015 	.byte	255,18,19,19
+00000a1f ff373838       1016 	.byte	255,55,56,56
+00000a23 ff3c3d3d       1017 	.byte	255,60,61,61
+00000a27 ff0e2a35       1018 	.byte	255,14,42,53
+00000a2b ff288bb5       1019 	.byte	255,40,139,181
+00000a2f ff38afe2       1020 	.byte	255,56,175,226
+00000a33 ff2ba2d4       1021 	.byte	255,43,162,212
+00000a37 ff2192c2       1022 	.byte	255,33,146,194
+00000a3b ff1d7ca2       1023 	.byte	255,29,124,162
+00000a3f ff145c79       1024 	.byte	255,20,92,121
+00000a43 ff214d60       1025 	.byte	255,33,77,96
+
+                                                                      Page 18
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000a47 ff1d3640       1026 	.byte	255,29,54,64
+00000a4b ff05374d       1027 	.byte	255,5,55,77
+00000a4f ff0b7fb0       1028 	.byte	255,11,127,176
+00000a53 ff0d80af       1029 	.byte	255,13,128,175
+00000a57 ff0d6a91       1030 	.byte	255,13,106,145
+00000a5b ff2c4c5a       1031 	.byte	255,44,76,90
+00000a5f ff2f2f2f       1032 	.byte	255,47,47,47
+00000a63 ff             1033 	.byte	255
+00000a64 00             1034 	.space	1
+00000a65 00             1035 	.space	1
+00000a66 00             1036 	.space	1
+00000a67 ff0e0e0e       1037 	.byte	255,14,14,14
+00000a6b ff080808       1038 	.byte	255,8,8,8
+00000a6f ff021822       1039 	.byte	255,2,24,34
+00000a73 ff1c2c33       1040 	.byte	255,28,44,51
+00000a77 ff232323       1041 	.byte	255,35,35,35
+00000a7b ff             1042 	.byte	255
+00000a7c 00             1043 	.space	1
+00000a7d 00             1044 	.space	1
+00000a7e 00             1045 	.space	1
+00000a7f ff242424       1046 	.byte	255,36,36,36
+00000a83 ff             1047 	.byte	255
+00000a84 00             1048 	.space	1
+00000a85 00             1049 	.space	1
+00000a86 00             1050 	.space	1
+00000a87 ff242424       1051 	.byte	255,36,36,36
+00000a8b ff242424       1052 	.byte	255,36,36,36
+00000a8f ff040404       1053 	.byte	255,4,4,4
+00000a93 ff2d2d2d       1054 	.byte	255,45,45,45
+00000a97 ff343434       1055 	.byte	255,52,52,52
+00000a9b ff1a1a1a       1056 	.byte	255,26,26,26
+00000a9f ff404040       1057 	.byte	255,64,64,64
+00000aa3 ff434343       1058 	.byte	255,67,67,67
+00000aa7 ff212628       1059 	.byte	255,33,38,40
+00000aab ff2b5465       1060 	.byte	255,43,84,101
+00000aaf ff70d3db       1061 	.byte	255,112,211,219
+00000ab3 ffa6ffff       1062 	.byte	255,166,255,255
+00000ab7 ff568c97       1063 	.byte	255,86,140,151
+00000abb ff2d2d2d       1064 	.byte	255,45,45,45
+00000abf ff050505       1065 	.byte	255,5,5,5
+00000ac3 ff242424       1066 	.byte	255,36,36,36
+00000ac7 ff242424       1067 	.byte	255,36,36,36
+00000acb ff             1068 	.byte	255
+00000acc 00             1069 	.space	1
+00000acd 00             1070 	.space	1
+00000ace 00             1071 	.space	1
+00000acf ff242424       1072 	.byte	255,36,36,36
+00000ad3 ff242424       1073 	.byte	255,36,36,36
+00000ad7 ff             1074 	.byte	255
+00000ad8 00             1075 	.space	1
+00000ad9 00             1076 	.space	1
+00000ada 00             1077 	.space	1
+00000adb ff252525       1078 	.byte	255,37,37,37
+00000adf ff2d2d2d       1079 	.byte	255,45,45,45
+00000ae3 ff151515       1080 	.byte	255,21,21,21
+00000ae7 ff3e3f3f       1081 	.byte	255,62,63,63
+00000aeb ff2e4a56       1082 	.byte	255,46,74,86
+00000aef ff247090       1083 	.byte	255,36,112,144
+00000af3 ff2f6175       1084 	.byte	255,47,97,117
+00000af7 ff344f5a       1085 	.byte	255,52,79,90
+00000afb ff141f23       1086 	.byte	255,20,31,35
+
+                                                                      Page 19
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000aff ff282a2b       1087 	.byte	255,40,42,43
+00000b03 ff1e1e1e       1088 	.byte	255,30,30,30
+00000b07 ff01161f       1089 	.byte	255,1,22,31
+00000b0b ff0c7dad       1090 	.byte	255,12,125,173
+00000b0f ff0d81b1       1091 	.byte	255,13,129,177
+00000b13 ff0c709a       1092 	.byte	255,12,112,154
+00000b17 ff295161       1093 	.byte	255,41,81,97
+00000b1b ff323232       1094 	.byte	255,50,50,50
+00000b1f ff             1095 	.byte	255
+00000b20 00             1096 	.space	1
+00000b21 00             1097 	.space	1
+00000b22 00             1098 	.space	1
+00000b23 ff1a1a1a       1099 	.byte	255,26,26,26
+00000b27 ff030303       1100 	.byte	255,3,3,3
+00000b2b ff             1101 	.byte	255
+00000b2c 00             1102 	.space	1
+00000b2d 00             1103 	.space	1
+00000b2e 00             1104 	.space	1
+00000b2f ff0c6c95       1105 	.byte	255,12,108,149
+00000b33 ff15465b       1106 	.byte	255,21,70,91
+00000b37 ff             1107 	.byte	255
+00000b38 00             1108 	.space	1
+00000b39 0101ff24       1109 	.byte	1,1,255,36
+00000b3d 2424           1110 	.byte	36,36
+00000b3f ff             1111 	.byte	255
+00000b40 00             1112 	.space	1
+00000b41 00             1113 	.space	1
+00000b42 00             1114 	.space	1
+00000b43 ff242424       1115 	.byte	255,36,36,36
+00000b47 ff242424       1116 	.byte	255,36,36,36
+00000b4b ff             1117 	.byte	255
+00000b4c 00             1118 	.space	1
+00000b4d 00             1119 	.space	1
+00000b4e 00             1120 	.space	1
+00000b4f ff242424       1121 	.byte	255,36,36,36
+00000b53 ff242424       1122 	.byte	255,36,36,36
+00000b57 ff010101       1123 	.byte	255,1,1,1
+00000b5b ff2a2a2a       1124 	.byte	255,42,42,42
+00000b5f ff303030       1125 	.byte	255,48,48,48
+00000b63 ff131313       1126 	.byte	255,19,19,19
+00000b67 ff363636       1127 	.byte	255,54,54,54
+00000b6b ff2b434d       1128 	.byte	255,43,67,77
+00000b6f ff65c4cf       1129 	.byte	255,101,196,207
+00000b73 ffa7ffff       1130 	.byte	255,167,255,255
+00000b77 ff598f99       1131 	.byte	255,89,143,153
+00000b7b ff070707       1132 	.byte	255,7,7,7
+00000b7f ff272727       1133 	.byte	255,39,39,39
+00000b83 ff242424       1134 	.byte	255,36,36,36
+00000b87 ff             1135 	.byte	255
+00000b88 00             1136 	.space	1
+00000b89 00             1137 	.space	1
+00000b8a 00             1138 	.space	1
+00000b8b ff242424       1139 	.byte	255,36,36,36
+00000b8f ff242424       1140 	.byte	255,36,36,36
+00000b93 ff             1141 	.byte	255
+00000b94 00             1142 	.space	1
+00000b95 00             1143 	.space	1
+00000b96 00             1144 	.space	1
+00000b97 ff242424       1145 	.byte	255,36,36,36
+00000b9b ff242424       1146 	.byte	255,36,36,36
+00000b9f ff040404       1147 	.byte	255,4,4,4
+
+                                                                      Page 20
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000ba3 ff2d2d2d       1148 	.byte	255,45,45,45
+00000ba7 ff353535       1149 	.byte	255,53,53,53
+00000bab ff1c1c1c       1150 	.byte	255,28,28,28
+00000baf ff3b3d3d       1151 	.byte	255,59,61,61
+00000bb3 ff393939       1152 	.byte	255,57,57,57
+00000bb7 ff0d0d0d       1153 	.byte	255,13,13,13
+00000bbb ff232323       1154 	.byte	255,35,35,35
+00000bbf ff1b1b1b       1155 	.byte	255,27,27,27
+00000bc3 ff011118       1156 	.byte	255,1,17,24
+00000bc7 ff0d7daa       1157 	.byte	255,13,125,170
+00000bcb ff0e82b3       1158 	.byte	255,14,130,179
+00000bcf ff0c76a2       1159 	.byte	255,12,118,162
+00000bd3 ff265569       1160 	.byte	255,38,85,105
+00000bd7 ff343434       1161 	.byte	255,52,52,52
+00000bdb ff070707       1162 	.byte	255,7,7,7
+00000bdf ff222222       1163 	.byte	255,34,34,34
+00000be3 ff1a1a1a       1164 	.byte	255,26,26,26
+00000be7 ff             1165 	.byte	255
+00000be8 00             1166 	.space	1
+00000be9 00             1167 	.space	1
+00000bea 00             1168 	.space	1
+00000beb ff             1169 	.byte	255
+00000bec 00             1170 	.space	1
+00000bed 0202ff0b       1171 	.byte	2,2,255,11
+00000bf1 79a6ff05       1172 	.byte	121,166,255,5
+00000bf5 4059ff21       1173 	.byte	64,89,255,33
+00000bf9 2527ff24       1174 	.byte	37,39,255,36
+00000bfd 2424ff24       1175 	.byte	36,36,255,36
+00000c01 2424ff24       1176 	.byte	36,36,255,36
+00000c05 2424           1177 	.byte	36,36
+00000c07 ff             1178 	.byte	255
+00000c08 00             1179 	.space	1
+00000c09 00             1180 	.space	1
+00000c0a 00             1181 	.space	1
+00000c0b ff242424       1182 	.byte	255,36,36,36
+00000c0f ff242424       1183 	.byte	255,36,36,36
+00000c13 ff             1184 	.byte	255
+00000c14 00             1185 	.space	1
+00000c15 00             1186 	.space	1
+00000c16 00             1187 	.space	1
+00000c17 ff242424       1188 	.byte	255,36,36,36
+00000c1b ff242424       1189 	.byte	255,36,36,36
+00000c1f ff             1190 	.byte	255
+00000c20 00             1191 	.space	1
+00000c21 00             1192 	.space	1
+00000c22 00             1193 	.space	1
+00000c23 ff242424       1194 	.byte	255,36,36,36
+00000c27 ff272727       1195 	.byte	255,39,39,39
+00000c2b ff051c26       1196 	.byte	255,5,28,38
+00000c2f ff64c5d0       1197 	.byte	255,100,197,208
+00000c33 ffa3ffff       1198 	.byte	255,163,255,255
+00000c37 ff477f89       1199 	.byte	255,71,127,137
+00000c3b ff272727       1200 	.byte	255,39,39,39
+00000c3f ff262626       1201 	.byte	255,38,38,38
+00000c43 ff             1202 	.byte	255
+00000c44 00             1203 	.space	1
+00000c45 00             1204 	.space	1
+00000c46 00             1205 	.space	1
+00000c47 ff242424       1206 	.byte	255,36,36,36
+00000c4b ff242424       1207 	.byte	255,36,36,36
+00000c4f ff             1208 	.byte	255
+
+                                                                      Page 21
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000c50 00             1209 	.space	1
+00000c51 00             1210 	.space	1
+00000c52 00             1211 	.space	1
+00000c53 ff242424       1212 	.byte	255,36,36,36
+00000c57 ff242424       1213 	.byte	255,36,36,36
+00000c5b ff             1214 	.byte	255
+00000c5c 00             1215 	.space	1
+00000c5d 00             1216 	.space	1
+00000c5e 00             1217 	.space	1
+00000c5f ff242424       1218 	.byte	255,36,36,36
+00000c63 ff272727       1219 	.byte	255,39,39,39
+00000c67 ff070707       1220 	.byte	255,7,7,7
+00000c6b ff2d2d2d       1221 	.byte	255,45,45,45
+00000c6f ff2b2b2b       1222 	.byte	255,43,43,43
+00000c73 ff040404       1223 	.byte	255,4,4,4
+00000c77 ff202020       1224 	.byte	255,32,32,32
+00000c7b ff191919       1225 	.byte	255,25,25,25
+00000c7f ff             1226 	.byte	255
+00000c80 00             1227 	.space	1
+00000c81 0b10ff0f       1228 	.byte	11,16,255,15
+00000c85 7aa6ff10       1229 	.byte	122,166,255,16
+00000c89 85b6ff0c       1230 	.byte	133,182,255,12
+00000c8d 7baaff22       1231 	.byte	123,170,255,34
+00000c91 5a72ff33       1232 	.byte	90,114,255,51
+00000c95 3738ff0b       1233 	.byte	55,56,255,11
+00000c99 0b0bff27       1234 	.byte	11,11,255,39
+00000c9d 2727ff23       1235 	.byte	39,39,255,35
+00000ca1 2323           1236 	.byte	35,35
+00000ca3 ff             1237 	.byte	255
+00000ca4 00             1238 	.space	1
+00000ca5 00             1239 	.space	1
+00000ca6 00             1240 	.space	1
+00000ca7 ff             1241 	.byte	255
+00000ca8 00             1242 	.space	1
+00000ca9 00             1243 	.space	1
+00000caa 00             1244 	.space	1
+00000cab ff053f57       1245 	.byte	255,5,63,87
+00000caf ff0b7aa8       1246 	.byte	255,11,122,168
+00000cb3 ff126080       1247 	.byte	255,18,96,128
+00000cb7 ff1e343d       1248 	.byte	255,30,52,61
+00000cbb ff             1249 	.byte	255
+00000cbc 00             1250 	.space	1
+00000cbd 00             1251 	.space	1
+00000cbe 00             1252 	.space	1
+00000cbf ff242424       1253 	.byte	255,36,36,36
+00000cc3 ff             1254 	.byte	255
+00000cc4 00             1255 	.space	1
+00000cc5 00             1256 	.space	1
+00000cc6 00             1257 	.space	1
+00000cc7 ff242424       1258 	.byte	255,36,36,36
+00000ccb ff242424       1259 	.byte	255,36,36,36
+00000ccf ff             1260 	.byte	255
+00000cd0 00             1261 	.space	1
+00000cd1 00             1262 	.space	1
+00000cd2 00             1263 	.space	1
+00000cd3 ff242424       1264 	.byte	255,36,36,36
+00000cd7 ff242424       1265 	.byte	255,36,36,36
+00000cdb ff             1266 	.byte	255
+00000cdc 00             1267 	.space	1
+00000cdd 00             1268 	.space	1
+00000cde 00             1269 	.space	1
+
+                                                                      Page 22
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000cdf ff242424       1270 	.byte	255,36,36,36
+00000ce3 ff242424       1271 	.byte	255,36,36,36
+00000ce7 ff             1272 	.byte	255
+00000ce8 00             1273 	.space	1
+00000ce9 00             1274 	.space	1
+00000cea 00             1275 	.space	1
+00000ceb ff1d353f       1276 	.byte	255,29,53,63
+00000cef ff60c4cf       1277 	.byte	255,96,196,207
+00000cf3 ff9cffff       1278 	.byte	255,156,255,255
+00000cf7 ff508a94       1279 	.byte	255,80,138,148
+00000cfb ff1f1f1f       1280 	.byte	255,31,31,31
+00000cff ff             1281 	.byte	255
+00000d00 00             1282 	.space	1
+00000d01 00             1283 	.space	1
+00000d02 00             1284 	.space	1
+00000d03 ff242424       1285 	.byte	255,36,36,36
+00000d07 ff242424       1286 	.byte	255,36,36,36
+00000d0b ff             1287 	.byte	255
+00000d0c 00             1288 	.space	1
+00000d0d 00             1289 	.space	1
+00000d0e 00             1290 	.space	1
+00000d0f ff242424       1291 	.byte	255,36,36,36
+00000d13 ff242424       1292 	.byte	255,36,36,36
+00000d17 ff             1293 	.byte	255
+00000d18 00             1294 	.space	1
+00000d19 00             1295 	.space	1
+00000d1a 00             1296 	.space	1
+00000d1b ff242424       1297 	.byte	255,36,36,36
+00000d1f ff242424       1298 	.byte	255,36,36,36
+00000d23 ff             1299 	.byte	255
+00000d24 00             1300 	.space	1
+00000d25 00             1301 	.space	1
+00000d26 00             1302 	.space	1
+00000d27 ff242424       1303 	.byte	255,36,36,36
+00000d2b ff242424       1304 	.byte	255,36,36,36
+00000d2f ff             1305 	.byte	255
+00000d30 00             1306 	.space	1
+00000d31 00             1307 	.space	1
+00000d32 00             1308 	.space	1
+00000d33 ff202020       1309 	.byte	255,32,32,32
+00000d37 ff171717       1310 	.byte	255,23,23,23
+00000d3b ff             1311 	.byte	255
+00000d3c 00             1312 	.space	1
+00000d3d 080bff11       1313 	.byte	8,11,255,17
+00000d41 729aff12       1314 	.byte	114,154,255,18
+00000d45 87b8ff0e       1315 	.byte	135,184,255,14
+00000d49 81b2ff1f       1316 	.byte	129,178,255,31
+00000d4d 5e78ff34       1317 	.byte	94,120,255,52
+00000d51 3b3dff0d       1318 	.byte	59,61,255,13
+00000d55 0d0dff28       1319 	.byte	13,13,255,40
+00000d59 2828ff27       1320 	.byte	40,40,255,39
+00000d5d 2727ff05       1321 	.byte	39,39,255,5
+00000d61 0505ff23       1322 	.byte	5,5,255,35
+00000d65 2323           1323 	.byte	35,35
+00000d67 ff             1324 	.byte	255
+00000d68 00             1325 	.space	1
+00000d69 0102ff0a       1326 	.byte	1,2,255,10
+00000d6d 79a7ff0b       1327 	.byte	121,167,255,11
+00000d71 7aa8ff0d       1328 	.byte	122,168,255,13
+00000d75 729cff05       1329 	.byte	114,156,255,5
+00000d79 364aff23       1330 	.byte	54,74,255,35
+
+                                                                      Page 23
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000d7d 2424           1331 	.byte	36,36
+00000d7f ff             1332 	.byte	255
+00000d80 00             1333 	.space	1
+00000d81 00             1334 	.space	1
+00000d82 00             1335 	.space	1
+00000d83 ff242424       1336 	.byte	255,36,36,36
+00000d87 ff242424       1337 	.byte	255,36,36,36
+00000d8b ff             1338 	.byte	255
+00000d8c 00             1339 	.space	1
+00000d8d 00             1340 	.space	1
+00000d8e 00             1341 	.space	1
+00000d8f ff242424       1342 	.byte	255,36,36,36
+00000d93 ff242424       1343 	.byte	255,36,36,36
+00000d97 ff             1344 	.byte	255
+00000d98 00             1345 	.space	1
+00000d99 00             1346 	.space	1
+00000d9a 00             1347 	.space	1
+00000d9b ff242424       1348 	.byte	255,36,36,36
+00000d9f ff242424       1349 	.byte	255,36,36,36
+00000da3 ff             1350 	.byte	255
+00000da4 00             1351 	.space	1
+00000da5 00             1352 	.space	1
+00000da6 00             1353 	.space	1
+00000da7 ff232323       1354 	.byte	255,35,35,35
+00000dab ff1d353f       1355 	.byte	255,29,53,63
+00000daf ff59c3ce       1356 	.byte	255,89,195,206
+00000db3 ff91ffff       1357 	.byte	255,145,255,255
+00000db7 ff478690       1358 	.byte	255,71,134,144
+00000dbb ff             1359 	.byte	255
+00000dbc 00             1360 	.space	1
+00000dbd 00             1361 	.space	1
+00000dbe 00             1362 	.space	1
+00000dbf ff111111       1363 	.byte	255,17,17,17
+00000dc3 ff111111       1364 	.byte	255,17,17,17
+00000dc7 ff             1365 	.byte	255
+00000dc8 00             1366 	.space	1
+00000dc9 00             1367 	.space	1
+00000dca 00             1368 	.space	1
+00000dcb ff111111       1369 	.byte	255,17,17,17
+00000dcf ff111111       1370 	.byte	255,17,17,17
+00000dd3 ff             1371 	.byte	255
+00000dd4 00             1372 	.space	1
+00000dd5 00             1373 	.space	1
+00000dd6 00             1374 	.space	1
+00000dd7 ff121212       1375 	.byte	255,18,18,18
+00000ddb ff121212       1376 	.byte	255,18,18,18
+00000ddf ff             1377 	.byte	255
+00000de0 00             1378 	.space	1
+00000de1 00             1379 	.space	1
+00000de2 00             1380 	.space	1
+00000de3 ff131313       1381 	.byte	255,19,19,19
+00000de7 ff131313       1382 	.byte	255,19,19,19
+00000deb ff             1383 	.byte	255
+00000dec 00             1384 	.space	1
+00000ded 00             1385 	.space	1
+00000dee 00             1386 	.space	1
+00000def ff111111       1387 	.byte	255,17,17,17
+00000df3 ff0f0f0f       1388 	.byte	255,15,15,15
+00000df7 ff             1389 	.byte	255
+00000df8 00             1390 	.space	1
+00000df9 0506ff11       1391 	.byte	5,6,255,17
+
+                                                                      Page 24
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000dfd 5e7eff15       1392 	.byte	94,126,255,21
+00000e01 8abcff11       1393 	.byte	138,188,255,17
+00000e05 87b8ff1a       1394 	.byte	135,184,255,26
+00000e09 6280ff32       1395 	.byte	98,128,255,50
+00000e0d 3e42ff0f       1396 	.byte	62,66,255,15
+00000e11 0f0fff2a       1397 	.byte	15,15,255,42
+00000e15 2a2aff24       1398 	.byte	42,42,255,36
+00000e19 2424ff04       1399 	.byte	36,36,255,4
+00000e1d 0404ff2d       1400 	.byte	4,4,255,45
+00000e21 2d2dff34       1401 	.byte	45,45,255,52
+00000e25 3434ff01       1402 	.byte	52,52,255,1
+00000e29 0203ff0a       1403 	.byte	2,3,255,10
+00000e2d 77a5ff0b       1404 	.byte	119,165,255,11
+00000e31 7aa8ff0b       1405 	.byte	122,168,255,11
+00000e35 6e98ff1a       1406 	.byte	110,152,255,26
+00000e39 4d63ff23       1407 	.byte	77,99,255,35
+00000e3d 2526ff24       1408 	.byte	37,38,255,36
+00000e41 2424ff24       1409 	.byte	36,36,255,36
+00000e45 2424           1410 	.byte	36,36
+00000e47 ff             1411 	.byte	255
+00000e48 00             1412 	.space	1
+00000e49 00             1413 	.space	1
+00000e4a 00             1414 	.space	1
+00000e4b ff242424       1415 	.byte	255,36,36,36
+00000e4f ff242424       1416 	.byte	255,36,36,36
+00000e53 ff             1417 	.byte	255
+00000e54 00             1418 	.space	1
+00000e55 00             1419 	.space	1
+00000e56 00             1420 	.space	1
+00000e57 ff242424       1421 	.byte	255,36,36,36
+00000e5b ff242424       1422 	.byte	255,36,36,36
+00000e5f ff             1423 	.byte	255
+00000e60 00             1424 	.space	1
+00000e61 00             1425 	.space	1
+00000e62 00             1426 	.space	1
+00000e63 ff242424       1427 	.byte	255,36,36,36
+00000e67 ff252525       1428 	.byte	255,37,37,37
+00000e6b ff031b25       1429 	.byte	255,3,27,37
+00000e6f ff51bdce       1430 	.byte	255,81,189,206
+00000e73 ff83ffff       1431 	.byte	255,131,255,255
+00000e77 ff5cb9c1       1432 	.byte	255,92,185,193
+00000e7b ff163d4a       1433 	.byte	255,22,61,74
+00000e7f ff143946       1434 	.byte	255,20,57,70
+00000e83 ff0e3340       1435 	.byte	255,14,51,64
+00000e87 ff143a47       1436 	.byte	255,20,58,71
+00000e8b ff143a47       1437 	.byte	255,20,58,71
+00000e8f ff0d3341       1438 	.byte	255,13,51,65
+00000e93 ff123947       1439 	.byte	255,18,57,71
+00000e97 ff123a47       1440 	.byte	255,18,58,71
+00000e9b ff0a3241       1441 	.byte	255,10,50,65
+00000e9f ff103847       1442 	.byte	255,16,56,71
+00000ea3 ff0f3647       1443 	.byte	255,15,54,71
+00000ea7 ff072f3f       1444 	.byte	255,7,47,63
+00000eab ff0d3444       1445 	.byte	255,13,52,68
+00000eaf ff0c3344       1446 	.byte	255,12,51,68
+00000eb3 ff052c3c       1447 	.byte	255,5,44,60
+00000eb7 ff125c7b       1448 	.byte	255,18,92,123
+00000ebb ff178ebf       1449 	.byte	255,23,142,191
+00000ebf ff1489bb       1450 	.byte	255,20,137,187
+00000ec3 ff166281       1451 	.byte	255,22,98,129
+00000ec7 ff334248       1452 	.byte	255,51,66,72
+
+                                                                      Page 25
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000ecb ff101010       1453 	.byte	255,16,16,16
+00000ecf ff2b2b2b       1454 	.byte	255,43,43,43
+00000ed3 ff252525       1455 	.byte	255,37,37,37
+00000ed7 ff             1456 	.byte	255
+00000ed8 00             1457 	.space	1
+00000ed9 00             1458 	.space	1
+00000eda 00             1459 	.space	1
+00000edb ff272727       1460 	.byte	255,39,39,39
+00000edf ff2d2d2d       1461 	.byte	255,45,45,45
+00000ee3 ff181818       1462 	.byte	255,24,24,24
+00000ee7 ff313131       1463 	.byte	255,49,49,49
+00000eeb ff253941       1464 	.byte	255,37,57,65
+00000eef ff0f5c7c       1465 	.byte	255,15,92,124
+00000ef3 ff1c5871       1466 	.byte	255,28,88,113
+00000ef7 ff21373f       1467 	.byte	255,33,55,63
+00000efb ff             1468 	.byte	255
+00000efc 00             1469 	.space	1
+00000efd 00             1470 	.space	1
+00000efe 00             1471 	.space	1
+00000eff ff242424       1472 	.byte	255,36,36,36
+00000f03 ff             1473 	.byte	255
+00000f04 00             1474 	.space	1
+00000f05 00             1475 	.space	1
+00000f06 00             1476 	.space	1
+00000f07 ff242424       1477 	.byte	255,36,36,36
+00000f0b ff242424       1478 	.byte	255,36,36,36
+00000f0f ff             1479 	.byte	255
+00000f10 00             1480 	.space	1
+00000f11 00             1481 	.space	1
+00000f12 00             1482 	.space	1
+00000f13 ff242424       1483 	.byte	255,36,36,36
+00000f17 ff242424       1484 	.byte	255,36,36,36
+00000f1b ff             1485 	.byte	255
+00000f1c 00             1486 	.space	1
+00000f1d 00             1487 	.space	1
+00000f1e 00             1488 	.space	1
+00000f1f ff242424       1489 	.byte	255,36,36,36
+00000f23 ff242424       1490 	.byte	255,36,36,36
+00000f27 ff050505       1491 	.byte	255,5,5,5
+00000f2b ff263d47       1492 	.byte	255,38,61,71
+00000f2f ff48b6cf       1493 	.byte	255,72,182,207
+00000f33 ff74f3ff       1494 	.byte	255,116,243,255
+00000f37 ff7efcff       1495 	.byte	255,126,252,255
+00000f3b ff88ffff       1496 	.byte	255,136,255,255
+00000f3f ff8effff       1497 	.byte	255,142,255,255
+00000f43 ff92ffff       1498 	.byte	255,146,255,255
+00000f47 ff93ffff       1499 	.byte	255,147,255,255
+00000f4b ff90ffff       1500 	.byte	255,144,255,255
+00000f4f ff8affff       1501 	.byte	255,138,255,255
+00000f53 ff80fbff       1502 	.byte	255,128,251,255
+00000f57 ff74efff       1503 	.byte	255,116,239,255
+00000f5b ff66e0ff       1504 	.byte	255,102,224,255
+00000f5f ff57d1ff       1505 	.byte	255,87,209,255
+00000f63 ff4ac3f6       1506 	.byte	255,74,195,246
+00000f67 ff3db6e8       1507 	.byte	255,61,182,232
+00000f6b ff31a9dc       1508 	.byte	255,49,169,220
+00000f6f ff289fd2       1509 	.byte	255,40,159,210
+00000f73 ff2097c9       1510 	.byte	255,32,151,201
+00000f77 ff1a91c3       1511 	.byte	255,26,145,195
+00000f7b ff168cbe       1512 	.byte	255,22,140,190
+00000f7f ff146d92       1513 	.byte	255,20,109,146
+
+                                                                      Page 26
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00000f83 ff2f4852       1514 	.byte	255,47,72,82
+00000f87 ff131313       1515 	.byte	255,19,19,19
+00000f8b ff2d2d2d       1516 	.byte	255,45,45,45
+00000f8f ff262626       1517 	.byte	255,38,38,38
+00000f93 ff             1518 	.byte	255
+00000f94 00             1519 	.space	1
+00000f95 00             1520 	.space	1
+00000f96 00             1521 	.space	1
+00000f97 ff242424       1522 	.byte	255,36,36,36
+00000f9b ff252525       1523 	.byte	255,37,37,37
+00000f9f ff070707       1524 	.byte	255,7,7,7
+00000fa3 ff323232       1525 	.byte	255,50,50,50
+00000fa7 ff383838       1526 	.byte	255,56,56,56
+00000fab ff181818       1527 	.byte	255,24,24,24
+00000faf ff323333       1528 	.byte	255,50,51,51
+00000fb3 ff2b2c2c       1529 	.byte	255,43,44,44
+00000fb7 ff030303       1530 	.byte	255,3,3,3
+00000fbb ff242424       1531 	.byte	255,36,36,36
+00000fbf ff             1532 	.byte	255
+00000fc0 00             1533 	.space	1
+00000fc1 00             1534 	.space	1
+00000fc2 00             1535 	.space	1
+00000fc3 ff242424       1536 	.byte	255,36,36,36
+00000fc7 ff242424       1537 	.byte	255,36,36,36
+00000fcb ff             1538 	.byte	255
+00000fcc 00             1539 	.space	1
+00000fcd 00             1540 	.space	1
+00000fce 00             1541 	.space	1
+00000fcf ff242424       1542 	.byte	255,36,36,36
+00000fd3 ff242424       1543 	.byte	255,36,36,36
+00000fd7 ff             1544 	.byte	255
+00000fd8 00             1545 	.space	1
+00000fd9 00             1546 	.space	1
+00000fda 00             1547 	.space	1
+00000fdb ff242424       1548 	.byte	255,36,36,36
+00000fdf ff242424       1549 	.byte	255,36,36,36
+00000fe3 ff             1550 	.byte	255
+00000fe4 00             1551 	.space	1
+00000fe5 00             1552 	.space	1
+00000fe6 00             1553 	.space	1
+00000fe7 ff2a2a2a       1554 	.byte	255,42,42,42
+00000feb ff2a434d       1555 	.byte	255,42,67,77
+00000fef ff2f91b1       1556 	.byte	255,47,145,177
+00000ff3 ff62dffc       1557 	.byte	255,98,223,252
+00000ff7 ff68e5fa       1558 	.byte	255,104,229,250
+00000ffb ff6febfa       1559 	.byte	255,111,235,250
+00000fff ff74f0fa       1560 	.byte	255,116,240,250
+00001003 ff77f3fa       1561 	.byte	255,119,243,250
+00001007 ff77f2fa       1562 	.byte	255,119,242,250
+0000100b ff74effa       1563 	.byte	255,116,239,250
+0000100f ff6ee9fa       1564 	.byte	255,110,233,250
+00001013 ff66e1fa       1565 	.byte	255,102,225,250
+00001017 ff5cd6fa       1566 	.byte	255,92,214,250
+0000101b ff53cbfa       1567 	.byte	255,83,203,250
+0000101f ff46bef1       1568 	.byte	255,70,190,241
+00001023 ff3bb2e5       1569 	.byte	255,59,178,229
+00001027 ff31a8da       1570 	.byte	255,49,168,218
+0000102b ff28a0d2       1571 	.byte	255,40,160,210
+0000102f ff2198c9       1572 	.byte	255,33,152,201
+00001033 ff1b91c2       1573 	.byte	255,27,145,194
+00001037 ff1587b6       1574 	.byte	255,21,135,182
+
+                                                                      Page 27
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+0000103b ff15729a       1575 	.byte	255,21,114,154
+0000103f ff2c5566       1576 	.byte	255,44,85,102
+00001043 ff141515       1577 	.byte	255,20,21,21
+00001047 ff2d2d2d       1578 	.byte	255,45,45,45
+0000104b ff272727       1579 	.byte	255,39,39,39
+0000104f ff             1580 	.byte	255
+00001050 00             1581 	.space	1
+00001051 00             1582 	.space	1
+00001052 00             1583 	.space	1
+00001053 ff242424       1584 	.byte	255,36,36,36
+00001057 ff242424       1585 	.byte	255,36,36,36
+0000105b ff             1586 	.byte	255
+0000105c 00             1587 	.space	1
+0000105d 00             1588 	.space	1
+0000105e 00             1589 	.space	1
+0000105f ff272727       1590 	.byte	255,39,39,39
+00001063 ff2a2a2a       1591 	.byte	255,42,42,42
+00001067 ff0a0a0a       1592 	.byte	255,10,10,10
+0000106b ff2d2d2d       1593 	.byte	255,45,45,45
+0000106f ff2a2a2a       1594 	.byte	255,42,42,42
+00001073 ff040404       1595 	.byte	255,4,4,4
+00001077 ff242424       1596 	.byte	255,36,36,36
+0000107b ff242424       1597 	.byte	255,36,36,36
+0000107f ff242424       1598 	.byte	255,36,36,36
+00001083 ff232323       1599 	.byte	255,35,35,35
+00001087 ff             1600 	.byte	255
+00001088 00             1601 	.space	1
+00001089 00             1602 	.space	1
+0000108a 00             1603 	.space	1
+0000108b ff242424       1604 	.byte	255,36,36,36
+0000108f ff232323       1605 	.byte	255,35,35,35
+00001093 ff             1606 	.byte	255
+00001094 00             1607 	.space	1
+00001095 00             1608 	.space	1
+00001096 00             1609 	.space	1
+00001097 ff242424       1610 	.byte	255,36,36,36
+0000109b ff232323       1611 	.byte	255,35,35,35
+0000109f ff             1612 	.byte	255
+000010a0 00             1613 	.space	1
+000010a1 00             1614 	.space	1
+000010a2 00             1615 	.space	1
+000010a3 ff232323       1616 	.byte	255,35,35,35
+000010a7 ff292929       1617 	.byte	255,41,41,41
+000010ab ff0e1315       1618 	.byte	255,14,19,21
+000010af ff295568       1619 	.byte	255,41,85,104
+000010b3 ff345461       1620 	.byte	255,52,84,97
+000010b7 ff21404e       1621 	.byte	255,33,64,78
+000010bb ff375664       1622 	.byte	255,55,86,100
+000010bf ff375664       1623 	.byte	255,55,86,100
+000010c3 ff21404d       1624 	.byte	255,33,64,77
+000010c7 ff375663       1625 	.byte	255,55,86,99
+000010cb ff375663       1626 	.byte	255,55,86,99
+000010cf ff21404d       1627 	.byte	255,33,64,77
+000010d3 ff385663       1628 	.byte	255,56,86,99
+000010d7 ff385663       1629 	.byte	255,56,86,99
+000010db ff21404c       1630 	.byte	255,33,64,76
+000010df ff375562       1631 	.byte	255,55,85,98
+000010e3 ff375562       1632 	.byte	255,55,85,98
+000010e7 ff213f4c       1633 	.byte	255,33,63,76
+000010eb ff375663       1634 	.byte	255,55,86,99
+000010ef ff375663       1635 	.byte	255,55,86,99
+
+                                                                      Page 28
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+000010f3 ff22414e       1636 	.byte	255,34,65,78
+000010f7 ff355462       1637 	.byte	255,53,84,98
+000010fb ff334d58       1638 	.byte	255,51,77,88
+000010ff ff161717       1639 	.byte	255,22,23,23
+00001103 ff2f2f2f       1640 	.byte	255,47,47,47
+00001107 ff272727       1641 	.byte	255,39,39,39
+0000110b ff             1642 	.byte	255
+0000110c 00             1643 	.space	1
+0000110d 00             1644 	.space	1
+0000110e 00             1645 	.space	1
+0000110f ff242424       1646 	.byte	255,36,36,36
+00001113 ff232323       1647 	.byte	255,35,35,35
+00001117 ff             1648 	.byte	255
+00001118 00             1649 	.space	1
+00001119 00             1650 	.space	1
+0000111a 00             1651 	.space	1
+0000111b ff242424       1652 	.byte	255,36,36,36
+0000111f ff232323       1653 	.byte	255,35,35,35
+00001123 ff             1654 	.byte	255
+00001124 00             1655 	.space	1
+00001125 00             1656 	.space	1
+00001126 00             1657 	.space	1
+00001127 ff242424       1658 	.byte	255,36,36,36
+0000112b ff232323       1659 	.byte	255,35,35,35
+0000112f ff             1660 	.byte	255
+00001130 00             1661 	.space	1
+00001131 00             1662 	.space	1
+00001132 00             1663 	.space	1
+00001133 ff242424       1664 	.byte	255,36,36,36
+00001137 ff232323       1665 	.byte	255,35,35,35
+0000113b ff             1666 	.byte	255
+0000113c 00             1667 	.space	1
+0000113d 00             1668 	.space	1
+0000113e 00             1669 	.space	1
+0000113f ff242424       1670 	.byte	255,36,36,36
+00001143 ff             1671 	.byte	255
+00001144 00             1672 	.space	1
+00001145 00             1673 	.space	1
+00001146 00             1674 	.space	1
+00001147 ff232323       1675 	.byte	255,35,35,35
+0000114b ff242424       1676 	.byte	255,36,36,36
+0000114f ff010101       1677 	.byte	255,1,1,1
+00001153 ff222222       1678 	.byte	255,34,34,34
+00001157 ff242424       1679 	.byte	255,36,36,36
+0000115b ff010101       1680 	.byte	255,1,1,1
+0000115f ff232323       1681 	.byte	255,35,35,35
+00001163 ff242424       1682 	.byte	255,36,36,36
+00001167 ff050505       1683 	.byte	255,5,5,5
+0000116b ff2c2c2c       1684 	.byte	255,44,44,44
+0000116f ff333333       1685 	.byte	255,51,51,51
+00001173 ff1a1a1a       1686 	.byte	255,26,26,26
+00001177 ff3d3d3d       1687 	.byte	255,61,61,61
+0000117b ff3e3e3e       1688 	.byte	255,62,62,62
+0000117f ff202020       1689 	.byte	255,32,32,32
+00001183 ff3d3d3d       1690 	.byte	255,61,61,61
+00001187 ff3e3e3e       1691 	.byte	255,62,62,62
+0000118b ff212121       1692 	.byte	255,33,33,33
+0000118f ff3e3e3e       1693 	.byte	255,62,62,62
+00001193 ff3e3e3e       1694 	.byte	255,62,62,62
+00001197 ff212121       1695 	.byte	255,33,33,33
+0000119b ff3e3e3e       1696 	.byte	255,62,62,62
+
+                                                                      Page 29
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+0000119f ff3e3e3e       1697 	.byte	255,62,62,62
+000011a3 ff212121       1698 	.byte	255,33,33,33
+000011a7 ff3e3e3e       1699 	.byte	255,62,62,62
+000011ab ff3e3e3e       1700 	.byte	255,62,62,62
+000011af ff222222       1701 	.byte	255,34,34,34
+000011b3 ff3c3c3c       1702 	.byte	255,60,60,60
+000011b7 ff3a3a3a       1703 	.byte	255,58,58,58
+000011bb ff141414       1704 	.byte	255,20,20,20
+000011bf ff2a2a2a       1705 	.byte	255,42,42,42
+000011c3 ff262626       1706 	.byte	255,38,38,38
+000011c7 ff010101       1707 	.byte	255,1,1,1
+000011cb ff222222       1708 	.byte	255,34,34,34
+000011cf ff242424       1709 	.byte	255,36,36,36
+000011d3 ff010101       1710 	.byte	255,1,1,1
+000011d7 ff222222       1711 	.byte	255,34,34,34
+000011db ff242424       1712 	.byte	255,36,36,36
+000011df ff010101       1713 	.byte	255,1,1,1
+000011e3 ff222222       1714 	.byte	255,34,34,34
+000011e7 ff242424       1715 	.byte	255,36,36,36
+000011eb ff010101       1716 	.byte	255,1,1,1
+000011ef ff222222       1717 	.byte	255,34,34,34
+000011f3 ff242424       1718 	.byte	255,36,36,36
+000011f7 ff010101       1719 	.byte	255,1,1,1
+000011fb ff222222       1720 	.byte	255,34,34,34
+000011ff ff             1721 	.byte	255
+00001200 00             1722 	.space	1
+00001201 00             1723 	.space	1
+00001202 00             1724 	.space	1
+00001203 ff242424       1725 	.byte	255,36,36,36
+00001207 ff242424       1726 	.byte	255,36,36,36
+0000120b ff             1727 	.byte	255
+0000120c 00             1728 	.space	1
+0000120d 00             1729 	.space	1
+0000120e 00             1730 	.space	1
+0000120f ff242424       1731 	.byte	255,36,36,36
+00001213 ff242424       1732 	.byte	255,36,36,36
+00001217 ff             1733 	.byte	255
+00001218 00             1734 	.space	1
+00001219 00             1735 	.space	1
+0000121a 00             1736 	.space	1
+0000121b ff252525       1737 	.byte	255,37,37,37
+0000121f ff252525       1738 	.byte	255,37,37,37
+00001223 ff020202       1739 	.byte	255,2,2,2
+00001227 ff262626       1740 	.byte	255,38,38,38
+0000122b ff272727       1741 	.byte	255,39,39,39
+0000122f ff030303       1742 	.byte	255,3,3,3
+00001233 ff272727       1743 	.byte	255,39,39,39
+00001237 ff272727       1744 	.byte	255,39,39,39
+0000123b ff030303       1745 	.byte	255,3,3,3
+0000123f ff262626       1746 	.byte	255,38,38,38
+00001243 ff262626       1747 	.byte	255,38,38,38
+00001247 ff030303       1748 	.byte	255,3,3,3
+0000124b ff262626       1749 	.byte	255,38,38,38
+0000124f ff262626       1750 	.byte	255,38,38,38
+00001253 ff030303       1751 	.byte	255,3,3,3
+00001257 ff262626       1752 	.byte	255,38,38,38
+0000125b ff262626       1753 	.byte	255,38,38,38
+0000125f ff030303       1754 	.byte	255,3,3,3
+00001263 ff262626       1755 	.byte	255,38,38,38
+00001267 ff262626       1756 	.byte	255,38,38,38
+0000126b ff030303       1757 	.byte	255,3,3,3
+
+                                                                      Page 30
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+0000126f ff262626       1758 	.byte	255,38,38,38
+00001273 ff252525       1759 	.byte	255,37,37,37
+00001277 ff010101       1760 	.byte	255,1,1,1
+0000127b ff242424       1761 	.byte	255,36,36,36
+0000127f ff242424       1762 	.byte	255,36,36,36
+00001283 ff             1763 	.byte	255
+00001284 00             1764 	.space	1
+00001285 00             1765 	.space	1
+00001286 00             1766 	.space	1
+00001287 ff242424       1767 	.byte	255,36,36,36
+0000128b ff242424       1768 	.byte	255,36,36,36
+0000128f ff             1769 	.byte	255
+00001290 00             1770 	.space	1
+00001291 00             1771 	.space	1
+00001292 00             1772 	.space	1
+00001293 ff242424       1773 	.byte	255,36,36,36
+00001297 ff242424       1774 	.byte	255,36,36,36
+0000129b ff             1775 	.byte	255
+0000129c 00             1776 	.space	1
+0000129d 00             1777 	.space	1
+0000129e 00             1778 	.space	1
+0000129f ff242424       1779 	.byte	255,36,36,36
+000012a3 ff242424       1780 	.byte	255,36,36,36
+000012a7 ff             1781 	.byte	255
+000012a8 00             1782 	.space	1
+000012a9 00             1783 	.space	1
+000012aa 00             1784 	.space	1
+000012ab ff242424       1785 	.byte	255,36,36,36
+000012af ff242424       1786 	.byte	255,36,36,36
+000012b3 ff             1787 	.byte	255
+000012b4 00             1788 	.space	1
+000012b5 00             1789 	.space	1
+000012b6 00             1790 	.space	1
+000012b7 ff242424       1791 	.byte	255,36,36,36
+000012bb ff242424       1792 	.byte	255,36,36,36
+000012bf ff2a2a2a       1793 	.byte	255,42,42,42
+000012c3 ff1c1c1c       1794 	.byte	255,28,28,28
+000012c7 ff151515       1795 	.byte	255,21,21,21
+000012cb ff2a2a2a       1796 	.byte	255,42,42,42
+000012cf ff1b1b1b       1797 	.byte	255,27,27,27
+000012d3 ff151515       1798 	.byte	255,21,21,21
+000012d7 ff292929       1799 	.byte	255,41,41,41
+000012db ff1b1b1b       1800 	.byte	255,27,27,27
+000012df ff151515       1801 	.byte	255,21,21,21
+000012e3 ff292929       1802 	.byte	255,41,41,41
+000012e7 ff1b1b1b       1803 	.byte	255,27,27,27
+000012eb ff161616       1804 	.byte	255,22,22,22
+000012ef ff2e2e2e       1805 	.byte	255,46,46,46
+000012f3 ff212121       1806 	.byte	255,33,33,33
+000012f7 ff1b1b1b       1807 	.byte	255,27,27,27
+000012fb ff303030       1808 	.byte	255,48,48,48
+000012ff ff222222       1809 	.byte	255,34,34,34
+00001303 ff1c1c1c       1810 	.byte	255,28,28,28
+00001307 ff303030       1811 	.byte	255,48,48,48
+0000130b ff222222       1812 	.byte	255,34,34,34
+0000130f ff1c1c1c       1813 	.byte	255,28,28,28
+00001313 ff303030       1814 	.byte	255,48,48,48
+00001317 ff222222       1815 	.byte	255,34,34,34
+0000131b ff1c1c1c       1816 	.byte	255,28,28,28
+0000131f ff303030       1817 	.byte	255,48,48,48
+00001323 ff222222       1818 	.byte	255,34,34,34
+
+                                                                      Page 31
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00001327 ff1c1c1c       1819 	.byte	255,28,28,28
+0000132b ff2f2f2f       1820 	.byte	255,47,47,47
+0000132f ff1e1e1e       1821 	.byte	255,30,30,30
+00001333 ff181818       1822 	.byte	255,24,24,24
+00001337 ff2a2a2a       1823 	.byte	255,42,42,42
+0000133b ff191919       1824 	.byte	255,25,25,25
+0000133f ff161616       1825 	.byte	255,22,22,22
+00001343 ff292929       1826 	.byte	255,41,41,41
+00001347 ff191919       1827 	.byte	255,25,25,25
+0000134b ff161616       1828 	.byte	255,22,22,22
+0000134f ff292929       1829 	.byte	255,41,41,41
+00001353 ff191919       1830 	.byte	255,25,25,25
+00001357 ff161616       1831 	.byte	255,22,22,22
+0000135b ff292929       1832 	.byte	255,41,41,41
+0000135f ff191919       1833 	.byte	255,25,25,25
+00001363 ff171717       1834 	.byte	255,23,23,23
+00001367 ff292929       1835 	.byte	255,41,41,41
+0000136b ff181818       1836 	.byte	255,24,24,24
+0000136f ff171717       1837 	.byte	255,23,23,23
+00001373 ff292929       1838 	.byte	255,41,41,41
+00001377 ff181818       1839 	.byte	255,24,24,24
+0000137b ff171717       1840 	.byte	255,23,23,23
+0000137f ff3b3b3b       1841 	.byte	255,59,59,59
+00001383 ff323232       1842 	.byte	255,50,50,50
+00001387 ff232323       1843 	.byte	255,35,35,35
+0000138b ff3a3a3a       1844 	.byte	255,58,58,58
+0000138f ff323232       1845 	.byte	255,50,50,50
+00001393 ff222222       1846 	.byte	255,34,34,34
+00001397 ff3a3a3a       1847 	.byte	255,58,58,58
+0000139b ff323232       1848 	.byte	255,50,50,50
+0000139f ff222222       1849 	.byte	255,34,34,34
+000013a3 ff3a3a3a       1850 	.byte	255,58,58,58
+000013a7 ff323232       1851 	.byte	255,50,50,50
+000013ab ff222222       1852 	.byte	255,34,34,34
+000013af ff3a3a3a       1853 	.byte	255,58,58,58
+000013b3 ff323232       1854 	.byte	255,50,50,50
+000013b7 ff222222       1855 	.byte	255,34,34,34
+000013bb ff3a3a3a       1856 	.byte	255,58,58,58
+000013bf ff323232       1857 	.byte	255,50,50,50
+000013c3 ff212121       1858 	.byte	255,33,33,33
+000013c7 ff393939       1859 	.byte	255,57,57,57
+000013cb ff323232       1860 	.byte	255,50,50,50
+000013cf ff212121       1861 	.byte	255,33,33,33
+000013d3 ff393939       1862 	.byte	255,57,57,57
+000013d7 ff323232       1863 	.byte	255,50,50,50
+000013db ff212121       1864 	.byte	255,33,33,33
+000013df ff393939       1865 	.byte	255,57,57,57
+000013e3 ff323232       1866 	.byte	255,50,50,50
+000013e7 ff212121       1867 	.byte	255,33,33,33
+000013eb ff393939       1868 	.byte	255,57,57,57
+000013ef ff323232       1869 	.byte	255,50,50,50
+000013f3 ff202020       1870 	.byte	255,32,32,32
+000013f7 ff393939       1871 	.byte	255,57,57,57
+000013fb ff313131       1872 	.byte	255,49,49,49
+000013ff ff1f1f1f       1873 	.byte	255,31,31,31
+00001403 ff393939       1874 	.byte	255,57,57,57
+00001407 ff313131       1875 	.byte	255,49,49,49
+0000140b ff1f1f1f       1876 	.byte	255,31,31,31
+0000140f ff393939       1877 	.byte	255,57,57,57
+00001413 ff313131       1878 	.byte	255,49,49,49
+00001417 ff1f1f1f       1879 	.byte	255,31,31,31
+
+                                                                      Page 32
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+0000141b ff383838       1880 	.byte	255,56,56,56
+0000141f ff313131       1881 	.byte	255,49,49,49
+00001423 ff1f1f1f       1882 	.byte	255,31,31,31
+00001427 ff383838       1883 	.byte	255,56,56,56
+0000142b ff313131       1884 	.byte	255,49,49,49
+0000142f ff1e1e1e       1885 	.byte	255,30,30,30
+00001433 ff383838       1886 	.byte	255,56,56,56
+00001437 ff313131       1887 	.byte	255,49,49,49
+0000143b ff1e1e1e       1888 	.byte	255,30,30,30
+0000143f ff424242       1889 	.byte	255,66,66,66
+00001443 ff5c5c5c       1890 	.byte	255,92,92,92
+00001447 ff5c5c5c       1891 	.byte	255,92,92,92
+0000144b ff424242       1892 	.byte	255,66,66,66
+0000144f ff5c5c5c       1893 	.byte	255,92,92,92
+00001453 ff5c5c5c       1894 	.byte	255,92,92,92
+00001457 ff424242       1895 	.byte	255,66,66,66
+0000145b ff5c5c5c       1896 	.byte	255,92,92,92
+0000145f ff5c5c5c       1897 	.byte	255,92,92,92
+00001463 ff424242       1898 	.byte	255,66,66,66
+00001467 ff5c5c5c       1899 	.byte	255,92,92,92
+0000146b ff5c5c5c       1900 	.byte	255,92,92,92
+0000146f ff424242       1901 	.byte	255,66,66,66
+00001473 ff5c5c5c       1902 	.byte	255,92,92,92
+00001477 ff5c5c5c       1903 	.byte	255,92,92,92
+0000147b ff424242       1904 	.byte	255,66,66,66
+0000147f ff5c5c5c       1905 	.byte	255,92,92,92
+00001483 ff5c5c5c       1906 	.byte	255,92,92,92
+00001487 ff424242       1907 	.byte	255,66,66,66
+0000148b ff5c5c5c       1908 	.byte	255,92,92,92
+0000148f ff5c5c5c       1909 	.byte	255,92,92,92
+00001493 ff424242       1910 	.byte	255,66,66,66
+00001497 ff5c5c5c       1911 	.byte	255,92,92,92
+0000149b ff5c5c5c       1912 	.byte	255,92,92,92
+0000149f ff424242       1913 	.byte	255,66,66,66
+000014a3 ff5c5c5c       1914 	.byte	255,92,92,92
+000014a7 ff5c5c5c       1915 	.byte	255,92,92,92
+000014ab ff424242       1916 	.byte	255,66,66,66
+000014af ff5c5c5c       1917 	.byte	255,92,92,92
+000014b3 ff5c5c5c       1918 	.byte	255,92,92,92
+000014b7 ff414141       1919 	.byte	255,65,65,65
+000014bb ff5c5c5c       1920 	.byte	255,92,92,92
+000014bf ff5c5c5c       1921 	.byte	255,92,92,92
+000014c3 ff414141       1922 	.byte	255,65,65,65
+000014c7 ff5c5c5c       1923 	.byte	255,92,92,92
+000014cb ff5c5c5c       1924 	.byte	255,92,92,92
+000014cf ff414141       1925 	.byte	255,65,65,65
+000014d3 ff5c5c5c       1926 	.byte	255,92,92,92
+000014d7 ff5c5c5c       1927 	.byte	255,92,92,92
+000014db ff414141       1928 	.byte	255,65,65,65
+000014df ff5c5c5c       1929 	.byte	255,92,92,92
+000014e3 ff5b5b5b       1930 	.byte	255,91,91,91
+000014e7 ff414141       1931 	.byte	255,65,65,65
+000014eb ff5b5b5b       1932 	.byte	255,91,91,91
+000014ef ff5b5b5b       1933 	.byte	255,91,91,91
+000014f3 ff414141       1934 	.byte	255,65,65,65
+000014f7 ff5b5b5b       1935 	.byte	255,91,91,91
+000014fb ff5b5b5b       1936 	.byte	255,91,91,91
+000014ff ff818181       1937 	.byte	255,129,129,129
+00001503 ff6f6f6f       1938 	.byte	255,111,111,111
+00001507 ff818181       1939 	.byte	255,129,129,129
+0000150b ff808080       1940 	.byte	255,128,128,128
+
+                                                                      Page 33
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+0000150f ff6f6f6f       1941 	.byte	255,111,111,111
+00001513 ff808080       1942 	.byte	255,128,128,128
+00001517 ff808080       1943 	.byte	255,128,128,128
+0000151b ff6f6f6f       1944 	.byte	255,111,111,111
+0000151f ff808080       1945 	.byte	255,128,128,128
+00001523 ff818181       1946 	.byte	255,129,129,129
+00001527 ff6f6f6f       1947 	.byte	255,111,111,111
+0000152b ff808080       1948 	.byte	255,128,128,128
+0000152f ff818181       1949 	.byte	255,129,129,129
+00001533 ff6e6e6e       1950 	.byte	255,110,110,110
+00001537 ff808080       1951 	.byte	255,128,128,128
+0000153b ff818181       1952 	.byte	255,129,129,129
+0000153f ff6e6e6e       1953 	.byte	255,110,110,110
+00001543 ff808080       1954 	.byte	255,128,128,128
+00001547 ff808080       1955 	.byte	255,128,128,128
+0000154b ff6e6e6e       1956 	.byte	255,110,110,110
+0000154f ff808080       1957 	.byte	255,128,128,128
+00001553 ff808080       1958 	.byte	255,128,128,128
+00001557 ff6e6e6e       1959 	.byte	255,110,110,110
+0000155b ff808080       1960 	.byte	255,128,128,128
+0000155f ff808080       1961 	.byte	255,128,128,128
+00001563 ff6e6e6e       1962 	.byte	255,110,110,110
+00001567 ff808080       1963 	.byte	255,128,128,128
+0000156b ff808080       1964 	.byte	255,128,128,128
+0000156f ff6e6e6e       1965 	.byte	255,110,110,110
+00001573 ff808080       1966 	.byte	255,128,128,128
+00001577 ff808080       1967 	.byte	255,128,128,128
+0000157b ff6e6e6e       1968 	.byte	255,110,110,110
+0000157f ff7f7f7f       1969 	.byte	255,127,127,127
+00001583 ff7f7f7f       1970 	.byte	255,127,127,127
+00001587 ff6e6e6e       1971 	.byte	255,110,110,110
+0000158b ff7f7f7f       1972 	.byte	255,127,127,127
+0000158f ff808080       1973 	.byte	255,128,128,128
+00001593 ff6e6e6e       1974 	.byte	255,110,110,110
+00001597 ff7f7f7f       1975 	.byte	255,127,127,127
+0000159b ff808080       1976 	.byte	255,128,128,128
+0000159f ff6e6e6e       1977 	.byte	255,110,110,110
+000015a3 ff7f7f7f       1978 	.byte	255,127,127,127
+000015a7 ff808080       1979 	.byte	255,128,128,128
+000015ab ff6d6d6d       1980 	.byte	255,109,109,109
+000015af ff7f7f7f       1981 	.byte	255,127,127,127
+000015b3 ff808080       1982 	.byte	255,128,128,128
+000015b7 ff6d6d6d       1983 	.byte	255,109,109,109
+000015bb ff7f7f7f       1984 	.byte	255,127,127,127
+000015bf ff828282       1985 	.byte	255,130,130,130
+000015c3 ff838383       1986 	.byte	255,131,131,131
+000015c7 ff777777       1987 	.byte	255,119,119,119
+000015cb ff838383       1988 	.byte	255,131,131,131
+000015cf ff838383       1989 	.byte	255,131,131,131
+000015d3 ff767676       1990 	.byte	255,118,118,118
+000015d7 ff838383       1991 	.byte	255,131,131,131
+000015db ff828282       1992 	.byte	255,130,130,130
+000015df ff767676       1993 	.byte	255,118,118,118
+000015e3 ff828282       1994 	.byte	255,130,130,130
+000015e7 ff828282       1995 	.byte	255,130,130,130
+000015eb ff767676       1996 	.byte	255,118,118,118
+000015ef ff828282       1997 	.byte	255,130,130,130
+000015f3 ff818181       1998 	.byte	255,129,129,129
+000015f7 ff757575       1999 	.byte	255,117,117,117
+000015fb ff818181       2000 	.byte	255,129,129,129
+000015ff ff818181       2001 	.byte	255,129,129,129
+
+                                                                      Page 34
+                                                              C:\Users\a5085270\AppData\Local\Temp\gh_00008741.si
+00001603 ff757575       2002 	.byte	255,117,117,117
+00001607 ff818181       2003 	.byte	255,129,129,129
+0000160b ff818181       2004 	.byte	255,129,129,129
+0000160f ff747474       2005 	.byte	255,116,116,116
+00001613 ff808080       2006 	.byte	255,128,128,128
+00001617 ff808080       2007 	.byte	255,128,128,128
+0000161b ff747474       2008 	.byte	255,116,116,116
+0000161f ff808080       2009 	.byte	255,128,128,128
+00001623 ff808080       2010 	.byte	255,128,128,128
+00001627 ff737373       2011 	.byte	255,115,115,115
+0000162b ff808080       2012 	.byte	255,128,128,128
+0000162f ff7f7f7f       2013 	.byte	255,127,127,127
+00001633 ff737373       2014 	.byte	255,115,115,115
+00001637 ff7f7f7f       2015 	.byte	255,127,127,127
+0000163b ff7f7f7f       2016 	.byte	255,127,127,127
+0000163f ff727272       2017 	.byte	255,114,114,114
+00001643 ff7f7f7f       2018 	.byte	255,127,127,127
+00001647 ff7e7e7e       2019 	.byte	255,126,126,126
+0000164b ff737373       2020 	.byte	255,115,115,115
+0000164f ff7e7e7e       2021 	.byte	255,126,126,126
+00001653 ff7e7e7e       2022 	.byte	255,126,126,126
+00001657 ff737373       2023 	.byte	255,115,115,115
+0000165b ff7e7e7e       2024 	.byte	255,126,126,126
+0000165f ff7e7e7e       2025 	.byte	255,126,126,126
+00001663 ff727272       2026 	.byte	255,114,114,114
+00001667 ff7d7d7d       2027 	.byte	255,125,125,125
+0000166b ff7d7d7d       2028 	.byte	255,125,125,125
+0000166f ff727272       2029 	.byte	255,114,114,114
+00001673 ff7d7d7d       2030 	.byte	255,125,125,125
+00001677 ff7d7d7d       2031 	.byte	255,125,125,125
+0000167b ff717171       2032 	.byte	255,113,113,113
+0000167f ff             2033 	.byte	255
+                        2034 	.type	_my_oil,@object
+                        2035 	.size	_my_oil,5760
+                        2036 	.data
+                        2037 	.ghsnote version,19
+                        2038 	.ghsnote tools,3
+                        2039 	.ghsnote options,656
+                        2040 	.text
+                        2041 ..bof.D.3A.5CMY_1_8_D1x_RGL_org.5Crgl_ghs_D1Mx_obj_V1.2E8.2E0.5Cvlib.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Coil...44.3A.5CMY_1_8_D1x_RGL_org.5Crgl_ghs_D1Mx_obj_V1.2E8.2E0.5Cvlib.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs..5B95FDE2..0::
+                        2042 ..eof.D.3A.5CMY_1_8_D1x_RGL_org.5Crgl_ghs_D1Mx_obj_V1.2E8.2E0.5Cvlib.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Coil...44.3A.5CMY_1_8_D1x_RGL_org.5Crgl_ghs_D1Mx_obj_V1.2E8.2E0.5Cvlib.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs..5B95FDE2..0::
+                        2043 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M,SDA_EXTRA_REGS_0

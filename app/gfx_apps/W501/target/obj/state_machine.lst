@@ -1,0 +1,443 @@
+                                                                      Page 1
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005ts1.si
+Command Line: C:\ghs\comp_201715\ease850.exe -w -elf -b0 -I..\..\..\..\..\app\common\dhd -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\res -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\images -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\config -I..\..\..\..\..\bsp\board\\config -I..\..\..\..\..\bsp\board\\src\gfx -I..\..\..\..\..\bsp\board\\src\hmi -I..\..\..\..\..\bsp\board\\src\stdio -I..\..\..\..\..\bsp\board\d1mx_mango\config -I..\..\..\..\..\bsp\board\d1mx_mango\src -I..\..\..\..\..\bsp\board\d1mx_mango\src\gfx -I..\..\..\..\..\bsp\board\d1mx_mango\src\hmi -I..\..\..\..\..\bsp\board\d1mx_mango\src\stdio -I..\..\..\..\..\bsp\gfx\lib -I..\..\..\..\..\bsp\gfx\src -I..\..\..\..\..\bsp\hmi\lib -I..\..\..\..\..\bsp\hmi\src -I..\..\..\..\..\bsp\lib -I..\..\..\..\..\bsp\stdio\lib -I..\..\..\..\..\bsp\stdio\src -I..\..\..\..\..\cdi\lib -I..\..\..\..\..\cdi\src -I..\..\..\..\..\compiler\rh850_ghs\inc -I..\..\..\..\..\device\d1mx\lib -I..\..\..\..\..\device\d1mx\macro_cfg -I..\..\..\..\..\device\d1mx\src\dev -I..\..\..\..\..\device\d1mx\src\dhd -I..\..\..\..\..\device\d1mx\src\jcua -I..\..\..\..\..\device\d1mx\src\rh850_ghs -I..\..\..\..\..\device\d1mx\src\vowe -I..\..\..\..\..\device\d1x_common\macro_cfg -I..\..\..\..\..\device\d1x_common\src\csisw -I..\..\..\..\..\device\d1x_common\src\dev -I..\..\..\..\..\device\d1x_common\src\gfxbus -I..\..\..\..\..\device\d1x_common\src\gpio -I..\..\..\..\..\device\d1x_common\src\ostm -I..\..\..\..\..\device\d1x_common\src\pbg -I..\..\..\..\..\device\d1x_common\src\riic -I..\..\..\..\..\device\d1x_common\src\sfma -I..\..\..\..\..\device\d1x_common\src\spea -I..\..\..\..\..\device\d1x_common\src\tauj -I..\..\..\..\..\device\d1x_common\src\tick -I..\..\..\..\..\device\d1x_common\src\vdce -I..\..\..\..\..\device\d1x_common\src\wm -I..\..\..\..\..\device\d1x_common\src\dma -I..\..\..\..\..\device\d1x_common\src\g3dma -I..\..\..\..\..\device\d1x_common\src\xbus -I..\..\..\..\..\device\d1x_common\src\pcmp -I..\..\..\..\..\device\d1x_common\src\taub -I..\..\..\..\..\device\lib -I..\..\..\..\..\macro\bus\pbg\lib -I..\..\..\..\..\macro\bus\pbg\src -I..\..\..\..\..\macro\csi\csisw\lib -I..\..\..\..\..\macro\csi\csisw\src -I..\..\..\..\..\macro\dma\dma\lib -I..\..\..\..\..\macro\dma\dma\src -I..\..\..\..\..\macro\dma\g3dma\lib -I..\..\..\..\..\macro\dma\g3dma\src -I..\..\..\..\..\macro\drw2d\lib -I..\..\..\..\..\macro\drw2d\platform\davehd -I..\..\..\..\..\macro\drw2d\platform\os\no_os -I..\..\..\..\..\macro\drw2d\src -I..\..\..\..\..\macro\flashc\sfcdb\lib -I..\..\..\..\..\macro\flashc\sfcdb\src -I..\..\..\..\..\macro\flashc\sfma\lib -I..\..\..\..\..\macro\flashc\sfma\src -I..\..\..\..\..\macro\gfxbus\lib -I..\..\..\..\..\macro\gfxbus\src -I..\..\..\..\..\macro\gfxbus\xbus\lib -I..\..\..\..\..\macro\gfxbus\xbus\src -I..\..\..\..\..\macro\gpio\lib -I..\..\..\..\..\macro\gpio\src -I..\..\..\..\..\macro\gpu\davehd\common\inc -I..\..\..\..\..\macro\gpu\davehd\common\inc\platform -I..\..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx -I..\..\..\..\..\macro\gpu\davehd\kernel\inc -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\ree -I..\..\..\..\..\macro\gpu\davehd\kernel\src -I..\..\..\..\..\macro\gpu\davehd\user\inc -I..\..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os -I..\..\..\..\..\macro\gpu\davehd\user\src -I..\..\..\..\..\macro\gpu\jcua\lib -I..\..\..\..\..\macro\gpu\jcua\src -I..\..\..\..\..\macro\i2c\riic\lib -I..\..\..\..\..\macro\i2c\riic\src -I..\..\..\..\..\macro\pwm\pcmp\lib -I..\..\..\..\..\macro\pwm\pcmp\src -I..\..\..\..\..\macro\tick\lib -I..\..\..\..\..\macro\tick\src -I..\..\..\..\..\macro\timer\ostm\lib -I..\..\..\..\..\macro\timer\ostm\src -I..\..\..\..\..\macro\timer\tauj\lib -I..\..\..\..\..\macro\timer\tauj\src -I..\..\..\..\..\macro\timer\taub\lib -I..\..\..\..\..\macro\timer\taub\src -I..\..\..\..\..\macro\vdce\lib -I..\..\..\..\..\macro\vdce\src -I..\..\..\..\..\macro\vo\ddb\lib -I..\..\..\..\..\macro\vo\ddb\src -I..\..\..\..\..\macro\vo\spea\lib -I..\..\..\..\..\macro\vo\spea\src -I..\..\..\..\..\macro\vo\vowe\lib -I..\..\..\..\..\macro\vo\vowe\src -I..\..\..\..\..\macro\wm\lib -I..\..\..\..\..\macro\wm\src -I..\..\..\..\..\middleware\gfxutils\lib -I..\..\..\..\..\middleware\gfxutils\src -I..\..\..\..\..\device\d1mx\macro_cfg\csisw -I..\..\..\..\..\device\d1mx\macro_cfg\davehd -I..\..\..\..\..\device\d1mx\macro_cfg\ddb -I..\..\..\..\..\device\d1mx\macro_cfg\drw2d -I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus -I..\..\..\..\..\device\d1mx\macro_cfg\gpio -I..\..\..\..\..\device\d1mx\macro_cfg\hypb -I..\..\..\..\..\device\d1mx\macro_cfg\hypdb -I..\..\..\..\..\device\d1mx\macro_cfg\jcua -I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare -I..\..\..\..\..\device\d1mx\macro_cfg\octa -I..\..\..\..\..\device\d1mx\macro_cfg\octacdb -I..\..\..\..\..\device\d1mx\macro_cfg\ostm -I..\..\..\..\..\device\d1mx\macro_cfg\pbg -I..\..\..\..\..\device\d1mx\macro_cfg\riic -I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb -I..\..\..\..\..\device\d1mx\macro_cfg\sfma -I..\..\..\..\..\device\d1mx\macro_cfg\spea -I..\..\..\..\..\device\d1mx\macro_cfg\tauj -I..\..\..\..\..\device\d1mx\macro_cfg\tick -I..\..\..\..\..\device\d1mx\macro_cfg\vdce -I..\..\..\..\..\device\d1mx\macro_cfg\vowe -I..\..\..\..\..\device\d1mx\macro_cfg\wm -I..\..\..\..\..\device\d1mx\macro_cfg\xbus -I..\..\..\..\..\device\d1x_common\macro_cfg\csisw -I..\..\..\..\..\device\d1x_common\macro_cfg\davehd -I..\..\..\..\..\device\d1x_common\macro_cfg\ddb -I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d -I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus -I..\..\..\..\..\device\d1x_common\macro_cfg\gpio -I..\..\..\..\..\device\d1x_common\macro_cfg\hypb -I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb -I..\..\..\..\..\device\d1x_common\macro_cfg\jcua -I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare -I..\..\..\..\..\device\d1x_common\macro_cfg\octa -I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb -I..\..\..\..\..\device\d1x_common\macro_cfg\ostm -I..\..\..\..\..\device\d1x_common\macro_cfg\pbg -I..\..\..\..\..\device\d1x_common\macro_cfg\riic -I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb -I..\..\..\..\..\device\d1x_common\macro_cfg\sfma -I..\..\..\..\..\device\d1x_common\macro_cfg\spea -I..\..\..\..\..\device\d1x_common\macro_cfg\tauj -I..\..\..\..\..\device\d1x_common\macro_cfg\tick -I..\..\..\..\..\device\d1x_common\macro_cfg\vdce -I..\..\..\..\..\device\d1x_common\macro_cfg\vowe -I..\..\..\..\..\device\d1x_common\macro_cfg\wm -I..\..\..\..\..\device\d1x_common\macro_cfg\xbus -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY -IC:\ghs\comp_201715\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -nomacro -patch_dbo=G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\obj\state_machine.dbo -source=state_machine.c -o .\obj\gh_00005ts1.o -list=.\obj\state_machine.lst C:\Users\MANGESH\AppData\Local\Temp\gh_00005ts1.si 
+Original File: C:\Users\MANGESH\AppData\Local\Temp\gh_00005ts1.si
+Source File: state_machine.c
+Directory: G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+Host OS: Windows 7 Service Pack 1
+EASE: Copyright (C) 1983-2016 Green Hills Software.  All Rights Reserved.
+Release: MULTI v800-v2017.1.5-comp-P04
+Custom String: TOOLS-28024 unreached assembly routines deleted by linker
+Build Directory: [Directory] BTOWINBOX:c:/build_2017_1_bto/2017-10-04.2100-2017_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2017-1-bto/src@603992 (built by build)
+Revision Date: Thu Oct 05 10:11:26 2017
+
+Release Date: Tue Oct 10 02:48:58 2017
+
+                           1 --Driver Command: ccv850 -c -MD -I..\..\..\..\..\app\common\dhd
+                           2 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\res
+                           3 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src
+                           4 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\images
+                           5 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+                           6 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\config
+                           7 --		-I..\..\..\..\..\bsp\board\\config
+                           8 --		-I..\..\..\..\..\bsp\board\\src\gfx
+                           9 --		-I..\..\..\..\..\bsp\board\\src\hmi
+                          10 --		-I..\..\..\..\..\bsp\board\\src\stdio
+                          11 --		-I..\..\..\..\..\bsp\board\d1mx_mango\config
+                          12 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src
+                          13 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\gfx
+                          14 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\hmi
+                          15 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\stdio
+                          16 --		-I..\..\..\..\..\bsp\gfx\lib -I..\..\..\..\..\bsp\gfx\src
+                          17 --		-I..\..\..\..\..\bsp\hmi\lib -I..\..\..\..\..\bsp\hmi\src
+                          18 --		-I..\..\..\..\..\bsp\lib -I..\..\..\..\..\bsp\stdio\lib
+                          19 --		-I..\..\..\..\..\bsp\stdio\src -I..\..\..\..\..\cdi\lib
+                          20 --		-I..\..\..\..\..\cdi\src -I..\..\..\..\..\compiler\rh850_ghs\inc
+                          21 --		-I..\..\..\..\..\device\d1mx\lib
+                          22 --		-I..\..\..\..\..\device\d1mx\macro_cfg
+                          23 --		-I..\..\..\..\..\device\d1mx\src\dev
+                          24 --		-I..\..\..\..\..\device\d1mx\src\dhd
+                          25 --		-I..\..\..\..\..\device\d1mx\src\jcua
+                          26 --		-I..\..\..\..\..\device\d1mx\src\rh850_ghs
+                          27 --		-I..\..\..\..\..\device\d1mx\src\vowe
+                          28 --		-I..\..\..\..\..\device\d1x_common\macro_cfg
+                          29 --		-I..\..\..\..\..\device\d1x_common\src\csisw
+                          30 --		-I..\..\..\..\..\device\d1x_common\src\dev
+                          31 --		-I..\..\..\..\..\device\d1x_common\src\gfxbus
+                          32 --		-I..\..\..\..\..\device\d1x_common\src\gpio
+                          33 --		-I..\..\..\..\..\device\d1x_common\src\ostm
+                          34 --		-I..\..\..\..\..\device\d1x_common\src\pbg
+                          35 --		-I..\..\..\..\..\device\d1x_common\src\riic
+                          36 --		-I..\..\..\..\..\device\d1x_common\src\sfma
+                          37 --		-I..\..\..\..\..\device\d1x_common\src\spea
+                          38 --		-I..\..\..\..\..\device\d1x_common\src\tauj
+                          39 --		-I..\..\..\..\..\device\d1x_common\src\tick
+                          40 --		-I..\..\..\..\..\device\d1x_common\src\vdce
+                          41 --		-I..\..\..\..\..\device\d1x_common\src\wm
+                          42 --		-I..\..\..\..\..\device\d1x_common\src\dma
+                          43 --		-I..\..\..\..\..\device\d1x_common\src\g3dma
+                          44 --		-I..\..\..\..\..\device\d1x_common\src\xbus
+                          45 --		-I..\..\..\..\..\device\d1x_common\src\pcmp
+                          46 --		-I..\..\..\..\..\device\d1x_common\src\taub
+                          47 --		-I..\..\..\..\..\device\lib -I..\..\..\..\..\macro\bus\pbg\lib
+                          48 --		-I..\..\..\..\..\macro\bus\pbg\src
+                          49 --		-I..\..\..\..\..\macro\csi\csisw\lib
+
+                                                                      Page 2
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005ts1.si
+                          50 --		-I..\..\..\..\..\macro\csi\csisw\src
+                          51 --		-I..\..\..\..\..\macro\dma\dma\lib
+                          52 --		-I..\..\..\..\..\macro\dma\dma\src
+                          53 --		-I..\..\..\..\..\macro\dma\g3dma\lib
+                          54 --		-I..\..\..\..\..\macro\dma\g3dma\src
+                          55 --		-I..\..\..\..\..\macro\drw2d\lib
+                          56 --		-I..\..\..\..\..\macro\drw2d\platform\davehd
+                          57 --		-I..\..\..\..\..\macro\drw2d\platform\os\no_os
+                          58 --		-I..\..\..\..\..\macro\drw2d\src
+                          59 --		-I..\..\..\..\..\macro\flashc\sfcdb\lib
+                          60 --		-I..\..\..\..\..\macro\flashc\sfcdb\src
+                          61 --		-I..\..\..\..\..\macro\flashc\sfma\lib
+                          62 --		-I..\..\..\..\..\macro\flashc\sfma\src
+                          63 --		-I..\..\..\..\..\macro\gfxbus\lib
+                          64 --		-I..\..\..\..\..\macro\gfxbus\src
+                          65 --		-I..\..\..\..\..\macro\gfxbus\xbus\lib
+                          66 --		-I..\..\..\..\..\macro\gfxbus\xbus\src
+                          67 --		-I..\..\..\..\..\macro\gpio\lib -I..\..\..\..\..\macro\gpio\src
+                          68 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc
+                          69 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc\platform
+                          70 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx
+                          71 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\inc
+                          72 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx
+                          73 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge
+                          74 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\ree
+                          75 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\src
+                          76 --		-I..\..\..\..\..\macro\gpu\davehd\user\inc
+                          77 --		-I..\..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os
+                          78 --		-I..\..\..\..\..\macro\gpu\davehd\user\src
+                          79 --		-I..\..\..\..\..\macro\gpu\jcua\lib
+                          80 --		-I..\..\..\..\..\macro\gpu\jcua\src
+                          81 --		-I..\..\..\..\..\macro\i2c\riic\lib
+                          82 --		-I..\..\..\..\..\macro\i2c\riic\src
+                          83 --		-I..\..\..\..\..\macro\pwm\pcmp\lib
+                          84 --		-I..\..\..\..\..\macro\pwm\pcmp\src
+                          85 --		-I..\..\..\..\..\macro\tick\lib -I..\..\..\..\..\macro\tick\src
+                          86 --		-I..\..\..\..\..\macro\timer\ostm\lib
+                          87 --		-I..\..\..\..\..\macro\timer\ostm\src
+                          88 --		-I..\..\..\..\..\macro\timer\tauj\lib
+                          89 --		-I..\..\..\..\..\macro\timer\tauj\src
+                          90 --		-I..\..\..\..\..\macro\timer\taub\lib
+                          91 --		-I..\..\..\..\..\macro\timer\taub\src
+                          92 --		-I..\..\..\..\..\macro\vdce\lib -I..\..\..\..\..\macro\vdce\src
+                          93 --		-I..\..\..\..\..\macro\vo\ddb\lib
+                          94 --		-I..\..\..\..\..\macro\vo\ddb\src
+                          95 --		-I..\..\..\..\..\macro\vo\spea\lib
+                          96 --		-I..\..\..\..\..\macro\vo\spea\src
+                          97 --		-I..\..\..\..\..\macro\vo\vowe\lib
+                          98 --		-I..\..\..\..\..\macro\vo\vowe\src -I..\..\..\..\..\macro\wm\lib
+                          99 --		-I..\..\..\..\..\macro\wm\src
+                         100 --		-I..\..\..\..\..\middleware\gfxutils\lib
+                         101 --		-I..\..\..\..\..\middleware\gfxutils\src
+                         102 --		-I..\..\..\..\..\device\d1mx\macro_cfg\csisw
+                         103 --		-I..\..\..\..\..\device\d1mx\macro_cfg\davehd
+                         104 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ddb
+                         105 --		-I..\..\..\..\..\device\d1mx\macro_cfg\drw2d
+                         106 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus
+                         107 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gpio
+                         108 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypb
+                         109 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypdb
+                         110 --		-I..\..\..\..\..\device\d1mx\macro_cfg\jcua
+
+                                                                      Page 3
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005ts1.si
+                         111 --		-I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare
+                         112 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octa
+                         113 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octacdb
+                         114 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ostm
+                         115 --		-I..\..\..\..\..\device\d1mx\macro_cfg\pbg
+                         116 --		-I..\..\..\..\..\device\d1mx\macro_cfg\riic
+                         117 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb
+                         118 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfma
+                         119 --		-I..\..\..\..\..\device\d1mx\macro_cfg\spea
+                         120 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tauj
+                         121 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tick
+                         122 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vdce
+                         123 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vowe
+                         124 --		-I..\..\..\..\..\device\d1mx\macro_cfg\wm
+                         125 --		-I..\..\..\..\..\device\d1mx\macro_cfg\xbus
+                         126 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\csisw
+                         127 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\davehd
+                         128 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ddb
+                         129 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d
+                         130 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus
+                         131 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gpio
+                         132 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypb
+                         133 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb
+                         134 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\jcua
+                         135 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare
+                         136 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octa
+                         137 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb
+                         138 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ostm
+                         139 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\pbg
+                         140 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\riic
+                         141 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb
+                         142 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfma
+                         143 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\spea
+                         144 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tauj
+                         145 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tick
+                         146 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vdce
+                         147 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vowe
+                         148 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\wm
+                         149 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\xbus
+                         150 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY
+                         151 --		--no_commons --no_implicit_include --prototype_errors
+                         152 --		-DBSP_INIT_QOS_SDRAM_ORG -DDEVICE_TYPE_D1M1X -DBSP_INIT_SFMA_ORG
+                         153 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         154 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI_ORG -DUSE_BSP_HMI
+                         155 --		-DUSE_BSP_STDIO -DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB
+                         156 --		-DUSE_DMA -DUSE_DRW2D -DUSE_GFXBUS -DUSE_G3DMA -DUSE_GFXUTILS
+                         157 --		-DUSE_GPIO -DUSE_JCUA -DUSE_OSTM -DUSE_PCMP -DUSE_PBG -DUSE_RIIC
+                         158 --		-DUSE_SFCDB -DUSE_SFMA_ORG -DUSE_SPEA -DUSE_TAUB -DUSE_TAUJ
+                         159 --		-DUSE_TICK -DUSE_VDCE -DUSE_VOWE -DUSE_WM -DUSE_XBUS -G -MD
+                         160 --		-Odebug -Zuse1bit -allocate_ep -cpu=rh850g3m -large_sda -list
+                         161 --		-no_callt -notda -passsource -preprocess_assembly_files
+                         162 --		-registermode=22 -reserve_r2 --diag_warning 1 -object_dir=.\obj
+                         163 --		-DBSP_INIT_QOS_VRAM -DUSE_RSCAN -filetype.c
+                         164 --		..\..\..\..\gfx_apps\d1m1_flashdash_demo\src\state_machine.c -o
+                         165 --		.\obj\state_machine.o
+                         166 --Source File:   ..\..\..\..\gfx_apps\d1m1_flashdash_demo\src\state_machine.c
+                         167 --Directory:     
+                         168 --		G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+                         169 --Compile Date:  Sat Jan 12 14:23:31 2019
+                         170 --Host OS:       Win32
+                         171 --Version:       C-RH850 2017.1.5 RELEASE VERSION
+
+                                                                      Page 4
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005ts1.si
+                         172 --Release:       Compiler v2017.1.5
+                         173 --Revision Date: Tue Apr 11 09:29:40 2017
+                         174 --Release Date:  Tue Apr 11 11:12:26 2017
+                         175 -- ecom  -g -w
+                         176 
+                         177 --1: #include "r_typedefs.h"
+                         178 --2: #include "r_drw2d_os.h"
+                         179 --3: #include "r_drw2d_api.h"
+                         180 --5: #include "state_machine.h"
+                         181 --6: #include "scenes.h"
+                         182 --7: #include "main_scene.h"
+                         183 --8: #include "bench.h"
+                         184 --10: #include "r_tick_api.h"
+                         185 --11: #include "my_tell_tale.h"
+                         186 --12: #include "my_can.h"
+                         187 --14: typedef enum { 
+                         188 --15:     LOC_STATE_INIT,
+                         189 --16:     LOC_STATE_IDLE,
+                         190 --17:     LOC_STATE_APE,
+                         191 --18:     LOC_STATE_CONV,
+                         192 --19:     LOC_STATE_JPEG,
+                         193 --20:     LOC_STATE_MAIN
+                         194 --21: } loc_State_t;
+                         195 --23: static loc_State_t loc_State;
+                         196 --25: void FlashDash_Run(void)
+                         197 	.assert 0x0 + (.L118 - .L82) +0 == 4
+                         198 	.assert 0x0 + (.L117 - .L82) +0 == 0
+                         199 	.text
+                         200 ..bof.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine...47.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs..5C39AB0C..0::
+                         201 	.align	2
+                         202 	.align	2
+                         203 ..gh.f.a.2.e.0:
+                         204 	.type	..gh.f.a.2.e.0,@object
+                         205 	.size	..gh.f.a.2.e.0,0
+                         206 	.global	_FlashDash_Run
+                         207 _FlashDash_Run:
+00000000 8007e110        208 	prepare	{r27,r28,r29,r31},0
+00000004 3d0600000000*   209 	mov	.L82,r29
+0000000a 3dde0400        210 	movea	4,r29,r27
+0000000e 3c0600000000*   211 	mov	_rx_flag,r28
+                         212 --	    .bf
+                         213 .LDW01:
+                         214 --26: {
+                         215 --27: 	static uint32_t myCurrentTime = 0;
+                         216 --28: 	static uint32_t myStartTime = 0;
+                         217 --29: 	static uint32_t myElaspsedTime = 0;
+                         218 --30: 	static uint32_t myTellTaleTime = 0;
+                         219 --31:     loc_State = LOC_STATE_INIT;
+                         220 --line31
+                         221 ..lin.f1b0cfbe..f6f6c86.0_1::
+                         222 .LDWlin1:
+00000014 2b0600000000*   223 	mov	_loc_State,r11
+0000001a 6b070100        224 	st.w	zero,0[r11]
+                         225 --32: 	
+                         226 --33: 	//Init_MainScene(); /* Init all buffers (2 in this case) */
+                         227 --34:     //Init_MainScene(); /* Execute this twice */
+                         228 --35: 	myStartTime = R_TICK_GetTimeMS(0);
+                         229 --line35
+                         230 ..lin.f1b0cfbe..f6f6c86.0_2::
+                         231 .LDWlin2:
+0000001e 0032            232 	mov	0,r6
+
+                                                                      Page 5
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005ts1.si
+                         233 	jarl	_R_TICK_GetTimeMS,lp
+                         233 <EXPANSION BEGIN>
+                         233 jarl22 _R_TICK_GetTimeMS , lp 
+00000020 80ff0000*       233 <EXPANSION END>
+00000024 7d570100        234 	st.w	r10,0[r29]
+                         235 --36: 	myTellTaleTime = R_TICK_GetTimeMS(0);
+                         236 --line36
+                         237 ..lin.f1b0cfbe..f6f6c86.0_3::
+                         238 .LDWlin3:
+00000028 0032            239 	mov	0,r6
+                         240 	jarl	_R_TICK_GetTimeMS,lp
+                         240 <EXPANSION BEGIN>
+                         240 jarl22 _R_TICK_GetTimeMS , lp 
+0000002a 80ff0000*       240 <EXPANSION END>
+0000002e 7d570500        241 	st.w	r10,4[r29]
+                         242 --37: 	
+                         243 --38: 	FlashDash_OpeningScene();
+                         244 --line38
+                         245 ..lin.f1b0cfbe..f6f6c86.0_4::
+                         246 .LDWlin4:
+                         247 	jarl	_FlashDash_OpeningScene,lp
+                         247 <EXPANSION BEGIN>
+                         247 jarl22 _FlashDash_OpeningScene , lp 
+00000032 80ff0000*       247 <EXPANSION END>
+                         248 --39: 	
+                         249 --40: 	Init_Background();
+                         250 --line40
+                         251 ..lin.f1b0cfbe..f6f6c86.0_5::
+                         252 .LDWlin5:
+                         253 	jarl	_Init_Background,lp
+                         253 <EXPANSION BEGIN>
+                         253 jarl22 _Init_Background , lp 
+00000036 80ff0000*       253 <EXPANSION END>
+                         254 --41: 	
+                         255 --42:     
+                         256 --43:     for (;;)
+                         257 .L6:
+                         258 --44:     {
+                         259 --45: 		if((R_TICK_GetTimeMS(0) - myTellTaleTime) > 1500)
+                         260 --line45
+                         261 ..lin.f1b0cfbe..f6f6c86.0_6::
+                         262 .LDWlin6:
+0000003a 0032            263 	mov	0,r6
+                         264 	jarl	_R_TICK_GetTimeMS,lp
+                         264 <EXPANSION BEGIN>
+                         264 jarl22 _R_TICK_GetTimeMS , lp 
+0000003c 80ff0000*       264 <EXPANSION END>
+00000040 3d0f0500        265 	ld.w	4[r29],r1
+00000044 8a09            266 	subr	r10,r1
+00000046 010623fa        267 	addi	-1501,r1,zero
+0000004a 890d*           268 	bnl	.L8
+                         269 --46: 		{
+                         270 --47: 		  my_tell_tale_update();
+                         271 --line47
+                         272 ..lin.f1b0cfbe..f6f6c86.0_7::
+                         273 .LDWlin7:
+                         274 	jarl	_my_tell_tale_update,lp
+                         274 <EXPANSION BEGIN>
+                         274 jarl22 _my_tell_tale_update , lp 
+0000004c 80ff0000*       274 <EXPANSION END>
+                         275 --48: 		  myTellTaleTime = R_TICK_GetTimeMS(0);
+
+                                                                      Page 6
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005ts1.si
+                         276 --line48
+                         277 ..lin.f1b0cfbe..f6f6c86.0_8::
+                         278 .LDWlin8:
+00000050 0032            279 	mov	0,r6
+                         280 	jarl	_R_TICK_GetTimeMS,lp
+                         280 <EXPANSION BEGIN>
+                         280 jarl22 _R_TICK_GetTimeMS , lp 
+00000052 80ff0000*       280 <EXPANSION END>
+00000056 7d570500        281 	st.w	r10,4[r29]
+                         282 .L8:
+                         283 --49: 		}
+                         284 --50: 		my_update_flasher();
+                         285 --line50
+                         286 ..lin.f1b0cfbe..f6f6c86.0_9::
+                         287 .LDWlin9:
+                         288 	jarl	_my_update_flasher,lp
+                         288 <EXPANSION BEGIN>
+                         288 jarl22 _my_update_flasher , lp 
+0000005a 80ff0000*       288 <EXPANSION END>
+                         289 --51: 		
+                         290 --52: 		if(rx_flag)
+                         291 --line52
+                         292 ..lin.f1b0cfbe..f6f6c86.0_10::
+                         293 .LDWlin10:
+0000005e 9c0f0100        294 	ld.bu	0[r28],r1
+00000062 e009            295 	cmp	zero,r1
+00000064 d205*           296 	be	.L10
+                         297 --53: 		 {
+                         298 --54: 			 rx_flag = 0;
+                         299 --line54
+                         300 ..lin.f1b0cfbe..f6f6c86.0_11::
+                         301 .LDWlin11:
+00000066 5c070000        302 	st.b	zero,0[r28]
+                         303 --55: 			 my_can0_rx();
+                         304 	jarl	_my_can0_rx,lp
+                         304 <EXPANSION BEGIN>
+                         304 jarl22 _my_can0_rx , lp 
+0000006a 80ff0000*       304 <EXPANSION END>
+                         305 .L10:
+                         306 --56: 			
+                         307 --57: 			// if(my_immo_val == 0x46)
+                         308 --58: 			// {
+                         309 --59: 				// my_lock = 1;			
+                         310 --60: 			// }
+                         311 --61: 			
+                         312 --62: 		 }
+                         313 --63: 		 Refresh_MainScene();
+                         314 --line63
+                         315 ..lin.f1b0cfbe..f6f6c86.0_12::
+                         316 .LDWlin12:
+                         317 	jarl	_Refresh_MainScene,lp
+                         317 <EXPANSION BEGIN>
+                         317 jarl22 _Refresh_MainScene , lp 
+0000006e 80ff0000*       317 <EXPANSION END>
+                         318 --line43
+                         319 ..lin.f1b0cfbe..f6f6c86.0_13::
+                         320 .LDWlin13:
+00000072 c5e5*           321 	br	.L6
+                         322 --	    .ef
+                         323 .LDW11:
+                         324 ..lin.f1b0cfbe..f6f6c86.0_14::
+
+                                                                      Page 7
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005ts1.si
+                         325 .LDWlin14:
+                         326 	.type	_FlashDash_Run,@function
+                         327 	.size	_FlashDash_Run,.-_FlashDash_Run
+                         328 	.align	2
+                         329 .LDW21:
+                         330 --_myStartTime	.L117	static
+                         331 --_myTellTaleTime	.L118	static
+                         332 
+                         333 	.data
+                         334 	.align	4
+                         335 .L82:
+                         336 	.type	.L82,@object
+                         337 	.size	.L82,0
+                         338 	.section ".bss","awb"
+                         339 	.align	4
+                         340 	.global	_loc_State..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine.
+                         341 _loc_State..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine.:
+00000000 00000000        342 _loc_State:	.space	4
+                         343 	.type	_loc_State..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine.,@object
+                         344 	.size	_loc_State..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine.,4
+                         345 	.type	_loc_State,@object
+                         346 	.size	_loc_State,4
+                         347 	.data
+                         348 .L117:
+                         349 	.global	_myStartTime.FlashDash_Run.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine..1
+                         350 _myStartTime.FlashDash_Run.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine..1:
+00000000 00000000        351 	.byte	0,0,0,0
+                         352 	.type	_myStartTime.FlashDash_Run.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine..1,@object
+                         353 	.size	_myStartTime.FlashDash_Run.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine..1,4
+                         354 	.type	.L117,@object
+                         355 	.size	.L117,4
+                         356 .L118:
+                         357 	.global	_myTellTaleTime.FlashDash_Run.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine..2
+                         358 _myTellTaleTime.FlashDash_Run.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine..2:
+00000004 00000000        359 	.byte	0,0,0,0
+                         360 	.type	_myTellTaleTime.FlashDash_Run.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine..2,@object
+                         361 	.size	_myTellTaleTime.FlashDash_Run.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine..2,4
+                         362 	.type	.L118,@object
+                         363 	.size	.L118,4
+                         364 	.text
+                         365 
+                         366 --64: 	}
+                         367 --65: }
+                         368 	.align	2
+                         369 --_rx_flag	_rx_flag	import
+                         370 --_loc_State	_loc_State	static
+                         371 
+                         372 	.data
+                         373 	.ghsnote version,19
+                         374 	.ghsnote tools,3
+                         375 	.ghsnote options,656
+                         376 	.text
+                         377 	.align	2
+                         378 ..eof.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cstate_machine...47.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs..5C39AB0C..0::
+                         379 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M,SDA_EXTRA_REGS_0

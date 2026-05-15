@@ -1,0 +1,1468 @@
+                                                                      Page 1
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+Command Line: C:\ghs\comp_201715\ease850.exe -w -elf -b0 -I..\..\..\..\..\app\common\dhd -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\res -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\images -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\config -I..\..\..\..\..\bsp\board\\config -I..\..\..\..\..\bsp\board\\src\gfx -I..\..\..\..\..\bsp\board\\src\hmi -I..\..\..\..\..\bsp\board\\src\stdio -I..\..\..\..\..\bsp\board\d1mx_mango\config -I..\..\..\..\..\bsp\board\d1mx_mango\src -I..\..\..\..\..\bsp\board\d1mx_mango\src\gfx -I..\..\..\..\..\bsp\board\d1mx_mango\src\hmi -I..\..\..\..\..\bsp\board\d1mx_mango\src\stdio -I..\..\..\..\..\bsp\gfx\lib -I..\..\..\..\..\bsp\gfx\src -I..\..\..\..\..\bsp\hmi\lib -I..\..\..\..\..\bsp\hmi\src -I..\..\..\..\..\bsp\lib -I..\..\..\..\..\bsp\stdio\lib -I..\..\..\..\..\bsp\stdio\src -I..\..\..\..\..\cdi\lib -I..\..\..\..\..\cdi\src -I..\..\..\..\..\compiler\rh850_ghs\inc -I..\..\..\..\..\device\d1mx\lib -I..\..\..\..\..\device\d1mx\macro_cfg -I..\..\..\..\..\device\d1mx\src\dev -I..\..\..\..\..\device\d1mx\src\dhd -I..\..\..\..\..\device\d1mx\src\jcua -I..\..\..\..\..\device\d1mx\src\rh850_ghs -I..\..\..\..\..\device\d1mx\src\vowe -I..\..\..\..\..\device\d1x_common\macro_cfg -I..\..\..\..\..\device\d1x_common\src\csisw -I..\..\..\..\..\device\d1x_common\src\dev -I..\..\..\..\..\device\d1x_common\src\gfxbus -I..\..\..\..\..\device\d1x_common\src\gpio -I..\..\..\..\..\device\d1x_common\src\ostm -I..\..\..\..\..\device\d1x_common\src\pbg -I..\..\..\..\..\device\d1x_common\src\riic -I..\..\..\..\..\device\d1x_common\src\sfma -I..\..\..\..\..\device\d1x_common\src\spea -I..\..\..\..\..\device\d1x_common\src\tauj -I..\..\..\..\..\device\d1x_common\src\tick -I..\..\..\..\..\device\d1x_common\src\vdce -I..\..\..\..\..\device\d1x_common\src\wm -I..\..\..\..\..\device\d1x_common\src\dma -I..\..\..\..\..\device\d1x_common\src\g3dma -I..\..\..\..\..\device\d1x_common\src\xbus -I..\..\..\..\..\device\d1x_common\src\pcmp -I..\..\..\..\..\device\d1x_common\src\taub -I..\..\..\..\..\device\lib -I..\..\..\..\..\macro\bus\pbg\lib -I..\..\..\..\..\macro\bus\pbg\src -I..\..\..\..\..\macro\csi\csisw\lib -I..\..\..\..\..\macro\csi\csisw\src -I..\..\..\..\..\macro\dma\dma\lib -I..\..\..\..\..\macro\dma\dma\src -I..\..\..\..\..\macro\dma\g3dma\lib -I..\..\..\..\..\macro\dma\g3dma\src -I..\..\..\..\..\macro\drw2d\lib -I..\..\..\..\..\macro\drw2d\platform\davehd -I..\..\..\..\..\macro\drw2d\platform\os\no_os -I..\..\..\..\..\macro\drw2d\src -I..\..\..\..\..\macro\flashc\sfcdb\lib -I..\..\..\..\..\macro\flashc\sfcdb\src -I..\..\..\..\..\macro\flashc\sfma\lib -I..\..\..\..\..\macro\flashc\sfma\src -I..\..\..\..\..\macro\gfxbus\lib -I..\..\..\..\..\macro\gfxbus\src -I..\..\..\..\..\macro\gfxbus\xbus\lib -I..\..\..\..\..\macro\gfxbus\xbus\src -I..\..\..\..\..\macro\gpio\lib -I..\..\..\..\..\macro\gpio\src -I..\..\..\..\..\macro\gpu\davehd\common\inc -I..\..\..\..\..\macro\gpu\davehd\common\inc\platform -I..\..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx -I..\..\..\..\..\macro\gpu\davehd\kernel\inc -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\ree -I..\..\..\..\..\macro\gpu\davehd\kernel\src -I..\..\..\..\..\macro\gpu\davehd\user\inc -I..\..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os -I..\..\..\..\..\macro\gpu\davehd\user\src -I..\..\..\..\..\macro\gpu\jcua\lib -I..\..\..\..\..\macro\gpu\jcua\src -I..\..\..\..\..\macro\i2c\riic\lib -I..\..\..\..\..\macro\i2c\riic\src -I..\..\..\..\..\macro\pwm\pcmp\lib -I..\..\..\..\..\macro\pwm\pcmp\src -I..\..\..\..\..\macro\tick\lib -I..\..\..\..\..\macro\tick\src -I..\..\..\..\..\macro\timer\ostm\lib -I..\..\..\..\..\macro\timer\ostm\src -I..\..\..\..\..\macro\timer\tauj\lib -I..\..\..\..\..\macro\timer\tauj\src -I..\..\..\..\..\macro\timer\taub\lib -I..\..\..\..\..\macro\timer\taub\src -I..\..\..\..\..\macro\vdce\lib -I..\..\..\..\..\macro\vdce\src -I..\..\..\..\..\macro\vo\ddb\lib -I..\..\..\..\..\macro\vo\ddb\src -I..\..\..\..\..\macro\vo\spea\lib -I..\..\..\..\..\macro\vo\spea\src -I..\..\..\..\..\macro\vo\vowe\lib -I..\..\..\..\..\macro\vo\vowe\src -I..\..\..\..\..\macro\wm\lib -I..\..\..\..\..\macro\wm\src -I..\..\..\..\..\middleware\gfxutils\lib -I..\..\..\..\..\middleware\gfxutils\src -I..\..\..\..\..\device\d1mx\macro_cfg\csisw -I..\..\..\..\..\device\d1mx\macro_cfg\davehd -I..\..\..\..\..\device\d1mx\macro_cfg\ddb -I..\..\..\..\..\device\d1mx\macro_cfg\drw2d -I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus -I..\..\..\..\..\device\d1mx\macro_cfg\gpio -I..\..\..\..\..\device\d1mx\macro_cfg\hypb -I..\..\..\..\..\device\d1mx\macro_cfg\hypdb -I..\..\..\..\..\device\d1mx\macro_cfg\jcua -I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare -I..\..\..\..\..\device\d1mx\macro_cfg\octa -I..\..\..\..\..\device\d1mx\macro_cfg\octacdb -I..\..\..\..\..\device\d1mx\macro_cfg\ostm -I..\..\..\..\..\device\d1mx\macro_cfg\pbg -I..\..\..\..\..\device\d1mx\macro_cfg\riic -I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb -I..\..\..\..\..\device\d1mx\macro_cfg\sfma -I..\..\..\..\..\device\d1mx\macro_cfg\spea -I..\..\..\..\..\device\d1mx\macro_cfg\tauj -I..\..\..\..\..\device\d1mx\macro_cfg\tick -I..\..\..\..\..\device\d1mx\macro_cfg\vdce -I..\..\..\..\..\device\d1mx\macro_cfg\vowe -I..\..\..\..\..\device\d1mx\macro_cfg\wm -I..\..\..\..\..\device\d1mx\macro_cfg\xbus -I..\..\..\..\..\device\d1x_common\macro_cfg\csisw -I..\..\..\..\..\device\d1x_common\macro_cfg\davehd -I..\..\..\..\..\device\d1x_common\macro_cfg\ddb -I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d -I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus -I..\..\..\..\..\device\d1x_common\macro_cfg\gpio -I..\..\..\..\..\device\d1x_common\macro_cfg\hypb -I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb -I..\..\..\..\..\device\d1x_common\macro_cfg\jcua -I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare -I..\..\..\..\..\device\d1x_common\macro_cfg\octa -I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb -I..\..\..\..\..\device\d1x_common\macro_cfg\ostm -I..\..\..\..\..\device\d1x_common\macro_cfg\pbg -I..\..\..\..\..\device\d1x_common\macro_cfg\riic -I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb -I..\..\..\..\..\device\d1x_common\macro_cfg\sfma -I..\..\..\..\..\device\d1x_common\macro_cfg\spea -I..\..\..\..\..\device\d1x_common\macro_cfg\tauj -I..\..\..\..\..\device\d1x_common\macro_cfg\tick -I..\..\..\..\..\device\d1x_common\macro_cfg\vdce -I..\..\..\..\..\device\d1x_common\macro_cfg\vowe -I..\..\..\..\..\device\d1x_common\macro_cfg\wm -I..\..\..\..\..\device\d1x_common\macro_cfg\xbus -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY -IC:\ghs\comp_201715\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -nomacro -patch_dbo=G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\obj\font.dbo -source=font.c -o .\obj\gh_00006o01.o -list=.\obj\font.lst C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si 
+Original File: C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+Source File: font.c
+Directory: G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+Host OS: Windows 7 Service Pack 1
+EASE: Copyright (C) 1983-2016 Green Hills Software.  All Rights Reserved.
+Release: MULTI v800-v2017.1.5-comp-P04
+Custom String: TOOLS-28024 unreached assembly routines deleted by linker
+Build Directory: [Directory] BTOWINBOX:c:/build_2017_1_bto/2017-10-04.2100-2017_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2017-1-bto/src@603992 (built by build)
+Revision Date: Thu Oct 05 10:11:26 2017
+
+Release Date: Tue Oct 10 02:48:58 2017
+
+                           1 --Driver Command: ccv850 -c -MD -I..\..\..\..\..\app\common\dhd
+                           2 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\res
+                           3 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src
+                           4 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\images
+                           5 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+                           6 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\config
+                           7 --		-I..\..\..\..\..\bsp\board\\config
+                           8 --		-I..\..\..\..\..\bsp\board\\src\gfx
+                           9 --		-I..\..\..\..\..\bsp\board\\src\hmi
+                          10 --		-I..\..\..\..\..\bsp\board\\src\stdio
+                          11 --		-I..\..\..\..\..\bsp\board\d1mx_mango\config
+                          12 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src
+                          13 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\gfx
+                          14 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\hmi
+                          15 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\stdio
+                          16 --		-I..\..\..\..\..\bsp\gfx\lib -I..\..\..\..\..\bsp\gfx\src
+                          17 --		-I..\..\..\..\..\bsp\hmi\lib -I..\..\..\..\..\bsp\hmi\src
+                          18 --		-I..\..\..\..\..\bsp\lib -I..\..\..\..\..\bsp\stdio\lib
+                          19 --		-I..\..\..\..\..\bsp\stdio\src -I..\..\..\..\..\cdi\lib
+                          20 --		-I..\..\..\..\..\cdi\src -I..\..\..\..\..\compiler\rh850_ghs\inc
+                          21 --		-I..\..\..\..\..\device\d1mx\lib
+                          22 --		-I..\..\..\..\..\device\d1mx\macro_cfg
+                          23 --		-I..\..\..\..\..\device\d1mx\src\dev
+                          24 --		-I..\..\..\..\..\device\d1mx\src\dhd
+                          25 --		-I..\..\..\..\..\device\d1mx\src\jcua
+                          26 --		-I..\..\..\..\..\device\d1mx\src\rh850_ghs
+                          27 --		-I..\..\..\..\..\device\d1mx\src\vowe
+                          28 --		-I..\..\..\..\..\device\d1x_common\macro_cfg
+                          29 --		-I..\..\..\..\..\device\d1x_common\src\csisw
+                          30 --		-I..\..\..\..\..\device\d1x_common\src\dev
+                          31 --		-I..\..\..\..\..\device\d1x_common\src\gfxbus
+                          32 --		-I..\..\..\..\..\device\d1x_common\src\gpio
+                          33 --		-I..\..\..\..\..\device\d1x_common\src\ostm
+                          34 --		-I..\..\..\..\..\device\d1x_common\src\pbg
+                          35 --		-I..\..\..\..\..\device\d1x_common\src\riic
+                          36 --		-I..\..\..\..\..\device\d1x_common\src\sfma
+                          37 --		-I..\..\..\..\..\device\d1x_common\src\spea
+                          38 --		-I..\..\..\..\..\device\d1x_common\src\tauj
+                          39 --		-I..\..\..\..\..\device\d1x_common\src\tick
+                          40 --		-I..\..\..\..\..\device\d1x_common\src\vdce
+                          41 --		-I..\..\..\..\..\device\d1x_common\src\wm
+                          42 --		-I..\..\..\..\..\device\d1x_common\src\dma
+                          43 --		-I..\..\..\..\..\device\d1x_common\src\g3dma
+                          44 --		-I..\..\..\..\..\device\d1x_common\src\xbus
+                          45 --		-I..\..\..\..\..\device\d1x_common\src\pcmp
+                          46 --		-I..\..\..\..\..\device\d1x_common\src\taub
+                          47 --		-I..\..\..\..\..\device\lib -I..\..\..\..\..\macro\bus\pbg\lib
+                          48 --		-I..\..\..\..\..\macro\bus\pbg\src
+                          49 --		-I..\..\..\..\..\macro\csi\csisw\lib
+
+                                                                      Page 2
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                          50 --		-I..\..\..\..\..\macro\csi\csisw\src
+                          51 --		-I..\..\..\..\..\macro\dma\dma\lib
+                          52 --		-I..\..\..\..\..\macro\dma\dma\src
+                          53 --		-I..\..\..\..\..\macro\dma\g3dma\lib
+                          54 --		-I..\..\..\..\..\macro\dma\g3dma\src
+                          55 --		-I..\..\..\..\..\macro\drw2d\lib
+                          56 --		-I..\..\..\..\..\macro\drw2d\platform\davehd
+                          57 --		-I..\..\..\..\..\macro\drw2d\platform\os\no_os
+                          58 --		-I..\..\..\..\..\macro\drw2d\src
+                          59 --		-I..\..\..\..\..\macro\flashc\sfcdb\lib
+                          60 --		-I..\..\..\..\..\macro\flashc\sfcdb\src
+                          61 --		-I..\..\..\..\..\macro\flashc\sfma\lib
+                          62 --		-I..\..\..\..\..\macro\flashc\sfma\src
+                          63 --		-I..\..\..\..\..\macro\gfxbus\lib
+                          64 --		-I..\..\..\..\..\macro\gfxbus\src
+                          65 --		-I..\..\..\..\..\macro\gfxbus\xbus\lib
+                          66 --		-I..\..\..\..\..\macro\gfxbus\xbus\src
+                          67 --		-I..\..\..\..\..\macro\gpio\lib -I..\..\..\..\..\macro\gpio\src
+                          68 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc
+                          69 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc\platform
+                          70 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx
+                          71 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\inc
+                          72 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx
+                          73 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge
+                          74 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\ree
+                          75 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\src
+                          76 --		-I..\..\..\..\..\macro\gpu\davehd\user\inc
+                          77 --		-I..\..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os
+                          78 --		-I..\..\..\..\..\macro\gpu\davehd\user\src
+                          79 --		-I..\..\..\..\..\macro\gpu\jcua\lib
+                          80 --		-I..\..\..\..\..\macro\gpu\jcua\src
+                          81 --		-I..\..\..\..\..\macro\i2c\riic\lib
+                          82 --		-I..\..\..\..\..\macro\i2c\riic\src
+                          83 --		-I..\..\..\..\..\macro\pwm\pcmp\lib
+                          84 --		-I..\..\..\..\..\macro\pwm\pcmp\src
+                          85 --		-I..\..\..\..\..\macro\tick\lib -I..\..\..\..\..\macro\tick\src
+                          86 --		-I..\..\..\..\..\macro\timer\ostm\lib
+                          87 --		-I..\..\..\..\..\macro\timer\ostm\src
+                          88 --		-I..\..\..\..\..\macro\timer\tauj\lib
+                          89 --		-I..\..\..\..\..\macro\timer\tauj\src
+                          90 --		-I..\..\..\..\..\macro\timer\taub\lib
+                          91 --		-I..\..\..\..\..\macro\timer\taub\src
+                          92 --		-I..\..\..\..\..\macro\vdce\lib -I..\..\..\..\..\macro\vdce\src
+                          93 --		-I..\..\..\..\..\macro\vo\ddb\lib
+                          94 --		-I..\..\..\..\..\macro\vo\ddb\src
+                          95 --		-I..\..\..\..\..\macro\vo\spea\lib
+                          96 --		-I..\..\..\..\..\macro\vo\spea\src
+                          97 --		-I..\..\..\..\..\macro\vo\vowe\lib
+                          98 --		-I..\..\..\..\..\macro\vo\vowe\src -I..\..\..\..\..\macro\wm\lib
+                          99 --		-I..\..\..\..\..\macro\wm\src
+                         100 --		-I..\..\..\..\..\middleware\gfxutils\lib
+                         101 --		-I..\..\..\..\..\middleware\gfxutils\src
+                         102 --		-I..\..\..\..\..\device\d1mx\macro_cfg\csisw
+                         103 --		-I..\..\..\..\..\device\d1mx\macro_cfg\davehd
+                         104 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ddb
+                         105 --		-I..\..\..\..\..\device\d1mx\macro_cfg\drw2d
+                         106 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus
+                         107 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gpio
+                         108 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypb
+                         109 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypdb
+                         110 --		-I..\..\..\..\..\device\d1mx\macro_cfg\jcua
+
+                                                                      Page 3
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                         111 --		-I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare
+                         112 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octa
+                         113 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octacdb
+                         114 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ostm
+                         115 --		-I..\..\..\..\..\device\d1mx\macro_cfg\pbg
+                         116 --		-I..\..\..\..\..\device\d1mx\macro_cfg\riic
+                         117 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb
+                         118 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfma
+                         119 --		-I..\..\..\..\..\device\d1mx\macro_cfg\spea
+                         120 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tauj
+                         121 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tick
+                         122 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vdce
+                         123 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vowe
+                         124 --		-I..\..\..\..\..\device\d1mx\macro_cfg\wm
+                         125 --		-I..\..\..\..\..\device\d1mx\macro_cfg\xbus
+                         126 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\csisw
+                         127 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\davehd
+                         128 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ddb
+                         129 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d
+                         130 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus
+                         131 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gpio
+                         132 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypb
+                         133 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb
+                         134 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\jcua
+                         135 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare
+                         136 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octa
+                         137 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb
+                         138 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ostm
+                         139 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\pbg
+                         140 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\riic
+                         141 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb
+                         142 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfma
+                         143 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\spea
+                         144 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tauj
+                         145 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tick
+                         146 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vdce
+                         147 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vowe
+                         148 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\wm
+                         149 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\xbus
+                         150 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY
+                         151 --		--no_commons --no_implicit_include --prototype_errors
+                         152 --		-DBSP_INIT_QOS_SDRAM_ORG -DDEVICE_TYPE_D1M1X -DBSP_INIT_SFMA_ORG
+                         153 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         154 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI_ORG -DUSE_BSP_HMI
+                         155 --		-DUSE_BSP_STDIO -DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB
+                         156 --		-DUSE_DMA -DUSE_DRW2D -DUSE_GFXBUS -DUSE_G3DMA -DUSE_GFXUTILS
+                         157 --		-DUSE_GPIO -DUSE_JCUA -DUSE_OSTM -DUSE_PCMP -DUSE_PBG -DUSE_RIIC
+                         158 --		-DUSE_SFCDB -DUSE_SFMA_ORG -DUSE_SPEA -DUSE_TAUB -DUSE_TAUJ
+                         159 --		-DUSE_TICK -DUSE_VDCE -DUSE_VOWE -DUSE_WM -DUSE_XBUS -G -MD
+                         160 --		-Odebug -Zuse1bit -allocate_ep -cpu=rh850g3m -large_sda -list
+                         161 --		-no_callt -notda -passsource -preprocess_assembly_files
+                         162 --		-registermode=22 -reserve_r2 --diag_warning 1 -object_dir=.\obj
+                         163 --		-DBSP_INIT_QOS_VRAM -DUSE_RSCAN -filetype.c
+                         164 --		..\..\..\..\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY\font.c -o
+                         165 --		.\obj\font.o
+                         166 --Source File:   ..\..\..\..\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY\font.c
+                         167 --Directory:     
+                         168 --		G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+                         169 --Compile Date:  Sat Jan 12 14:23:24 2019
+                         170 --Host OS:       Win32
+                         171 --Version:       C-RH850 2017.1.5 RELEASE VERSION
+
+                                                                      Page 4
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                         172 --Release:       Compiler v2017.1.5
+                         173 --Revision Date: Tue Apr 11 09:29:40 2017
+                         174 --Release Date:  Tue Apr 11 11:12:26 2017
+                         175 -- ecom  -g -w
+                         176 
+                         177 --1: /*
+                         178 --2: ****************************************************************************
+                         179 --3: PROJECT : DRW2D test
+                         180 --4: FILE    : $Id: font.c 11006 2016-11-07 16:32:44Z michael.golczewski $
+                         181 --5: ============================================================================ 
+                         182 --6: DESCRIPTION
+                         183 --7: DRW2D test
+                         184 --8: ============================================================================
+                         185 --9:                             C O P Y R I G H T
+                         186 --10: ============================================================================
+                         187 --11:                            Copyright (c) 2013 - 2014
+                         188 --12:                                   by
+                         189 --13:                        Renesas Electronics (Europe) GmbH.
+                         190 --14:                            Arcadiastrasse 10
+                         191 --15:                           D-40472 Duesseldorf
+                         192 --16:                                Germany
+                         193 --17:                           All rights reserved.
+                         194 --18: ============================================================================
+                         195 --20: DISCLAIMER
+                         196 --22: LICENSEE has read, understood and accepted the terms and conditions defined in
+                         197 --23: the license agreement, especially the usage rights. In any case, it is
+                         198 --24: LICENSEE's responsibility to make sure that any user of the software complies
+                         199 --25: with the terms and conditions of the signed license agreement.
+                         200 --27: ****************************************************************************
+                         201 --28: */
+                         202 --30: /***********************************************************
+                         203 --31:   Title: test_022.c  (cube3d_solid)
+                         204 --32: */
+                         205 --34: #include "r_typedefs.h"
+                         206 --36: #include "r_cdi_api.h"
+                         207 --37: #include "r_drw2d_os.h"
+                         208 --38: #include "r_drw2d_api.h"
+                         209 --39: #include "r_config_drw2d.h"
+                         210 --40: #include "r_drw2d_ctx_dhd.h"
+                         211 --41: #include "r_ddb_api.h"
+                         212 --42: #include "r_wm_api.h"
+                         213 --43: #include "scenes.h"
+                         214 --44: #include "drw_wrap.h"
+                         215 --45: #include "mem_init.h"
+                         216 --46: #include "sprite.h"
+                         217 --47: #include "wm.h"
+                         218 --48: #include "fs_data.h"
+                         219 --49: #include "fs_data_res.h"
+                         220 --50: #include "r_bsp_stdio_api.h"
+                         221 --51: #ifndef _WINDOWS
+                         222 --52: #include "r_gfxutils_api.h"
+                         223 --53: #endif
+                         224 --54: #include "r_util_dhd.h"
+                         225 --55: #include "load_to_ram.h"
+                         226 --56: #include "math.h"
+                         227 --57: #include "jpeg.h"
+                         228 --58: #include "r_tick_api.h"
+                         229 --59: #include "bench.h"
+                         230 --60: #include "car_model.h"
+                         231 --61: #include "main_scene.h"
+                         232 --62: #include "davehd_types.h"          /* Required for error-free inclusion of "davehd_registertypes.h" */
+
+                                                                      Page 5
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                         233 --63: #include "davehd_registertypes.h"  /* Required for profiling */
+                         234 --64: #include "davehd_driver.h"
+                         235 --65: #include "state_machine.h"
+                         236 --66: #include "font.h"
+                         237 --68: extern r_drw2d_Texture_t font_fixedsys12;
+                         238 --70: extern r_drw2d_Texture_t my_odo_font_texture;
+                         239 --71: extern uint8_t odo_string;
+                         240 --73: #if 1
+                         241 --74: static const FontPos_t _FontStatusPos[] = {
+                         242 --75:     { 0, 4}, /*   */
+                         243 --76:     { 4, 5}, /* ! */
+                         244 --77:     { 9, 6}, /* " */
+                         245 --78:     { 15, 10}, /* # */
+                         246 --79:     { 25, 8}, /* $ */
+                         247 --80:     { 33, 13}, /* % */
+                         248 --81:     { 46, 9}, /* & */
+                         249 --82:     { 55, 3}, /* ' */
+                         250 --83:     { 58, 5}, /* ( */
+                         251 --84:     { 63, 5}, /* ) */
+                         252 --85:     { 68, 8}, /* * */
+                         253 --86:     { 76, 9}, /* + */
+                         254 --87:     { 85, 4}, /* , */
+                         255 --88:     { 89, 5}, /* - */
+                         256 --89:     { 94, 4}, /* . */
+                         257 --90:     { 98, 5}, /* / */
+                         258 --92: 	{ 0, 40}, /* 0 */
+                         259 --93:     { 40, 30}, /* 1 */
+                         260 --94:     { 72, 40}, /* 2 */
+                         261 --95:     { 116, 42}, /* 3 */
+                         262 --96:     { 166, 40}, /* 4 */
+                         263 --97:     { 212, 42}, /* 5 */
+                         264 --98:     { 258, 42}, /* 6 */
+                         265 --99:     { 306, 40}, /* 7 */
+                         266 --100:     { 352, 42}, /* 8 */
+                         267 --101:     { 400, 42}, /* 9 */
+                         268 --102:     
+                         269 --104: };
+                         270 --105: #endif
+                         271 --107: #if 1
+                         272 --108: static const FontPos_t my_odo_font_info[] = {
+                         273 --109:     { 0, 14}, /*   */
+                         274 --110:     { 32, 20}, /* ! */
+                         275 --111:     { 58, 20}, /* " */
+                         276 --112:     { 84, 28}, /* # */
+                         277 --113:     { 124, 22}, /* $ */
+                         278 --114:     { 160, 30}, /* % */
+                         279 --115:     { 202, 26}, /* & */
+                         280 --116:     { 234, 16}, /* ' */
+                         281 --117:     { 258, 18}, /* ( */
+                         282 --118:     { 288, 18}, /* ) */
+                         283 --119:     { 314, 22}, /* * */
+                         284 --120:     { 348, 20}, /* + */
+                         285 --121:     { 380, 18}, /* , */
+                         286 --122:     { 404, 20}, /* - */
+                         287 --123:     { 432, 18}, /* . */
+                         288 --124:     { 456, 26}, /* / */
+                         289 --126: #if 0
+                         290 --127: 	{ 516+0, 22}, /* 0 */
+                         291 --128:     { 516+24, 14}, /* 1 */
+                         292 --129:     { 516+48, 22}, /* 2 */
+                         293 --130:     { 516+76, 22}, /* 3 */
+
+                                                                      Page 6
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                         294 --131:     { 516+104, 22}, /* 4 */
+                         295 --132:     { 516+134, 22}, /* 5 */
+                         296 --133:     { 516+162, 22}, /* 6 */
+                         297 --134:     { 516+192, 22}, /* 7 */
+                         298 --135:     { 516+220, 22}, /* 8 */
+                         299 --136:     { 516+250, 22}, /* 9 */
+                         300 --137: #endif 
+                         301 --139: 	{ 516, 22}, /* 0 */
+                         302 --140:     { 540, 14}, /* 1 */
+                         303 --141:     { 554, 22}, /* 2 */
+                         304 --142:     { 580, 22}, /* 3 */
+                         305 --143:     { 605, 22}, /* 4 */
+                         306 --144:     { 630, 22}, /* 5 */
+                         307 --145:     { 655, 22}, /* 6 */
+                         308 --146:     { 680, 22}, /* 7 */
+                         309 --147:     { 705, 22}, /* 8 */
+                         310 --148:     { 730, 22}, /* 9 */
+                         311 --149: 	
+                         312 --150: 	{ 492, 14}, /* : */
+                         313 --151: 	
+                         314 --152: 	{ 760, 12}, /* Degree Symbol */
+                         315 --153: 	{ 778, 12}, /* C Symbol */
+                         316 --154: 	{ 790, 24}, /* km Symbol */
+                         317 --155: 	{ 814, 24}, /* am Symbol */
+                         318 --156: 	{ 838, 24}, /* pm Symbol */
+                         319 --157: 	
+                         320 --158: 	
+                         321 --159: };
+                         322 --160: #endif
+                         323 --163: /***********************************************************
+                         324 --164:   Function: locGetCharRemapping
+                         325 --165: */
+                         326 --167: int locGetCharRemapping(unsigned char Character) {
+                         327 	.text
+                         328 ..bof.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont...47.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs..5C39AB05..0::
+                         329 	.align	2
+                         330 	.align	2
+                         331 ..gh.f.a.2.e.0:
+                         332 	.type	..gh.f.a.2.e.0,@object
+                         333 	.size	..gh.f.a.2.e.0,0
+                         334 	.global	_locGetCharRemapping
+                         335 _locGetCharRemapping:
+00000000 8600            336 	zxb	r6
+                         337 --	    .bf
+                         338 .LDW01:
+                         339 --168:     int c;
+                         340 --169:     
+                         341 --170:     /* Character remapping */
+                         342 --171:     if ((Character >= 32) && (Character < 128)) {
+00000002 0606e0ff        343 	addi	-32,r6,zero
+00000006 f905*           344 	bnl	.L4
+00000008 060680ff        345 	addi	-128,r6,zero
+0000000c c105*           346 	bl	.L4
+                         347 --172:         /* visible ASCII characters start with 32 (blank)
+                         348 --173:            not visible chars 0-31 and will be omitted */
+                         349 --174:         c = (Character - 32);
+                         350 --line174
+                         351 ..lin.5fabaf00..e5be0e03.0_1::
+                         352 .LDWlin1:
+0000000e 060ee0ff        353 	addi	-32,r6,r1
+00000012 850d*           354 	br	.L7
+
+                                                                      Page 7
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                         355 .L4:
+                         356 --175:     } else {
+                         357 --176:         switch (Character) {
+                         358 --line176
+                         359 ..lin.5fabaf00..e5be0e03.0_2::
+                         360 .LDWlin2:
+00000014 060650ff        361 	addi	-176,r6,zero
+00000018 ca05*           362 	bne	.L10
+                         363 --177:             case 0xB0:
+                         364 --178:             	  /* special remapping for non ASCII character 'degree' (° or 0xB0)
+                         365 --179:             	     non visible char DEL (127) will be used for 'degree' */
+                         366 --180:                 c = (127 - 32);
+                         367 --line180
+                         368 ..lin.5fabaf00..e5be0e03.0_3::
+                         369 .LDWlin3:
+0000001a 200e5f00        370 	movea	95,zero,r1
+                         371 --181:                 break;
+                         372 --182:             default:
+0000001e a505*           373 	br	.L7
+                         374 .L10:
+                         375 --183:                 /* use blank as default */
+                         376 --184:                 c = 0;
+                         377 --line184
+                         378 ..lin.5fabaf00..e5be0e03.0_4::
+                         379 .LDWlin4:
+00000020 000a            380 	mov	0,r1
+                         381 --185:                 break;
+                         382 .L7:
+                         383 --186:         }
+                         384 --187:     }
+                         385 --188:     return c;
+00000022 0150            386 	mov	r1,r10
+                         387 --	    .ef
+                         388 .LDW11:
+                         389 	.jumptype return
+00000024 7f00            390 	jmp	[lp]
+                         391 ..lin.5fabaf00..e5be0e03.0_5::
+                         392 .LDWlin5:
+                         393 	.type	_locGetCharRemapping,@function
+                         394 	.size	_locGetCharRemapping,.-_locGetCharRemapping
+                         395 	.align	2
+                         396 .LDW21:
+                         397 --_c	r1	local
+                         398 
+                         399 --_Character	r6	param
+                         400 
+                         401 	.section ".bss","awb"
+                         402 .L62:
+                         403 	.type	.L62,@object
+                         404 	.size	.L62,0
+                         405 	.data
+                         406 	.text
+                         407 
+                         408 --189: }
+                         409 
+                         410 --192: /***********************************************************
+                         411 --193:   Function: locWriteChar
+                         412 --195:   Write a single character.
+                         413 --197:   Use the currently selected buffer, font and color to draw
+                         414 --198:   a character at the given position.
+                         415 --200:   Parameters:
+
+                                                                      Page 8
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                         416 --201:   Dev        - D/AVE 2D device structure
+                         417 --202:   PosX       - Display X position (not turned)
+                         418 --203:   PosY       - Display Y position (not turned)
+                         419 --204:   Character  - ASCII value of the character
+                         420 --206:   Returns:
+                         421 --207:   void
+                         422 --208: */
+                         423 --209: uint32_t my_color = 0xffff0000;
+                         424 --210: static void locWriteChar(int PosX, int PosY, unsigned char Character, unsigned char change_color, unsigned char label) 
+                         425 	.align	2
+                         426 	.assert 0x0 + (.L302 - .L234) +0 == 32
+                         427 	.assert 0x0 + (.L300 - .L234) +0 == 0
+                         428 	.assert 0x0 + (.L301 - .L234) +0 == 16
+                         429 	.align	2
+                         430 	.align	2
+                         431 	.align	2
+                         432 ..gh.f.a.2.e.1:
+                         433 	.type	..gh.f.a.2.e.1,@object
+                         434 	.size	..gh.f.a.2.e.1,0
+                         435 	.global	_locWriteChar..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.
+                         436 _locWriteChar..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.:
+                         437 _locWriteChar:
+00000026 8a07e170        438 	prepare	{r25,r26,r27,r28,r29,r31},5
+0000002a 63370d00        439 	st.w	r6,12[sp]
+0000002e 0958            440 	mov	r9,r11
+00000030 8b00            441 	zxb	r11
+00000032 3d0600000000*   442 	mov	.L234,r29
+00000038 633f1100        443 	st.w	r7,16[sp]
+0000003c 8800            444 	zxb	r8
+0000003e 435f0300        445 	st.b	r11,3[sp]
+00000042 1dd8            446 	mov	r29,r27
+00000044 3dd61000        447 	movea	16,r29,r26
+00000048 3c0600000000*   448 	mov	_g_Drw2dDev,r28
+0000004e 390600000000*   449 	mov	_my_odo_font_info,r25
+                         450 --	    .bf
+                         451 .LDW31:
+                         452 --211: {
+                         453 --212:     static r_drw2d_Rect_t srcRect;
+                         454 --213:     static r_drw2d_Rect_t dstRect;
+                         455 --215:     char      c;
+                         456 --217:     c = locGetCharRemapping(Character);
+                         457 --line217
+                         458 ..lin.5fabaf00..5f52af2b.0_6::
+                         459 .LDWlin6:
+00000054 0830            460 	mov	r8,r6
+                         461 	jarl	_locGetCharRemapping,lp
+                         461 <EXPANSION BEGIN>
+                         461 jarl22 _locGetCharRemapping , lp 
+00000056 bfffaaff*       461 <EXPANSION END>
+0000005a aa00            462 	sxb	r10
+0000005c 0a08            463 	mov	r10,r1
+                         464 --218:     
+                         465 --219: 	switch(label)
+                         466 --line219
+                         467 ..lin.5fabaf00..5f52af2b.0_7::
+                         468 .LDWlin7:
+0000005e 83772d00        469 	ld.bu	44[sp],r14
+00000062 6172            470 	cmp	1,r14
+00000064 b105*           471 	bl	.L105
+00000066 d21d*           472 	be	.L106
+00000068 8535*           473 	br	.L108
+
+                                                                      Page 9
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                         474 .L105:
+                         475 --220: 	{
+                         476 --221: 		case 0:
+                         477 --222: 			srcRect.Pos.X       = R_DRW2D_2X(_FontStatusPos[c].Offset);
+                         478 --line222
+                         479 ..lin.5fabaf00..5f52af2b.0_8::
+                         480 .LDWlin8:
+0000006a 01f0            481 	mov	r1,ep
+0000006c c3f2            482 	shl	3,ep
+0000006e 2b0600000000*   483 	mov	__FontStatusPos,r11
+00000074 cbf1            484 	add	r11,ep
+00000076 0075            485 	sld.w	0[ep],r14
+00000078 d072            486 	shl	16,r14
+0000007a 7d770100        487 	st.w	r14,0[r29]
+                         488 --223: 			srcRect.Pos.Y       = 0; 
+                         489 --line223
+                         490 ..lin.5fabaf00..5f52af2b.0_9::
+                         491 .LDWlin9:
+0000007e 7d070500        492 	st.w	zero,4[r29]
+                         493 --224: 			srcRect.Size.Width  = R_DRW2D_2X(_FontStatusPos[c].Width); 
+00000082 c30a            494 	shl	3,r1
+00000084 2b0600000000*   495 	mov	__FontStatusPos,r11
+0000008a 01f0            496 	mov	r1,ep
+0000008c cbf1            497 	add	r11,ep
+0000008e 020d            498 	sld.w	4[ep],r1
+00000090 d00a            499 	shl	16,r1
+00000092 7d0f0900        500 	st.w	r1,8[r29]
+                         501 --225: 			srcRect.Size.Height = R_DRW2D_2X(64); 	// For Speed fonts
+                         502 --line225
+                         503 ..lin.5fabaf00..5f52af2b.0_10::
+                         504 .LDWlin10:
+00000096 400e4000        505 	movhi	hi(4194304),zero,r1
+0000009a 7d0f0d00        506 	st.w	r1,12[r29]
+                         507 --226: 			 
+                         508 --227: 			
+                         509 --228: 			break;
+                         510 --229: 			
+                         511 --230: 		case 1:
+                         512 --line228
+                         513 ..lin.5fabaf00..5f52af2b.0_11::
+                         514 .LDWlin11:
+0000009e d515*           515 	br	.L108
+                         516 .L106:
+                         517 --231: 			srcRect.Pos.X       = R_DRW2D_2X(my_odo_font_info[c].Offset);
+                         518 --line231
+                         519 ..lin.5fabaf00..5f52af2b.0_12::
+                         520 .LDWlin12:
+000000a0 01f0            521 	mov	r1,ep
+000000a2 c3f2            522 	shl	3,ep
+000000a4 d9f1            523 	add	r25,ep
+000000a6 0075            524 	sld.w	0[ep],r14
+000000a8 d072            525 	shl	16,r14
+000000aa 7d770100        526 	st.w	r14,0[r29]
+                         527 --232: 			srcRect.Pos.Y       = 0;
+000000ae 7d070500        528 	st.w	zero,4[r29]
+                         529 --233: 			srcRect.Size.Width  = R_DRW2D_2X(my_odo_font_info[c].Width); 
+000000b2 c30a            530 	shl	3,r1
+000000b4 01f0            531 	mov	r1,ep
+000000b6 d9f1            532 	add	r25,ep
+000000b8 020d            533 	sld.w	4[ep],r1
+000000ba d00a            534 	shl	16,r1
+
+                                                                      Page 10
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+000000bc 7d0f0900        535 	st.w	r1,8[r29]
+                         536 --234: 			srcRect.Size.Height = R_DRW2D_2X(34); 	// For Odo fonts
+000000c0 400e2200        537 	movhi	hi(2228224),zero,r1
+000000c4 7d0f0d00        538 	st.w	r1,12[r29]
+                         539 --235: 			break;
+                         540 .L108:
+                         541 --236: 	
+                         542 --237: 	}
+                         543 --238: 	
+                         544 --239: /*	
+                         545 --240:     srcRect.Pos.X       = R_DRW2D_2X(_FontStatusPos[c].Offset);
+                         546 --241: 	//srcRect.Pos.X       = R_DRW2D_2X(my_odo_font_info[c].Offset);
+                         547 --242: 	
+                         548 --243:     srcRect.Pos.Y       = 0; 
+                         549 --244:     srcRect.Size.Width  = R_DRW2D_2X(_FontStatusPos[c].Width); 
+                         550 --245: 	//srcRect.Size.Width  = R_DRW2D_2X(my_odo_font_info[c].Width); 
+                         551 --246: 	
+                         552 --247:     //srcRect.Size.Height = R_DRW2D_2X(16); 
+                         553 --248: 	srcRect.Size.Height = R_DRW2D_2X(64); 	// For Speed fonts
+                         554 --249: 	//srcRect.Size.Height = R_DRW2D_2X(34); 	// For Odo fonts
+                         555 --250: */    
+                         556 --251:     dstRect.Pos.X       = R_DRW2D_2X(PosX);
+                         557 --line251
+                         558 ..lin.5fabaf00..5f52af2b.0_13::
+                         559 .LDWlin13:
+000000c8 235f0d00        560 	ld.w	12[sp],r11
+000000cc 0b08            561 	mov	r11,r1
+000000ce d00a            562 	shl	16,r1
+000000d0 7d0f1100        563 	st.w	r1,16[r29]
+                         564 --252:     dstRect.Pos.Y       = R_DRW2D_2X(PosY); 
+000000d4 235f1100        565 	ld.w	16[sp],r11
+000000d8 0b08            566 	mov	r11,r1
+000000da d00a            567 	shl	16,r1
+000000dc 7d0f1500        568 	st.w	r1,20[r29]
+                         569 --253:     dstRect.Size.Width  = srcRect.Size.Width; 
+000000e0 3d0f0900        570 	ld.w	8[r29],r1
+000000e4 7d0f1900        571 	st.w	r1,24[r29]
+                         572 --254:     dstRect.Size.Height = srcRect.Size.Height;     
+000000e8 3d0f0d00        573 	ld.w	12[r29],r1
+000000ec 7d0f1d00        574 	st.w	r1,28[r29]
+                         575 --255:     
+                         576 --256:     if(change_color)
+000000f0 a35f0300        577 	ld.bu	3[sp],r11
+000000f4 e059            578 	cmp	zero,r11
+000000f6 922d*           579 	be	.L109
+                         580 --257: 	{
+                         581 --	    .bs
+                         582 .LDW41:
+                         583 --258: 		//================= START: ONLY RED effect =================================	
+                         584 --260: 		static r_drw2d_EffectStage_t Effects[1];
+                         585 --261: 		static unsigned char needle_blink_count;
+                         586 --263: 		Effects[0].Name = R_DRW2D_EFFECT_MODULATE;
+                         587 --line263
+                         588 ..lin.5fabaf00..5f52af2b.0_14::
+                         589 .LDWlin14:
+000000f8 010a            590 	mov	1,r1
+000000fa 7d0f2100        591 	st.w	r1,32[r29]
+                         592 --264: 		Effects[0].Args[0].Source = R_DRW2D_EFFECT_SOURCE_TEXTURE_UNIT;
+000000fe 7d072500        593 	st.w	zero,36[r29]
+                         594 --265: 		Effects[0].Args[0].Param.Color.Source.TextureUnit = 0;
+00000102 7d072900        595 	st.w	zero,40[r29]
+
+                                                                      Page 11
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                         596 --266: 		Effects[0].Args[0].Param.Color.Operand = R_DRW2D_EFFECT_COLOR_OPERAND_RGBA;
+00000106 7d072d00        597 	st.w	zero,44[r29]
+                         598 --267: 		Effects[0].Args[1].Source = R_DRW2D_EFFECT_SOURCE_CONSTANT_COLOR;
+0000010a 010a            599 	mov	1,r1
+0000010c 7d0f3100        600 	st.w	r1,48[r29]
+                         601 --268: 		Effects[0].Args[1].Param.Color.Source.ConstantColor = my_color;//0xffff0000;//my_color;
+00000110 210600000000*   602 	mov	_my_color,r1
+00000116 210f0100        603 	ld.w	0[r1],r1
+0000011a 7d0f3500        604 	st.w	r1,52[r29]
+                         605 --269: 		Effects[0].Args[1].Param.Color.Operand = R_DRW2D_EFFECT_COLOR_OPERAND_RGBA;
+                         606 --line269
+                         607 ..lin.5fabaf00..5f52af2b.0_15::
+                         608 .LDWlin15:
+0000011e 7d073900        609 	st.w	zero,56[r29]
+                         610 --271: 		
+                         611 --272: 		R_DRW2D_CtxEffectsSet(g_Drw2dDev, Effects, 1);
+00000122 3c370100        612 	ld.w	0[r28],r6
+00000126 0142            613 	mov	1,r8
+00000128 270600000000*   614 	mov	.L302,r7
+                         615 	jarl	_R_DRW2D_CtxEffectsSet,lp
+                         615 <EXPANSION BEGIN>
+                         615 jarl22 _R_DRW2D_CtxEffectsSet , lp 
+0000012e 80ff0000*       615 <EXPANSION END>
+                         616 --273: 			
+                         617 --274: 	//================= END: ONLY RED effect =================================	
+                         618 --275: 		R_DRW2D_TextureBlit(g_Drw2dDev,&srcRect,&dstRect);
+                         619 --line275
+                         620 ..lin.5fabaf00..5f52af2b.0_16::
+                         621 .LDWlin16:
+00000132 3c370100        622 	ld.w	0[r28],r6
+00000136 1b38            623 	mov	r27,r7
+00000138 1a40            624 	mov	r26,r8
+                         625 	jarl	_R_DRW2D_TextureBlit,lp
+                         625 <EXPANSION BEGIN>
+                         625 jarl22 _R_DRW2D_TextureBlit , lp 
+0000013a 80ff0000*       625 <EXPANSION END>
+                         626 --276: 		R_DRW2D_CtxEffectsDelete(g_Drw2dDev); 
+                         627 --line276
+                         628 ..lin.5fabaf00..5f52af2b.0_17::
+                         629 .LDWlin17:
+0000013e 3c370100        630 	ld.w	0[r28],r6
+                         631 	jarl	_R_DRW2D_CtxEffectsDelete,lp
+                         631 <EXPANSION BEGIN>
+                         631 jarl22 _R_DRW2D_CtxEffectsDelete , lp 
+00000142 80ff0000*       631 <EXPANSION END>
+                         632 --	    .es
+                         633 .LDW51:
+                         634 --line276
+                         635 ..lin.5fabaf00..5f52af2b.0_18::
+                         636 .LDWlin18:
+00000146 f505*           637 	br	.L102
+                         638 .L109:
+                         639 --277: 	
+                         640 --278: 	}
+                         641 --279: 	
+                         642 --280: 	else
+                         643 --281: 	{
+                         644 --282: 		R_DRW2D_TextureBlit(g_Drw2dDev,&srcRect,&dstRect);
+                         645 --line282
+                         646 ..lin.5fabaf00..5f52af2b.0_19::
+                         647 .LDWlin19:
+
+                                                                      Page 12
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+00000148 3c370100        648 	ld.w	0[r28],r6
+0000014c 1b38            649 	mov	r27,r7
+0000014e 1a40            650 	mov	r26,r8
+                         651 	jarl	_R_DRW2D_TextureBlit,lp
+                         651 <EXPANSION BEGIN>
+                         651 jarl22 _R_DRW2D_TextureBlit , lp 
+00000150 80ff0000*       651 <EXPANSION END>
+                         652 .L102:
+                         653 --283: 	
+                         654 --284: 	}
+                         655 --285: 		
+                         656 --286: }
+                         657 --	    .ef
+                         658 .LDW61:
+                         659 --line286
+                         660 ..lin.5fabaf00..5f52af2b.0_20::
+                         661 .LDWlin20:
+00000154 4a06ff70        662 	dispose	5,{r25,r26,r27,r28,r29,r31},[lp]
+                         663 ..lin.5fabaf00..5f52af2b.0_21::
+                         664 .LDWlin21:
+                         665 	.type	_locWriteChar,@function
+                         666 	.size	_locWriteChar,.-_locWriteChar
+                         667 	.type	_locWriteChar..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.,@function
+                         668 	.size	_locWriteChar..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.,.-_locWriteChar..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.
+                         669 	.align	2
+                         670 .LDW71:
+                         671 --_srcRect	.L300	static
+                         672 --_dstRect	.L301	static
+                         673 --_c	r1	local
+                         674 --_Effects	.L302	static
+                         675 
+                         676 --_PosX	12[sp]	param
+                         677 --_PosY	16[sp]	param
+                         678 --_Character	r8	param
+                         679 --_change_color	3[sp]	param
+                         680 --_label	44[sp]	param
+                         681 
+                         682 	.section ".bss","awb"
+                         683 	.align	4
+                         684 .L234:
+                         685 	.type	.L234,@object
+                         686 	.size	.L234,0
+                         687 	.section ".rodata","a"
+                         688 	.align	4
+                         689 	.global	__FontStatusPos..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.
+                         690 __FontStatusPos..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.:
+00000000 00000000        691 __FontStatusPos:	.space	4
+00000004 04000000        692 	.byte	4,0,0,0
+00000008 04000000        693 	.byte	4,0,0,0
+0000000c 05000000        694 	.byte	5,0,0,0
+00000010 09000000        695 	.byte	9,0,0,0
+00000014 06000000        696 	.byte	6,0,0,0
+00000018 0f000000        697 	.byte	15,0,0,0
+0000001c 0a000000        698 	.byte	10,0,0,0
+00000020 19000000        699 	.byte	25,0,0,0
+00000024 08000000        700 	.byte	8,0,0,0
+00000028 21000000        701 	.byte	33,0,0,0
+0000002c 0d000000        702 	.byte	13,0,0,0
+00000030 2e000000        703 	.byte	46,0,0,0
+00000034 09000000        704 	.byte	9,0,0,0
+00000038 37000000        705 	.byte	55,0,0,0
+
+                                                                      Page 13
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+0000003c 03000000        706 	.byte	3,0,0,0
+00000040 3a000000        707 	.byte	58,0,0,0
+00000044 05000000        708 	.byte	5,0,0,0
+00000048 3f000000        709 	.byte	63,0,0,0
+0000004c 05000000        710 	.byte	5,0,0,0
+00000050 44000000        711 	.byte	68,0,0,0
+00000054 08000000        712 	.byte	8,0,0,0
+00000058 4c000000        713 	.byte	76,0,0,0
+0000005c 09000000        714 	.byte	9,0,0,0
+00000060 55000000        715 	.byte	85,0,0,0
+00000064 04000000        716 	.byte	4,0,0,0
+00000068 59000000        717 	.byte	89,0,0,0
+0000006c 05000000        718 	.byte	5,0,0,0
+00000070 5e000000        719 	.byte	94,0,0,0
+00000074 04000000        720 	.byte	4,0,0,0
+00000078 62000000        721 	.byte	98,0,0,0
+0000007c 05000000        722 	.byte	5,0,0,0
+00000080 00000000        723 	.space	4
+00000084 28000000        724 	.byte	40,0,0,0
+00000088 28000000        725 	.byte	40,0,0,0
+0000008c 1e000000        726 	.byte	30,0,0,0
+00000090 48000000        727 	.byte	72,0,0,0
+00000094 28000000        728 	.byte	40,0,0,0
+00000098 74000000        729 	.byte	116,0,0,0
+0000009c 2a000000        730 	.byte	42,0,0,0
+000000a0 a6000000        731 	.byte	166,0,0,0
+000000a4 28000000        732 	.byte	40,0,0,0
+000000a8 d4000000        733 	.byte	212,0,0,0
+000000ac 2a000000        734 	.byte	42,0,0,0
+000000b0 02010000        735 	.byte	2,1,0,0
+000000b4 2a000000        736 	.byte	42,0,0,0
+000000b8 32010000        737 	.byte	50,1,0,0
+000000bc 28000000        738 	.byte	40,0,0,0
+000000c0 60010000        739 	.byte	96,1,0,0
+000000c4 2a000000        740 	.byte	42,0,0,0
+000000c8 90010000        741 	.byte	144,1,0,0
+000000cc 2a000000        742 	.byte	42,0,0,0
+                         743 	.type	__FontStatusPos..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.,@object
+                         744 	.size	__FontStatusPos..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.,208
+                         745 	.type	__FontStatusPos,@object
+                         746 	.size	__FontStatusPos,208
+                         747 	.global	_my_odo_font_info..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.
+                         748 _my_odo_font_info..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.:
+000000d0 00000000        749 _my_odo_font_info:	.space	4
+000000d4 0e000000        750 	.byte	14,0,0,0
+000000d8 20000000        751 	.byte	32,0,0,0
+000000dc 14000000        752 	.byte	20,0,0,0
+000000e0 3a000000        753 	.byte	58,0,0,0
+000000e4 14000000        754 	.byte	20,0,0,0
+000000e8 54000000        755 	.byte	84,0,0,0
+000000ec 1c000000        756 	.byte	28,0,0,0
+000000f0 7c000000        757 	.byte	124,0,0,0
+000000f4 16000000        758 	.byte	22,0,0,0
+000000f8 a0000000        759 	.byte	160,0,0,0
+000000fc 1e000000        760 	.byte	30,0,0,0
+00000100 ca000000        761 	.byte	202,0,0,0
+00000104 1a000000        762 	.byte	26,0,0,0
+00000108 ea000000        763 	.byte	234,0,0,0
+0000010c 10000000        764 	.byte	16,0,0,0
+00000110 02010000        765 	.byte	2,1,0,0
+00000114 12000000        766 	.byte	18,0,0,0
+
+                                                                      Page 14
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+00000118 20010000        767 	.byte	32,1,0,0
+0000011c 12000000        768 	.byte	18,0,0,0
+00000120 3a010000        769 	.byte	58,1,0,0
+00000124 16000000        770 	.byte	22,0,0,0
+00000128 5c010000        771 	.byte	92,1,0,0
+0000012c 14000000        772 	.byte	20,0,0,0
+00000130 7c010000        773 	.byte	124,1,0,0
+00000134 12000000        774 	.byte	18,0,0,0
+00000138 94010000        775 	.byte	148,1,0,0
+0000013c 14000000        776 	.byte	20,0,0,0
+00000140 b0010000        777 	.byte	176,1,0,0
+00000144 12000000        778 	.byte	18,0,0,0
+00000148 c8010000        779 	.byte	200,1,0,0
+0000014c 1a000000        780 	.byte	26,0,0,0
+00000150 04020000        781 	.byte	4,2,0,0
+00000154 16000000        782 	.byte	22,0,0,0
+00000158 1c020000        783 	.byte	28,2,0,0
+0000015c 0e000000        784 	.byte	14,0,0,0
+00000160 2a020000        785 	.byte	42,2,0,0
+00000164 16000000        786 	.byte	22,0,0,0
+00000168 44020000        787 	.byte	68,2,0,0
+0000016c 16000000        788 	.byte	22,0,0,0
+00000170 5d020000        789 	.byte	93,2,0,0
+00000174 16000000        790 	.byte	22,0,0,0
+00000178 76020000        791 	.byte	118,2,0,0
+0000017c 16000000        792 	.byte	22,0,0,0
+00000180 8f020000        793 	.byte	143,2,0,0
+00000184 16000000        794 	.byte	22,0,0,0
+00000188 a8020000        795 	.byte	168,2,0,0
+0000018c 16000000        796 	.byte	22,0,0,0
+00000190 c1020000        797 	.byte	193,2,0,0
+00000194 16000000        798 	.byte	22,0,0,0
+00000198 da020000        799 	.byte	218,2,0,0
+0000019c 16000000        800 	.byte	22,0,0,0
+000001a0 ec010000        801 	.byte	236,1,0,0
+000001a4 0e000000        802 	.byte	14,0,0,0
+000001a8 f8020000        803 	.byte	248,2,0,0
+000001ac 0c000000        804 	.byte	12,0,0,0
+000001b0 0a030000        805 	.byte	10,3,0,0
+000001b4 0c000000        806 	.byte	12,0,0,0
+000001b8 16030000        807 	.byte	22,3,0,0
+000001bc 18000000        808 	.byte	24,0,0,0
+000001c0 2e030000        809 	.byte	46,3,0,0
+000001c4 18000000        810 	.byte	24,0,0,0
+000001c8 46030000        811 	.byte	70,3,0,0
+000001cc 18000000        812 	.byte	24,0,0,0
+                         813 	.type	_my_odo_font_info..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.,@object
+                         814 	.size	_my_odo_font_info..G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont.,256
+                         815 	.type	_my_odo_font_info,@object
+                         816 	.size	_my_odo_font_info,256
+                         817 	.section ".bss","awb"
+                         818 	.global	_srcRect.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..2
+                         819 _srcRect.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..2:
+00000000 000000000000    820 .L300:	.space	16
+00000006 000000000000 
+0000000c 00000000 
+                         821 	.type	_srcRect.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..2,@object
+                         822 	.size	_srcRect.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..2,16
+                         823 	.type	.L300,@object
+                         824 	.size	.L300,16
+                         825 	.global	_dstRect.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..3
+
+                                                                      Page 15
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                         826 _dstRect.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..3:
+00000010 000000000000    827 .L301:	.space	16
+00000016 000000000000 
+0000001c 00000000 
+                         828 	.type	_dstRect.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..3,@object
+                         829 	.size	_dstRect.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..3,16
+                         830 	.type	.L301,@object
+                         831 	.size	.L301,16
+                         832 	.global	_Effects.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..4
+                         833 _Effects.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..4:
+00000020 000000000000    834 .L302:	.space	52
+00000026 000000000000 
+0000002c 000000000000 
+00000032 000000000000 
+00000038 000000000000 
+0000003e 000000000000 
+00000044 000000000000 
+0000004a 000000000000 
+00000050 00000000 
+                         835 	.type	_Effects.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..4,@object
+                         836 	.size	_Effects.locWriteChar.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..4,52
+                         837 	.type	.L302,@object
+                         838 	.size	.L302,52
+                         839 	.data
+                         840 	.text
+                         841 
+                         842 
+                         843 --288: /***********************************************************
+                         844 --289:   Section: Global Functions
+                         845 --291:   Description see: <write.h>
+                         846 --292: */
+                         847 --295: /***********************************************************
+                         848 --296:   Function: GetCharWidth
+                         849 --297: */
+                         850 --299: int GetCharWidth(char Character, unsigned char label) {
+                         851 	.align	2
+                         852 	.align	2
+                         853 	.align	2
+                         854 ..gh.f.a.2.e.2:
+                         855 	.type	..gh.f.a.2.e.2,@object
+                         856 	.size	..gh.f.a.2.e.2,0
+                         857 	.global	_GetCharWidth
+                         858 _GetCharWidth:
+00000158 80076100        859 	prepare	{r29,r31},0
+0000015c a600            860 	sxb	r6
+0000015e 07e8            861 	mov	r7,r29
+00000160 9d00            862 	zxb	r29
+                         863 --	    .bf
+                         864 .LDW81:
+                         865 --300:     int c;
+                         866 --302:     c = locGetCharRemapping(Character);
+00000162 8600            867 	zxb	r6
+                         868 	jarl	_locGetCharRemapping,lp
+                         868 <EXPANSION BEGIN>
+                         868 jarl22 _locGetCharRemapping , lp 
+00000164 bfff9cfe*       868 <EXPANSION END>
+00000168 0a08            869 	mov	r10,r1
+                         870 --303:     if ((c < 0) || (c > 95)) {
+                         871 --line303
+                         872 ..lin.5fabaf00..998ad362.0_22::
+                         873 .LDWlin22:
+
+                                                                      Page 16
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+0000016a e009            874 	cmp	zero,r1
+0000016c c605*           875 	blt	.L337
+0000016e 0106a1ff        876 	addi	-95,r1,zero
+00000172 b705*           877 	ble	.L336
+                         878 .L337:
+                         879 --304:         return 0;
+                         880 --line304
+                         881 ..lin.5fabaf00..998ad362.0_23::
+                         882 .LDWlin23:
+00000174 0052            883 	mov	0,r10
+00000176 c515*           884 	br	.L334
+                         885 .L336:
+                         886 --305:     }
+                         887 --306: 	
+                         888 --307: 	switch(label)
+                         889 --line307
+                         890 ..lin.5fabaf00..998ad362.0_24::
+                         891 .LDWlin24:
+00000178 61ea            892 	cmp	1,r29
+0000017a b105*           893 	bl	.L341
+0000017c a20d*           894 	be	.L342
+0000017e 8515*           895 	br	.L334
+                         896 .L341:
+                         897 --308: 	{
+                         898 --309: 		case 0:
+                         899 --310: 			 return _FontStatusPos[c].Width;	// For Speed fonts
+                         900 --line310
+                         901 ..lin.5fabaf00..998ad362.0_25::
+                         902 .LDWlin25:
+00000180 01f0            903 	mov	r1,ep
+00000182 c3f2            904 	shl	3,ep
+00000184 210600000000*   905 	mov	__FontStatusPos,r1
+0000018a c1f1            906 	add	r1,ep
+0000018c 0255            907 	sld.w	4[ep],r10
+0000018e 850d*           908 	br	.L334
+                         909 .L342:
+                         910 --311: 			break;
+                         911 --312: 	
+                         912 --313: 		case 1:
+                         913 --314: 			return my_odo_font_info[c].Width;	// For Odo fonts
+                         914 --line314
+                         915 ..lin.5fabaf00..998ad362.0_26::
+                         916 .LDWlin26:
+00000190 01f0            917 	mov	r1,ep
+00000192 c3f2            918 	shl	3,ep
+00000194 210600000000*   919 	mov	_my_odo_font_info,r1
+0000019a c1f1            920 	add	r1,ep
+0000019c 0255            921 	sld.w	4[ep],r10
+                         922 .L334:
+                         923 --315: 			break;
+                         924 --316: 	
+                         925 --317: 	}
+                         926 --318:    
+                         927 --319: 	//
+                         928 --320: 	
+                         929 --321: }
+                         930 --	    .ef
+                         931 .LDW91:
+                         932 --line321
+                         933 ..lin.5fabaf00..998ad362.0_27::
+                         934 .LDWlin27:
+
+                                                                      Page 17
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+0000019e 40067f00        935 	dispose	0,{r29,r31},[lp]
+                         936 ..lin.5fabaf00..998ad362.0_28::
+                         937 .LDWlin28:
+                         938 	.type	_GetCharWidth,@function
+                         939 	.size	_GetCharWidth,.-_GetCharWidth
+                         940 	.align	2
+                         941 .LDW02:
+                         942 --_c	r1	local
+                         943 
+                         944 --_Character	r6	param
+                         945 --_label	r29	param
+                         946 
+                         947 	.section ".bss","awb"
+                         948 .L390:
+                         949 	.type	.L390,@object
+                         950 	.size	.L390,0
+                         951 	.data
+                         952 	.text
+                         953 
+                         954 
+                         955 --324: /***********************************************************
+                         956 --325:   Function: GetTextWidth
+                         957 --326: */
+                         958 --328: int GetTextWidth(char *Text) {
+                         959 	.align	2
+                         960 	.align	2
+                         961 	.align	2
+                         962 ..gh.f.a.2.e.3:
+                         963 	.type	..gh.f.a.2.e.3,@object
+                         964 	.size	..gh.f.a.2.e.3,0
+                         965 	.global	_GetTextWidth
+                         966 _GetTextWidth:
+000001a2 8007e100        967 	prepare	{r28,r29,r31},0
+000001a6 06e8            968 	mov	r6,r29
+                         969 --	    .bf
+                         970 .LDW12:
+                         971 --329:     int w;
+                         972 --331:     w = 0;
+000001a8 00e2            973 	mov	0,r28
+                         974 --332:     while (*Text != 0) {
+000001aa 850d*           975 	br	.L426
+                         976 .L428:
+                         977 --333:         w += GetCharWidth(*Text, 0);
+                         978 --line333
+                         979 ..lin.5fabaf00..802e9c69.0_29::
+                         980 .LDWlin29:
+000001ac 1d370000        981 	ld.b	0[r29],r6
+000001b0 003a            982 	mov	0,r7
+                         983 	jarl	_GetCharWidth,lp
+                         983 <EXPANSION BEGIN>
+                         983 jarl22 _GetCharWidth , lp 
+000001b2 bfffa6ff*       983 <EXPANSION END>
+000001b6 cae1            984 	add	r10,r28
+                         985 --334:         Text++;
+                         986 --line334
+                         987 ..lin.5fabaf00..802e9c69.0_30::
+                         988 .LDWlin30:
+000001b8 41ea            989 	add	1,r29
+                         990 .L426:
+000001ba 1d0f0000        991 	ld.b	0[r29],r1
+000001be e009            992 	cmp	zero,r1
+
+                                                                      Page 18
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+000001c0 eaf5*           993 	bne	.L428
+                         994 --335:     }
+                         995 --336:     return w;
+                         996 --line336
+                         997 ..lin.5fabaf00..802e9c69.0_31::
+                         998 .LDWlin31:
+000001c2 1c50            999 	mov	r28,r10
+                        1000 --	    .ef
+                        1001 .LDW22:
+000001c4 4006ff00       1002 	dispose	0,{r28,r29,r31},[lp]
+                        1003 ..lin.5fabaf00..802e9c69.0_32::
+                        1004 .LDWlin32:
+                        1005 	.type	_GetTextWidth,@function
+                        1006 	.size	_GetTextWidth,.-_GetTextWidth
+                        1007 	.align	2
+                        1008 .LDW32:
+                        1009 --_w	r28	local
+                        1010 
+                        1011 --_Text	r29	param
+                        1012 
+                        1013 	.section ".bss","awb"
+                        1014 .L470:
+                        1015 	.type	.L470,@object
+                        1016 	.size	.L470,0
+                        1017 	.data
+                        1018 	.text
+                        1019 
+                        1020 --337: }
+                        1021 
+                        1022 --339: /***********************************************************
+                        1023 --340:   Function: GetTextHeight
+                        1024 --341: */
+                        1025 --343: int GetTextHeight(char *Text) {
+                        1026 	.align	2
+                        1027 	.align	2
+                        1028 	.align	2
+                        1029 ..gh.f.a.2.e.4:
+                        1030 	.type	..gh.f.a.2.e.4,@object
+                        1031 	.size	..gh.f.a.2.e.4,0
+                        1032 	.global	_GetTextHeight
+                        1033 _GetTextHeight:
+000001c8 06f0           1034 	mov	r6,ep
+                        1035 --	    .bf
+                        1036 .LDW42:
+                        1037 --344:     int h;
+                        1038 --346:     h = 1; /* To include the last line */
+000001ca 010a           1039 	mov	1,r1
+                        1040 --347:     while (*Text != 0) {
+000001cc f505*          1041 	br	.L502
+                        1042 .L504:
+                        1043 --348:         if (*Text == '\n') {
+                        1044 --line348
+                        1045 ..lin.5fabaf00..62beed22.0_33::
+                        1046 .LDWlin33:
+000001ce 0073           1047 	sld.b	0[ep],r14
+000001d0 6a72           1048 	cmp	10,r14
+000001d2 ba05*          1049 	bne	.L505
+                        1050 --349:             h += 16;
+                        1051 --line349
+                        1052 ..lin.5fabaf00..62beed22.0_34::
+                        1053 .LDWlin34:
+
+                                                                      Page 19
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+000001d4 010e1000       1054 	addi	16,r1,r1
+                        1055 .L505:
+                        1056 --350:         }
+                        1057 --351:         Text++;
+000001d8 41f2           1058 	add	1,ep
+                        1059 .L502:
+000001da 0073           1060 	sld.b	0[ep],r14
+000001dc e071           1061 	cmp	zero,r14
+000001de 8afd*          1062 	bne	.L504
+                        1063 --352:     }
+                        1064 --353:     return h;
+                        1065 --line353
+                        1066 ..lin.5fabaf00..62beed22.0_35::
+                        1067 .LDWlin35:
+000001e0 0150           1068 	mov	r1,r10
+                        1069 --	    .ef
+                        1070 .LDW52:
+                        1071 	.jumptype return
+000001e2 7f00           1072 	jmp	[lp]
+                        1073 ..lin.5fabaf00..62beed22.0_36::
+                        1074 .LDWlin36:
+                        1075 	.type	_GetTextHeight,@function
+                        1076 	.size	_GetTextHeight,.-_GetTextHeight
+                        1077 	.align	2
+                        1078 .LDW62:
+                        1079 --_h	r1	local
+                        1080 
+                        1081 --_Text	ep	param
+                        1082 
+                        1083 	.section ".bss","awb"
+                        1084 .L554:
+                        1085 	.type	.L554,@object
+                        1086 	.size	.L554,0
+                        1087 	.data
+                        1088 	.text
+                        1089 
+                        1090 --354: }
+                        1091 
+                        1092 --360: /***********************************************************
+                        1093 --361:   Function: Write
+                        1094 --362: */
+                        1095 --364: void FlashDash_WriteString_Speed(int PosX, int PosY, char *Text, unsigned char change_color, unsigned char label) 
+                        1096 	.assert 0x0 + (.L784 - .L722) +0 == 0
+                        1097 	.align	2
+                        1098 	.align	2
+                        1099 	.align	2
+                        1100 ..gh.f.a.2.e.5:
+                        1101 	.type	..gh.f.a.2.e.5,@object
+                        1102 	.size	..gh.f.a.2.e.5,0
+                        1103 	.global	_FlashDash_WriteString_Speed
+                        1104 _FlashDash_WriteString_Speed:
+000001e4 8a07e170       1105 	prepare	{r25,r26,r27,r28,r29,r31},5
+000001e8 0958           1106 	mov	r9,r11
+000001ea 8b00           1107 	zxb	r11
+000001ec 06d8           1108 	mov	r6,r27
+000001ee 07d0           1109 	mov	r7,r26
+000001f0 08e0           1110 	mov	r8,r28
+000001f2 435f0700       1111 	st.b	r11,7[sp]
+000001f6 83cf2d00       1112 	ld.bu	44[sp],r25
+000001fa 210600000000*  1113 	mov	.L722,r1
+                        1114 --	    .bf
+
+                                                                      Page 20
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                        1115 .LDW72:
+                        1116 --365: {
+                        1117 --366:     int       startx;
+                        1118 --367: 	unsigned char my_digit_count = 0;
+                        1119 --line367
+                        1120 ..lin.5fabaf00..738d06e3.0_37::
+                        1121 .LDWlin37:
+00000200 00ea           1122 	mov	0,r29
+                        1123 --368: 	static long color = 0xffffffff;
+                        1124 --369:     R_DRW2D_CtxBgColor(g_Drw2dDev, color);
+00000202 260600000000*  1125 	mov	_g_Drw2dDev,r6
+00000208 26370100       1126 	ld.w	0[r6],r6
+0000020c 213f0100       1127 	ld.w	0[r1],r7
+                        1128 	jarl	_R_DRW2D_CtxBgColor,lp
+                        1128 <EXPANSION BEGIN>
+                        1128 jarl22 _R_DRW2D_CtxBgColor , lp 
+00000210 80ff0000*      1128 <EXPANSION END>
+                        1129 --370: 	
+                        1130 --371: 	switch(label)
+                        1131 --line371
+                        1132 ..lin.5fabaf00..738d06e3.0_38::
+                        1133 .LDWlin38:
+00000214 61ca           1134 	cmp	1,r25
+00000216 b105*          1135 	bl	.L590
+00000218 e20d*          1136 	be	.L591
+0000021a 851d*          1137 	br	.L593
+                        1138 .L590:
+                        1139 --372: 	{
+                        1140 --373: 		case 0:
+                        1141 --374: 			R_DRW2D_CtxTextureSet(g_Drw2dDev, 0u, &font_fixedsys12);   
+                        1142 --line374
+                        1143 ..lin.5fabaf00..738d06e3.0_39::
+                        1144 .LDWlin39:
+0000021c 260600000000*  1145 	mov	_g_Drw2dDev,r6
+00000222 26370100       1146 	ld.w	0[r6],r6
+00000226 003a           1147 	mov	0,r7
+00000228 280600000000*  1148 	mov	_font_fixedsys12,r8
+                        1149 	jarl	_R_DRW2D_CtxTextureSet,lp
+                        1149 <EXPANSION BEGIN>
+                        1149 jarl22 _R_DRW2D_CtxTextureSet , lp 
+0000022e 80ff0000*      1149 <EXPANSION END>
+                        1150 --375: 			break;
+                        1151 --376: 			
+                        1152 --377: 		case 1:
+                        1153 --line375
+                        1154 ..lin.5fabaf00..738d06e3.0_40::
+                        1155 .LDWlin40:
+00000232 c50d*          1156 	br	.L593
+                        1157 .L591:
+                        1158 --378: 			R_DRW2D_CtxTextureSet(g_Drw2dDev, 0u, &my_odo_font_texture);   
+                        1159 --line378
+                        1160 ..lin.5fabaf00..738d06e3.0_41::
+                        1161 .LDWlin41:
+00000234 260600000000*  1162 	mov	_g_Drw2dDev,r6
+0000023a 26370100       1163 	ld.w	0[r6],r6
+0000023e 003a           1164 	mov	0,r7
+00000240 280600000000*  1165 	mov	_my_odo_font_texture,r8
+                        1166 	jarl	_R_DRW2D_CtxTextureSet,lp
+                        1166 <EXPANSION BEGIN>
+                        1166 jarl22 _R_DRW2D_CtxTextureSet , lp 
+00000246 80ff0000*      1166 <EXPANSION END>
+
+                                                                      Page 21
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                        1167 --379: 			break;
+                        1168 .L593:
+                        1169 --380: 	}
+                        1170 --381:     
+                        1171 --382: 	startx = PosX;
+                        1172 --line382
+                        1173 ..lin.5fabaf00..738d06e3.0_42::
+                        1174 .LDWlin42:
+0000024a 63df0d00       1175 	st.w	r27,12[sp]
+                        1176 --383:     while (*Text != 0) {
+0000024e f53d*          1177 	br	.L594
+                        1178 .L596:
+                        1179 --384:         if (*Text == '\n') {
+                        1180 --line384
+                        1181 ..lin.5fabaf00..738d06e3.0_43::
+                        1182 .LDWlin43:
+00000250 1c0f0000       1183 	ld.b	0[r28],r1
+00000254 6a0a           1184 	cmp	10,r1
+00000256 ea05*          1185 	bne	.L597
+                        1186 --385:             PosX  = startx;
+                        1187 --line385
+                        1188 ..lin.5fabaf00..738d06e3.0_44::
+                        1189 .LDWlin44:
+00000258 23df0d00       1190 	ld.w	12[sp],r27
+                        1191 --386:             PosY += 16;
+0000025c 1ad61000       1192 	addi	16,r26,r26
+00000260 d535*          1193 	br	.L599
+                        1194 .L597:
+                        1195 --387:         } else {
+                        1196 --388: 			if((label == 1) && (odo_string == 1))
+                        1197 --line388
+                        1198 ..lin.5fabaf00..738d06e3.0_45::
+                        1199 .LDWlin45:
+00000262 61ca           1200 	cmp	1,r25
+00000264 ba25*          1201 	bne	.L600
+00000266 210600000000*  1202 	mov	_odo_string,r1
+0000026c 810f0100       1203 	ld.bu	0[r1],r1
+00000270 610a           1204 	cmp	1,r1
+00000272 ca1d*          1205 	bne	.L600
+                        1206 --389: 			{
+                        1207 --390: 				my_digit_count++;
+                        1208 --line390
+                        1209 ..lin.5fabaf00..738d06e3.0_46::
+                        1210 .LDWlin46:
+00000274 41ea           1211 	add	1,r29
+00000276 9d00           1212 	zxb	r29
+                        1213 --391: 				if(my_digit_count == 7)
+00000278 67ea           1214 	cmp	7,r29
+0000027a ea0d*          1215 	bne	.L603
+                        1216 --392: 				{
+                        1217 --393: 					my_digit_count = 0;
+                        1218 --line393
+                        1219 ..lin.5fabaf00..738d06e3.0_47::
+                        1220 .LDWlin47:
+0000027c 00ea           1221 	mov	0,r29
+                        1222 --394: 					my_color = 0xff9f6110;//0xffff7f00;
+0000027e 210610619fff   1223 	mov	-6332144,r1
+00000284 2b0600000000*  1224 	mov	_my_color,r11
+0000028a 6b0f0100       1225 	st.w	r1,0[r11]
+                        1226 --395: 					change_color = 1;
+                        1227 --line395
+
+                                                                      Page 22
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                        1228 ..lin.5fabaf00..738d06e3.0_48::
+                        1229 .LDWlin48:
+0000028e 015a           1230 	mov	1,r11
+00000290 435f0700       1231 	st.b	r11,7[sp]
+00000294 b50d*          1232 	br	.L600
+                        1233 .L603:
+                        1234 --396: 				}
+                        1235 --397: 				else
+                        1236 --398: 				{
+                        1237 --399: 					my_color = 0xffff0000;
+                        1238 --line399
+                        1239 ..lin.5fabaf00..738d06e3.0_49::
+                        1240 .LDWlin49:
+00000296 400effff       1241 	movhi	hi(-65536),zero,r1
+0000029a 2b0600000000*  1242 	mov	_my_color,r11
+000002a0 6b0f0100       1243 	st.w	r1,0[r11]
+                        1244 --400: 					change_color = 0;
+                        1245 --line400
+                        1246 ..lin.5fabaf00..738d06e3.0_50::
+                        1247 .LDWlin50:
+000002a4 43070700       1248 	st.b	zero,7[sp]
+000002a8 005a           1249 	mov	0,r11
+                        1250 .L600:
+                        1251 --401: 				}
+                        1252 --402: 			}
+                        1253 --403:             locWriteChar(PosX, PosY, *Text, change_color, label);
+000002aa 9c470100       1254 	ld.bu	0[r28],r8
+000002ae 1b30           1255 	mov	r27,r6
+000002b0 a34f0700       1256 	ld.bu	7[sp],r9
+000002b4 1a38           1257 	mov	r26,r7
+000002b6 63cf0100       1258 	st.w	r25,0[sp]
+                        1259 	jarl	_locWriteChar,lp
+                        1259 <EXPANSION BEGIN>
+                        1259 jarl22 _locWriteChar , lp 
+000002ba bfff6cfd*      1259 <EXPANSION END>
+                        1260 --404:             PosX += GetCharWidth(*Text, label);
+                        1261 --line404
+                        1262 ..lin.5fabaf00..738d06e3.0_51::
+                        1263 .LDWlin51:
+000002be 1c370000       1264 	ld.b	0[r28],r6
+000002c2 1938           1265 	mov	r25,r7
+                        1266 	jarl	_GetCharWidth,lp
+                        1266 <EXPANSION BEGIN>
+                        1266 jarl22 _GetCharWidth , lp 
+000002c4 bfff94fe*      1266 <EXPANSION END>
+000002c8 cad9           1267 	add	r10,r27
+                        1268 .L599:
+                        1269 --405:         }
+                        1270 --406:         Text++;
+                        1271 --line406
+                        1272 ..lin.5fabaf00..738d06e3.0_52::
+                        1273 .LDWlin52:
+000002ca 41e2           1274 	add	1,r28
+                        1275 .L594:
+000002cc 1c0f0000       1276 	ld.b	0[r28],r1
+000002d0 e009           1277 	cmp	zero,r1
+000002d2 fabd*          1278 	bne	.L596
+                        1279 --407:     } 
+                        1280 --408: 	
+                        1281 --410: }
+                        1282 --	    .ef
+
+                                                                      Page 23
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00006o01.si
+                        1283 .LDW82:
+                        1284 --line410
+                        1285 ..lin.5fabaf00..738d06e3.0_53::
+                        1286 .LDWlin53:
+000002d4 4a06ff70       1287 	dispose	5,{r25,r26,r27,r28,r29,r31},[lp]
+                        1288 ..lin.5fabaf00..738d06e3.0_54::
+                        1289 .LDWlin54:
+                        1290 	.type	_FlashDash_WriteString_Speed,@function
+                        1291 	.size	_FlashDash_WriteString_Speed,.-_FlashDash_WriteString_Speed
+                        1292 	.align	2
+                        1293 .LDW92:
+                        1294 --_color	.L784	static
+                        1295 --_startx	12[sp]	local
+                        1296 --_my_digit_count	r29	local
+                        1297 
+                        1298 --_PosX	r27	param
+                        1299 --_PosY	r26	param
+                        1300 --_Text	r28	param
+                        1301 --_change_color	7[sp]	param
+                        1302 --_label	r25	param
+                        1303 
+                        1304 	.data
+                        1305 	.align	4
+                        1306 .L722:
+                        1307 	.type	.L722,@object
+                        1308 	.size	.L722,0
+                        1309 .L784:
+                        1310 	.global	_color.FlashDash_WriteString_Speed.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..5
+                        1311 _color.FlashDash_WriteString_Speed.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..5:
+00000000 ffffffff       1312 	.byte	255,255,255,255
+                        1313 	.type	_color.FlashDash_WriteString_Speed.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..5,@object
+                        1314 	.size	_color.FlashDash_WriteString_Speed.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont..5,4
+                        1315 	.type	.L784,@object
+                        1316 	.size	.L784,4
+                        1317 	.text
+                        1318 
+                        1319 	.align	2
+                        1320 --_g_Drw2dDev	_g_Drw2dDev	import
+                        1321 --_font_fixedsys12	_font_fixedsys12	import
+                        1322 --_my_odo_font_texture	_my_odo_font_texture	import
+                        1323 --_odo_string	_odo_string	import
+                        1324 --__FontStatusPos	__FontStatusPos	static
+                        1325 --_my_odo_font_info	_my_odo_font_info	static
+                        1326 
+                        1327 	.data
+                        1328 	.global	_my_color
+00000004 0000ffff       1329 _my_color:	.byte	0,0,255,255
+                        1330 	.type	_my_color,@object
+                        1331 	.size	_my_color,4
+                        1332 	.ghsnote version,19
+                        1333 	.ghsnote tools,3
+                        1334 	.ghsnote options,656
+                        1335 	.text
+                        1336 	.align	2
+                        1337 ..eof.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cfont...47.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs..5C39AB05..0::
+                        1338 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M,SDA_EXTRA_REGS_0

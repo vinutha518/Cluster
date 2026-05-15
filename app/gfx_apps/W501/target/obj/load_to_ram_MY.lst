@@ -1,0 +1,1338 @@
+                                                                      Page 1
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+Command Line: C:\ghs\comp_201715\ease850.exe -w -elf -b0 -I..\..\..\..\..\app\common\dhd -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\res -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\images -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\config -I..\..\..\..\..\bsp\board\\config -I..\..\..\..\..\bsp\board\\src\gfx -I..\..\..\..\..\bsp\board\\src\hmi -I..\..\..\..\..\bsp\board\\src\stdio -I..\..\..\..\..\bsp\board\d1mx_mango\config -I..\..\..\..\..\bsp\board\d1mx_mango\src -I..\..\..\..\..\bsp\board\d1mx_mango\src\gfx -I..\..\..\..\..\bsp\board\d1mx_mango\src\hmi -I..\..\..\..\..\bsp\board\d1mx_mango\src\stdio -I..\..\..\..\..\bsp\gfx\lib -I..\..\..\..\..\bsp\gfx\src -I..\..\..\..\..\bsp\hmi\lib -I..\..\..\..\..\bsp\hmi\src -I..\..\..\..\..\bsp\lib -I..\..\..\..\..\bsp\stdio\lib -I..\..\..\..\..\bsp\stdio\src -I..\..\..\..\..\cdi\lib -I..\..\..\..\..\cdi\src -I..\..\..\..\..\compiler\rh850_ghs\inc -I..\..\..\..\..\device\d1mx\lib -I..\..\..\..\..\device\d1mx\macro_cfg -I..\..\..\..\..\device\d1mx\src\dev -I..\..\..\..\..\device\d1mx\src\dhd -I..\..\..\..\..\device\d1mx\src\jcua -I..\..\..\..\..\device\d1mx\src\rh850_ghs -I..\..\..\..\..\device\d1mx\src\vowe -I..\..\..\..\..\device\d1x_common\macro_cfg -I..\..\..\..\..\device\d1x_common\src\csisw -I..\..\..\..\..\device\d1x_common\src\dev -I..\..\..\..\..\device\d1x_common\src\gfxbus -I..\..\..\..\..\device\d1x_common\src\gpio -I..\..\..\..\..\device\d1x_common\src\ostm -I..\..\..\..\..\device\d1x_common\src\pbg -I..\..\..\..\..\device\d1x_common\src\riic -I..\..\..\..\..\device\d1x_common\src\sfma -I..\..\..\..\..\device\d1x_common\src\spea -I..\..\..\..\..\device\d1x_common\src\tauj -I..\..\..\..\..\device\d1x_common\src\tick -I..\..\..\..\..\device\d1x_common\src\vdce -I..\..\..\..\..\device\d1x_common\src\wm -I..\..\..\..\..\device\d1x_common\src\dma -I..\..\..\..\..\device\d1x_common\src\g3dma -I..\..\..\..\..\device\d1x_common\src\xbus -I..\..\..\..\..\device\d1x_common\src\pcmp -I..\..\..\..\..\device\d1x_common\src\taub -I..\..\..\..\..\device\lib -I..\..\..\..\..\macro\bus\pbg\lib -I..\..\..\..\..\macro\bus\pbg\src -I..\..\..\..\..\macro\csi\csisw\lib -I..\..\..\..\..\macro\csi\csisw\src -I..\..\..\..\..\macro\dma\dma\lib -I..\..\..\..\..\macro\dma\dma\src -I..\..\..\..\..\macro\dma\g3dma\lib -I..\..\..\..\..\macro\dma\g3dma\src -I..\..\..\..\..\macro\drw2d\lib -I..\..\..\..\..\macro\drw2d\platform\davehd -I..\..\..\..\..\macro\drw2d\platform\os\no_os -I..\..\..\..\..\macro\drw2d\src -I..\..\..\..\..\macro\flashc\sfcdb\lib -I..\..\..\..\..\macro\flashc\sfcdb\src -I..\..\..\..\..\macro\flashc\sfma\lib -I..\..\..\..\..\macro\flashc\sfma\src -I..\..\..\..\..\macro\gfxbus\lib -I..\..\..\..\..\macro\gfxbus\src -I..\..\..\..\..\macro\gfxbus\xbus\lib -I..\..\..\..\..\macro\gfxbus\xbus\src -I..\..\..\..\..\macro\gpio\lib -I..\..\..\..\..\macro\gpio\src -I..\..\..\..\..\macro\gpu\davehd\common\inc -I..\..\..\..\..\macro\gpu\davehd\common\inc\platform -I..\..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx -I..\..\..\..\..\macro\gpu\davehd\kernel\inc -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\ree -I..\..\..\..\..\macro\gpu\davehd\kernel\src -I..\..\..\..\..\macro\gpu\davehd\user\inc -I..\..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os -I..\..\..\..\..\macro\gpu\davehd\user\src -I..\..\..\..\..\macro\gpu\jcua\lib -I..\..\..\..\..\macro\gpu\jcua\src -I..\..\..\..\..\macro\i2c\riic\lib -I..\..\..\..\..\macro\i2c\riic\src -I..\..\..\..\..\macro\pwm\pcmp\lib -I..\..\..\..\..\macro\pwm\pcmp\src -I..\..\..\..\..\macro\tick\lib -I..\..\..\..\..\macro\tick\src -I..\..\..\..\..\macro\timer\ostm\lib -I..\..\..\..\..\macro\timer\ostm\src -I..\..\..\..\..\macro\timer\tauj\lib -I..\..\..\..\..\macro\timer\tauj\src -I..\..\..\..\..\macro\timer\taub\lib -I..\..\..\..\..\macro\timer\taub\src -I..\..\..\..\..\macro\vdce\lib -I..\..\..\..\..\macro\vdce\src -I..\..\..\..\..\macro\vo\ddb\lib -I..\..\..\..\..\macro\vo\ddb\src -I..\..\..\..\..\macro\vo\spea\lib -I..\..\..\..\..\macro\vo\spea\src -I..\..\..\..\..\macro\vo\vowe\lib -I..\..\..\..\..\macro\vo\vowe\src -I..\..\..\..\..\macro\wm\lib -I..\..\..\..\..\macro\wm\src -I..\..\..\..\..\middleware\gfxutils\lib -I..\..\..\..\..\middleware\gfxutils\src -I..\..\..\..\..\device\d1mx\macro_cfg\csisw -I..\..\..\..\..\device\d1mx\macro_cfg\davehd -I..\..\..\..\..\device\d1mx\macro_cfg\ddb -I..\..\..\..\..\device\d1mx\macro_cfg\drw2d -I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus -I..\..\..\..\..\device\d1mx\macro_cfg\gpio -I..\..\..\..\..\device\d1mx\macro_cfg\hypb -I..\..\..\..\..\device\d1mx\macro_cfg\hypdb -I..\..\..\..\..\device\d1mx\macro_cfg\jcua -I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare -I..\..\..\..\..\device\d1mx\macro_cfg\octa -I..\..\..\..\..\device\d1mx\macro_cfg\octacdb -I..\..\..\..\..\device\d1mx\macro_cfg\ostm -I..\..\..\..\..\device\d1mx\macro_cfg\pbg -I..\..\..\..\..\device\d1mx\macro_cfg\riic -I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb -I..\..\..\..\..\device\d1mx\macro_cfg\sfma -I..\..\..\..\..\device\d1mx\macro_cfg\spea -I..\..\..\..\..\device\d1mx\macro_cfg\tauj -I..\..\..\..\..\device\d1mx\macro_cfg\tick -I..\..\..\..\..\device\d1mx\macro_cfg\vdce -I..\..\..\..\..\device\d1mx\macro_cfg\vowe -I..\..\..\..\..\device\d1mx\macro_cfg\wm -I..\..\..\..\..\device\d1mx\macro_cfg\xbus -I..\..\..\..\..\device\d1x_common\macro_cfg\csisw -I..\..\..\..\..\device\d1x_common\macro_cfg\davehd -I..\..\..\..\..\device\d1x_common\macro_cfg\ddb -I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d -I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus -I..\..\..\..\..\device\d1x_common\macro_cfg\gpio -I..\..\..\..\..\device\d1x_common\macro_cfg\hypb -I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb -I..\..\..\..\..\device\d1x_common\macro_cfg\jcua -I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare -I..\..\..\..\..\device\d1x_common\macro_cfg\octa -I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb -I..\..\..\..\..\device\d1x_common\macro_cfg\ostm -I..\..\..\..\..\device\d1x_common\macro_cfg\pbg -I..\..\..\..\..\device\d1x_common\macro_cfg\riic -I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb -I..\..\..\..\..\device\d1x_common\macro_cfg\sfma -I..\..\..\..\..\device\d1x_common\macro_cfg\spea -I..\..\..\..\..\device\d1x_common\macro_cfg\tauj -I..\..\..\..\..\device\d1x_common\macro_cfg\tick -I..\..\..\..\..\device\d1x_common\macro_cfg\vdce -I..\..\..\..\..\device\d1x_common\macro_cfg\vowe -I..\..\..\..\..\device\d1x_common\macro_cfg\wm -I..\..\..\..\..\device\d1x_common\macro_cfg\xbus -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY -IC:\ghs\comp_201715\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -nomacro -patch_dbo=G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\obj\load_to_ram_MY.dbo -source=load_to_ram_MY.c -o .\obj\gh_00005rg1.o -list=.\obj\load_to_ram_MY.lst C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si 
+Original File: C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+Source File: load_to_ram_MY.c
+Directory: G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+Host OS: Windows 7 Service Pack 1
+EASE: Copyright (C) 1983-2016 Green Hills Software.  All Rights Reserved.
+Release: MULTI v800-v2017.1.5-comp-P04
+Custom String: TOOLS-28024 unreached assembly routines deleted by linker
+Build Directory: [Directory] BTOWINBOX:c:/build_2017_1_bto/2017-10-04.2100-2017_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2017-1-bto/src@603992 (built by build)
+Revision Date: Thu Oct 05 10:11:26 2017
+
+Release Date: Tue Oct 10 02:48:58 2017
+
+                           1 --Driver Command: ccv850 -c -MD -I..\..\..\..\..\app\common\dhd
+                           2 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\res
+                           3 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src
+                           4 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\images
+                           5 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+                           6 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\config
+                           7 --		-I..\..\..\..\..\bsp\board\\config
+                           8 --		-I..\..\..\..\..\bsp\board\\src\gfx
+                           9 --		-I..\..\..\..\..\bsp\board\\src\hmi
+                          10 --		-I..\..\..\..\..\bsp\board\\src\stdio
+                          11 --		-I..\..\..\..\..\bsp\board\d1mx_mango\config
+                          12 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src
+                          13 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\gfx
+                          14 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\hmi
+                          15 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\stdio
+                          16 --		-I..\..\..\..\..\bsp\gfx\lib -I..\..\..\..\..\bsp\gfx\src
+                          17 --		-I..\..\..\..\..\bsp\hmi\lib -I..\..\..\..\..\bsp\hmi\src
+                          18 --		-I..\..\..\..\..\bsp\lib -I..\..\..\..\..\bsp\stdio\lib
+                          19 --		-I..\..\..\..\..\bsp\stdio\src -I..\..\..\..\..\cdi\lib
+                          20 --		-I..\..\..\..\..\cdi\src -I..\..\..\..\..\compiler\rh850_ghs\inc
+                          21 --		-I..\..\..\..\..\device\d1mx\lib
+                          22 --		-I..\..\..\..\..\device\d1mx\macro_cfg
+                          23 --		-I..\..\..\..\..\device\d1mx\src\dev
+                          24 --		-I..\..\..\..\..\device\d1mx\src\dhd
+                          25 --		-I..\..\..\..\..\device\d1mx\src\jcua
+                          26 --		-I..\..\..\..\..\device\d1mx\src\rh850_ghs
+                          27 --		-I..\..\..\..\..\device\d1mx\src\vowe
+                          28 --		-I..\..\..\..\..\device\d1x_common\macro_cfg
+                          29 --		-I..\..\..\..\..\device\d1x_common\src\csisw
+                          30 --		-I..\..\..\..\..\device\d1x_common\src\dev
+                          31 --		-I..\..\..\..\..\device\d1x_common\src\gfxbus
+                          32 --		-I..\..\..\..\..\device\d1x_common\src\gpio
+                          33 --		-I..\..\..\..\..\device\d1x_common\src\ostm
+                          34 --		-I..\..\..\..\..\device\d1x_common\src\pbg
+                          35 --		-I..\..\..\..\..\device\d1x_common\src\riic
+                          36 --		-I..\..\..\..\..\device\d1x_common\src\sfma
+                          37 --		-I..\..\..\..\..\device\d1x_common\src\spea
+                          38 --		-I..\..\..\..\..\device\d1x_common\src\tauj
+                          39 --		-I..\..\..\..\..\device\d1x_common\src\tick
+                          40 --		-I..\..\..\..\..\device\d1x_common\src\vdce
+                          41 --		-I..\..\..\..\..\device\d1x_common\src\wm
+                          42 --		-I..\..\..\..\..\device\d1x_common\src\dma
+                          43 --		-I..\..\..\..\..\device\d1x_common\src\g3dma
+                          44 --		-I..\..\..\..\..\device\d1x_common\src\xbus
+                          45 --		-I..\..\..\..\..\device\d1x_common\src\pcmp
+                          46 --		-I..\..\..\..\..\device\d1x_common\src\taub
+                          47 --		-I..\..\..\..\..\device\lib -I..\..\..\..\..\macro\bus\pbg\lib
+                          48 --		-I..\..\..\..\..\macro\bus\pbg\src
+                          49 --		-I..\..\..\..\..\macro\csi\csisw\lib
+
+                                                                      Page 2
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                          50 --		-I..\..\..\..\..\macro\csi\csisw\src
+                          51 --		-I..\..\..\..\..\macro\dma\dma\lib
+                          52 --		-I..\..\..\..\..\macro\dma\dma\src
+                          53 --		-I..\..\..\..\..\macro\dma\g3dma\lib
+                          54 --		-I..\..\..\..\..\macro\dma\g3dma\src
+                          55 --		-I..\..\..\..\..\macro\drw2d\lib
+                          56 --		-I..\..\..\..\..\macro\drw2d\platform\davehd
+                          57 --		-I..\..\..\..\..\macro\drw2d\platform\os\no_os
+                          58 --		-I..\..\..\..\..\macro\drw2d\src
+                          59 --		-I..\..\..\..\..\macro\flashc\sfcdb\lib
+                          60 --		-I..\..\..\..\..\macro\flashc\sfcdb\src
+                          61 --		-I..\..\..\..\..\macro\flashc\sfma\lib
+                          62 --		-I..\..\..\..\..\macro\flashc\sfma\src
+                          63 --		-I..\..\..\..\..\macro\gfxbus\lib
+                          64 --		-I..\..\..\..\..\macro\gfxbus\src
+                          65 --		-I..\..\..\..\..\macro\gfxbus\xbus\lib
+                          66 --		-I..\..\..\..\..\macro\gfxbus\xbus\src
+                          67 --		-I..\..\..\..\..\macro\gpio\lib -I..\..\..\..\..\macro\gpio\src
+                          68 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc
+                          69 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc\platform
+                          70 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx
+                          71 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\inc
+                          72 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx
+                          73 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge
+                          74 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\ree
+                          75 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\src
+                          76 --		-I..\..\..\..\..\macro\gpu\davehd\user\inc
+                          77 --		-I..\..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os
+                          78 --		-I..\..\..\..\..\macro\gpu\davehd\user\src
+                          79 --		-I..\..\..\..\..\macro\gpu\jcua\lib
+                          80 --		-I..\..\..\..\..\macro\gpu\jcua\src
+                          81 --		-I..\..\..\..\..\macro\i2c\riic\lib
+                          82 --		-I..\..\..\..\..\macro\i2c\riic\src
+                          83 --		-I..\..\..\..\..\macro\pwm\pcmp\lib
+                          84 --		-I..\..\..\..\..\macro\pwm\pcmp\src
+                          85 --		-I..\..\..\..\..\macro\tick\lib -I..\..\..\..\..\macro\tick\src
+                          86 --		-I..\..\..\..\..\macro\timer\ostm\lib
+                          87 --		-I..\..\..\..\..\macro\timer\ostm\src
+                          88 --		-I..\..\..\..\..\macro\timer\tauj\lib
+                          89 --		-I..\..\..\..\..\macro\timer\tauj\src
+                          90 --		-I..\..\..\..\..\macro\timer\taub\lib
+                          91 --		-I..\..\..\..\..\macro\timer\taub\src
+                          92 --		-I..\..\..\..\..\macro\vdce\lib -I..\..\..\..\..\macro\vdce\src
+                          93 --		-I..\..\..\..\..\macro\vo\ddb\lib
+                          94 --		-I..\..\..\..\..\macro\vo\ddb\src
+                          95 --		-I..\..\..\..\..\macro\vo\spea\lib
+                          96 --		-I..\..\..\..\..\macro\vo\spea\src
+                          97 --		-I..\..\..\..\..\macro\vo\vowe\lib
+                          98 --		-I..\..\..\..\..\macro\vo\vowe\src -I..\..\..\..\..\macro\wm\lib
+                          99 --		-I..\..\..\..\..\macro\wm\src
+                         100 --		-I..\..\..\..\..\middleware\gfxutils\lib
+                         101 --		-I..\..\..\..\..\middleware\gfxutils\src
+                         102 --		-I..\..\..\..\..\device\d1mx\macro_cfg\csisw
+                         103 --		-I..\..\..\..\..\device\d1mx\macro_cfg\davehd
+                         104 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ddb
+                         105 --		-I..\..\..\..\..\device\d1mx\macro_cfg\drw2d
+                         106 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus
+                         107 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gpio
+                         108 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypb
+                         109 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypdb
+                         110 --		-I..\..\..\..\..\device\d1mx\macro_cfg\jcua
+
+                                                                      Page 3
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         111 --		-I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare
+                         112 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octa
+                         113 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octacdb
+                         114 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ostm
+                         115 --		-I..\..\..\..\..\device\d1mx\macro_cfg\pbg
+                         116 --		-I..\..\..\..\..\device\d1mx\macro_cfg\riic
+                         117 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb
+                         118 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfma
+                         119 --		-I..\..\..\..\..\device\d1mx\macro_cfg\spea
+                         120 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tauj
+                         121 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tick
+                         122 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vdce
+                         123 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vowe
+                         124 --		-I..\..\..\..\..\device\d1mx\macro_cfg\wm
+                         125 --		-I..\..\..\..\..\device\d1mx\macro_cfg\xbus
+                         126 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\csisw
+                         127 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\davehd
+                         128 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ddb
+                         129 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d
+                         130 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus
+                         131 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gpio
+                         132 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypb
+                         133 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb
+                         134 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\jcua
+                         135 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare
+                         136 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octa
+                         137 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb
+                         138 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ostm
+                         139 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\pbg
+                         140 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\riic
+                         141 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb
+                         142 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfma
+                         143 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\spea
+                         144 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tauj
+                         145 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tick
+                         146 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vdce
+                         147 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vowe
+                         148 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\wm
+                         149 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\xbus
+                         150 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY
+                         151 --		--no_commons --no_implicit_include --prototype_errors
+                         152 --		-DBSP_INIT_QOS_SDRAM_ORG -DDEVICE_TYPE_D1M1X -DBSP_INIT_SFMA_ORG
+                         153 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         154 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI_ORG -DUSE_BSP_HMI
+                         155 --		-DUSE_BSP_STDIO -DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB
+                         156 --		-DUSE_DMA -DUSE_DRW2D -DUSE_GFXBUS -DUSE_G3DMA -DUSE_GFXUTILS
+                         157 --		-DUSE_GPIO -DUSE_JCUA -DUSE_OSTM -DUSE_PCMP -DUSE_PBG -DUSE_RIIC
+                         158 --		-DUSE_SFCDB -DUSE_SFMA_ORG -DUSE_SPEA -DUSE_TAUB -DUSE_TAUJ
+                         159 --		-DUSE_TICK -DUSE_VDCE -DUSE_VOWE -DUSE_WM -DUSE_XBUS -G -MD
+                         160 --		-Odebug -Zuse1bit -allocate_ep -cpu=rh850g3m -large_sda -list
+                         161 --		-no_callt -notda -passsource -preprocess_assembly_files
+                         162 --		-registermode=22 -reserve_r2 --diag_warning 1 -object_dir=.\obj
+                         163 --		-DBSP_INIT_QOS_VRAM -DUSE_RSCAN -filetype.c
+                         164 --		..\..\..\..\gfx_apps\d1m1_flashdash_demo\src\load_to_ram_MY.c -o
+                         165 --		.\obj\load_to_ram_MY.o
+                         166 --Source File:   ..\..\..\..\gfx_apps\d1m1_flashdash_demo\src\load_to_ram_MY.c
+                         167 --Directory:     
+                         168 --		G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+                         169 --Compile Date:  Sat Jan 12 14:23:30 2019
+                         170 --Host OS:       Win32
+                         171 --Version:       C-RH850 2017.1.5 RELEASE VERSION
+
+                                                                      Page 4
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         172 --Release:       Compiler v2017.1.5
+                         173 --Revision Date: Tue Apr 11 09:29:40 2017
+                         174 --Release Date:  Tue Apr 11 11:12:26 2017
+                         175 -- ecom  -g -w
+                         176 
+                         177 --1: #include "r_typedefs.h"
+                         178 --3: #include "r_cdi_api.h"
+                         179 --4: #include "r_drw2d_os.h"
+                         180 --5: #include "r_drw2d_api.h"
+                         181 --6: #include "r_config_drw2d.h"
+                         182 --7: #include "r_drw2d_ctx_dhd.h"
+                         183 --8: #include "mem_init.h"
+                         184 --9: #include "fs_data.h"
+                         185 --10: #include "fs_data_res.h"
+                         186 --11: #include "r_bsp_stdio_api.h"
+                         187 --12: //#include "r_gfxutils_api.h"
+                         188 --13: #include "r_util_dhd.h"
+                         189 --14: #include "drw_wrap.h"
+                         190 --16: #ifdef _WINDOWS
+                         191 --17: #include <stdio.h>
+                         192 --18: #endif
+                         193 --20: r_drw2d_Texture_t background_texture;
+                         194 --21: r_drw2d_Texture_t gauge_needle2_texture;
+                         195 --22: r_drw2d_Texture_t gauge_needle1_texture;
+                         196 --24: r_drw2d_Texture_t font_fixedsys12;
+                         197 --25: r_drw2d_Texture_t my_odo_font_texture;
+                         198 --27: r_drw2d_Texture_t my_middle_patch_texture;
+                         199 --28: r_drw2d_Texture_t my_menu_patch_texture;
+                         200 --30: //void *car_model_data;
+                         201 --32: typedef struct {
+                         202 --33:     uint32_t image_id;
+                         203 --34:     r_drw2d_Buffer_t buffer;
+                         204 --35:     uint32_t do_copy;
+                         205 --36: } copy_t;
+                         206 --38: const copy_t rom_data_geometry[] = {
+                         207 --39:     {ROM_FS_BKG,                 {0, 800, { 800,480}, R_DRW2D_PIXELFORMAT_ARGB8888}, 0},
+                         208 --40: 	
+                         209 --41: 	{ROM_FS_POINTER_NEEDLE1,     {0, 160 ,{ 160, 64}, R_DRW2D_PIXELFORMAT_ARGB8888}, 1},
+                         210 --42: 	
+                         211 --43: 	
+                         212 --44: 	{ROM_FS_POINTER_NEEDLE2,     {0, 188 ,{ 188, 96}, R_DRW2D_PIXELFORMAT_ARGB8888}, 1},
+                         213 --46: 	//{ROM_FS_POINTER_NEEDLE2,     {0, 212 ,{ 212, 84}, R_DRW2D_PIXELFORMAT_ARGB8888}, 1},
+                         214 --47: 	
+                         215 --48: 	//{ROM_FS_FIXEDSYS_12_708X16,     {0, 708,{ 708,  16},R_DRW2D_PIXELFORMAT_ARGB8888}},
+                         216 --49: 	{ROM_FS_SPEED_FONT,     {0, 448,{ 448,  68},R_DRW2D_PIXELFORMAT_ARGB8888}},		// for speed fonts
+                         217 --50: 	
+                         218 --51: 	//{ROM_FS_ODO_FONT,     {0, 274,{ 274,  36},R_DRW2D_PIXELFORMAT_ARGB8888}},		// for odo fonts
+                         219 --52: //	{ROM_FS_ODO_FONT,     {0, 756,{ 756,  36},R_DRW2D_PIXELFORMAT_ARGB8888}},		// for odo all fonts
+                         220 --53: //	{ROM_FS_ODO_FONT,     {0, 776,{ 776,  36},R_DRW2D_PIXELFORMAT_ARGB8888}},		// for odo all fonts new
+                         221 --54: 	{ROM_FS_ODO_FONT,     {0, 862,{ 862,  36},R_DRW2D_PIXELFORMAT_ARGB8888}},		// for odo all fonts with symbols
+                         222 --55: 	
+                         223 --56: 	{ROM_FS_MIDDLE_PATCH,     {0, 210,{ 210,  210},R_DRW2D_PIXELFORMAT_ARGB8888}},		// for middle patch	
+                         224 --57: 	{ROM_FS_MENU_PATCH,     {0, 192,{ 192,  280},R_DRW2D_PIXELFORMAT_ARGB8888}},		// for menu	
+                         225 --58: 	
+                         226 --59: 	
+                         227 --60: };
+                         228 --62: uint32_t rom_data_geometry_size = sizeof(rom_data_geometry) / sizeof(rom_data_geometry[0]);
+                         229 --64: extern const uint8_t my_bkg[480*480];
+                         230 --65: extern const unsigned char my_pointer[];
+                         231 --66: extern const unsigned char my_pointer_big[];
+                         232 --67: extern const unsigned char locImgData[];
+
+                                                                      Page 5
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         233 --69: #pragma ghs startdata
+                         234 --70: #pragma ghs section bss = ".my_section"
+                         235 --71: unsigned char my_dst[1536000];
+                         236 --72: #pragma ghs section bss = default
+                         237 --73: #pragma ghs enddata
+                         238 --75: unsigned long m;
+                         239 --76: extern const unsigned char my_new_bg[];
+                         240 --78: extern const unsigned char my_font_array[];
+                         241 --79: extern const unsigned char Font_consolas_B36[];
+                         242 --81: extern const unsigned char my_odo_font_array[];
+                         243 --82: extern const unsigned char my_odo_font_info[];
+                         244 --83: extern const unsigned char my_middle_patch[];
+                         245 --84: extern const unsigned char my_menu_patch[];
+                         246 --86: r_drw2d_Texture_t texture_template = { R_NULL, 0,0,0};
+                         247 --88: uint32_t use_premultiplied_alpha=0;
+                         248 --90: void Copy(r_drw2d_Texture_t *texture_p, r_drw2d_Framebuffer_t *frb_p) {
+                         249 	.text
+                         250 ..bof.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cload_to_ram_MY...47.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs..5C39AB0A..0::
+                         251 	.align	2
+                         252 	.align	2
+                         253 ..gh.f.a.2.e.0:
+                         254 	.type	..gh.f.a.2.e.0,@object
+                         255 	.size	..gh.f.a.2.e.0,0
+                         256 	.global	_Copy
+                         257 _Copy:
+00000000 8a07e130        258 	prepare	{r26,r27,r28,r29,r31},5
+00000004 06d0            259 	mov	r6,r26
+00000006 07d8            260 	mov	r7,r27
+00000008 3c0600000000*   261 	mov	_g_Drw2dDev,r28
+                         262 --	    .bf
+                         263 .LDW01:
+                         264 --91:     r_drw2d_Error_t ret = R_DRW2D_ERR_OK;
+                         265 --line91
+                         266 ..lin.7d6863ef..edcbc7f.0_1::
+                         267 .LDWlin1:
+0000000e 00ea            268 	mov	0,r29
+                         269 --92:     r_drw2d_Rect_t  rect;
+                         270 --95:     ret |= R_DRW2D_CtxTextureIdentity(g_Drw2dDev);
+00000010 3c370100        271 	ld.w	0[r28],r6
+                         272 	jarl	_R_DRW2D_CtxTextureIdentity,lp
+                         272 <EXPANSION BEGIN>
+                         272 jarl22 _R_DRW2D_CtxTextureIdentity , lp 
+00000014 80ff0000*       272 <EXPANSION END>
+00000018 0ae9            273 	or	r10,r29
+                         274 --96:     ret |= R_DRW2D_CtxIdentity(g_Drw2dDev);
+                         275 --line96
+                         276 ..lin.7d6863ef..edcbc7f.0_2::
+                         277 .LDWlin2:
+0000001a 3c370100        278 	ld.w	0[r28],r6
+                         279 	jarl	_R_DRW2D_CtxIdentity,lp
+                         279 <EXPANSION BEGIN>
+                         279 jarl22 _R_DRW2D_CtxIdentity , lp 
+0000001e 80ff0000*       279 <EXPANSION END>
+00000022 0ae9            280 	or	r10,r29
+                         281 --97:     ret |= R_DRW2D_CtxTextureSet(g_Drw2dDev, 0, texture_p);
+                         282 --line97
+                         283 ..lin.7d6863ef..edcbc7f.0_3::
+                         284 .LDWlin3:
+00000024 3c370100        285 	ld.w	0[r28],r6
+00000028 1a40            286 	mov	r26,r8
+0000002a 003a            287 	mov	0,r7
+
+                                                                      Page 6
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         288 	jarl	_R_DRW2D_CtxTextureSet,lp
+                         288 <EXPANSION BEGIN>
+                         288 jarl22 _R_DRW2D_CtxTextureSet , lp 
+0000002c 80ff0000*       288 <EXPANSION END>
+00000030 0ae9            289 	or	r10,r29
+                         290 --99:     ret |= R_DRW2D_CtxFillMode(g_Drw2dDev,  R_DRW2D_FILLMODE_TEXTURE);
+                         291 --line99
+                         292 ..lin.7d6863ef..edcbc7f.0_4::
+                         293 .LDWlin4:
+00000032 3c370100        294 	ld.w	0[r28],r6
+00000036 023a            295 	mov	2,r7
+                         296 	jarl	_R_DRW2D_CtxFillMode,lp
+                         296 <EXPANSION BEGIN>
+                         296 jarl22 _R_DRW2D_CtxFillMode , lp 
+00000038 80ff0000*       296 <EXPANSION END>
+0000003c 0ae9            297 	or	r10,r29
+                         298 --101:     if (use_premultiplied_alpha) {
+                         299 --line101
+                         300 ..lin.7d6863ef..edcbc7f.0_5::
+                         301 .LDWlin5:
+0000003e 210600000000*   302 	mov	_use_premultiplied_alpha,r1
+00000044 210f0100        303 	ld.w	0[r1],r1
+00000048 e009            304 	cmp	zero,r1
+0000004a a215*           305 	be	.L4
+                         306 --102:         ret |= R_DRW2D_CtxBlendMode(g_Drw2dDev, R_DRW2D_BLENDMODE_CUSTOM);
+                         307 --line102
+                         308 ..lin.7d6863ef..edcbc7f.0_6::
+                         309 .LDWlin6:
+0000004c 3c370100        310 	ld.w	0[r28],r6
+00000050 003a            311 	mov	0,r7
+                         312 	jarl	_R_DRW2D_CtxBlendMode,lp
+                         312 <EXPANSION BEGIN>
+                         312 jarl22 _R_DRW2D_CtxBlendMode , lp 
+00000052 80ff0000*       312 <EXPANSION END>
+00000056 0ae9            313 	or	r10,r29
+                         314 --103:         ret |= R_DRW2D_CtxBlendFactors(g_Drw2dDev,
+                         315 --line103
+                         316 ..lin.7d6863ef..edcbc7f.0_7::
+                         317 .LDWlin7:
+00000058 3c370100        318 	ld.w	0[r28],r6
+0000005c 063a            319 	mov	6,r7
+0000005e 63070100        320 	st.w	zero,0[sp]
+00000062 0042            321 	mov	0,r8
+00000064 014a            322 	mov	1,r9
+                         323 	jarl	_R_DRW2D_CtxBlendFactors,lp
+                         323 <EXPANSION BEGIN>
+                         323 jarl22 _R_DRW2D_CtxBlendFactors , lp 
+00000066 80ff0000*       323 <EXPANSION END>
+0000006a 0ae9            324 	or	r10,r29
+0000006c f505*           325 	br	.L6
+                         326 .L4:
+                         327 --104:                                        R_DRW2D_BLEND_SRC_ALPHA,
+                         328 --105:                                        /* R_DRW2D_BLEND_ZERO, */
+                         329 --106:                                        R_DRW2D_BLEND_ZERO,
+                         330 --107:                                        R_DRW2D_BLEND_ONE,
+                         331 --108:                                        R_DRW2D_BLEND_ZERO);
+                         332 --109:     } else {
+                         333 --110:         ret |= R_DRW2D_CtxBlendMode(g_Drw2dDev, R_DRW2D_BLENDMODE_SRC);
+                         334 --line110
+                         335 ..lin.7d6863ef..edcbc7f.0_8::
+                         336 .LDWlin8:
+
+                                                                      Page 7
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+0000006e 3c370100        337 	ld.w	0[r28],r6
+00000072 013a            338 	mov	1,r7
+                         339 	jarl	_R_DRW2D_CtxBlendMode,lp
+                         339 <EXPANSION BEGIN>
+                         339 jarl22 _R_DRW2D_CtxBlendMode , lp 
+00000074 80ff0000*       339 <EXPANSION END>
+00000078 0ae9            340 	or	r10,r29
+                         341 .L6:
+                         342 --111:     }
+                         343 --113:     rect.Pos.X       = rect.Pos.Y = 0;
+                         344 --line113
+                         345 ..lin.7d6863ef..edcbc7f.0_9::
+                         346 .LDWlin9:
+0000007a 63070900        347 	st.w	zero,8[sp]
+0000007e 63070500        348 	st.w	zero,4[sp]
+                         349 --114:     rect.Size.Width  = R_DRW2D_2X(frb_p->Buffer.Size.Width);
+00000082 3b0f0d00        350 	ld.w	12[r27],r1
+00000086 d00a            351 	shl	16,r1
+00000088 630f0d00        352 	st.w	r1,12[sp]
+                         353 --115:     rect.Size.Height = R_DRW2D_2X(frb_p->Buffer.Size.Height);
+0000008c 3b0f1100        354 	ld.w	16[r27],r1
+00000090 d00a            355 	shl	16,r1
+00000092 630f1100        356 	st.w	r1,16[sp]
+                         357 --116:     
+                         358 --117:     ret = R_DRW2D_FramebufferSet(g_Drw2dDev, frb_p);
+00000096 3c370100        359 	ld.w	0[r28],r6
+0000009a 1b38            360 	mov	r27,r7
+                         361 	jarl	_R_DRW2D_FramebufferSet,lp
+                         361 <EXPANSION BEGIN>
+                         361 jarl22 _R_DRW2D_FramebufferSet , lp 
+0000009c 80ff0000*       361 <EXPANSION END>
+000000a0 0ae8            362 	mov	r10,r29
+                         363 --118:     ret |= R_DRW2D_DrawRect(g_Drw2dDev, &rect);
+                         364 --line118
+                         365 ..lin.7d6863ef..edcbc7f.0_10::
+                         366 .LDWlin10:
+000000a2 3c370100        367 	ld.w	0[r28],r6
+000000a6 233e0400        368 	movea	4,sp,r7
+                         369 	jarl	_R_DRW2D_DrawRect,lp
+                         369 <EXPANSION BEGIN>
+                         369 jarl22 _R_DRW2D_DrawRect , lp 
+000000aa 80ff0000*       369 <EXPANSION END>
+000000ae 0ae9            370 	or	r10,r29
+                         371 --120:     //R_GFXUTILS_ASSERT(R_DRW2D_ERR_OK == ret);    
+                         372 --121: }
+                         373 --	    .ef
+                         374 .LDW11:
+                         375 --line121
+                         376 ..lin.7d6863ef..edcbc7f.0_11::
+                         377 .LDWlin11:
+000000b0 4a06ff30        378 	dispose	5,{r26,r27,r28,r29,r31},[lp]
+                         379 ..lin.7d6863ef..edcbc7f.0_12::
+                         380 .LDWlin12:
+                         381 	.type	_Copy,@function
+                         382 	.size	_Copy,.-_Copy
+                         383 	.align	2
+                         384 .LDW21:
+                         385 --_ret	r29	local
+                         386 --_rect	4[sp]	local
+                         387 
+                         388 --_texture_p	r26	param
+
+                                                                      Page 8
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         389 --_frb_p	r27	param
+                         390 
+                         391 	.section ".bss","awb"
+                         392 .L86:
+                         393 	.type	.L86,@object
+                         394 	.size	.L86,0
+                         395 	.data
+                         396 	.text
+                         397 
+                         398 
+                         399 --123: void Copy_Buffer(r_drw2d_Buffer_t *src_p, r_drw2d_Buffer_t *dst_p){
+                         400 	.align	2
+                         401 	.align	2
+                         402 	.align	2
+                         403 ..gh.f.a.2.e.1:
+                         404 	.type	..gh.f.a.2.e.1,@object
+                         405 	.size	..gh.f.a.2.e.1,0
+                         406 	.global	_Copy_Buffer
+                         407 _Copy_Buffer:
+000000b4 9c072100        408 	prepare	{r31},14
+000000b8 06f0            409 	mov	r6,ep
+                         410 --	    .bf
+                         411 .LDW31:
+                         412 --124:     r_drw2d_Texture_t     texture;
+                         413 --125:     r_drw2d_Framebuffer_t frb;
+                         414 --127:     texture.Handle = R_NULL;
+000000ba 63071d00        415 	st.w	zero,28[sp]
+                         416 --128:     texture.Flags  = (r_drw2d_TextureFlags_t)0;
+000000be 63073500        417 	st.w	zero,52[sp]
+                         418 --129:     texture.Buffer = *src_p;
+000000c2 be0709600000    419 	ld.dw	0[ep],r12
+000000c8 be0789500000    420 	ld.dw	8[ep],r10
+000000ce 0875            421 	sld.w	16[ep],r14
+000000d0 a3070f620000    422 	st.dw	r12,32[sp]
+000000d6 a3078f520000    423 	st.dw	r10,40[sp]
+000000dc 63773100        424 	st.w	r14,48[sp]
+                         425 --131:     frb.Handle = R_NULL;
+                         426 --line131
+                         427 ..lin.7d6863ef..ffa9bdb8.0_13::
+                         428 .LDWlin13:
+000000e0 63070100        429 	st.w	zero,0[sp]
+                         430 --132:     frb.Flags  = (r_drw2d_FramebufferFlags_t)0;
+000000e4 63071900        431 	st.w	zero,24[sp]
+                         432 --133:     frb.Buffer = *dst_p;
+000000e8 a70709600000    433 	ld.dw	0[r7],r12
+000000ee a70789500000    434 	ld.dw	8[r7],r10
+000000f4 270f1100        435 	ld.w	16[r7],r1
+000000f8 23f60400        436 	movea	4,sp,ep
+000000fc a3074f600000    437 	st.dw	r12,4[sp]
+00000102 a307cf500000    438 	st.dw	r10,12[sp]
+00000108 090d            439 	sst.w	r1,16[ep]
+                         440 --134:     Copy(&texture, &frb);
+                         441 --line134
+                         442 ..lin.7d6863ef..ffa9bdb8.0_14::
+                         443 .LDWlin14:
+0000010a 23361c00        444 	movea	28,sp,r6
+0000010e 233e0000        445 	movea	0,sp,r7
+                         446 	jarl	_Copy,lp
+                         446 <EXPANSION BEGIN>
+                         446 jarl22 _Copy , lp 
+00000112 bfffeefe*       446 <EXPANSION END>
+
+                                                                      Page 9
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         447 --135:     
+                         448 --136: }
+                         449 --	    .ef
+                         450 .LDW41:
+                         451 --line136
+                         452 ..lin.7d6863ef..ffa9bdb8.0_15::
+                         453 .LDWlin15:
+00000116 5c063f00        454 	dispose	14,{r31},[lp]
+                         455 ..lin.7d6863ef..ffa9bdb8.0_16::
+                         456 .LDWlin16:
+                         457 	.type	_Copy_Buffer,@function
+                         458 	.size	_Copy_Buffer,.-_Copy_Buffer
+                         459 	.align	2
+                         460 .LDW51:
+                         461 --_texture	28[sp]	local
+                         462 --_frb	0[sp]	local
+                         463 
+                         464 --_src_p	ep	param
+                         465 --_dst_p	r7	param
+                         466 
+                         467 	.section ".bss","awb"
+                         468 .L186:
+                         469 	.type	.L186,@object
+                         470 	.size	.L186,0
+                         471 	.data
+                         472 	.text
+                         473 
+                         474 
+                         475 --138: void LoadToRam(void)
+                         476 	.align	2
+                         477 	.align	2
+                         478 	.align	2
+                         479 ..gh.f.a.2.e.2:
+                         480 	.type	..gh.f.a.2.e.2,@object
+                         481 	.size	..gh.f.a.2.e.2,0
+                         482 	.global	_LoadToRam
+                         483 _LoadToRam:
+0000011a 9807e170        484 	prepare	{r25,r26,r27,r28,r29,r31},12
+0000011e 3c0600000000*   485 	mov	_g_Drw2dDev,r28
+00000124 3b0600000000*   486 	mov	_AppHeap_p,r27
+0000012a 3d0600000000*   487 	mov	_m,r29
+00000130 3a0600000000*   488 	mov	_use_premultiplied_alpha,r26
+00000136 390600000000*   489 	mov	_gauge_needle1_texture,r25
+                         490 --	    .bf
+                         491 .LDW61:
+                         492 --139: {
+                         493 --140:     int i;
+                         494 --142:     r_drw2d_Buffer_t src,dst;
+                         495 --143:     const copy_t *cur_geometry;
+                         496 --144:     uint32_t cur_image_id, cur_do_copy;
+                         497 --145:     const r_fs_data_t *cur_rom_fs;
+                         498 --146:     
+                         499 --147:     for(i = 0;i < rom_data_geometry_size; i++) 
+                         500 --line147
+                         501 ..lin.7d6863ef..d559ca87.0_17::
+                         502 .LDWlin17:
+0000013c 63070500        503 	st.w	zero,4[sp]
+00000140 005a            504 	mov	0,r11
+00000142 80071003*       505 	br	.L224
+                         506 .L223:
+                         507 --148: 	{
+
+                                                                      Page 10
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         508 --	    .bs
+                         509 .LDW71:
+                         510 --149:         r_drw2d_Texture_t *cur_texture;
+                         511 --150:         cur_geometry = rom_data_geometry + i;
+                         512 --line150
+                         513 ..lin.7d6863ef..d559ca87.0_18::
+                         514 .LDWlin18:
+00000146 235f0500        515 	ld.w	4[sp],r11
+0000014a 2e0600000000*   516 	mov	_rom_data_geometry,r14
+00000150 0b08            517 	mov	r11,r1
+00000152 e100            518 	sxh	r1
+00000154 e10e1c00        519 	mulhi	28,r1,r1
+00000158 01f0            520 	mov	r1,ep
+0000015a cef1            521 	add	r14,ep
+                         522 --151:         cur_image_id = cur_geometry->image_id;
+                         523 --line151
+                         524 ..lin.7d6863ef..d559ca87.0_19::
+                         525 .LDWlin19:
+0000015c 0075            526 	sld.w	0[ep],r14
+                         527 --152:         cur_do_copy  = cur_geometry->do_copy;
+0000015e 0c0d            528 	sld.w	24[ep],r1
+                         529 --153:         //cur_rom_fs   = RomFileSystemData_res + cur_image_id;
+                         530 --154:         src          = dst = cur_geometry->buffer;
+00000160 44f2            531 	add	4,ep
+00000162 be0709600000    532 	ld.dw	0[ep],r12
+00000168 be0789500000    533 	ld.dw	8[ep],r10
+0000016e 084d            534 	sld.w	16[ep],r9
+00000170 a3078f600000    535 	st.dw	r12,8[sp]
+00000176 a3070f510000    536 	st.dw	r10,16[sp]
+0000017c 634f1900        537 	st.w	r9,24[sp]
+00000180 a307cf610000    538 	st.dw	r12,28[sp]
+00000186 a3074f520000    539 	st.dw	r10,36[sp]
+0000018c 634f2d00        540 	st.w	r9,44[sp]
+                         541 --155:         src.Data     = cur_rom_fs->Address;
+                         542 --line155
+                         543 ..lin.7d6863ef..d559ca87.0_20::
+                         544 .LDWlin20:
+00000190 3d0f0500        545 	ld.w	4[r29],r1
+00000194 630f1d00        546 	st.w	r1,28[sp]
+                         547 --156:         use_premultiplied_alpha = 0;
+00000198 7a070100        548 	st.w	zero,0[r26]
+                         549 --157:         switch(cur_image_id)
+0000019c 0e08            550 	mov	r14,r1
+0000019e 660a            551 	cmp	6,r1
+000001a0 eb07a902*       552 	bh	.L222
+000001a4 c20a            553 	shl	2,r1
+000001a6 e10600000000*   554 	jmp	.L476[r1]
+                         555 .L476:
+000001ac 8007f400*       556 	jr	.L228
+000001b0 80079201*       557 	jr	.L229
+000001b4 80070202*       558 	jr	.L230
+000001b8 80071000*       559 	jr	.L226
+000001bc 80077800*       560 	jr	.L227
+000001c0 80072802*       561 	jr	.L231
+000001c4 80078402*       562 	jr	.L222
+                         563 .L226:
+                         564 --158: 		{
+                         565 --159: 			case ROM_FS_SPEED_FONT:
+                         566 --160: 				src.Data     = &my_font_array;		// Speed Font
+                         567 --line160
+                         568 ..lin.7d6863ef..d559ca87.0_21::
+
+                                                                      Page 11
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         569 .LDWlin21:
+000001c8 210600000000*   570 	mov	_my_font_array,r1
+000001ce 630f1d00        571 	st.w	r1,28[sp]
+                         572 --161: 				//src.Data     = &my_odo_font_array;	// Odo font
+                         573 --162: 				
+                         574 --163: 				dst.Data     = R_CDI_Alloc(AppHeap_p, 121856);	// Speed Fonts
+                         575 --line163
+                         576 ..lin.7d6863ef..d559ca87.0_22::
+                         577 .LDWlin22:
+000001d2 3b370100        578 	ld.w	0[r27],r6
+000001d6 270600dc0100    579 	mov	121856,r7
+                         580 	jarl	_R_CDI_Alloc,lp
+                         580 <EXPANSION BEGIN>
+                         580 jarl22 _R_CDI_Alloc , lp 
+000001dc 80ff0000*       580 <EXPANSION END>
+000001e0 63570900        581 	st.w	r10,8[sp]
+                         582 --164: 				//dst.Data     = R_CDI_Alloc(AppHeap_p, 39456);	// Odo Fonts
+                         583 --165: 							
+                         584 --166: 				font_fixedsys12.Buffer = dst;
+                         585 --line166
+                         586 ..lin.7d6863ef..d559ca87.0_23::
+                         587 .LDWlin23:
+000001e4 23f60800        588 	movea	8,sp,ep
+000001e8 a30789600000    589 	ld.dw	8[sp],r12
+000001ee a30709510000    590 	ld.dw	16[sp],r10
+000001f4 0875            591 	sld.w	16[ep],r14
+000001f6 210600000000*   592 	mov	_font_fixedsys12+4,r1
+000001fc a1070f600000    593 	st.dw	r12,0[r1]
+00000202 a1078f500000    594 	st.dw	r10,8[r1]
+00000208 61771100        595 	st.w	r14,16[r1]
+                         596 --167: 				font_fixedsys12.Flags = R_DRW2D_TEX_VT|R_DRW2D_TEX_BILINEAR|R_DRW2D_TEX_PERSPECTIVE;
+                         597 --line167
+                         598 ..lin.7d6863ef..d559ca87.0_24::
+                         599 .LDWlin24:
+0000020c 200e4c00        600 	movea	76,zero,r1
+00000210 2b0600000000*   601 	mov	_font_fixedsys12+24,r11
+00000216 6b0f0100        602 	st.w	r1,0[r11]
+                         603 --168: 				
+                         604 --169: 				Copy_Buffer( &src, &dst);
+                         605 --line169
+                         606 ..lin.7d6863ef..d559ca87.0_25::
+                         607 .LDWlin25:
+0000021a 23361c00        608 	movea	28,sp,r6
+0000021e 233e0800        609 	movea	8,sp,r7
+                         610 	jarl	_Copy_Buffer,lp
+                         610 <EXPANSION BEGIN>
+                         610 jarl22 _Copy_Buffer , lp 
+00000222 bfff92fe*       610 <EXPANSION END>
+                         611 --170: 				R_DRW2D_GpuFinish(g_Drw2dDev, R_DRW2D_FINISH_WAIT);	
+                         612 --line170
+                         613 ..lin.7d6863ef..d559ca87.0_26::
+                         614 .LDWlin26:
+00000226 3c370100        615 	ld.w	0[r28],r6
+0000022a 013a            616 	mov	1,r7
+                         617 	jarl	_R_DRW2D_GpuFinish,lp
+                         617 <EXPANSION BEGIN>
+                         617 jarl22 _R_DRW2D_GpuFinish , lp 
+0000022c 80ff0000*       617 <EXPANSION END>
+00000230 80071802*       618 	br	.L222
+                         619 --171: 				
+                         620 --172: 				break;
+
+                                                                      Page 12
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         621 --173: 			
+                         622 --174: 			case ROM_FS_ODO_FONT:
+                         623 .L227:
+                         624 --175: 				src.Data     = &my_odo_font_array;	// Odo font
+                         625 --line175
+                         626 ..lin.7d6863ef..d559ca87.0_27::
+                         627 .LDWlin27:
+00000234 210600000000*   628 	mov	_my_odo_font_array,r1
+0000023a 630f1d00        629 	st.w	r1,28[sp]
+                         630 --176: 				
+                         631 --177: 				//dst.Data     = R_CDI_Alloc(AppHeap_p, 39456);	// Odo Fonts
+                         632 --178: 				//dst.Data     = R_CDI_Alloc(AppHeap_p, 108864);	// Odo all Fonts
+                         633 --179: 				//dst.Data     = R_CDI_Alloc(AppHeap_p, 111744);	// Odo all Fonts new
+                         634 --180: 				dst.Data     = R_CDI_Alloc(AppHeap_p, 124128);	// Odo all Fonts with symbols
+                         635 --line180
+                         636 ..lin.7d6863ef..d559ca87.0_28::
+                         637 .LDWlin28:
+0000023e 3b370100        638 	ld.w	0[r27],r6
+00000242 2706e0e40100    639 	mov	124128,r7
+                         640 	jarl	_R_CDI_Alloc,lp
+                         640 <EXPANSION BEGIN>
+                         640 jarl22 _R_CDI_Alloc , lp 
+00000248 80ff0000*       640 <EXPANSION END>
+0000024c 63570900        641 	st.w	r10,8[sp]
+                         642 --181: 							
+                         643 --182: 				my_odo_font_texture.Buffer = dst;
+                         644 --line182
+                         645 ..lin.7d6863ef..d559ca87.0_29::
+                         646 .LDWlin29:
+00000250 23f60800        647 	movea	8,sp,ep
+00000254 a30789600000    648 	ld.dw	8[sp],r12
+0000025a a30709510000    649 	ld.dw	16[sp],r10
+00000260 0875            650 	sld.w	16[ep],r14
+00000262 210600000000*   651 	mov	_my_odo_font_texture+4,r1
+00000268 a1070f600000    652 	st.dw	r12,0[r1]
+0000026e a1078f500000    653 	st.dw	r10,8[r1]
+00000274 61771100        654 	st.w	r14,16[r1]
+                         655 --183: 				my_odo_font_texture.Flags = R_DRW2D_TEX_VT|R_DRW2D_TEX_BILINEAR|R_DRW2D_TEX_PERSPECTIVE;
+                         656 --line183
+                         657 ..lin.7d6863ef..d559ca87.0_30::
+                         658 .LDWlin30:
+00000278 200e4c00        659 	movea	76,zero,r1
+0000027c 2b0600000000*   660 	mov	_my_odo_font_texture+24,r11
+00000282 6b0f0100        661 	st.w	r1,0[r11]
+                         662 --184: 				
+                         663 --185: 				Copy_Buffer( &src, &dst);
+                         664 --line185
+                         665 ..lin.7d6863ef..d559ca87.0_31::
+                         666 .LDWlin31:
+00000286 23361c00        667 	movea	28,sp,r6
+0000028a 233e0800        668 	movea	8,sp,r7
+                         669 	jarl	_Copy_Buffer,lp
+                         669 <EXPANSION BEGIN>
+                         669 jarl22 _Copy_Buffer , lp 
+0000028e bfff26fe*       669 <EXPANSION END>
+                         670 --186: 				R_DRW2D_GpuFinish(g_Drw2dDev, R_DRW2D_FINISH_WAIT);	
+                         671 --line186
+                         672 ..lin.7d6863ef..d559ca87.0_32::
+                         673 .LDWlin32:
+00000292 3c370100        674 	ld.w	0[r28],r6
+00000296 013a            675 	mov	1,r7
+
+                                                                      Page 13
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         676 	jarl	_R_DRW2D_GpuFinish,lp
+                         676 <EXPANSION BEGIN>
+                         676 jarl22 _R_DRW2D_GpuFinish , lp 
+00000298 80ff0000*       676 <EXPANSION END>
+0000029c 8007ac01*       677 	br	.L222
+                         678 --187: 				
+                         679 --188: 				break;
+                         680 --189: 				
+                         681 --190: 			case ROM_FS_BKG:
+                         682 .L228:
+                         683 --191: 				src.Data     = &locImgData;//&my_menu_patch;
+                         684 --line191
+                         685 ..lin.7d6863ef..d559ca87.0_33::
+                         686 .LDWlin33:
+000002a0 210600000000*   687 	mov	_locImgData,r1
+000002a6 630f1d00        688 	st.w	r1,28[sp]
+                         689 --193: 				for(m=0; m<1536000; m++)
+                         690 --line193
+                         691 ..lin.7d6863ef..d559ca87.0_34::
+                         692 .LDWlin34:
+000002aa 7d070100        693 	st.w	zero,0[r29]
+                         694 .L237:
+                         695 --194: 				{
+                         696 --195: 				    my_dst[m] = locImgData[m] >> 2;
+000002ae 3df70100        697 	ld.w	0[r29],ep
+000002b2 210600000000*   698 	mov	_my_dst,r1
+000002b8 2e0600000000*   699 	mov	_locImgData,r14
+000002be c1f1            700 	add	r1,ep
+000002c0 3d0f0100        701 	ld.w	0[r29],r1
+000002c4 ce09            702 	add	r14,r1
+000002c6 810f0100        703 	ld.bu	0[r1],r1
+000002ca a20a            704 	sar	2,r1
+000002cc 800b            705 	sst.b	r1,0[ep]
+                         706 --line193
+                         707 ..lin.7d6863ef..d559ca87.0_35::
+                         708 .LDWlin35:
+000002ce 3d0f0100        709 	ld.w	0[r29],r1
+000002d2 410a            710 	add	1,r1
+000002d4 7d0f0100        711 	st.w	r1,0[r29]
+000002d8 0170            712 	mov	r1,r14
+000002da 210600701700    713 	mov	1536000,r1
+000002e0 e171            714 	cmp	r1,r14
+000002e2 e1e5*           715 	bl	.L237
+                         716 --196: 				}
+                         717 --198: 				src.Data     = &my_dst;
+                         718 --line198
+                         719 ..lin.7d6863ef..d559ca87.0_36::
+                         720 .LDWlin36:
+000002e4 210600000000*   721 	mov	_my_dst,r1
+000002ea 630f1d00        722 	st.w	r1,28[sp]
+                         723 --199: 				dst.Data     = R_CDI_Alloc(AppHeap_p, 1536000);
+                         724 --line199
+                         725 ..lin.7d6863ef..d559ca87.0_37::
+                         726 .LDWlin37:
+000002ee 3b370100        727 	ld.w	0[r27],r6
+000002f2 270600701700    728 	mov	1536000,r7
+                         729 	jarl	_R_CDI_Alloc,lp
+                         729 <EXPANSION BEGIN>
+                         729 jarl22 _R_CDI_Alloc , lp 
+000002f8 80ff0000*       729 <EXPANSION END>
+000002fc 63570900        730 	st.w	r10,8[sp]
+
+                                                                      Page 14
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         731 --200: 				
+                         732 --201: 				background_texture.Buffer = dst;
+                         733 --line201
+                         734 ..lin.7d6863ef..d559ca87.0_38::
+                         735 .LDWlin38:
+00000300 23f60800        736 	movea	8,sp,ep
+00000304 a30789600000    737 	ld.dw	8[sp],r12
+0000030a a30709510000    738 	ld.dw	16[sp],r10
+00000310 0875            739 	sld.w	16[ep],r14
+00000312 210600000000*   740 	mov	_background_texture+4,r1
+00000318 a1070f600000    741 	st.dw	r12,0[r1]
+0000031e a1078f500000    742 	st.dw	r10,8[r1]
+00000324 61771100        743 	st.w	r14,16[r1]
+                         744 --202: 			
+                         745 --203: 				Copy_Buffer( &src, &dst);
+                         746 --line203
+                         747 ..lin.7d6863ef..d559ca87.0_39::
+                         748 .LDWlin39:
+00000328 23361c00        749 	movea	28,sp,r6
+0000032c 233e0800        750 	movea	8,sp,r7
+                         751 	jarl	_Copy_Buffer,lp
+                         751 <EXPANSION BEGIN>
+                         751 jarl22 _Copy_Buffer , lp 
+00000330 bfff84fd*       751 <EXPANSION END>
+                         752 --204: 				R_DRW2D_GpuFinish(g_Drw2dDev, R_DRW2D_FINISH_WAIT);
+                         753 --line204
+                         754 ..lin.7d6863ef..d559ca87.0_40::
+                         755 .LDWlin40:
+00000334 3c370100        756 	ld.w	0[r28],r6
+00000338 013a            757 	mov	1,r7
+                         758 	jarl	_R_DRW2D_GpuFinish,lp
+                         758 <EXPANSION BEGIN>
+                         758 jarl22 _R_DRW2D_GpuFinish , lp 
+0000033a 80ff0000*       758 <EXPANSION END>
+0000033e 80070a01*       759 	br	.L222
+                         760 --205: 				break;
+                         761 --207: 			
+                         762 --208: 			case ROM_FS_POINTER_NEEDLE2:
+                         763 .L229:
+                         764 --209: 			#if 1
+                         765 --210: 				src.Data     = &my_pointer_big;	//cur_rom_fs->Address;
+                         766 --line210
+                         767 ..lin.7d6863ef..d559ca87.0_41::
+                         768 .LDWlin41:
+00000342 210600000000*   769 	mov	_my_pointer_big,r1
+00000348 630f1d00        770 	st.w	r1,28[sp]
+                         771 --211: 				dst.Data     = R_CDI_Alloc(AppHeap_p, 72192);	// for Altia my big needle
+                         772 --line211
+                         773 ..lin.7d6863ef..d559ca87.0_42::
+                         774 .LDWlin42:
+0000034c 3b370100        775 	ld.w	0[r27],r6
+00000350 2706001a0100    776 	mov	72192,r7
+                         777 	jarl	_R_CDI_Alloc,lp
+                         777 <EXPANSION BEGIN>
+                         777 jarl22 _R_CDI_Alloc , lp 
+00000356 80ff0000*       777 <EXPANSION END>
+0000035a 63570900        778 	st.w	r10,8[sp]
+                         779 --212: 				//dst.Data     = R_CDI_Alloc(AppHeap_p, 71232);	// for Ketan big needle
+                         780 --213: 			#endif
+                         781 --214: 			
+                         782 --215: 			#if 0
+
+                                                                      Page 15
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         783 --216: 				src.Data     = &my_pointer;	//cur_rom_fs->Address;
+                         784 --217: 				dst.Data     = R_CDI_Alloc(AppHeap_p, 48128);	// for Altia my small needle
+                         785 --218: 			#endif
+                         786 --219: 			
+                         787 --220: 			#if 0
+                         788 --221: 				src.Data     = &my_pointer;	//cur_rom_fs->Address;
+                         789 --222: 				dst.Data     = R_CDI_Alloc(AppHeap_p, 27072);	 //for REE needle
+                         790 --223: 			#endif
+                         791 --224: 				
+                         792 --225: 				use_premultiplied_alpha = 1;
+                         793 --line225
+                         794 ..lin.7d6863ef..d559ca87.0_43::
+                         795 .LDWlin43:
+0000035e 010a            796 	mov	1,r1
+00000360 7a0f0100        797 	st.w	r1,0[r26]
+                         798 --226: 				gauge_needle2_texture.Buffer = dst;
+00000364 2b0600000000*   799 	mov	_gauge_needle2_texture,r11
+0000036a 23f60800        800 	movea	8,sp,ep
+0000036e 0b0e0400        801 	addi	4,r11,r1
+00000372 a30789600000    802 	ld.dw	8[sp],r12
+00000378 a30709510000    803 	ld.dw	16[sp],r10
+0000037e 0875            804 	sld.w	16[ep],r14
+00000380 a1070f600000    805 	st.dw	r12,0[r1]
+00000386 a1078f500000    806 	st.dw	r10,8[r1]
+0000038c 61771100        807 	st.w	r14,16[r1]
+                         808 --227: 				gauge_needle2_texture.Flags  = R_DRW2D_TEX_SWIZZLE|R_DRW2D_TEX_BILINEAR;
+                         809 --line227
+                         810 ..lin.7d6863ef..d559ca87.0_44::
+                         811 .LDWlin44:
+00000390 200e2400        812 	movea	36,zero,r1
+00000394 2b0600000000*   813 	mov	_gauge_needle2_texture+24,r11
+0000039a 6b0f0100        814 	st.w	r1,0[r11]
+                         815 --228: 					
+                         816 --229: 				Copy_Buffer( &src, &dst);
+                         817 --line229
+                         818 ..lin.7d6863ef..d559ca87.0_45::
+                         819 .LDWlin45:
+0000039e 23361c00        820 	movea	28,sp,r6
+000003a2 233e0800        821 	movea	8,sp,r7
+                         822 	jarl	_Copy_Buffer,lp
+                         822 <EXPANSION BEGIN>
+                         822 jarl22 _Copy_Buffer , lp 
+000003a6 bfff0efd*       822 <EXPANSION END>
+                         823 --230: 				R_DRW2D_GpuFinish(g_Drw2dDev, R_DRW2D_FINISH_WAIT);	
+                         824 --line230
+                         825 ..lin.7d6863ef..d559ca87.0_46::
+                         826 .LDWlin46:
+000003aa 3c370100        827 	ld.w	0[r28],r6
+000003ae 013a            828 	mov	1,r7
+                         829 	jarl	_R_DRW2D_GpuFinish,lp
+                         829 <EXPANSION BEGIN>
+                         829 jarl22 _R_DRW2D_GpuFinish , lp 
+000003b0 80ff0000*       829 <EXPANSION END>
+000003b4 a54d*           830 	br	.L222
+                         831 --231: 				
+                         832 --232: 				break;
+                         833 --234: 				
+                         834 --235: 			case ROM_FS_POINTER_NEEDLE1:
+                         835 .L230:
+                         836 --236: 				//src.Data     = &my_pointer;
+                         837 --237: 				//dst.Data     = R_CDI_Alloc(AppHeap_p, 40960);
+
+                                                                      Page 16
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         838 --238: 				
+                         839 --239: 				use_premultiplied_alpha = 1;
+                         840 --line239
+                         841 ..lin.7d6863ef..d559ca87.0_47::
+                         842 .LDWlin47:
+000003b6 010a            843 	mov	1,r1
+000003b8 7a0f0100        844 	st.w	r1,0[r26]
+                         845 --240: 				gauge_needle1_texture.Buffer = dst;
+000003bc 23f60800        846 	movea	8,sp,ep
+000003c0 a30789600000    847 	ld.dw	8[sp],r12
+000003c6 a30709510000    848 	ld.dw	16[sp],r10
+000003cc 0875            849 	sld.w	16[ep],r14
+000003ce b9074f600000    850 	st.dw	r12,4[r25]
+000003d4 b907cf500000    851 	st.dw	r10,12[r25]
+000003da 79771500        852 	st.w	r14,20[r25]
+                         853 --241: 				gauge_needle1_texture.Flags  = R_DRW2D_TEX_SWIZZLE|R_DRW2D_TEX_BILINEAR;
+                         854 --line241
+                         855 ..lin.7d6863ef..d559ca87.0_48::
+                         856 .LDWlin48:
+000003de 200e2400        857 	movea	36,zero,r1
+000003e2 790f1900        858 	st.w	r1,24[r25]
+000003e6 9535*           859 	br	.L222
+                         860 --242: 					
+                         861 --243: 				//Copy_Buffer( &src, &dst);
+                         862 --244: 				//R_DRW2D_GpuFinish(g_Drw2dDev, R_DRW2D_FINISH_WAIT);	
+                         863 --245: 				break;
+                         864 --246: 			
+                         865 --247: 			case ROM_FS_MIDDLE_PATCH:
+                         866 .L231:
+                         867 --248: 				src.Data     = &my_middle_patch;
+                         868 --line248
+                         869 ..lin.7d6863ef..d559ca87.0_49::
+                         870 .LDWlin49:
+000003e8 210600000000*   871 	mov	_my_middle_patch,r1
+000003ee 630f1d00        872 	st.w	r1,28[sp]
+                         873 --249: 				dst.Data     = R_CDI_Alloc(AppHeap_p, 176400);
+                         874 --line249
+                         875 ..lin.7d6863ef..d559ca87.0_50::
+                         876 .LDWlin50:
+000003f2 3b370100        877 	ld.w	0[r27],r6
+000003f6 270610b10200    878 	mov	176400,r7
+                         879 	jarl	_R_CDI_Alloc,lp
+                         879 <EXPANSION BEGIN>
+                         879 jarl22 _R_CDI_Alloc , lp 
+000003fc 80ff0000*       879 <EXPANSION END>
+00000400 63570900        880 	st.w	r10,8[sp]
+                         881 --250: 				
+                         882 --251: 				use_premultiplied_alpha = 1;
+                         883 --line251
+                         884 ..lin.7d6863ef..d559ca87.0_51::
+                         885 .LDWlin51:
+00000404 010a            886 	mov	1,r1
+00000406 7a0f0100        887 	st.w	r1,0[r26]
+                         888 --252: 				my_middle_patch_texture.Buffer = dst;
+0000040a 23f60800        889 	movea	8,sp,ep
+0000040e a30789600000    890 	ld.dw	8[sp],r12
+00000414 a30709510000    891 	ld.dw	16[sp],r10
+0000041a 0875            892 	sld.w	16[ep],r14
+0000041c 210600000000*   893 	mov	_my_middle_patch_texture+4,r1
+00000422 a1070f600000    894 	st.dw	r12,0[r1]
+00000428 a1078f500000    895 	st.dw	r10,8[r1]
+
+                                                                      Page 17
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+0000042e 61771100        896 	st.w	r14,16[r1]
+                         897 --253: 				//my_middle_patch_texture.Flags  = R_DRW2D_TEX_SWIZZLE|R_DRW2D_TEX_BILINEAR;
+                         898 --254: 					
+                         899 --255: 				Copy_Buffer( &src, &dst);
+                         900 --line255
+                         901 ..lin.7d6863ef..d559ca87.0_52::
+                         902 .LDWlin52:
+00000432 23361c00        903 	movea	28,sp,r6
+00000436 233e0800        904 	movea	8,sp,r7
+                         905 	jarl	_Copy_Buffer,lp
+                         905 <EXPANSION BEGIN>
+                         905 jarl22 _Copy_Buffer , lp 
+0000043a bfff7afc*       905 <EXPANSION END>
+                         906 --256: 				R_DRW2D_GpuFinish(g_Drw2dDev, R_DRW2D_FINISH_WAIT);	
+                         907 --line256
+                         908 ..lin.7d6863ef..d559ca87.0_53::
+                         909 .LDWlin53:
+0000043e 3c370100        910 	ld.w	0[r28],r6
+00000442 013a            911 	mov	1,r7
+                         912 	jarl	_R_DRW2D_GpuFinish,lp
+                         912 <EXPANSION BEGIN>
+                         912 jarl22 _R_DRW2D_GpuFinish , lp 
+00000444 80ff0000*       912 <EXPANSION END>
+                         913 --257: 				break;
+                         914 --258: 				
+                         915 --259: 			case ROM_FS_MENU_PATCH:
+                         916 --260: 				// src.Data     = &locImgData;//&my_menu_patch;
+                         917 --261: 				// dst.Data     = R_CDI_Alloc(AppHeap_p, 1536000);
+                         918 --262: 				
+                         919 --263: 				// use_premultiplied_alpha = 1;
+                         920 --264: 				// my_menu_patch_texture.Buffer = dst;
+                         921 --265: 				//my_menu_patch_texture.Flags  = R_DRW2D_TEX_SWIZZLE|R_DRW2D_TEX_BILINEAR;
+                         922 --266: 					
+                         923 --267: 				// Copy_Buffer( &src, &dst);
+                         924 --268: 				// R_DRW2D_GpuFinish(g_Drw2dDev, R_DRW2D_FINISH_WAIT);	
+                         925 --269: 				break;	
+                         926 --270: 			
+                         927 --271: 			
+                         928 --272: 			if(0)//cur_do_copy)
+                         929 --273: 			{
+                         930 --274: 				Copy_Buffer( &src, &dst);
+                         931 --275: 				R_DRW2D_GpuFinish(g_Drw2dDev, R_DRW2D_FINISH_WAIT);
+                         932 --	    .es
+                         933 .LDW81:
+                         934 .L222:
+                         935 --line147
+                         936 ..lin.7d6863ef..d559ca87.0_54::
+                         937 .LDWlin54:
+00000448 235f0500        938 	ld.w	4[sp],r11
+0000044c 415a            939 	add	1,r11
+0000044e 635f0500        940 	st.w	r11,4[sp]
+                         941 .L224:
+00000452 210600000000*   942 	mov	_rom_data_geometry_size,r1
+00000458 210f0100        943 	ld.w	0[r1],r1
+0000045c 23670500        944 	ld.w	4[sp],r12
+00000460 e161            945 	cmp	r1,r12
+00000462 f107e5fc*       946 	bl	.L223
+                         947 --276: 			}
+                         948 --277: 		}
+                         949 --278: 	}
+                         950 --279: }
+
+                                                                      Page 18
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                         951 --	    .ef
+                         952 .LDW91:
+                         953 --line279
+                         954 ..lin.7d6863ef..d559ca87.0_55::
+                         955 .LDWlin55:
+00000466 5806ff70        956 	dispose	12,{r25,r26,r27,r28,r29,r31},[lp]
+                         957 ..lin.7d6863ef..d559ca87.0_56::
+                         958 .LDWlin56:
+                         959 	.type	_LoadToRam,@function
+                         960 	.size	_LoadToRam,.-_LoadToRam
+                         961 	.align	2
+                         962 .LDW02:
+                         963 --_i	4[sp]	local
+                         964 --_src	28[sp]	local
+                         965 --_dst	8[sp]	local
+                         966 --_cur_geometry	ep	local
+                         967 --_cur_image_id	r14	local
+                         968 --_cur_do_copy	r1	local
+                         969 --_cur_rom_fs	r29	local
+                         970 
+                         971 	.section ".bss","awb"
+                         972 .L474:
+                         973 	.type	.L474,@object
+                         974 	.size	.L474,0
+                         975 	.data
+                         976 	.ghsnote jtable,2097156,.L476,.L476,.L476,7
+                         977 	.text
+                         978 
+                         979 	.align	2
+                         980 --_AppHeap_p	_AppHeap_p	import
+                         981 --_g_Drw2dDev	_g_Drw2dDev	import
+                         982 --_my_pointer_big	_my_pointer_big	import
+                         983 --_locImgData	_locImgData	import
+                         984 --_my_font_array	_my_font_array	import
+                         985 --_my_odo_font_array	_my_odo_font_array	import
+                         986 --_my_middle_patch	_my_middle_patch	import
+                         987 
+                         988 	.data
+                         989 	.align	4
+                         990 	.global	_rom_data_geometry_size
+00000000 07000000        991 _rom_data_geometry_size:	.byte	7,0,0,0
+                         992 	.type	_rom_data_geometry_size,@object
+                         993 	.size	_rom_data_geometry_size,4
+                         994 	.global	_use_premultiplied_alpha
+00000004 00000000        995 _use_premultiplied_alpha:	.byte	0,0,0,0
+                         996 	.type	_use_premultiplied_alpha,@object
+                         997 	.size	_use_premultiplied_alpha,4
+                         998 	.global	_texture_template
+00000008 00000000        999 _texture_template:	.space	4
+0000000c 00000000       1000 	.space	4
+00000010 00000000       1001 	.space	4
+00000014 00000000       1002 	.space	4
+00000018 00000000       1003 	.space	4
+0000001c 00000000       1004 	.space	4
+00000020 00000000       1005 	.space	4
+                        1006 	.type	_texture_template,@object
+                        1007 	.size	_texture_template,28
+                        1008 	.section ".rodata","a"
+                        1009 	.align	4
+                        1010 	.global	_rom_data_geometry
+00000000 00000000       1011 _rom_data_geometry:	.space	4
+
+                                                                      Page 19
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+00000004 00000000       1012 	.space	4
+00000008 20030000       1013 	.byte	32,3,0,0
+0000000c 20030000       1014 	.byte	32,3,0,0
+00000010 e0010000       1015 	.byte	224,1,0,0
+00000014 0f000000       1016 	.byte	15,0,0,0
+00000018 00000000       1017 	.space	4
+0000001c 02000000       1018 	.byte	2,0,0,0
+00000020 00000000       1019 	.space	4
+00000024 a0000000       1020 	.byte	160,0,0,0
+00000028 a0000000       1021 	.byte	160,0,0,0
+0000002c 40000000       1022 	.byte	64,0,0,0
+00000030 0f000000       1023 	.byte	15,0,0,0
+00000034 01000000       1024 	.byte	1,0,0,0
+00000038 01000000       1025 	.byte	1,0,0,0
+0000003c 00000000       1026 	.space	4
+00000040 bc000000       1027 	.byte	188,0,0,0
+00000044 bc000000       1028 	.byte	188,0,0,0
+00000048 60000000       1029 	.byte	96,0,0,0
+0000004c 0f000000       1030 	.byte	15,0,0,0
+00000050 01000000       1031 	.byte	1,0,0,0
+00000054 03000000       1032 	.byte	3,0,0,0
+00000058 00000000       1033 	.space	4
+0000005c c0010000       1034 	.byte	192,1,0,0
+00000060 c0010000       1035 	.byte	192,1,0,0
+00000064 44000000       1036 	.byte	68,0,0,0
+00000068 0f000000       1037 	.byte	15,0,0,0
+0000006c 00000000       1038 	.space	4
+00000070 04000000       1039 	.byte	4,0,0,0
+00000074 00000000       1040 	.space	4
+00000078 5e030000       1041 	.byte	94,3,0,0
+0000007c 5e030000       1042 	.byte	94,3,0,0
+00000080 24000000       1043 	.byte	36,0,0,0
+00000084 0f000000       1044 	.byte	15,0,0,0
+00000088 00000000       1045 	.space	4
+0000008c 05000000       1046 	.byte	5,0,0,0
+00000090 00000000       1047 	.space	4
+00000094 d2000000       1048 	.byte	210,0,0,0
+00000098 d2000000       1049 	.byte	210,0,0,0
+0000009c d2000000       1050 	.byte	210,0,0,0
+000000a0 0f000000       1051 	.byte	15,0,0,0
+000000a4 00000000       1052 	.space	4
+000000a8 06000000       1053 	.byte	6,0,0,0
+000000ac 00000000       1054 	.space	4
+000000b0 c0000000       1055 	.byte	192,0,0,0
+000000b4 c0000000       1056 	.byte	192,0,0,0
+000000b8 18010000       1057 	.byte	24,1,0,0
+000000bc 0f000000       1058 	.byte	15,0,0,0
+000000c0 00000000       1059 	.space	4
+                        1060 	.type	_rom_data_geometry,@object
+                        1061 	.size	_rom_data_geometry,196
+                        1062 	.data
+                        1063 	.section ".bss","awb"
+                        1064 	.align	4
+                        1065 	.align	4
+                        1066 	.global	_background_texture
+00000000 000000000000   1067 _background_texture:	.space	28
+00000006 000000000000 
+0000000c 000000000000 
+00000012 000000000000 
+00000018 00000000 
+                        1068 	.type	_background_texture,@object
+
+                                                                      Page 20
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                        1069 	.size	_background_texture,28
+                        1070 	.align	4
+                        1071 	.global	_gauge_needle2_texture
+0000001c 000000000000   1072 _gauge_needle2_texture:	.space	28
+00000022 000000000000 
+00000028 000000000000 
+0000002e 000000000000 
+00000034 00000000 
+                        1073 	.type	_gauge_needle2_texture,@object
+                        1074 	.size	_gauge_needle2_texture,28
+                        1075 	.align	4
+                        1076 	.global	_gauge_needle1_texture
+00000038 000000000000   1077 _gauge_needle1_texture:	.space	28
+0000003e 000000000000 
+00000044 000000000000 
+0000004a 000000000000 
+00000050 00000000 
+                        1078 	.type	_gauge_needle1_texture,@object
+                        1079 	.size	_gauge_needle1_texture,28
+                        1080 	.align	4
+                        1081 	.global	_font_fixedsys12
+00000054 000000000000   1082 _font_fixedsys12:	.space	28
+0000005a 000000000000 
+00000060 000000000000 
+00000066 000000000000 
+0000006c 00000000 
+                        1083 	.type	_font_fixedsys12,@object
+                        1084 	.size	_font_fixedsys12,28
+                        1085 	.align	4
+                        1086 	.global	_my_odo_font_texture
+00000070 000000000000   1087 _my_odo_font_texture:	.space	28
+00000076 000000000000 
+0000007c 000000000000 
+00000082 000000000000 
+00000088 00000000 
+                        1088 	.type	_my_odo_font_texture,@object
+                        1089 	.size	_my_odo_font_texture,28
+                        1090 	.align	4
+                        1091 	.global	_my_middle_patch_texture
+0000008c 000000000000   1092 _my_middle_patch_texture:	.space	28
+00000092 000000000000 
+00000098 000000000000 
+0000009e 000000000000 
+000000a4 00000000 
+                        1093 	.type	_my_middle_patch_texture,@object
+                        1094 	.size	_my_middle_patch_texture,28
+                        1095 	.align	4
+                        1096 	.global	_my_menu_patch_texture
+000000a8 000000000000   1097 _my_menu_patch_texture:	.space	28
+000000ae 000000000000 
+000000b4 000000000000 
+000000ba 000000000000 
+000000c0 00000000 
+                        1098 	.type	_my_menu_patch_texture,@object
+                        1099 	.size	_my_menu_patch_texture,28
+                        1100 	.align	4
+                        1101 	.global	_m
+000000c4 00000000       1102 _m:	.space	4
+                        1103 	.type	_m,@object
+                        1104 	.size	_m,4
+                        1105 	.section ".my_section","awb"
+
+                                                                      Page 21
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00005rg1.si
+                        1106 	.global	_my_dst
+00000000 000000000000   1107 _my_dst:	.space	1536000
+00000006 000000000000 
+0000000c 000000000000 
+00000012 000000000000 
+00000018 000000000000 
+0000001e 000000000000 
+00000024 000000000000 
+0000002a 000000000000 
+00000030 000000000000 
+00000036 000000000000 
+0000003c 000000000000 
+00000042 000000000000 
+00000048 000000000000 
+0000004e 000000000000 
+00000054 000000000000 
+0000005a 000000000000 
+00000060 000000000000 
+00000066 000000000000 
+0000006c 000000000000 
+00000072 000000000000 
+00000078 000000000000 
+0000007e 000000000000 
+00000084 000000000000 
+0000008a 000000000000 
+00000090 000000000000 
+00000096 000000000000 
+0000009c 000000000000 
+000000a2 000000000000 
+000000a8 000000000000 
+000000ae 000000000000 
+000000b4 000000000000 
+000000ba 000000000000 
+000000c0 000000000000 
+000000c6 000000000000 
+000000cc 000000000000 
+000000d2 000000000000 
+000000d8 000000000000 
+000000de 000000000000 
+000000e4 000000000000 
+000000ea 000000000000 
+000000f0 000000000000 
+000000f6 000000000000 
+000000fc 00000000 
+                        1108 	.type	_my_dst,@object
+                        1109 	.size	_my_dst,1536000
+                        1110 	.data
+                        1111 	.ghsnote version,19
+                        1112 	.ghsnote tools,3
+                        1113 	.ghsnote options,656
+                        1114 	.text
+                        1115 	.align	2
+                        1116 ..eof.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Cload_to_ram_MY...47.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs..5C39AB0A..0::
+                        1117 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M,SDA_EXTRA_REGS_0

@@ -1,0 +1,404 @@
+                                                                      Page 1
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00009qo1.si
+Command Line: C:\ghs\comp_201715\ease850.exe -w -elf -b0 -I..\..\..\..\app\common\dhd -I..\..\..\..\app\gfx_apps\W501\res -I..\..\..\..\app\gfx_apps\W501\src\ADC -I..\..\..\..\app\gfx_apps\W501\src\CAN -I..\..\..\..\app\gfx_apps\W501\src\TFT -I..\..\..\..\app\gfx_apps\W501\src\TFT\Non_drome -I..\..\..\..\app\gfx_apps\W501\src\DIGITAL_GAUGE -I..\..\..\..\app\gfx_apps\W501\src\EEPROM -I..\..\..\..\app\gfx_apps\W501\src\INPUT -I..\..\..\..\app\gfx_apps\W501\src\ISM -I..\..\..\..\app\gfx_apps\W501\src\SOUND -I..\..\..\..\app\gfx_apps\W501\src\TELLTALE -I..\..\..\..\app\gfx_apps\W501\src\TIMER -I..\..\..\..\app\gfx_apps\W501\src\UDS -I..\..\..\..\app\gfx_apps\W501\src\ -I..\..\..\..\app\gfx_apps\W501\src\images -I..\..\..\..\app\gfx_apps\W501\target\ -I..\..\..\..\app\gfx_apps\W501\target\config -I..\..\..\..\bsp\board\config -I..\..\..\..\bsp\board\src\gfx -I..\..\..\..\bsp\board\src\hmi -I..\..\..\..\bsp\board\src\stdio -I..\..\..\..\bsp\board\d1mx_mango\config -I..\..\..\..\bsp\board\d1mx_mango\src -I..\..\..\..\bsp\board\d1mx_mango\src\gfx -I..\..\..\..\bsp\board\d1mx_mango\src\hmi -I..\..\..\..\bsp\board\d1mx_mango\src\stdio -I..\..\..\..\bsp\gfx\lib -I..\..\..\..\bsp\gfx\src -I..\..\..\..\bsp\hmi\lib -I..\..\..\..\bsp\hmi\src -I..\..\..\..\bsp\lib -I..\..\..\..\bsp\stdio\lib -I..\..\..\..\bsp\stdio\src -I..\..\..\..\cdi\lib -I..\..\..\..\cdi\src -I..\..\..\..\compiler\rh850_ghs\inc -I..\..\..\..\device\d1mx\lib -I..\..\..\..\device\d1mx\macro_cfg -I..\..\..\..\..\device\d1mx\macro_cfg\csisw -I..\..\..\..\..\device\d1mx\macro_cfg\davehd -I..\..\..\..\..\device\d1mx\macro_cfg\ddb -I..\..\..\..\..\device\d1mx\macro_cfg\drw2d -I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus -I..\..\..\..\..\device\d1mx\macro_cfg\gpio -I..\..\..\..\..\device\d1mx\macro_cfg\hypb -I..\..\..\..\..\device\d1mx\macro_cfg\hypdb -I..\..\..\..\..\device\d1mx\macro_cfg\jcua -I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare -I..\..\..\..\..\device\d1mx\macro_cfg\octa -I..\..\..\..\..\device\d1mx\macro_cfg\octacdb -I..\..\..\..\..\device\d1mx\macro_cfg\ostm -I..\..\..\..\..\device\d1mx\macro_cfg\pbg -I..\..\..\..\..\device\d1mx\macro_cfg\riic -I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb -I..\..\..\..\..\device\d1mx\macro_cfg\sfma -I..\..\..\..\..\device\d1mx\macro_cfg\spea -I..\..\..\..\..\device\d1mx\macro_cfg\tauj -I..\..\..\..\..\device\d1mx\macro_cfg\tick -I..\..\..\..\..\device\d1mx\macro_cfg\vdce -I..\..\..\..\..\device\d1mx\macro_cfg\vowe -I..\..\..\..\..\device\d1mx\macro_cfg\wm -I..\..\..\..\..\device\d1mx\macro_cfg\xbus -I..\..\..\..\..\device\d1x_common\macro_cfg\csisw -I..\..\..\..\..\device\d1x_common\macro_cfg\davehd -I..\..\..\..\..\device\d1x_common\macro_cfg\ddb -I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d -I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus -I..\..\..\..\..\device\d1x_common\macro_cfg\gpio -I..\..\..\..\..\device\d1x_common\macro_cfg\hypb -I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb -I..\..\..\..\..\device\d1x_common\macro_cfg\jcua -I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare -I..\..\..\..\..\device\d1x_common\macro_cfg\octa -I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb -I..\..\..\..\..\device\d1x_common\macro_cfg\ostm -I..\..\..\..\..\device\d1x_common\macro_cfg\pbg -I..\..\..\..\..\device\d1x_common\macro_cfg\riic -I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb -I..\..\..\..\..\device\d1x_common\macro_cfg\sfma -I..\..\..\..\..\device\d1x_common\macro_cfg\spea -I..\..\..\..\..\device\d1x_common\macro_cfg\tauj -I..\..\..\..\..\device\d1x_common\macro_cfg\tick -I..\..\..\..\..\device\d1x_common\macro_cfg\vdce -I..\..\..\..\..\device\d1x_common\macro_cfg\vowe -I..\..\..\..\..\device\d1x_common\macro_cfg\wm -I..\..\..\..\..\device\d1x_common\macro_cfg\xbus -I..\..\..\..\device\d1mx\src\dev -I..\..\..\..\device\d1mx\src\dhd -I..\..\..\..\..\device\d1mx\src\hypb -I..\..\..\..\device\d1mx\src\jcua -I..\..\..\..\..\device\d1mx\src\nfmabare -I..\..\..\..\..\device\d1mx\src\octa -I..\..\..\..\device\d1mx\src\rh850_ghs -I..\..\..\..\device\d1mx\src\vowe -I..\..\..\..\device\d1x_common\macro_cfg -I..\..\..\..\device\d1x_common\src\csisw -I..\..\..\..\device\d1x_common\src\ddb -I..\..\..\..\device\d1x_common\src\dev -I..\..\..\..\device\d1x_common\macro_cfg\ddb -I..\..\..\..\device\d1x_common\macro_cfg\drw2d -I..\..\..\..\device\d1x_common\src\gfxbus -I..\..\..\..\device\d1x_common\src\gpio -I..\..\..\..\device\d1x_common\src\ostm -I..\..\..\..\device\d1x_common\src\pbg -I..\..\..\..\device\d1x_common\src\riic -I..\..\..\..\device\d1x_common\macro_cfg\sfcdb -I..\..\..\..\device\d1x_common\src\sfma -I..\..\..\..\device\d1x_common\src\spea -I..\..\..\..\device\d1x_common\src\tauj -I..\..\..\..\device\d1x_common\src\tick -I..\..\..\..\device\d1x_common\src\vdce -I..\..\..\..\device\d1x_common\src\wm -I..\..\..\..\device\d1x_common\src\dma -I..\..\..\..\device\d1x_common\src\g3dma -I..\..\..\..\device\d1x_common\src\xbus -I..\..\..\..\device\d1x_common\src\pcmp -I..\..\..\..\device\d1x_common\src\taub -I..\..\..\..\device\lib -I..\..\..\..\macro\bus\pbg\lib -I..\..\..\..\macro\bus\pbg\src -I..\..\..\..\macro\ad_converter\adc7010\lib -I..\..\..\..\macro\ad_converter\adc7010\src -I..\..\..\..\macro\sm\ism\src -I..\..\..\..\macro\sm\ism\lib -I..\..\..\..\device\d1x_common\src\ism -I..\..\..\..\macro\ecm\lib -I..\..\..\..\macro\ecm\src -I..\..\..\..\device\d1x_common\src\ecm -I..\..\..\..\macro\csi\csisw\lib -I..\..\..\..\macro\csi\csisw\src -I..\..\..\..\macro\dma\dma\lib -I..\..\..\..\macro\dma\dma\src -I..\..\..\..\macro\dma\g3dma\lib -I..\..\..\..\macro\dma\g3dma\src -I..\..\..\..\macro\drw2d\lib -I..\..\..\..\macro\drw2d\platform\davehd -I..\..\..\..\macro\drw2d\platform\os\no_os -I..\..\..\..\macro\drw2d\src -I..\..\..\..\macro\flashc\sfcdb\lib -I..\..\..\..\macro\flashc\sfcdb\src -I..\..\..\..\macro\flashc\sfma\lib -I..\..\..\..\macro\flashc\sfma\src -I..\..\..\..\macro\gfxbus\lib -I..\..\..\..\macro\gfxbus\src -I..\..\..\..\macro\gfxbus\xbus\lib -I..\..\..\..\macro\gfxbus\xbus\src -I..\..\..\..\macro\gpio\lib -I..\..\..\..\macro\gpio\src -I..\..\..\..\macro\gpu\davehd\common\inc -I..\..\..\..\macro\gpu\davehd\common\inc\platform -I..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx -I..\..\..\..\macro\gpu\davehd\kernel\inc -I..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx -I..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge -I..\..\..\..\macro\gpu\davehd\kernel\platform\ree -I..\..\..\..\macro\gpu\davehd\kernel\src -I..\..\..\..\macro\gpu\davehd\user\inc -I..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os -I..\..\..\..\macro\gpu\davehd\user\src -I..\..\..\..\macro\gpu\jcua\lib -I..\..\..\..\macro\gpu\jcua\src -I..\..\..\..\macro\i2c\riic\lib -I..\..\..\..\macro\i2c\riic\src -I..\..\..\..\macro\pwm\pcmp\lib -I..\..\..\..\macro\pwm\pcmp\src -I..\..\..\..\macro\tick\lib -I..\..\..\..\macro\tick\src -I..\..\..\..\macro\timer\ostm\lib -I..\..\..\..\macro\timer\ostm\src -I..\..\..\..\macro\timer\tauj\lib -I..\..\..\..\macro\timer\tauj\src -I..\..\..\..\macro\timer\taub\lib -I..\..\..\..\macro\timer\taub\src -I..\..\..\..\macro\vdce\lib -I..\..\..\..\macro\vdce\src -I..\..\..\..\macro\vo\ddb\lib -I..\..\..\..\macro\vo\ddb\src -I..\..\..\..\macro\vo\spea\lib -I..\..\..\..\macro\vo\spea\src -I..\..\..\..\macro\vo\vowe\lib -I..\..\..\..\macro\vo\vowe\src -I..\..\..\..\macro\wm\lib -I..\..\..\..\macro\wm\src -I..\..\..\..\middleware\gfxutils\lib -I..\..\..\..\middleware\gfxutils\src -I..\..\..\..\device\d1mx\macro_cfg\csisw -I..\..\..\..\device\d1mx\macro_cfg\davehd -I..\..\..\..\device\d1mx\macro_cfg\ddb -I..\..\..\..\device\d1mx\macro_cfg\drw2d -I..\..\..\..\device\d1mx\macro_cfg\gfxbus -I..\..\..\..\device\d1mx\macro_cfg\gpio -I..\..\..\..\device\d1mx\macro_cfg\hypb -I..\..\..\..\device\d1mx\macro_cfg\hypdb -I..\..\..\..\device\d1mx\macro_cfg\jcua -I..\..\..\..\device\d1mx\macro_cfg\nfmabare -I..\..\..\..\device\d1mx\macro_cfg\octa -I..\..\..\..\device\d1mx\macro_cfg\octacdb -I..\..\..\..\device\d1mx\macro_cfg\ostm -I..\..\..\..\device\d1mx\macro_cfg\pbg -I..\..\..\..\device\d1mx\macro_cfg\riic -I..\..\..\..\device\d1mx\macro_cfg\sfcdb -I..\..\..\..\device\d1mx\macro_cfg\sfma -I..\..\..\..\device\d1mx\macro_cfg\spea -I..\..\..\..\device\d1mx\macro_cfg\tauj -I..\..\..\..\device\d1mx\macro_cfg\tick -I..\..\..\..\device\d1mx\macro_cfg\vdce -I..\..\..\..\device\d1mx\macro_cfg\vowe -I..\..\..\..\device\d1mx\macro_cfg\wm -I..\..\..\..\device\d1mx\macro_cfg\xbus -I..\..\..\..\device\d1x_common\macro_cfg\adc -I..\..\..\..\device\d1x_common\macro_cfg\csisw -I..\..\..\..\device\d1x_common\macro_cfg\davehd -I..\..\..\..\device\d1x_common\macro_cfg\gfxbus -I..\..\..\..\device\d1x_common\macro_cfg\gpio -I..\..\..\..\device\d1x_common\macro_cfg\hypb -I..\..\..\..\device\d1x_common\macro_cfg\hypdb -I..\..\..\..\device\d1x_common\macro_cfg\jcua -I..\..\..\..\device\d1x_common\macro_cfg\nfmabare -I..\..\..\..\device\d1x_common\macro_cfg\octa -I..\..\..\..\device\d1x_common\macro_cfg\octacdb -I..\..\..\..\device\d1x_common\macro_cfg\ostm -I..\..\..\..\device\d1x_common\macro_cfg\pbg -I..\..\..\..\device\d1x_common\macro_cfg\riic -I..\..\..\..\device\d1x_common\macro_cfg\sfma -I..\..\..\..\device\d1x_common\macro_cfg\spea -I..\..\..\..\device\d1x_common\macro_cfg\tauj -I..\..\..\..\device\d1x_common\macro_cfg\tick -I..\..\..\..\device\d1x_common\macro_cfg\vdce -I..\..\..\..\device\d1x_common\macro_cfg\vowe -I..\..\..\..\device\d1x_common\macro_cfg\wm -I..\..\..\..\device\d1x_common\macro_cfg\xbus -I..\..\..\..\app\gfx_apps\W501\src\TEXT_MY -IC:\ghs\comp_201715\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -nomacro -patch_dbo=G:\Vlib_svn\app\gfx_apps\W501\target\obj\davehd_kernel_init_defaults_d1x.dbo -source=davehd_kernel_init_defaults_d1x.c -o .\obj\gh_00009qo1.o -list=.\obj\davehd_kernel_init_defaults_d1x.lst C:\Users\MANGESH\AppData\Local\Temp\gh_00009qo1.si 
+Original File: C:\Users\MANGESH\AppData\Local\Temp\gh_00009qo1.si
+Source File: davehd_kernel_init_defaults_d1x.c
+Directory: G:\Vlib_svn\app\gfx_apps\W501\target
+Host OS: Windows 7 Service Pack 1
+EASE: Copyright (C) 1983-2016 Green Hills Software.  All Rights Reserved.
+Release: MULTI v800-v2017.1.5-comp-P04
+Custom String: TOOLS-28024 unreached assembly routines deleted by linker
+Build Directory: [Directory] BTOWINBOX:c:/build_2017_1_bto/2017-10-04.2100-2017_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2017-1-bto/src@603992 (built by build)
+Revision Date: Thu Oct 05 10:11:26 2017
+
+Release Date: Tue Oct 10 02:48:58 2017
+
+                           1 --Driver Command: ccv850 -c -MD -I..\..\..\..\app\common\dhd
+                           2 --		-I..\..\..\..\app\gfx_apps\W501\res
+                           3 --		-I..\..\..\..\app\gfx_apps\W501\src\ADC
+                           4 --		-I..\..\..\..\app\gfx_apps\W501\src\CAN
+                           5 --		-I..\..\..\..\app\gfx_apps\W501\src\TFT
+                           6 --		-I..\..\..\..\app\gfx_apps\W501\src\TFT\Non_drome
+                           7 --		-I..\..\..\..\app\gfx_apps\W501\src\DIGITAL_GAUGE
+                           8 --		-I..\..\..\..\app\gfx_apps\W501\src\EEPROM
+                           9 --		-I..\..\..\..\app\gfx_apps\W501\src\INPUT
+                          10 --		-I..\..\..\..\app\gfx_apps\W501\src\ISM
+                          11 --		-I..\..\..\..\app\gfx_apps\W501\src\SOUND
+                          12 --		-I..\..\..\..\app\gfx_apps\W501\src\TELLTALE
+                          13 --		-I..\..\..\..\app\gfx_apps\W501\src\TIMER
+                          14 --		-I..\..\..\..\app\gfx_apps\W501\src\UDS
+                          15 --		-I..\..\..\..\app\gfx_apps\W501\src\
+                          16 --		-I..\..\..\..\app\gfx_apps\W501\src\images
+                          17 --		-I..\..\..\..\app\gfx_apps\W501\target\
+                          18 --		-I..\..\..\..\app\gfx_apps\W501\target\config
+                          19 --		-I..\..\..\..\bsp\board\config -I..\..\..\..\bsp\board\src\gfx
+                          20 --		-I..\..\..\..\bsp\board\src\hmi -I..\..\..\..\bsp\board\src\stdio
+                          21 --		-I..\..\..\..\bsp\board\d1mx_mango\config
+                          22 --		-I..\..\..\..\bsp\board\d1mx_mango\src
+                          23 --		-I..\..\..\..\bsp\board\d1mx_mango\src\gfx
+                          24 --		-I..\..\..\..\bsp\board\d1mx_mango\src\hmi
+                          25 --		-I..\..\..\..\bsp\board\d1mx_mango\src\stdio
+                          26 --		-I..\..\..\..\bsp\gfx\lib -I..\..\..\..\bsp\gfx\src
+                          27 --		-I..\..\..\..\bsp\hmi\lib -I..\..\..\..\bsp\hmi\src
+                          28 --		-I..\..\..\..\bsp\lib -I..\..\..\..\bsp\stdio\lib
+                          29 --		-I..\..\..\..\bsp\stdio\src -I..\..\..\..\cdi\lib
+                          30 --		-I..\..\..\..\cdi\src -I..\..\..\..\compiler\rh850_ghs\inc
+                          31 --		-I..\..\..\..\device\d1mx\lib -I..\..\..\..\device\d1mx\macro_cfg
+                          32 --		-I..\..\..\..\..\device\d1mx\macro_cfg\csisw
+                          33 --		-I..\..\..\..\..\device\d1mx\macro_cfg\davehd
+                          34 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ddb
+                          35 --		-I..\..\..\..\..\device\d1mx\macro_cfg\drw2d
+                          36 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus
+                          37 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gpio
+                          38 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypb
+                          39 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypdb
+                          40 --		-I..\..\..\..\..\device\d1mx\macro_cfg\jcua
+                          41 --		-I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare
+                          42 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octa
+                          43 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octacdb
+                          44 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ostm
+                          45 --		-I..\..\..\..\..\device\d1mx\macro_cfg\pbg
+                          46 --		-I..\..\..\..\..\device\d1mx\macro_cfg\riic
+                          47 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb
+                          48 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfma
+                          49 --		-I..\..\..\..\..\device\d1mx\macro_cfg\spea
+
+                                                                      Page 2
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00009qo1.si
+                          50 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tauj
+                          51 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tick
+                          52 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vdce
+                          53 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vowe
+                          54 --		-I..\..\..\..\..\device\d1mx\macro_cfg\wm
+                          55 --		-I..\..\..\..\..\device\d1mx\macro_cfg\xbus
+                          56 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\csisw
+                          57 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\davehd
+                          58 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ddb
+                          59 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d
+                          60 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus
+                          61 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gpio
+                          62 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypb
+                          63 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb
+                          64 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\jcua
+                          65 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare
+                          66 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octa
+                          67 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb
+                          68 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ostm
+                          69 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\pbg
+                          70 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\riic
+                          71 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb
+                          72 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfma
+                          73 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\spea
+                          74 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tauj
+                          75 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tick
+                          76 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vdce
+                          77 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vowe
+                          78 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\wm
+                          79 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\xbus
+                          80 --		-I..\..\..\..\device\d1mx\src\dev
+                          81 --		-I..\..\..\..\device\d1mx\src\dhd
+                          82 --		-I..\..\..\..\..\device\d1mx\src\hypb
+                          83 --		-I..\..\..\..\device\d1mx\src\jcua
+                          84 --		-I..\..\..\..\..\device\d1mx\src\nfmabare
+                          85 --		-I..\..\..\..\..\device\d1mx\src\octa
+                          86 --		-I..\..\..\..\device\d1mx\src\rh850_ghs
+                          87 --		-I..\..\..\..\device\d1mx\src\vowe
+                          88 --		-I..\..\..\..\device\d1x_common\macro_cfg
+                          89 --		-I..\..\..\..\device\d1x_common\src\csisw
+                          90 --		-I..\..\..\..\device\d1x_common\src\ddb
+                          91 --		-I..\..\..\..\device\d1x_common\src\dev
+                          92 --		-I..\..\..\..\device\d1x_common\macro_cfg\ddb
+                          93 --		-I..\..\..\..\device\d1x_common\macro_cfg\drw2d
+                          94 --		-I..\..\..\..\device\d1x_common\src\gfxbus
+                          95 --		-I..\..\..\..\device\d1x_common\src\gpio
+                          96 --		-I..\..\..\..\device\d1x_common\src\ostm
+                          97 --		-I..\..\..\..\device\d1x_common\src\pbg
+                          98 --		-I..\..\..\..\device\d1x_common\src\riic
+                          99 --		-I..\..\..\..\device\d1x_common\macro_cfg\sfcdb
+                         100 --		-I..\..\..\..\device\d1x_common\src\sfma
+                         101 --		-I..\..\..\..\device\d1x_common\src\spea
+                         102 --		-I..\..\..\..\device\d1x_common\src\tauj
+                         103 --		-I..\..\..\..\device\d1x_common\src\tick
+                         104 --		-I..\..\..\..\device\d1x_common\src\vdce
+                         105 --		-I..\..\..\..\device\d1x_common\src\wm
+                         106 --		-I..\..\..\..\device\d1x_common\src\dma
+                         107 --		-I..\..\..\..\device\d1x_common\src\g3dma
+                         108 --		-I..\..\..\..\device\d1x_common\src\xbus
+                         109 --		-I..\..\..\..\device\d1x_common\src\pcmp
+                         110 --		-I..\..\..\..\device\d1x_common\src\taub -I..\..\..\..\device\lib
+
+                                                                      Page 3
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00009qo1.si
+                         111 --		-I..\..\..\..\macro\bus\pbg\lib -I..\..\..\..\macro\bus\pbg\src
+                         112 --		-I..\..\..\..\macro\ad_converter\adc7010\lib
+                         113 --		-I..\..\..\..\macro\ad_converter\adc7010\src
+                         114 --		-I..\..\..\..\macro\sm\ism\src -I..\..\..\..\macro\sm\ism\lib
+                         115 --		-I..\..\..\..\device\d1x_common\src\ism
+                         116 --		-I..\..\..\..\macro\ecm\lib -I..\..\..\..\macro\ecm\src
+                         117 --		-I..\..\..\..\device\d1x_common\src\ecm
+                         118 --		-I..\..\..\..\macro\csi\csisw\lib
+                         119 --		-I..\..\..\..\macro\csi\csisw\src -I..\..\..\..\macro\dma\dma\lib
+                         120 --		-I..\..\..\..\macro\dma\dma\src -I..\..\..\..\macro\dma\g3dma\lib
+                         121 --		-I..\..\..\..\macro\dma\g3dma\src -I..\..\..\..\macro\drw2d\lib
+                         122 --		-I..\..\..\..\macro\drw2d\platform\davehd
+                         123 --		-I..\..\..\..\macro\drw2d\platform\os\no_os
+                         124 --		-I..\..\..\..\macro\drw2d\src
+                         125 --		-I..\..\..\..\macro\flashc\sfcdb\lib
+                         126 --		-I..\..\..\..\macro\flashc\sfcdb\src
+                         127 --		-I..\..\..\..\macro\flashc\sfma\lib
+                         128 --		-I..\..\..\..\macro\flashc\sfma\src
+                         129 --		-I..\..\..\..\macro\gfxbus\lib -I..\..\..\..\macro\gfxbus\src
+                         130 --		-I..\..\..\..\macro\gfxbus\xbus\lib
+                         131 --		-I..\..\..\..\macro\gfxbus\xbus\src -I..\..\..\..\macro\gpio\lib
+                         132 --		-I..\..\..\..\macro\gpio\src
+                         133 --		-I..\..\..\..\macro\gpu\davehd\common\inc
+                         134 --		-I..\..\..\..\macro\gpu\davehd\common\inc\platform
+                         135 --		-I..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx
+                         136 --		-I..\..\..\..\macro\gpu\davehd\kernel\inc
+                         137 --		-I..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx
+                         138 --		-I..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge
+                         139 --		-I..\..\..\..\macro\gpu\davehd\kernel\platform\ree
+                         140 --		-I..\..\..\..\macro\gpu\davehd\kernel\src
+                         141 --		-I..\..\..\..\macro\gpu\davehd\user\inc
+                         142 --		-I..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os
+                         143 --		-I..\..\..\..\macro\gpu\davehd\user\src
+                         144 --		-I..\..\..\..\macro\gpu\jcua\lib -I..\..\..\..\macro\gpu\jcua\src
+                         145 --		-I..\..\..\..\macro\i2c\riic\lib -I..\..\..\..\macro\i2c\riic\src
+                         146 --		-I..\..\..\..\macro\pwm\pcmp\lib -I..\..\..\..\macro\pwm\pcmp\src
+                         147 --		-I..\..\..\..\macro\tick\lib -I..\..\..\..\macro\tick\src
+                         148 --		-I..\..\..\..\macro\timer\ostm\lib
+                         149 --		-I..\..\..\..\macro\timer\ostm\src
+                         150 --		-I..\..\..\..\macro\timer\tauj\lib
+                         151 --		-I..\..\..\..\macro\timer\tauj\src
+                         152 --		-I..\..\..\..\macro\timer\taub\lib
+                         153 --		-I..\..\..\..\macro\timer\taub\src -I..\..\..\..\macro\vdce\lib
+                         154 --		-I..\..\..\..\macro\vdce\src -I..\..\..\..\macro\vo\ddb\lib
+                         155 --		-I..\..\..\..\macro\vo\ddb\src -I..\..\..\..\macro\vo\spea\lib
+                         156 --		-I..\..\..\..\macro\vo\spea\src -I..\..\..\..\macro\vo\vowe\lib
+                         157 --		-I..\..\..\..\macro\vo\vowe\src -I..\..\..\..\macro\wm\lib
+                         158 --		-I..\..\..\..\macro\wm\src -I..\..\..\..\middleware\gfxutils\lib
+                         159 --		-I..\..\..\..\middleware\gfxutils\src
+                         160 --		-I..\..\..\..\device\d1mx\macro_cfg\csisw
+                         161 --		-I..\..\..\..\device\d1mx\macro_cfg\davehd
+                         162 --		-I..\..\..\..\device\d1mx\macro_cfg\ddb
+                         163 --		-I..\..\..\..\device\d1mx\macro_cfg\drw2d
+                         164 --		-I..\..\..\..\device\d1mx\macro_cfg\gfxbus
+                         165 --		-I..\..\..\..\device\d1mx\macro_cfg\gpio
+                         166 --		-I..\..\..\..\device\d1mx\macro_cfg\hypb
+                         167 --		-I..\..\..\..\device\d1mx\macro_cfg\hypdb
+                         168 --		-I..\..\..\..\device\d1mx\macro_cfg\jcua
+                         169 --		-I..\..\..\..\device\d1mx\macro_cfg\nfmabare
+                         170 --		-I..\..\..\..\device\d1mx\macro_cfg\octa
+                         171 --		-I..\..\..\..\device\d1mx\macro_cfg\octacdb
+
+                                                                      Page 4
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00009qo1.si
+                         172 --		-I..\..\..\..\device\d1mx\macro_cfg\ostm
+                         173 --		-I..\..\..\..\device\d1mx\macro_cfg\pbg
+                         174 --		-I..\..\..\..\device\d1mx\macro_cfg\riic
+                         175 --		-I..\..\..\..\device\d1mx\macro_cfg\sfcdb
+                         176 --		-I..\..\..\..\device\d1mx\macro_cfg\sfma
+                         177 --		-I..\..\..\..\device\d1mx\macro_cfg\spea
+                         178 --		-I..\..\..\..\device\d1mx\macro_cfg\tauj
+                         179 --		-I..\..\..\..\device\d1mx\macro_cfg\tick
+                         180 --		-I..\..\..\..\device\d1mx\macro_cfg\vdce
+                         181 --		-I..\..\..\..\device\d1mx\macro_cfg\vowe
+                         182 --		-I..\..\..\..\device\d1mx\macro_cfg\wm
+                         183 --		-I..\..\..\..\device\d1mx\macro_cfg\xbus
+                         184 --		-I..\..\..\..\device\d1x_common\macro_cfg\adc
+                         185 --		-I..\..\..\..\device\d1x_common\macro_cfg\csisw
+                         186 --		-I..\..\..\..\device\d1x_common\macro_cfg\davehd
+                         187 --		-I..\..\..\..\device\d1x_common\macro_cfg\ddb
+                         188 --		-I..\..\..\..\device\d1x_common\macro_cfg\drw2d
+                         189 --		-I..\..\..\..\device\d1x_common\macro_cfg\gfxbus
+                         190 --		-I..\..\..\..\device\d1x_common\macro_cfg\gpio
+                         191 --		-I..\..\..\..\device\d1x_common\macro_cfg\hypb
+                         192 --		-I..\..\..\..\device\d1x_common\macro_cfg\hypdb
+                         193 --		-I..\..\..\..\device\d1x_common\macro_cfg\jcua
+                         194 --		-I..\..\..\..\device\d1x_common\macro_cfg\nfmabare
+                         195 --		-I..\..\..\..\device\d1x_common\macro_cfg\octa
+                         196 --		-I..\..\..\..\device\d1x_common\macro_cfg\octacdb
+                         197 --		-I..\..\..\..\device\d1x_common\macro_cfg\ostm
+                         198 --		-I..\..\..\..\device\d1x_common\macro_cfg\pbg
+                         199 --		-I..\..\..\..\device\d1x_common\macro_cfg\riic
+                         200 --		-I..\..\..\..\device\d1x_common\macro_cfg\sfcdb
+                         201 --		-I..\..\..\..\device\d1x_common\macro_cfg\sfma
+                         202 --		-I..\..\..\..\device\d1x_common\macro_cfg\spea
+                         203 --		-I..\..\..\..\device\d1x_common\macro_cfg\tauj
+                         204 --		-I..\..\..\..\device\d1x_common\macro_cfg\tick
+                         205 --		-I..\..\..\..\device\d1x_common\macro_cfg\vdce
+                         206 --		-I..\..\..\..\device\d1x_common\macro_cfg\vowe
+                         207 --		-I..\..\..\..\device\d1x_common\macro_cfg\wm
+                         208 --		-I..\..\..\..\device\d1x_common\macro_cfg\xbus
+                         209 --		-I..\..\..\..\device\d1x_common\src\taub
+                         210 --		-I..\..\..\..\app\gfx_apps\W501\src\TEXT_MY --no_commons
+                         211 --		--no_implicit_include --prototype_errors -DBSP_INIT_QOS_SDRAM_ORG
+                         212 --		-DDEVICE_TYPE_D1M1X -DBSP_INIT_SFMA_ORG -DRENESAS_D1X
+                         213 --		-DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD -DUSED_CPU=RH850G3M
+                         214 --		-DUSE_BSP_GFX -DUSE_BSP_HMI_ORG -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         215 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DMA
+                         216 --		-DUSE_DRW2D -DUSE_GFXBUS -DUSE_G3DMA -DUSE_GFXUTILS -DUSE_GPIO
+                         217 --		-DUSE_JCUA -DUSE_ISM -DUSE_OSTM -DUSE_PCMP -DUSE_PBG -DUSE_RIIC
+                         218 --		-DUSE_SFCDB -DUSE_SFMA_ORG -DUSE_SPEA -DUSE_TAUB -DUSE_TAUJ
+                         219 --		-DUSE_TICK -DUSE_VDCE -DUSE_VOWE -DUSE_NFMABARE -DUSE_OCTA
+                         220 --		-DUSE_OCTACDB -DUSE_WM -DUSE_XBUS -DUSE_ECM -G -MD -Odebug
+                         221 --		-Zuse1bit -allocate_ep -cpu=rh850g3m -large_sda -list -no_callt
+                         222 --		-notda -passsource -preprocess_assembly_files -registermode=22
+                         223 --		-reserve_r2 --diag_warning 1 -object_dir=.\obj
+                         224 --		-DBSP_INIT_QOS_VRAM -DUSE_RSCAN -DUSE_ADCA -DUSE_ADC7010
+                         225 --		-filetype.c
+                         226 --		..\..\..\..\macro\gpu\davehd\kernel\platform\ree\davehd_kernel_init_defaults_d1x.c
+                         227 --		-o .\obj\davehd_kernel_init_defaults_d1x.o
+                         228 --Source File:   ..\..\..\..\macro\gpu\davehd\kernel\platform\ree\davehd_kernel_init_defaults_d1x.c
+                         229 --Directory:     G:\Vlib_svn\app\gfx_apps\W501\target
+                         230 --Compile Date:  Tue Feb 12 23:39:51 2019
+                         231 --Host OS:       Win32
+                         232 --Version:       C-RH850 2017.1.5 RELEASE VERSION
+
+                                                                      Page 5
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00009qo1.si
+                         233 --Release:       Compiler v2017.1.5
+                         234 --Revision Date: Tue Apr 11 09:29:40 2017
+                         235 --Release Date:  Tue Apr 11 11:12:26 2017
+                         236 -- ecom  -g -w
+                         237 
+                         238 	.section ".rodata","a"
+                         239 	.align	4
+                         240 	.global	_dhd_reset_state
+00000000 00000000        241 _dhd_reset_state:	.space	4
+00000004 00000000        242 	.space	4
+00000008 00000000        243 	.space	4
+0000000c 00000000        244 	.space	4
+00000010 00000000        245 	.space	4
+00000014 00000000        246 	.space	4
+00000018 00000000        247 	.space	4
+0000001c 00000000        248 	.space	4
+00000020 00000000        249 	.space	4
+00000024 00000000        250 	.space	4
+00000028 00000000        251 	.space	4
+0000002c 00000000        252 	.space	4
+00000030 00000000        253 	.space	4
+00000034 00000000        254 	.space	4
+00000038 00000000        255 	.space	4
+0000003c 00000000        256 	.space	4
+00000040 00000000        257 	.space	4
+00000044 00000000        258 	.space	4
+00000048 00000000        259 	.space	4
+0000004c 00000000        260 	.space	4
+00000050 00000000        261 	.space	4
+00000054 00000000        262 	.space	4
+00000058 00000000        263 	.space	4
+0000005c 00000000        264 	.space	4
+00000060 00000000        265 	.space	4
+00000064 00000000        266 	.space	4
+00000068 00000000        267 	.space	4
+0000006c 00000000        268 	.space	4
+00000070 ff0fff0f        269 	.byte	255,15,255,15
+00000074 00000000        270 	.space	4
+00000078 00000000        271 	.space	4
+0000007c 0000803f        272 	.byte	0,0,128,63
+00000080 00000000        273 	.space	4
+00000084 00000000        274 	.space	4
+00000088 0000803f        275 	.byte	0,0,128,63
+0000008c 00000000        276 	.space	4
+00000090 00000000        277 	.space	4
+00000094 0000803f        278 	.byte	0,0,128,63
+00000098 00000000        279 	.space	4
+0000009c 00000000        280 	.space	4
+000000a0 0000803f        281 	.byte	0,0,128,63
+000000a4 00000000        282 	.space	4
+000000a8 ff000000        283 	.byte	255,0,0,0
+000000ac 00000000        284 	.space	4
+000000b0 00000000        285 	.space	4
+000000b4 00000000        286 	.space	4
+000000b8 0000803f        287 	.byte	0,0,128,63
+000000bc 00000000        288 	.space	4
+000000c0 00000000        289 	.space	4
+000000c4 0000803f        290 	.byte	0,0,128,63
+000000c8 00000000        291 	.space	4
+000000cc 00000000        292 	.space	4
+000000d0 0000803f        293 	.byte	0,0,128,63
+
+                                                                      Page 6
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00009qo1.si
+000000d4 00000000        294 	.space	4
+000000d8 00000000        295 	.space	4
+000000dc 00010000        296 	.byte	0,1,0,0
+000000e0 00000000        297 	.space	4
+000000e4 70705505        298 	.byte	112,112,85,5
+000000e8 ff00ff00        299 	.byte	255,0,255,0
+000000ec 00000000        300 	.space	4
+000000f0 00000101        301 	.byte	0,0,1,1
+000000f4 00000000        302 	.space	4
+000000f8 00000101        303 	.byte	0,0,1,1
+000000fc 00000000        304 	.space	4
+00000100 01000000        305 	.byte	1,0,0,0
+00000104 07000000        306 	.byte	7,0,0,0
+00000108 00000000        307 	.space	4
+0000010c ff001000        308 	.byte	255,0,16,0
+00000110 00000000        309 	.space	4
+00000114 ffffffff        310 	.byte	255,255,255,255
+00000118 ffffffff        311 	.byte	255,255,255,255
+0000011c ffffffff        312 	.byte	255,255,255,255
+00000120 ffffffff        313 	.byte	255,255,255,255
+00000124 00000000        314 	.space	4
+00000128 00000000        315 	.space	4
+0000012c 00000000        316 	.space	4
+00000130 00000000        317 	.space	4
+00000134 00000000        318 	.space	4
+00000138 00000000        319 	.space	4
+0000013c 01000000        320 	.byte	1,0,0,0
+00000140 00000000        321 	.space	4
+00000144 00000000        322 	.space	4
+00000148 00000000        323 	.space	4
+0000014c 00000000        324 	.space	4
+00000150 00000000        325 	.space	4
+00000154 00000000        326 	.space	4
+00000158 01000000        327 	.byte	1,0,0,0
+0000015c c0060000        328 	.byte	192,6,0,0
+00000160 c0060000        329 	.byte	192,6,0,0
+00000164 c0060000        330 	.byte	192,6,0,0
+00000168 c0060000        331 	.byte	192,6,0,0
+0000016c c3060300        332 	.byte	195,6,3,0
+00000170 01100110        333 	.byte	1,16,1,16
+00000174 c0060000        334 	.byte	192,6,0,0
+00000178 c0060000        335 	.byte	192,6,0,0
+0000017c c0060000        336 	.byte	192,6,0,0
+00000180 c0060000        337 	.byte	192,6,0,0
+00000184 c3060300        338 	.byte	195,6,3,0
+00000188 01100110        339 	.byte	1,16,1,16
+0000018c c0060000        340 	.byte	192,6,0,0
+00000190 c0060000        341 	.byte	192,6,0,0
+00000194 c0060000        342 	.byte	192,6,0,0
+00000198 c0060000        343 	.byte	192,6,0,0
+0000019c c3060300        344 	.byte	195,6,3,0
+000001a0 01100110        345 	.byte	1,16,1,16
+000001a4 00000000        346 	.space	4
+000001a8 00000000        347 	.space	4
+000001ac 220d2201        348 	.byte	34,13,34,1
+000001b0 00000000        349 	.space	4
+000001b4 0f000100        350 	.byte	15,0,1,0
+000001b8 00000000        351 	.space	4
+000001bc 00000000        352 	.space	4
+000001c0 3b000000        353 	.byte	59,0,0,0
+000001c4 3b000000        354 	.byte	59,0,0,0
+
+                                                                      Page 7
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00009qo1.si
+000001c8 3b000000        355 	.byte	59,0,0,0
+000001cc 3b000000        356 	.byte	59,0,0,0
+000001d0 ffffffff        357 	.byte	255,255,255,255
+000001d4 00000000        358 	.space	4
+000001d8 00000f00        359 	.byte	0,0,15,0
+000001dc 00000000        360 	.space	4
+                         361 	.type	_dhd_reset_state,@object
+                         362 	.size	_dhd_reset_state,480
+                         363 	.data
+                         364 	.ghsnote version,19
+                         365 	.ghsnote tools,3
+                         366 	.ghsnote options,656
+                         367 	.text
+                         368 ..bof.G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Cdavehd_kernel_init_defaults_d1x...47.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget..5C630BEF..0::
+                         369 ..eof.G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Cdavehd_kernel_init_defaults_d1x...47.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget..5C630BEF..0::
+                         370 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M,SDA_EXTRA_REGS_0

@@ -1,0 +1,900 @@
+                                                                      Page 1
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+Command Line: C:\ghs\comp_201715\ease850.exe -w -elf -b0 -I..\..\..\..\..\app\common\dhd -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\res -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\images -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\config -I..\..\..\..\..\bsp\board\\config -I..\..\..\..\..\bsp\board\\src\gfx -I..\..\..\..\..\bsp\board\\src\hmi -I..\..\..\..\..\bsp\board\\src\stdio -I..\..\..\..\..\bsp\board\d1mx_mango\config -I..\..\..\..\..\bsp\board\d1mx_mango\src -I..\..\..\..\..\bsp\board\d1mx_mango\src\gfx -I..\..\..\..\..\bsp\board\d1mx_mango\src\hmi -I..\..\..\..\..\bsp\board\d1mx_mango\src\stdio -I..\..\..\..\..\bsp\gfx\lib -I..\..\..\..\..\bsp\gfx\src -I..\..\..\..\..\bsp\hmi\lib -I..\..\..\..\..\bsp\hmi\src -I..\..\..\..\..\bsp\lib -I..\..\..\..\..\bsp\stdio\lib -I..\..\..\..\..\bsp\stdio\src -I..\..\..\..\..\cdi\lib -I..\..\..\..\..\cdi\src -I..\..\..\..\..\compiler\rh850_ghs\inc -I..\..\..\..\..\device\d1mx\lib -I..\..\..\..\..\device\d1mx\macro_cfg -I..\..\..\..\..\device\d1mx\src\dev -I..\..\..\..\..\device\d1mx\src\dhd -I..\..\..\..\..\device\d1mx\src\jcua -I..\..\..\..\..\device\d1mx\src\rh850_ghs -I..\..\..\..\..\device\d1mx\src\vowe -I..\..\..\..\..\device\d1x_common\macro_cfg -I..\..\..\..\..\device\d1x_common\src\csisw -I..\..\..\..\..\device\d1x_common\src\dev -I..\..\..\..\..\device\d1x_common\src\gfxbus -I..\..\..\..\..\device\d1x_common\src\gpio -I..\..\..\..\..\device\d1x_common\src\ostm -I..\..\..\..\..\device\d1x_common\src\pbg -I..\..\..\..\..\device\d1x_common\src\riic -I..\..\..\..\..\device\d1x_common\src\sfma -I..\..\..\..\..\device\d1x_common\src\spea -I..\..\..\..\..\device\d1x_common\src\tauj -I..\..\..\..\..\device\d1x_common\src\tick -I..\..\..\..\..\device\d1x_common\src\vdce -I..\..\..\..\..\device\d1x_common\src\wm -I..\..\..\..\..\device\d1x_common\src\dma -I..\..\..\..\..\device\d1x_common\src\g3dma -I..\..\..\..\..\device\d1x_common\src\xbus -I..\..\..\..\..\device\d1x_common\src\pcmp -I..\..\..\..\..\device\d1x_common\src\taub -I..\..\..\..\..\device\lib -I..\..\..\..\..\macro\bus\pbg\lib -I..\..\..\..\..\macro\bus\pbg\src -I..\..\..\..\..\macro\csi\csisw\lib -I..\..\..\..\..\macro\csi\csisw\src -I..\..\..\..\..\macro\dma\dma\lib -I..\..\..\..\..\macro\dma\dma\src -I..\..\..\..\..\macro\dma\g3dma\lib -I..\..\..\..\..\macro\dma\g3dma\src -I..\..\..\..\..\macro\drw2d\lib -I..\..\..\..\..\macro\drw2d\platform\davehd -I..\..\..\..\..\macro\drw2d\platform\os\no_os -I..\..\..\..\..\macro\drw2d\src -I..\..\..\..\..\macro\flashc\sfcdb\lib -I..\..\..\..\..\macro\flashc\sfcdb\src -I..\..\..\..\..\macro\flashc\sfma\lib -I..\..\..\..\..\macro\flashc\sfma\src -I..\..\..\..\..\macro\gfxbus\lib -I..\..\..\..\..\macro\gfxbus\src -I..\..\..\..\..\macro\gfxbus\xbus\lib -I..\..\..\..\..\macro\gfxbus\xbus\src -I..\..\..\..\..\macro\gpio\lib -I..\..\..\..\..\macro\gpio\src -I..\..\..\..\..\macro\gpu\davehd\common\inc -I..\..\..\..\..\macro\gpu\davehd\common\inc\platform -I..\..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx -I..\..\..\..\..\macro\gpu\davehd\kernel\inc -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge -I..\..\..\..\..\macro\gpu\davehd\kernel\platform\ree -I..\..\..\..\..\macro\gpu\davehd\kernel\src -I..\..\..\..\..\macro\gpu\davehd\user\inc -I..\..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os -I..\..\..\..\..\macro\gpu\davehd\user\src -I..\..\..\..\..\macro\gpu\jcua\lib -I..\..\..\..\..\macro\gpu\jcua\src -I..\..\..\..\..\macro\i2c\riic\lib -I..\..\..\..\..\macro\i2c\riic\src -I..\..\..\..\..\macro\pwm\pcmp\lib -I..\..\..\..\..\macro\pwm\pcmp\src -I..\..\..\..\..\macro\tick\lib -I..\..\..\..\..\macro\tick\src -I..\..\..\..\..\macro\timer\ostm\lib -I..\..\..\..\..\macro\timer\ostm\src -I..\..\..\..\..\macro\timer\tauj\lib -I..\..\..\..\..\macro\timer\tauj\src -I..\..\..\..\..\macro\timer\taub\lib -I..\..\..\..\..\macro\timer\taub\src -I..\..\..\..\..\macro\vdce\lib -I..\..\..\..\..\macro\vdce\src -I..\..\..\..\..\macro\vo\ddb\lib -I..\..\..\..\..\macro\vo\ddb\src -I..\..\..\..\..\macro\vo\spea\lib -I..\..\..\..\..\macro\vo\spea\src -I..\..\..\..\..\macro\vo\vowe\lib -I..\..\..\..\..\macro\vo\vowe\src -I..\..\..\..\..\macro\wm\lib -I..\..\..\..\..\macro\wm\src -I..\..\..\..\..\middleware\gfxutils\lib -I..\..\..\..\..\middleware\gfxutils\src -I..\..\..\..\..\device\d1mx\macro_cfg\csisw -I..\..\..\..\..\device\d1mx\macro_cfg\davehd -I..\..\..\..\..\device\d1mx\macro_cfg\ddb -I..\..\..\..\..\device\d1mx\macro_cfg\drw2d -I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus -I..\..\..\..\..\device\d1mx\macro_cfg\gpio -I..\..\..\..\..\device\d1mx\macro_cfg\hypb -I..\..\..\..\..\device\d1mx\macro_cfg\hypdb -I..\..\..\..\..\device\d1mx\macro_cfg\jcua -I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare -I..\..\..\..\..\device\d1mx\macro_cfg\octa -I..\..\..\..\..\device\d1mx\macro_cfg\octacdb -I..\..\..\..\..\device\d1mx\macro_cfg\ostm -I..\..\..\..\..\device\d1mx\macro_cfg\pbg -I..\..\..\..\..\device\d1mx\macro_cfg\riic -I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb -I..\..\..\..\..\device\d1mx\macro_cfg\sfma -I..\..\..\..\..\device\d1mx\macro_cfg\spea -I..\..\..\..\..\device\d1mx\macro_cfg\tauj -I..\..\..\..\..\device\d1mx\macro_cfg\tick -I..\..\..\..\..\device\d1mx\macro_cfg\vdce -I..\..\..\..\..\device\d1mx\macro_cfg\vowe -I..\..\..\..\..\device\d1mx\macro_cfg\wm -I..\..\..\..\..\device\d1mx\macro_cfg\xbus -I..\..\..\..\..\device\d1x_common\macro_cfg\csisw -I..\..\..\..\..\device\d1x_common\macro_cfg\davehd -I..\..\..\..\..\device\d1x_common\macro_cfg\ddb -I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d -I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus -I..\..\..\..\..\device\d1x_common\macro_cfg\gpio -I..\..\..\..\..\device\d1x_common\macro_cfg\hypb -I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb -I..\..\..\..\..\device\d1x_common\macro_cfg\jcua -I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare -I..\..\..\..\..\device\d1x_common\macro_cfg\octa -I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb -I..\..\..\..\..\device\d1x_common\macro_cfg\ostm -I..\..\..\..\..\device\d1x_common\macro_cfg\pbg -I..\..\..\..\..\device\d1x_common\macro_cfg\riic -I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb -I..\..\..\..\..\device\d1x_common\macro_cfg\sfma -I..\..\..\..\..\device\d1x_common\macro_cfg\spea -I..\..\..\..\..\device\d1x_common\macro_cfg\tauj -I..\..\..\..\..\device\d1x_common\macro_cfg\tick -I..\..\..\..\..\device\d1x_common\macro_cfg\vdce -I..\..\..\..\..\device\d1x_common\macro_cfg\vowe -I..\..\..\..\..\device\d1x_common\macro_cfg\wm -I..\..\..\..\..\device\d1x_common\macro_cfg\xbus -I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY -IC:\ghs\comp_201715\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -nomacro -patch_dbo=G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\obj\sprite.dbo -source=sprite.c -o .\obj\gh_00007181.o -list=.\obj\sprite.lst C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si 
+Original File: C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+Source File: sprite.c
+Directory: G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+Host OS: Windows 7 Service Pack 1
+EASE: Copyright (C) 1983-2016 Green Hills Software.  All Rights Reserved.
+Release: MULTI v800-v2017.1.5-comp-P04
+Custom String: TOOLS-28024 unreached assembly routines deleted by linker
+Build Directory: [Directory] BTOWINBOX:c:/build_2017_1_bto/2017-10-04.2100-2017_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2017-1-bto/src@603992 (built by build)
+Revision Date: Thu Oct 05 10:11:26 2017
+
+Release Date: Tue Oct 10 02:48:58 2017
+
+                           1 --Driver Command: ccv850 -c -MD -I..\..\..\..\..\app\common\dhd
+                           2 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\res
+                           3 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src
+                           4 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\images
+                           5 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+                           6 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs\config
+                           7 --		-I..\..\..\..\..\bsp\board\\config
+                           8 --		-I..\..\..\..\..\bsp\board\\src\gfx
+                           9 --		-I..\..\..\..\..\bsp\board\\src\hmi
+                          10 --		-I..\..\..\..\..\bsp\board\\src\stdio
+                          11 --		-I..\..\..\..\..\bsp\board\d1mx_mango\config
+                          12 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src
+                          13 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\gfx
+                          14 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\hmi
+                          15 --		-I..\..\..\..\..\bsp\board\d1mx_mango\src\stdio
+                          16 --		-I..\..\..\..\..\bsp\gfx\lib -I..\..\..\..\..\bsp\gfx\src
+                          17 --		-I..\..\..\..\..\bsp\hmi\lib -I..\..\..\..\..\bsp\hmi\src
+                          18 --		-I..\..\..\..\..\bsp\lib -I..\..\..\..\..\bsp\stdio\lib
+                          19 --		-I..\..\..\..\..\bsp\stdio\src -I..\..\..\..\..\cdi\lib
+                          20 --		-I..\..\..\..\..\cdi\src -I..\..\..\..\..\compiler\rh850_ghs\inc
+                          21 --		-I..\..\..\..\..\device\d1mx\lib
+                          22 --		-I..\..\..\..\..\device\d1mx\macro_cfg
+                          23 --		-I..\..\..\..\..\device\d1mx\src\dev
+                          24 --		-I..\..\..\..\..\device\d1mx\src\dhd
+                          25 --		-I..\..\..\..\..\device\d1mx\src\jcua
+                          26 --		-I..\..\..\..\..\device\d1mx\src\rh850_ghs
+                          27 --		-I..\..\..\..\..\device\d1mx\src\vowe
+                          28 --		-I..\..\..\..\..\device\d1x_common\macro_cfg
+                          29 --		-I..\..\..\..\..\device\d1x_common\src\csisw
+                          30 --		-I..\..\..\..\..\device\d1x_common\src\dev
+                          31 --		-I..\..\..\..\..\device\d1x_common\src\gfxbus
+                          32 --		-I..\..\..\..\..\device\d1x_common\src\gpio
+                          33 --		-I..\..\..\..\..\device\d1x_common\src\ostm
+                          34 --		-I..\..\..\..\..\device\d1x_common\src\pbg
+                          35 --		-I..\..\..\..\..\device\d1x_common\src\riic
+                          36 --		-I..\..\..\..\..\device\d1x_common\src\sfma
+                          37 --		-I..\..\..\..\..\device\d1x_common\src\spea
+                          38 --		-I..\..\..\..\..\device\d1x_common\src\tauj
+                          39 --		-I..\..\..\..\..\device\d1x_common\src\tick
+                          40 --		-I..\..\..\..\..\device\d1x_common\src\vdce
+                          41 --		-I..\..\..\..\..\device\d1x_common\src\wm
+                          42 --		-I..\..\..\..\..\device\d1x_common\src\dma
+                          43 --		-I..\..\..\..\..\device\d1x_common\src\g3dma
+                          44 --		-I..\..\..\..\..\device\d1x_common\src\xbus
+                          45 --		-I..\..\..\..\..\device\d1x_common\src\pcmp
+                          46 --		-I..\..\..\..\..\device\d1x_common\src\taub
+                          47 --		-I..\..\..\..\..\device\lib -I..\..\..\..\..\macro\bus\pbg\lib
+                          48 --		-I..\..\..\..\..\macro\bus\pbg\src
+                          49 --		-I..\..\..\..\..\macro\csi\csisw\lib
+
+                                                                      Page 2
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+                          50 --		-I..\..\..\..\..\macro\csi\csisw\src
+                          51 --		-I..\..\..\..\..\macro\dma\dma\lib
+                          52 --		-I..\..\..\..\..\macro\dma\dma\src
+                          53 --		-I..\..\..\..\..\macro\dma\g3dma\lib
+                          54 --		-I..\..\..\..\..\macro\dma\g3dma\src
+                          55 --		-I..\..\..\..\..\macro\drw2d\lib
+                          56 --		-I..\..\..\..\..\macro\drw2d\platform\davehd
+                          57 --		-I..\..\..\..\..\macro\drw2d\platform\os\no_os
+                          58 --		-I..\..\..\..\..\macro\drw2d\src
+                          59 --		-I..\..\..\..\..\macro\flashc\sfcdb\lib
+                          60 --		-I..\..\..\..\..\macro\flashc\sfcdb\src
+                          61 --		-I..\..\..\..\..\macro\flashc\sfma\lib
+                          62 --		-I..\..\..\..\..\macro\flashc\sfma\src
+                          63 --		-I..\..\..\..\..\macro\gfxbus\lib
+                          64 --		-I..\..\..\..\..\macro\gfxbus\src
+                          65 --		-I..\..\..\..\..\macro\gfxbus\xbus\lib
+                          66 --		-I..\..\..\..\..\macro\gfxbus\xbus\src
+                          67 --		-I..\..\..\..\..\macro\gpio\lib -I..\..\..\..\..\macro\gpio\src
+                          68 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc
+                          69 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc\platform
+                          70 --		-I..\..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx
+                          71 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\inc
+                          72 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx
+                          73 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge
+                          74 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\platform\ree
+                          75 --		-I..\..\..\..\..\macro\gpu\davehd\kernel\src
+                          76 --		-I..\..\..\..\..\macro\gpu\davehd\user\inc
+                          77 --		-I..\..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os
+                          78 --		-I..\..\..\..\..\macro\gpu\davehd\user\src
+                          79 --		-I..\..\..\..\..\macro\gpu\jcua\lib
+                          80 --		-I..\..\..\..\..\macro\gpu\jcua\src
+                          81 --		-I..\..\..\..\..\macro\i2c\riic\lib
+                          82 --		-I..\..\..\..\..\macro\i2c\riic\src
+                          83 --		-I..\..\..\..\..\macro\pwm\pcmp\lib
+                          84 --		-I..\..\..\..\..\macro\pwm\pcmp\src
+                          85 --		-I..\..\..\..\..\macro\tick\lib -I..\..\..\..\..\macro\tick\src
+                          86 --		-I..\..\..\..\..\macro\timer\ostm\lib
+                          87 --		-I..\..\..\..\..\macro\timer\ostm\src
+                          88 --		-I..\..\..\..\..\macro\timer\tauj\lib
+                          89 --		-I..\..\..\..\..\macro\timer\tauj\src
+                          90 --		-I..\..\..\..\..\macro\timer\taub\lib
+                          91 --		-I..\..\..\..\..\macro\timer\taub\src
+                          92 --		-I..\..\..\..\..\macro\vdce\lib -I..\..\..\..\..\macro\vdce\src
+                          93 --		-I..\..\..\..\..\macro\vo\ddb\lib
+                          94 --		-I..\..\..\..\..\macro\vo\ddb\src
+                          95 --		-I..\..\..\..\..\macro\vo\spea\lib
+                          96 --		-I..\..\..\..\..\macro\vo\spea\src
+                          97 --		-I..\..\..\..\..\macro\vo\vowe\lib
+                          98 --		-I..\..\..\..\..\macro\vo\vowe\src -I..\..\..\..\..\macro\wm\lib
+                          99 --		-I..\..\..\..\..\macro\wm\src
+                         100 --		-I..\..\..\..\..\middleware\gfxutils\lib
+                         101 --		-I..\..\..\..\..\middleware\gfxutils\src
+                         102 --		-I..\..\..\..\..\device\d1mx\macro_cfg\csisw
+                         103 --		-I..\..\..\..\..\device\d1mx\macro_cfg\davehd
+                         104 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ddb
+                         105 --		-I..\..\..\..\..\device\d1mx\macro_cfg\drw2d
+                         106 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gfxbus
+                         107 --		-I..\..\..\..\..\device\d1mx\macro_cfg\gpio
+                         108 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypb
+                         109 --		-I..\..\..\..\..\device\d1mx\macro_cfg\hypdb
+                         110 --		-I..\..\..\..\..\device\d1mx\macro_cfg\jcua
+
+                                                                      Page 3
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+                         111 --		-I..\..\..\..\..\device\d1mx\macro_cfg\nfmabare
+                         112 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octa
+                         113 --		-I..\..\..\..\..\device\d1mx\macro_cfg\octacdb
+                         114 --		-I..\..\..\..\..\device\d1mx\macro_cfg\ostm
+                         115 --		-I..\..\..\..\..\device\d1mx\macro_cfg\pbg
+                         116 --		-I..\..\..\..\..\device\d1mx\macro_cfg\riic
+                         117 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfcdb
+                         118 --		-I..\..\..\..\..\device\d1mx\macro_cfg\sfma
+                         119 --		-I..\..\..\..\..\device\d1mx\macro_cfg\spea
+                         120 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tauj
+                         121 --		-I..\..\..\..\..\device\d1mx\macro_cfg\tick
+                         122 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vdce
+                         123 --		-I..\..\..\..\..\device\d1mx\macro_cfg\vowe
+                         124 --		-I..\..\..\..\..\device\d1mx\macro_cfg\wm
+                         125 --		-I..\..\..\..\..\device\d1mx\macro_cfg\xbus
+                         126 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\csisw
+                         127 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\davehd
+                         128 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ddb
+                         129 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\drw2d
+                         130 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gfxbus
+                         131 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\gpio
+                         132 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypb
+                         133 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\hypdb
+                         134 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\jcua
+                         135 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\nfmabare
+                         136 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octa
+                         137 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\octacdb
+                         138 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\ostm
+                         139 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\pbg
+                         140 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\riic
+                         141 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfcdb
+                         142 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\sfma
+                         143 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\spea
+                         144 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tauj
+                         145 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\tick
+                         146 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vdce
+                         147 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\vowe
+                         148 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\wm
+                         149 --		-I..\..\..\..\..\device\d1x_common\macro_cfg\xbus
+                         150 --		-I..\..\..\..\..\app\gfx_apps\d1m1_flashdash_demo\src\TEXT_MY
+                         151 --		--no_commons --no_implicit_include --prototype_errors
+                         152 --		-DBSP_INIT_QOS_SDRAM_ORG -DDEVICE_TYPE_D1M1X -DBSP_INIT_SFMA_ORG
+                         153 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         154 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI_ORG -DUSE_BSP_HMI
+                         155 --		-DUSE_BSP_STDIO -DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB
+                         156 --		-DUSE_DMA -DUSE_DRW2D -DUSE_GFXBUS -DUSE_G3DMA -DUSE_GFXUTILS
+                         157 --		-DUSE_GPIO -DUSE_JCUA -DUSE_OSTM -DUSE_PCMP -DUSE_PBG -DUSE_RIIC
+                         158 --		-DUSE_SFCDB -DUSE_SFMA_ORG -DUSE_SPEA -DUSE_TAUB -DUSE_TAUJ
+                         159 --		-DUSE_TICK -DUSE_VDCE -DUSE_VOWE -DUSE_WM -DUSE_XBUS -G -MD
+                         160 --		-Odebug -Zuse1bit -allocate_ep -cpu=rh850g3m -large_sda -list
+                         161 --		-no_callt -notda -passsource -preprocess_assembly_files
+                         162 --		-registermode=22 -reserve_r2 --diag_warning 1 -object_dir=.\obj
+                         163 --		-DBSP_INIT_QOS_VRAM -DUSE_RSCAN -filetype.c
+                         164 --		..\..\..\..\gfx_apps\d1m1_flashdash_demo\src\sprite.c -o
+                         165 --		.\obj\sprite.o
+                         166 --Source File:   ..\..\..\..\gfx_apps\d1m1_flashdash_demo\src\sprite.c
+                         167 --Directory:     
+                         168 --		G:\vlib_v1.8_svn\app\gfx_apps\d1m1_flashdash_demo\target\d1m2_mango_ghs
+                         169 --Compile Date:  Sat Jan 12 14:23:30 2019
+                         170 --Host OS:       Win32
+                         171 --Version:       C-RH850 2017.1.5 RELEASE VERSION
+
+                                                                      Page 4
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+                         172 --Release:       Compiler v2017.1.5
+                         173 --Revision Date: Tue Apr 11 09:29:40 2017
+                         174 --Release Date:  Tue Apr 11 11:12:26 2017
+                         175 -- ecom  -g -w
+                         176 
+                         177 --1: #include "r_typedefs.h"
+                         178 --2: #include "r_ddb_api.h"
+                         179 --3: #include "r_cdi_api.h"
+                         180 --4: #include "r_wm_api.h"
+                         181 --6: #include "mem_init.h"
+                         182 --7: #include "r_drw2d_os.h"
+                         183 --8: #include "r_drw2d_api.h"
+                         184 --9: #include "r_config_drw2d.h"
+                         185 --10: #include "r_drw2d_ctx_dhd.h"
+                         186 --11: //#include "r_gfxutils_api.h"
+                         187 --12: #include "r_bsp_stdio_api.h"
+                         188 --13: #include "sprite.h"
+                         189 --14: #include "wm.h"
+                         190 --17: void InitMultiBufferSprite(MultiBufferSprite_t *MBSprite, r_wm_Sprite_t Sprite,
+                         191 	.text
+                         192 ..bof.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Csprite...47.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs..5C39AB0A..0::
+                         193 	.align	2
+                         194 	.align	2
+                         195 ..gh.f.a.2.e.0:
+                         196 	.type	..gh.f.a.2.e.0,@object
+                         197 	.size	..gh.f.a.2.e.0,0
+                         198 	.global	_InitMultiBufferSprite
+                         199 _InitMultiBufferSprite:
+00000000 031ee0ff        200 	addi	-32,sp,sp
+00000004 633f1500        201 	st.w	r7,20[sp]
+00000008 63471900        202 	st.w	r8,24[sp]
+0000000c 634f1d00        203 	st.w	r9,28[sp]
+00000010 63ff0d00        204 	st.w	lp,12[sp]
+00000014 230f3900        205 	ld.w	56[sp],r1
+00000018 63ef0100        206 	st.w	r29,0[sp]
+0000001c 63e70500        207 	st.w	r28,4[sp]
+00000020 63df0900        208 	st.w	r27,8[sp]
+00000024 06e8            209 	mov	r6,r29
+                         210 --	    .bf
+                         211 .LDW01:
+                         212 --18:                            uint32_t Count) {
+                         213 --19:     int i;
+                         214 --20:     r_drw2d_Framebuffer_t *DrawFb_p;
+                         215 --21:     MBSprite->Count = Count;
+00000026 7d0f0100        216 	st.w	r1,0[r29]
+                         217 --22:     MBSprite->VoIndex = 0;
+0000002a 7d075100        218 	st.w	zero,80[r29]
+                         219 --23:     MBSprite->DrawIndex = MBSprite->VoIndex + 1;
+0000002e 3d0f5100        220 	ld.w	80[r29],r1
+00000032 410a            221 	add	1,r1
+00000034 7d0f5500        222 	st.w	r1,84[r29]
+                         223 --24:     if (MBSprite->DrawIndex > (MBSprite->Count-1)) {
+00000038 3d0f0100        224 	ld.w	0[r29],r1
+0000003c 3d775500        225 	ld.w	84[r29],r14
+00000040 5f0a            226 	add	-1,r1
+00000042 e171            227 	cmp	r1,r14
+00000044 b305*           228 	bnh	.L4
+                         229 --25:         MBSprite->DrawIndex = 0;
+                         230 --line25
+                         231 ..lin.17baa9c0..64802d4.0_1::
+                         232 .LDWlin1:
+
+                                                                      Page 5
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+00000046 7d075500        233 	st.w	zero,84[r29]
+                         234 .L4:
+                         235 --26:     }
+                         236 --27:     
+                         237 --28:     MBSprite->Sprite = Sprite;
+0000004a 23f61400        238 	movea	20,sp,ep
+0000004e 1d0e2c00        239 	addi	44,r29,r1
+00000052 03763400        240 	addi	52,sp,r14
+                         241 .L135:
+00000056 be0709600000    242 	ld.dw	0[ep],r12
+0000005c 48f2            243 	add	8,ep
+0000005e a1070f600000    244 	st.dw	r12,0[r1]
+00000064 480a            245 	add	8,r1
+00000066 fe71            246 	cmp	ep,r14
+00000068 faf5*           247 	bne	.L135
+0000006a 0075            248 	sld.w	0[ep],r14
+0000006c 61770100        249 	st.w	r14,0[r1]
+                         250 --30:     //R_GFXUTILS_ASSERT(Count <= 4);
+                         251 --32:     for(i = 0;i < MBSprite->Count;i++) {
+                         252 --line32
+                         253 ..lin.17baa9c0..64802d4.0_2::
+                         254 .LDWlin2:
+00000070 00e2            255 	mov	0,r28
+00000072 f535*           256 	br	.L9
+                         257 .L8:
+                         258 --33:         MBSprite->Buffer[i] = R_CDI_Alloc(AppHeap_p,
+                         259 --line33
+                         260 ..lin.17baa9c0..64802d4.0_3::
+                         261 .LDWlin3:
+00000074 1cd8            262 	mov	r28,r27
+00000076 c2da            263 	shl	2,r27
+00000078 1d760400        264 	addi	4,r29,r14
+0000007c 3d3f4d00        265 	ld.w	76[r29],r7
+00000080 ced9            266 	add	r14,r27
+00000082 3d774900        267 	ld.w	72[r29],r14
+00000086 260600000000*   268 	mov	_AppHeap_p,r6
+0000008c 26370100        269 	ld.w	0[r6],r6
+00000090 ee3f2202        270 	mulu	r14,r7,zero
+00000094 c23a            271 	shl	2,r7
+                         272 	jarl	_R_CDI_Alloc,lp
+                         272 <EXPANSION BEGIN>
+                         272 jarl22 _R_CDI_Alloc , lp 
+00000096 80ff0000*       272 <EXPANSION END>
+0000009a 7b570100        273 	st.w	r10,0[r27]
+                         274 --34:                                           MBSprite->Sprite.Width * MBSprite->Sprite.Height * 4);
+                         275 --35:         //R_GFXUTILS_ASSERT(MBSprite->Buffer[i]);
+                         276 --36:         MBSprite->Pos[i].X       = MBSprite->Sprite.PosX;
+                         277 --line36
+                         278 ..lin.17baa9c0..64802d4.0_4::
+                         279 .LDWlin4:
+0000009e 3d0f3d00        280 	ld.w	60[r29],r1
+000000a2 1cf0            281 	mov	r28,ep
+000000a4 c3f2            282 	shl	3,ep
+000000a6 1d760c00        283 	addi	12,r29,r14
+000000aa cef1            284 	add	r14,ep
+000000ac 010d            285 	sst.w	r1,0[ep]
+                         286 --37:         MBSprite->Pos[i].Y       = MBSprite->Sprite.PosY;
+000000ae 3d0f4100        287 	ld.w	64[r29],r1
+000000b2 1cf0            288 	mov	r28,ep
+000000b4 c3f2            289 	shl	3,ep
+000000b6 1d760c00        290 	addi	12,r29,r14
+
+                                                                      Page 6
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+000000ba cef1            291 	add	r14,ep
+000000bc 030d            292 	sst.w	r1,4[ep]
+                         293 --38:         MBSprite->Size[i].Width  = MBSprite->Sprite.Width;
+000000be 3d0f4900        294 	ld.w	72[r29],r1
+000000c2 1cf0            295 	mov	r28,ep
+000000c4 c3f2            296 	shl	3,ep
+000000c6 1d761c00        297 	addi	28,r29,r14
+000000ca cef1            298 	add	r14,ep
+000000cc 010d            299 	sst.w	r1,0[ep]
+                         300 --39:         MBSprite->Size[i].Height = MBSprite->Sprite.Height;
+000000ce 3d0f4d00        301 	ld.w	76[r29],r1
+000000d2 1cf0            302 	mov	r28,ep
+000000d4 c3f2            303 	shl	3,ep
+000000d6 1d761c00        304 	addi	28,r29,r14
+000000da cef1            305 	add	r14,ep
+000000dc 030d            306 	sst.w	r1,4[ep]
+000000de 41e2            307 	add	1,r28
+                         308 .L9:
+000000e0 3d0f0100        309 	ld.w	0[r29],r1
+000000e4 e1e1            310 	cmp	r1,r28
+000000e6 f1c5*           311 	bl	.L8
+                         312 --40:     }
+                         313 --41:     MBSprite->Sprite.Data = MBSprite->Buffer[MBSprite->VoIndex];
+                         314 --line41
+                         315 ..lin.17baa9c0..64802d4.0_5::
+                         316 .LDWlin5:
+000000e8 3df75100        317 	ld.w	80[r29],ep
+000000ec 1d760400        318 	addi	4,r29,r14
+000000f0 c2f2            319 	shl	2,ep
+000000f2 cef1            320 	add	r14,ep
+000000f4 000d            321 	sld.w	0[ep],r1
+000000f6 7d0f3900        322 	st.w	r1,56[r29]
+                         323 --43:     DrawFb_p = &MBSprite->DrawFb;
+000000fa 1df65800        324 	addi	88,r29,ep
+                         325 --45:     DrawFb_p->Flags = (r_drw2d_FramebufferFlags_t)0;
+000000fe 0d05            326 	sst.w	zero,24[ep]
+                         327 --46:     DrawFb_p->Handle = 0; /* not used currently */
+00000100 0105            328 	sst.w	zero,0[ep]
+                         329 --47:     DrawFb_p->Buffer.Pitch = MBSprite->Sprite.Width;
+00000102 3d0f4900        330 	ld.w	72[r29],r1
+00000106 050d            331 	sst.w	r1,8[ep]
+                         332 --48:     DrawFb_p->Buffer.PixelFormat = R_DRW2D_PIXELFORMAT_ARGB8888; /* Currently only ARGB8888 */
+00000108 0f0a            333 	mov	15,r1
+0000010a 0b0d            334 	sst.w	r1,20[ep]
+                         335 --49:     DrawFb_p->Buffer.Size.Width = MBSprite->Sprite.Width;
+0000010c 3d0f4900        336 	ld.w	72[r29],r1
+00000110 070d            337 	sst.w	r1,12[ep]
+                         338 --50:     DrawFb_p->Buffer.Size.Height = MBSprite->Sprite.Height;
+00000112 3d0f4d00        339 	ld.w	76[r29],r1
+00000116 090d            340 	sst.w	r1,16[ep]
+                         341 --51:     DrawFb_p->Buffer.Data = MBSprite->Buffer[MBSprite->DrawIndex];;
+00000118 3d0f5500        342 	ld.w	84[r29],r1
+0000011c 1d760400        343 	addi	4,r29,r14
+00000120 c20a            344 	shl	2,r1
+00000122 ce09            345 	add	r14,r1
+00000124 210f0100        346 	ld.w	0[r1],r1
+00000128 030d            347 	sst.w	r1,4[ep]
+                         348 --53:     R_WM_SpriteCreate(FLASHDASH_WM_UNIT, &MBSprite->Sprite);
+0000012a 1d3e2c00        349 	addi	44,r29,r7
+0000012e 0032            350 	mov	0,r6
+                         351 	jarl	_R_WM_SpriteCreate,lp
+
+                                                                      Page 7
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+                         351 <EXPANSION BEGIN>
+                         351 jarl22 _R_WM_SpriteCreate , lp 
+00000130 80ff0000*       351 <EXPANSION END>
+                         352 --54:     R_WM_SpriteEnable(FLASHDASH_WM_UNIT, &MBSprite->Sprite);
+                         353 --line54
+                         354 ..lin.17baa9c0..64802d4.0_6::
+                         355 .LDWlin6:
+00000134 1d3e2c00        356 	addi	44,r29,r7
+00000138 0032            357 	mov	0,r6
+                         358 	jarl	_R_WM_SpriteEnable,lp
+                         358 <EXPANSION BEGIN>
+                         358 jarl22 _R_WM_SpriteEnable , lp 
+0000013a 80ff0000*       358 <EXPANSION END>
+                         359 --55: }
+                         360 --	    .ef
+                         361 .LDW11:
+                         362 --line55
+                         363 ..lin.17baa9c0..64802d4.0_7::
+                         364 .LDWlin7:
+0000013e 23ff0d00        365 	ld.w	12[sp],lp
+00000142 23ef0100        366 	ld.w	0[sp],r29
+00000146 23e70500        367 	ld.w	4[sp],r28
+0000014a 23df0900        368 	ld.w	8[sp],r27
+0000014e 031e2000        369 	addi	32,sp,sp
+                         370 	.jumptype return
+00000152 7f00            371 	jmp	[lp]
+                         372 ..lin.17baa9c0..64802d4.0_8::
+                         373 .LDWlin8:
+                         374 	.type	_InitMultiBufferSprite,@function
+                         375 	.size	_InitMultiBufferSprite,.-_InitMultiBufferSprite
+                         376 	.align	2
+                         377 .LDW21:
+                         378 --_i	r28	local
+                         379 --_DrawFb_p	ep	local
+                         380 
+                         381 --_MBSprite	r29	param
+                         382 --_Sprite	20[sp]	param
+                         383 --_Count	r1	param
+                         384 
+                         385 	.section ".bss","awb"
+                         386 .L134:
+                         387 	.type	.L134,@object
+                         388 	.size	.L134,0
+                         389 	.data
+                         390 	.text
+                         391 
+                         392 
+                         393 --58: r_drw2d_Framebuffer_t *MbSpriteNewDrawBufGet(MultiBufferSprite_t *MBSprite){
+                         394 	.align	2
+                         395 	.align	2
+                         396 	.align	2
+                         397 ..gh.f.a.2.e.1:
+                         398 	.type	..gh.f.a.2.e.1,@object
+                         399 	.size	..gh.f.a.2.e.1,0
+                         400 	.global	_MbSpriteNewDrawBufGet
+                         401 _MbSpriteNewDrawBufGet:
+                         402 --	    .bf
+                         403 .LDW31:
+                         404 --59:     uint32_t cur;
+                         405 --60:     r_drw2d_Framebuffer_t *DrawFb_p;
+                         406 --61:     DrawFb_p = &MBSprite->DrawFb;
+
+                                                                      Page 8
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+00000154 06f65800        407 	addi	88,r6,ep
+                         408 --62:     cur = MBSprite->DrawIndex;
+00000158 260f5500        409 	ld.w	84[r6],r1
+                         410 --63:     MBSprite->DrawFb.Buffer.Data = MBSprite->Buffer[cur];
+0000015c 0170            411 	mov	r1,r14
+0000015e c272            412 	shl	2,r14
+00000160 066e0400        413 	addi	4,r6,r13
+00000164 cd71            414 	add	r13,r14
+00000166 2e770100        415 	ld.w	0[r14],r14
+0000016a 66775d00        416 	st.w	r14,92[r6]
+                         417 --64:     DrawFb_p->Buffer.Pitch       = MBSprite->Size[cur].Width;
+0000016e 0170            418 	mov	r1,r14
+00000170 c372            419 	shl	3,r14
+00000172 066e1c00        420 	addi	28,r6,r13
+00000176 cd71            421 	add	r13,r14
+00000178 2e770100        422 	ld.w	0[r14],r14
+0000017c 0575            423 	sst.w	r14,8[ep]
+                         424 --65:     DrawFb_p->Buffer.Size.Width  = MBSprite->Size[cur].Width;
+0000017e 0170            425 	mov	r1,r14
+00000180 c372            426 	shl	3,r14
+00000182 066e1c00        427 	addi	28,r6,r13
+00000186 cd71            428 	add	r13,r14
+00000188 2e770100        429 	ld.w	0[r14],r14
+0000018c 0775            430 	sst.w	r14,12[ep]
+                         431 --66:     DrawFb_p->Buffer.Size.Height = MBSprite->Size[cur].Height;
+0000018e c30a            432 	shl	3,r1
+00000190 06761c00        433 	addi	28,r6,r14
+00000194 ce09            434 	add	r14,r1
+00000196 210f0500        435 	ld.w	4[r1],r1
+0000019a 090d            436 	sst.w	r1,16[ep]
+                         437 --67:     return &MBSprite->DrawFb;
+0000019c 06565800        438 	addi	88,r6,r10
+                         439 --	    .ef
+                         440 .LDW41:
+                         441 	.jumptype return
+000001a0 7f00            442 	jmp	[lp]
+                         443 ..lin.17baa9c0..7ef103f.0_9::
+                         444 .LDWlin9:
+                         445 	.type	_MbSpriteNewDrawBufGet,@function
+                         446 	.size	_MbSpriteNewDrawBufGet,.-_MbSpriteNewDrawBufGet
+                         447 	.align	2
+                         448 .LDW51:
+                         449 --_cur	r1	local
+                         450 --_DrawFb_p	ep	local
+                         451 
+                         452 --_MBSprite	r6	param
+                         453 
+                         454 	.section ".bss","awb"
+                         455 .L278:
+                         456 	.type	.L278,@object
+                         457 	.size	.L278,0
+                         458 	.data
+                         459 	.text
+                         460 
+                         461 --68: }
+                         462 
+                         463 --70: void MbSpriteDrawPosSet(MultiBufferSprite_t *MBSprite,uint32_t x, uint32_t y) {
+                         464 	.align	2
+                         465 	.align	2
+                         466 	.align	2
+                         467 ..gh.f.a.2.e.2:
+
+                                                                      Page 9
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+                         468 	.type	..gh.f.a.2.e.2,@object
+                         469 	.size	..gh.f.a.2.e.2,0
+                         470 	.global	_MbSpriteDrawPosSet
+                         471 _MbSpriteDrawPosSet:
+000001a2 06f0            472 	mov	r6,ep
+                         473 --	    .bf
+                         474 .LDW61:
+                         475 --71:     uint32_t cur;
+                         476 --72:     cur = MBSprite->DrawIndex;
+000001a4 2a0d            477 	sld.w	84[ep],r1
+                         478 --73:     MBSprite->Pos[cur].X = x;
+000001a6 0170            479 	mov	r1,r14
+000001a8 c372            480 	shl	3,r14
+000001aa 1e6e0c00        481 	addi	12,ep,r13
+000001ae cd71            482 	add	r13,r14
+000001b0 6e3f0100        483 	st.w	r7,0[r14]
+                         484 --74:     MBSprite->Pos[cur].Y = y;
+000001b4 c30a            485 	shl	3,r1
+000001b6 4cf2            486 	add	12,ep
+000001b8 c1f1            487 	add	r1,ep
+000001ba 0345            488 	sst.w	r8,4[ep]
+                         489 --75: }
+                         490 --	    .ef
+                         491 .LDW71:
+                         492 	.jumptype return
+000001bc 7f00            493 	jmp	[lp]
+                         494 ..lin.17baa9c0..cbcadc76.0_10::
+                         495 .LDWlin10:
+                         496 	.type	_MbSpriteDrawPosSet,@function
+                         497 	.size	_MbSpriteDrawPosSet,.-_MbSpriteDrawPosSet
+                         498 	.align	2
+                         499 .LDW81:
+                         500 --_cur	r1	local
+                         501 
+                         502 --_MBSprite	ep	param
+                         503 --_x	r7	param
+                         504 --_y	r8	param
+                         505 
+                         506 	.section ".bss","awb"
+                         507 .L346:
+                         508 	.type	.L346,@object
+                         509 	.size	.L346,0
+                         510 	.data
+                         511 	.text
+                         512 
+                         513 
+                         514 --77: void MbSpriteDrawGeometrySet(MultiBufferSprite_t *MBSprite,r_drw2d_IntRect_t rect) {
+                         515 	.align	2
+                         516 	.align	2
+                         517 	.align	2
+                         518 ..gh.f.a.2.e.3:
+                         519 	.type	..gh.f.a.2.e.3,@object
+                         520 	.size	..gh.f.a.2.e.3,0
+                         521 	.global	_MbSpriteDrawGeometrySet
+                         522 _MbSpriteDrawGeometrySet:
+000001be 501a            523 	add	-16,sp
+000001c0 06f0            524 	mov	r6,ep
+000001c2 634f0d00        525 	st.w	r9,12[sp]
+000001c6 63470900        526 	st.w	r8,8[sp]
+000001ca 633f0500        527 	st.w	r7,4[sp]
+                         528 --	    .bf
+
+                                                                      Page 10
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+                         529 .LDW91:
+                         530 --78:     uint32_t cur;
+                         531 --79:     cur = MBSprite->DrawIndex;
+000001ce 2a0d            532 	sld.w	84[ep],r1
+                         533 --80:     MBSprite->Pos[cur]  = rect.Pos;
+000001d0 0170            534 	mov	r1,r14
+000001d2 c372            535 	shl	3,r14
+000001d4 1e6e0c00        536 	addi	12,ep,r13
+000001d8 cd71            537 	add	r13,r14
+000001da a30749600000    538 	ld.dw	4[sp],r12
+000001e0 ae070f600000    539 	st.dw	r12,0[r14]
+                         540 --81:     MBSprite->Size[cur] = rect.Size;
+                         541 --line81
+                         542 ..lin.17baa9c0..58999850.0_11::
+                         543 .LDWlin11:
+000001e6 a307c9600000    544 	ld.dw	12[sp],r12
+000001ec c30a            545 	shl	3,r1
+000001ee 1e761c00        546 	addi	28,ep,r14
+000001f2 c171            547 	add	r1,r14
+000001f4 ae070f600000    548 	st.dw	r12,0[r14]
+                         549 --82: }
+                         550 --	    .ef
+                         551 .LDW02:
+                         552 --line82
+                         553 ..lin.17baa9c0..58999850.0_12::
+                         554 .LDWlin12:
+000001fa 031e1000        555 	addi	16,sp,sp
+                         556 	.jumptype return
+000001fe 7f00            557 	jmp	[lp]
+                         558 ..lin.17baa9c0..58999850.0_13::
+                         559 .LDWlin13:
+                         560 	.type	_MbSpriteDrawGeometrySet,@function
+                         561 	.size	_MbSpriteDrawGeometrySet,.-_MbSpriteDrawGeometrySet
+                         562 	.align	2
+                         563 .LDW12:
+                         564 --_cur	r1	local
+                         565 
+                         566 --_MBSprite	ep	param
+                         567 --_rect	4[sp]	param
+                         568 
+                         569 	.section ".bss","awb"
+                         570 .L394:
+                         571 	.type	.L394,@object
+                         572 	.size	.L394,0
+                         573 	.data
+                         574 	.text
+                         575 
+                         576 
+                         577 --84: void MbSpriteSwap(MultiBufferSprite_t *MBSprite){
+                         578 	.align	2
+                         579 	.align	2
+                         580 	.align	2
+                         581 ..gh.f.a.2.e.4:
+                         582 	.type	..gh.f.a.2.e.4,@object
+                         583 	.size	..gh.f.a.2.e.4,0
+                         584 	.global	_MbSpriteSwap
+                         585 _MbSpriteSwap:
+00000200 80072100        586 	prepare	{r31},0
+00000204 06f0            587 	mov	r6,ep
+                         588 --	    .bf
+                         589 .LDW22:
+
+                                                                      Page 11
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+                         590 --85:     r_wm_Sprite_t *cur_sprite;
+                         591 --86:     uint32_t cur;
+                         592 --87:     MBSprite->VoIndex++;
+00000206 280d            593 	sld.w	80[ep],r1
+00000208 410a            594 	add	1,r1
+0000020a 290d            595 	sst.w	r1,80[ep]
+                         596 --88:     if(MBSprite->VoIndex >= MBSprite->Count) MBSprite->VoIndex = 0;
+0000020c 000d            597 	sld.w	0[ep],r1
+0000020e 2875            598 	sld.w	80[ep],r14
+00000210 e171            599 	cmp	r1,r14
+00000212 a105*           600 	bl	.L417
+00000214 2905            601 	sst.w	zero,80[ep]
+                         602 .L417:
+                         603 --89:     MBSprite->DrawIndex++;
+                         604 --line89
+                         605 ..lin.17baa9c0..cbac2905.0_14::
+                         606 .LDWlin14:
+00000216 2a0d            607 	sld.w	84[ep],r1
+00000218 410a            608 	add	1,r1
+0000021a 2b0d            609 	sst.w	r1,84[ep]
+                         610 --90:     if(MBSprite->DrawIndex >= MBSprite->Count) MBSprite->DrawIndex = 0;
+0000021c 000d            611 	sld.w	0[ep],r1
+0000021e 2a75            612 	sld.w	84[ep],r14
+00000220 e171            613 	cmp	r1,r14
+00000222 a105*           614 	bl	.L419
+00000224 2b05            615 	sst.w	zero,84[ep]
+                         616 .L419:
+                         617 --91:     cur = MBSprite->VoIndex;
+                         618 --line91
+                         619 ..lin.17baa9c0..cbac2905.0_15::
+                         620 .LDWlin15:
+00000226 280d            621 	sld.w	80[ep],r1
+                         622 --92:     cur_sprite = &MBSprite->Sprite;
+00000228 1e3e2c00        623 	addi	44,ep,r7
+                         624 --93:     cur_sprite->PosX   = MBSprite->Pos[cur].X;
+0000022c 0170            625 	mov	r1,r14
+0000022e c372            626 	shl	3,r14
+00000230 1e6e0c00        627 	addi	12,ep,r13
+00000234 cd71            628 	add	r13,r14
+00000236 2e770100        629 	ld.w	0[r14],r14
+0000023a 67771100        630 	st.w	r14,16[r7]
+                         631 --94:     cur_sprite->PosY   = MBSprite->Pos[cur].Y;
+0000023e 0170            632 	mov	r1,r14
+00000240 c372            633 	shl	3,r14
+00000242 1e6e0c00        634 	addi	12,ep,r13
+00000246 cd71            635 	add	r13,r14
+00000248 2e770500        636 	ld.w	4[r14],r14
+0000024c 67771500        637 	st.w	r14,20[r7]
+                         638 --95:     cur_sprite->Width  = MBSprite->Size[cur].Width;
+00000250 0170            639 	mov	r1,r14
+00000252 c372            640 	shl	3,r14
+00000254 1e6e1c00        641 	addi	28,ep,r13
+00000258 cd71            642 	add	r13,r14
+0000025a 2e770100        643 	ld.w	0[r14],r14
+0000025e 67771d00        644 	st.w	r14,28[r7]
+                         645 --96:     cur_sprite->Height = MBSprite->Size[cur].Height;
+00000262 0170            646 	mov	r1,r14
+00000264 c372            647 	shl	3,r14
+00000266 1e6e1c00        648 	addi	28,ep,r13
+0000026a cd71            649 	add	r13,r14
+0000026c 2e770500        650 	ld.w	4[r14],r14
+
+                                                                      Page 12
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+00000270 67772100        651 	st.w	r14,32[r7]
+                         652 --97:     R_WM_SpriteBufSet(FLASHDASH_WM_UNIT, cur_sprite,
+00000274 c20a            653 	shl	2,r1
+00000276 44f2            654 	add	4,ep
+00000278 c1f1            655 	add	r1,ep
+0000027a 0032            656 	mov	0,r6
+0000027c 0045            657 	sld.w	0[ep],r8
+                         658 	jarl	_R_WM_SpriteBufSet,lp
+                         658 <EXPANSION BEGIN>
+                         658 jarl22 _R_WM_SpriteBufSet , lp 
+0000027e 80ff0000*       658 <EXPANSION END>
+                         659 --98:                       MBSprite->Buffer[cur]);
+                         660 --99: }
+                         661 --	    .ef
+                         662 .LDW32:
+                         663 --line99
+                         664 ..lin.17baa9c0..cbac2905.0_16::
+                         665 .LDWlin16:
+00000282 40063f00        666 	dispose	0,{r31},[lp]
+                         667 ..lin.17baa9c0..cbac2905.0_17::
+                         668 .LDWlin17:
+                         669 	.type	_MbSpriteSwap,@function
+                         670 	.size	_MbSpriteSwap,.-_MbSpriteSwap
+                         671 	.align	2
+                         672 .LDW42:
+                         673 --_cur_sprite	r7	local
+                         674 --_cur	r1	local
+                         675 
+                         676 --_MBSprite	ep	param
+                         677 
+                         678 	.section ".bss","awb"
+                         679 .L498:
+                         680 	.type	.L498,@object
+                         681 	.size	.L498,0
+                         682 	.data
+                         683 	.text
+                         684 
+                         685 
+                         686 --101: void MbSpriteWaitForSwap(MultiBufferSprite_t *MBSprite){
+                         687 	.align	2
+                         688 	.align	2
+                         689 	.align	2
+                         690 ..gh.f.a.2.e.5:
+                         691 	.type	..gh.f.a.2.e.5,@object
+                         692 	.size	..gh.f.a.2.e.5,0
+                         693 	.global	_MbSpriteWaitForSwap
+                         694 _MbSpriteWaitForSwap:
+00000286 06f0            695 	mov	r6,ep
+                         696 --	    .bf
+                         697 .LDW52:
+                         698 --102:     /* Check if address is already taken by system */
+                         699 --103:     while(MBSprite->Buffer[MBSprite->VoIndex] != MBSprite->Sprite.Data);
+                         700 .L551:
+00000288 280d            701 	sld.w	80[ep],r1
+0000028a 1e760400        702 	addi	4,ep,r14
+0000028e c20a            703 	shl	2,r1
+00000290 ce09            704 	add	r14,r1
+00000292 1c75            705 	sld.w	56[ep],r14
+00000294 210f0100        706 	ld.w	0[r1],r1
+00000298 ee09            707 	cmp	r14,r1
+0000029a faf5*           708 	bne	.L551
+
+                                                                      Page 13
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+                         709 --104:     /* There must be a wait for VSYNC also ? Not necessary as it would not be visible anymore ? */
+                         710 --105: }
+                         711 --	    .ef
+                         712 .LDW62:
+                         713 --line105
+                         714 ..lin.17baa9c0..c39a17c1.0_18::
+                         715 .LDWlin18:
+                         716 	.jumptype return
+0000029c 7f00            717 	jmp	[lp]
+                         718 ..lin.17baa9c0..c39a17c1.0_19::
+                         719 .LDWlin19:
+                         720 	.type	_MbSpriteWaitForSwap,@function
+                         721 	.size	_MbSpriteWaitForSwap,.-_MbSpriteWaitForSwap
+                         722 	.align	2
+                         723 .LDW72:
+                         724 
+                         725 --_MBSprite	ep	param
+                         726 
+                         727 	.section ".bss","awb"
+                         728 .L578:
+                         729 	.type	.L578,@object
+                         730 	.size	.L578,0
+                         731 	.data
+                         732 	.text
+                         733 
+                         734 
+                         735 --107: uint32_t MbSpriteDrawPosXGet(MultiBufferSprite_t *MBSprite){
+                         736 	.align	2
+                         737 	.align	2
+                         738 	.align	2
+                         739 ..gh.f.a.2.e.6:
+                         740 	.type	..gh.f.a.2.e.6,@object
+                         741 	.size	..gh.f.a.2.e.6,0
+                         742 	.global	_MbSpriteDrawPosXGet
+                         743 _MbSpriteDrawPosXGet:
+0000029e 06f0            744 	mov	r6,ep
+                         745 --	    .bf
+                         746 .LDW82:
+                         747 --108:     uint32_t cur;
+                         748 --109:     cur = MBSprite->DrawIndex;    
+000002a0 2a0d            749 	sld.w	84[ep],r1
+                         750 --110:     return MBSprite->Pos[cur].X;
+000002a2 c30a            751 	shl	3,r1
+000002a4 4cf2            752 	add	12,ep
+000002a6 c1f1            753 	add	r1,ep
+000002a8 0055            754 	sld.w	0[ep],r10
+                         755 --	    .ef
+                         756 .LDW92:
+                         757 	.jumptype return
+000002aa 7f00            758 	jmp	[lp]
+                         759 ..lin.17baa9c0..4528a802.0_20::
+                         760 .LDWlin20:
+                         761 	.type	_MbSpriteDrawPosXGet,@function
+                         762 	.size	_MbSpriteDrawPosXGet,.-_MbSpriteDrawPosXGet
+                         763 	.align	2
+                         764 .LDW03:
+                         765 --_cur	r1	local
+                         766 
+                         767 --_MBSprite	ep	param
+                         768 
+                         769 	.section ".bss","awb"
+
+                                                                      Page 14
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si
+                         770 .L626:
+                         771 	.type	.L626,@object
+                         772 	.size	.L626,0
+                         773 	.data
+                         774 	.text
+                         775 
+                         776 --111: }
+                         777 
+                         778 --112: uint32_t MbSpriteDrawPosYGet(MultiBufferSprite_t *MBSprite){
+                         779 	.align	2
+                         780 	.align	2
+                         781 	.align	2
+                         782 ..gh.f.a.2.e.7:
+                         783 	.type	..gh.f.a.2.e.7,@object
+                         784 	.size	..gh.f.a.2.e.7,0
+                         785 	.global	_MbSpriteDrawPosYGet
+                         786 _MbSpriteDrawPosYGet:
+000002ac 06f0            787 	mov	r6,ep
+                         788 --	    .bf
+                         789 .LDW13:
+                         790 --113:     uint32_t cur;
+                         791 --114:     cur = MBSprite->DrawIndex;    
+000002ae 2a0d            792 	sld.w	84[ep],r1
+                         793 --115:     return MBSprite->Pos[cur].Y;
+000002b0 c30a            794 	shl	3,r1
+000002b2 4cf2            795 	add	12,ep
+000002b4 c1f1            796 	add	r1,ep
+000002b6 0255            797 	sld.w	4[ep],r10
+                         798 --	    .ef
+                         799 .LDW23:
+                         800 	.jumptype return
+000002b8 7f00            801 	jmp	[lp]
+                         802 ..lin.17baa9c0..45293463.0_21::
+                         803 .LDWlin21:
+                         804 	.type	_MbSpriteDrawPosYGet,@function
+                         805 	.size	_MbSpriteDrawPosYGet,.-_MbSpriteDrawPosYGet
+                         806 	.align	2
+                         807 .LDW33:
+                         808 --_cur	r1	local
+                         809 
+                         810 --_MBSprite	ep	param
+                         811 
+                         812 	.section ".bss","awb"
+                         813 .L674:
+                         814 	.type	.L674,@object
+                         815 	.size	.L674,0
+                         816 	.data
+                         817 	.text
+                         818 
+                         819 --116: }
+                         820 	.align	2
+                         821 --_AppHeap_p	_AppHeap_p	import
+                         822 
+                         823 	.data
+                         824 	.ghsnote version,19
+                         825 	.ghsnote tools,3
+                         826 	.ghsnote options,656
+                         827 	.text
+                         828 	.align	2
+                         829 ..eof.G.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs.5Cobj.5Csprite...47.3A.5Cvlib_v1.2E8_svn.5Capp.5Cgfx_apps.5Cd1m1_flashdash_demo.5Ctarget.5Cd1m2_mango_ghs..5C39AB0A..0::
+                         830 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M,SDA_EXTRA_REGS_0
+
+                                                                      Page 15
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007181.si

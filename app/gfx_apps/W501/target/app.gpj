@@ -1,0 +1,145 @@
+#!gbuild
+[Subproject]
+	:sourceDir=../../..
+gfx_apps\W501\src\d1mx.ld
+./gfx_apps/W501/src/init.c
+
+{comment} ADC
+gfx_apps\W501\src\ADC\ADC.c
+gfx_apps\W501\src\ADC\r_cg_adc.c
+
+{comment} CAN
+gfx_apps\W501\src\CAN\my_can.c
+
+{comment} SOUND
+gfx_apps\W501\src\SOUND\sound_pcm.c
+
+{comment} SWSC
+gfx_apps\W501\src\SWSC\swsc.c
+
+{comment} AFE
+gfx_apps\W501\src\AFE\AFE_3.c
+
+{comment} TDMS
+gfx_apps\W501\src\TDMS\TDMS.c
+{comment} IFE
+gfx_apps\W501\src\IFE\IFE_3_Code.c
+
+{comment} DTE
+gfx_apps\W501\src\DTE\DTE_V_1.c
+gfx_apps\W501\src\DTE\rdivide_helper_Q3oa226R.c
+
+{comment} IVN
+gfx_apps\W501\src\IVN\Decryption_1.c
+gfx_apps\W501\src\IVN\Encryption_0.c
+gfx_apps\W501\src\IVN\Encryption_1.c
+gfx_apps\W501\src\IVN\Encryption_2.c
+gfx_apps\W501\src\IVN\IVN_Decryption.c
+gfx_apps\W501\src\IVN\IVN_Encryption.c
+gfx_apps\W501\src\IVN\IVN_SecurityAlgorithm.c
+
+{comment} Wakeup
+gfx_apps\W501\src\Wakeup\WakeUp_DeepMode.c
+gfx_apps\W501\src\Wakeup\WakeUp_NormalMode.c
+{comment} BATTERY
+gfx_apps\W501\src\BATTERY\batt.c
+
+{comment} ISM
+./gfx_apps\W501\src\ISM\motor_sm.c
+./gfx_apps\W501\src\ISM\carmodel.c
+./gfx_apps\W501\src\ISM\r_test_ism.c
+
+{comment} DIGITAL_GAUGE
+gfx_apps\W501\src\DIGITAL_GAUGE\digitalGuage.c
+gfx_apps\W501\src\DIGITAL_GAUGE\tachometer.c
+gfx_apps\W501\src\DIGITAL_GAUGE\odometer.c
+gfx_apps\W501\src\DIGITAL_GAUGE\gearIndication.c
+
+{comment} FUEL
+gfx_apps\W501\src\FUEL\fuel.c
+
+{comment} ALERT
+gfx_apps\W501\src\ALERT\alert.c
+
+{comment} UDS
+gfx_apps\W501\src\UDS\UDSS.c
+gfx_apps\W501\src\UDS\UDSS_APP.c
+gfx_apps\W501\src\UDS\UDS_READ_WRITE.c
+gfx_apps\W501\src\UDS\my_SeedKey.c
+gfx_apps\W501\src\UDS\UDS_DTC.c
+gfx_apps\W501\src\UDS\Feature_Code_DTC.c
+gfx_apps\W501\src\UDS\Variant_Code_DTC.c
+
+{comment} VIN
+gfx_apps\W501\src\VIN\VIN_MISMATCH.c
+
+{comment} TELLTALE
+gfx_apps\W501\src\TELLTALE\serial_to_parallel.c
+gfx_apps\W501\src\TELLTALE\TLC6C_S_TO_P.c
+
+{comment} Input
+gfx_apps\W501\src\INPUT\parallel_to_serial.c
+
+{comment} TFT
+gfx_apps\W501\src\TFT\gui.c
+{comment} TFT/Grayscale
+gfx_apps\W501\src\TFT\Grayscale\lcbi_non_tft.c
+gfx_apps\W501\src\TFT\Grayscale\my_image0.c
+{comment} gfx_apps\W501\src\TFT\Grayscale\Image0.c
+{comment} gfx_apps\W501\src\TFT\Grayscale\Image1.c
+{comment} gfx_apps\W501\src\TFT\Grayscale\mono_drv.c
+
+{comment} TFT/Non_drome
+{comment} gfx_apps/W501/src/TFT/Non_drome/Welcome Slide 12-02-19.c
+{comment} gfx_apps/W501/src/TFT/Non_drome/my_tell_tale.c
+{comment} gfx_apps/W501/src/TFT/Non_drome/mem_init.c
+{comment} gfx_apps/W501/src/TFT/Non_drome/wm.c
+{comment} common\dhd\r_util_dhd.c
+
+
+{comment} DIGI_CLK
+gfx_apps\W501\src\DIGI_CLK\digi_clk.c
+
+{comment} TIMER
+gfx_apps\W501\src\TIMER\r_cg_timer.c
+gfx_apps\W501\src\TIMER\r_cg_timer_user.c
+
+{comment} RTC
+gfx_apps\W501\src\RTC\rtc.c
+
+{comment} FOURxFOUR
+gfx_apps\W501\src\FOURxFOUR\FOURxFOUR.c
+
+{comment} EEPROM
+gfx_apps\W501\src\EEPROM\r_cg_serial.c
+gfx_apps\W501\src\EEPROM\r_cg_serial_user.c
+
+
+{comment} gfx_apps\W501\src\standby.c
+{comment} gfx_apps\W501\src\stbc_main.c
+{comment} gfx_apps\W501\src\my_tell_tale.c
+{comment} ./common/dhd/r_util_dhd.c
+{comment} ./gfx_apps/W501/src/mem_init.c
+{comment} ./gfx_apps/W501/src/scenes.c
+{comment} ./gfx_apps/W501/src/bench.c
+{comment} ./gfx_apps/W501/src/drw_wrap.c
+{comment} ./gfx_apps/W501/src/car_model.c
+{comment} ./gfx_apps/W501/src/sprite.c
+{comment} ./gfx_apps/W501/src/jpeg.c
+{comment} gfx_apps\W501\src\my_final_bg.c
+{comment} gfx_apps\W501\src\menu_image.c
+{comment} gfx_apps\W501\src\middle_patch_black.c
+{comment} gfx_apps\W501\src\my_altia_needle.c
+{comment} gfx_apps\W501\src\TEXT_MY\font.c
+{comment} gfx_apps\W501\src\TEXT_MY\font.h
+{comment} gfx_apps\W501\src\TEXT_MY\my_digital_BIG_fonts_black.c
+{comment} gfx_apps\W501\src\TEXT_MY\my_odo_all_font_symbols.c
+{comment} ./gfx_apps/W501/src/images/fs_data_movie.c
+{comment} ./gfx_apps/W501/src/images/fs_data_res.c
+{comment} ./gfx_apps/W501/src/wm.c
+{comment} ./gfx_apps/W501/src/main_scene.c
+{comment} ./gfx_apps/W501/src/state_machine.c
+{comment} ./gfx_apps/W501/src/util.c
+{comment} gfx_apps\W501\src\my_pointer_light.c
+{comment} gfx_apps\W501\src\load_to_ram_MY.c
+

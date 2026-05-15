@@ -1,0 +1,5 @@
+850eserv2 Version : V2.041
+Release           : Compiler v2017.1.5, Tue Apr 11 11:12:27 2017
+Host OS:          : Windows 7 Service Pack 1
+Command line      :  C:\ghs\comp_201715\850eserv2.exe -rh850 -e1lpd4=16500 -df=dr7f701407.dvf -noiop -id ffffffffffffffffffffffffffffffff -D -dclock=8000,0,swoff -fastflashload -sr_client_start_cookie 2 -sr_connect_servicerouter_host 127.0.0.1 -sr_connect_servicerouter_port 49439
+Device file       : dr7f701407.dvf

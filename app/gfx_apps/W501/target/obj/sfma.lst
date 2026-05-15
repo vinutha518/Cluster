@@ -1,0 +1,1195 @@
+                                                                      Page 1
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+Command Line: C:\ghs\comp_201715\ease850.exe -w -elf -b0 -I..\..\..\..\app\common\dhd -I..\..\..\..\app\gfx_apps\W501\res -I..\..\..\..\app\gfx_apps\W501\src\ADC -I..\..\..\..\app\gfx_apps\W501\src\CAN -I..\..\..\..\app\gfx_apps\W501\src\TFT -I..\..\..\..\app\gfx_apps\W501\src\TFT\Non_drome -I..\..\..\..\app\gfx_apps\W501\src\DIGITAL_GAUGE -I..\..\..\..\app\gfx_apps\W501\src\EEPROM -I..\..\..\..\app\gfx_apps\W501\src\INPUT -I..\..\..\..\app\gfx_apps\W501\src\ISM -I..\..\..\..\app\gfx_apps\W501\src\SOUND -I..\..\..\..\app\gfx_apps\W501\src\TELLTALE -I..\..\..\..\app\gfx_apps\W501\src\TIMER -I..\..\..\..\app\gfx_apps\W501\src\UDS -I..\..\..\..\app\gfx_apps\W501\src\ -I..\..\..\..\app\gfx_apps\W501\src\images -I..\..\..\..\app\gfx_apps\W501\target\ -I..\..\..\..\app\gfx_apps\W501\target\config -I..\..\..\..\bsp\board\config -I..\..\..\..\bsp\board\src\gfx -I..\..\..\..\bsp\board\src\hmi -I..\..\..\..\bsp\board\src\stdio -I..\..\..\..\bsp\board\d1mx_mango\config -I..\..\..\..\bsp\board\d1mx_mango\src -I..\..\..\..\bsp\board\d1mx_mango\src\gfx -I..\..\..\..\bsp\board\d1mx_mango\src\hmi -I..\..\..\..\bsp\board\d1mx_mango\src\stdio -I..\..\..\..\bsp\gfx\lib -I..\..\..\..\bsp\gfx\src -I..\..\..\..\bsp\hmi\lib -I..\..\..\..\bsp\hmi\src -I..\..\..\..\bsp\lib -I..\..\..\..\bsp\stdio\lib -I..\..\..\..\bsp\stdio\src -I..\..\..\..\cdi\lib -I..\..\..\..\cdi\src -I..\..\..\..\compiler\rh850_ghs\inc -I..\..\..\..\device\d1mx\lib -I..\..\..\..\device\d1mx\macro_cfg -I..\..\..\..\device\d1mx\src\dev -I..\..\..\..\device\d1mx\src\dhd -I..\..\..\..\device\d1mx\src\jcua -I..\..\..\..\device\d1mx\src\rh850_ghs -I..\..\..\..\device\d1mx\src\vowe -I..\..\..\..\device\d1x_common\macro_cfg -I..\..\..\..\device\d1x_common\src\csisw -I..\..\..\..\device\d1x_common\src\dev -I..\..\..\..\device\d1x_common\src\gfxbus -I..\..\..\..\device\d1x_common\src\gpio -I..\..\..\..\device\d1x_common\src\ostm -I..\..\..\..\device\d1x_common\src\pbg -I..\..\..\..\device\d1x_common\src\riic -I..\..\..\..\device\d1x_common\src\sfma -I..\..\..\..\device\d1x_common\src\spea -I..\..\..\..\device\d1x_common\src\tauj -I..\..\..\..\device\d1x_common\src\tick -I..\..\..\..\device\d1x_common\src\vdce -I..\..\..\..\device\d1x_common\src\wm -I..\..\..\..\device\d1x_common\src\dma -I..\..\..\..\device\d1x_common\src\g3dma -I..\..\..\..\device\d1x_common\src\xbus -I..\..\..\..\device\d1x_common\src\pcmp -I..\..\..\..\device\d1x_common\src\taub -I..\..\..\..\device\lib -I..\..\..\..\macro\bus\pbg\lib -I..\..\..\..\macro\bus\pbg\src -I..\..\..\..\macro\ad_converter\adc7010\lib -I..\..\..\..\macro\ad_converter\adc7010\src -I..\..\..\..\macro\sm\ism\src -I..\..\..\..\macro\sm\ism\lib -I..\..\..\..\device\d1x_common\src\ism -I..\..\..\..\macro\ecm\lib -I..\..\..\..\macro\ecm\src -I..\..\..\..\device\d1x_common\src\ecm -I..\..\..\..\macro\csi\csisw\lib -I..\..\..\..\macro\csi\csisw\src -I..\..\..\..\macro\dma\dma\lib -I..\..\..\..\macro\dma\dma\src -I..\..\..\..\macro\dma\g3dma\lib -I..\..\..\..\macro\dma\g3dma\src -I..\..\..\..\macro\drw2d\lib -I..\..\..\..\macro\drw2d\platform\davehd -I..\..\..\..\macro\drw2d\platform\os\no_os -I..\..\..\..\macro\drw2d\src -I..\..\..\..\macro\flashc\sfcdb\lib -I..\..\..\..\macro\flashc\sfcdb\src -I..\..\..\..\macro\flashc\sfma\lib -I..\..\..\..\macro\flashc\sfma\src -I..\..\..\..\macro\gfxbus\lib -I..\..\..\..\macro\gfxbus\src -I..\..\..\..\macro\gfxbus\xbus\lib -I..\..\..\..\macro\gfxbus\xbus\src -I..\..\..\..\macro\gpio\lib -I..\..\..\..\macro\gpio\src -I..\..\..\..\macro\gpu\davehd\common\inc -I..\..\..\..\macro\gpu\davehd\common\inc\platform -I..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx -I..\..\..\..\macro\gpu\davehd\kernel\inc -I..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx -I..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge -I..\..\..\..\macro\gpu\davehd\kernel\platform\ree -I..\..\..\..\macro\gpu\davehd\kernel\src -I..\..\..\..\macro\gpu\davehd\user\inc -I..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os -I..\..\..\..\macro\gpu\davehd\user\src -I..\..\..\..\macro\gpu\jcua\lib -I..\..\..\..\macro\gpu\jcua\src -I..\..\..\..\macro\i2c\riic\lib -I..\..\..\..\macro\i2c\riic\src -I..\..\..\..\macro\pwm\pcmp\lib -I..\..\..\..\macro\pwm\pcmp\src -I..\..\..\..\macro\tick\lib -I..\..\..\..\macro\tick\src -I..\..\..\..\macro\timer\ostm\lib -I..\..\..\..\macro\timer\ostm\src -I..\..\..\..\macro\timer\tauj\lib -I..\..\..\..\macro\timer\tauj\src -I..\..\..\..\macro\timer\taub\lib -I..\..\..\..\macro\timer\taub\src -I..\..\..\..\macro\vdce\lib -I..\..\..\..\macro\vdce\src -I..\..\..\..\macro\vo\ddb\lib -I..\..\..\..\macro\vo\ddb\src -I..\..\..\..\macro\vo\spea\lib -I..\..\..\..\macro\vo\spea\src -I..\..\..\..\macro\vo\vowe\lib -I..\..\..\..\macro\vo\vowe\src -I..\..\..\..\macro\wm\lib -I..\..\..\..\macro\wm\src -I..\..\..\..\middleware\gfxutils\lib -I..\..\..\..\middleware\gfxutils\src -I..\..\..\..\drome\export\davehd -I..\..\..\..\drome\import -I..\..\..\..\drome\import\davehd -I..\..\..\..\drome\import\dev -I..\..\..\..\drome\import\spea -I..\..\..\..\drome\import\vdce -I..\..\..\..\drome\import\xbus -I..\..\..\..\device\d1mx\macro_cfg\csisw -I..\..\..\..\device\d1mx\macro_cfg\davehd -I..\..\..\..\device\d1mx\macro_cfg\ddb -I..\..\..\..\device\d1mx\macro_cfg\drw2d -I..\..\..\..\device\d1mx\macro_cfg\gfxbus -I..\..\..\..\device\d1mx\macro_cfg\gpio -I..\..\..\..\device\d1mx\macro_cfg\hypb -I..\..\..\..\device\d1mx\macro_cfg\hypdb -I..\..\..\..\device\d1mx\macro_cfg\jcua -I..\..\..\..\device\d1mx\macro_cfg\nfmabare -I..\..\..\..\device\d1mx\macro_cfg\octa -I..\..\..\..\device\d1mx\macro_cfg\octacdb -I..\..\..\..\device\d1mx\macro_cfg\ostm -I..\..\..\..\device\d1mx\macro_cfg\pbg -I..\..\..\..\device\d1mx\macro_cfg\riic -I..\..\..\..\device\d1mx\macro_cfg\sfcdb -I..\..\..\..\device\d1mx\macro_cfg\sfma -I..\..\..\..\device\d1mx\macro_cfg\spea -I..\..\..\..\device\d1mx\macro_cfg\tauj -I..\..\..\..\device\d1mx\macro_cfg\tick -I..\..\..\..\device\d1mx\macro_cfg\vdce -I..\..\..\..\device\d1mx\macro_cfg\vowe -I..\..\..\..\device\d1mx\macro_cfg\wm -I..\..\..\..\device\d1mx\macro_cfg\xbus -I..\..\..\..\device\d1x_common\macro_cfg\adc -I..\..\..\..\device\d1x_common\macro_cfg\csisw -I..\..\..\..\device\d1x_common\macro_cfg\davehd -I..\..\..\..\device\d1x_common\macro_cfg\ddb -I..\..\..\..\device\d1x_common\macro_cfg\drw2d -I..\..\..\..\device\d1x_common\macro_cfg\gfxbus -I..\..\..\..\device\d1x_common\macro_cfg\gpio -I..\..\..\..\device\d1x_common\macro_cfg\hypb -I..\..\..\..\device\d1x_common\macro_cfg\hypdb -I..\..\..\..\device\d1x_common\macro_cfg\jcua -I..\..\..\..\device\d1x_common\macro_cfg\nfmabare -I..\..\..\..\device\d1x_common\macro_cfg\octa -I..\..\..\..\device\d1x_common\macro_cfg\octacdb -I..\..\..\..\device\d1x_common\macro_cfg\ostm -I..\..\..\..\device\d1x_common\macro_cfg\pbg -I..\..\..\..\device\d1x_common\macro_cfg\riic -I..\..\..\..\device\d1x_common\macro_cfg\sfcdb -I..\..\..\..\device\d1x_common\macro_cfg\sfma -I..\..\..\..\device\d1x_common\macro_cfg\spea -I..\..\..\..\device\d1x_common\macro_cfg\tauj -I..\..\..\..\device\d1x_common\macro_cfg\tick -I..\..\..\..\device\d1x_common\macro_cfg\vdce -I..\..\..\..\device\d1x_common\macro_cfg\vowe -I..\..\..\..\device\d1x_common\macro_cfg\wm -I..\..\..\..\device\d1x_common\macro_cfg\xbus -I..\..\..\..\app\gfx_apps\W501\src\TEXT_MY -IC:\ghs\comp_201715\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -nomacro -patch_dbo=G:\Vlib_svn\app\gfx_apps\W501\target\obj\sfma.dbo -source=sfma.c -o .\obj\gh_00007gg1.o -list=.\obj\sfma.lst C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si 
+Original File: C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+Source File: sfma.c
+Directory: G:\Vlib_svn\app\gfx_apps\W501\target
+Host OS: Windows 7 Service Pack 1
+EASE: Copyright (C) 1983-2016 Green Hills Software.  All Rights Reserved.
+Release: MULTI v800-v2017.1.5-comp-P04
+Custom String: TOOLS-28024 unreached assembly routines deleted by linker
+Build Directory: [Directory] BTOWINBOX:c:/build_2017_1_bto/2017-10-04.2100-2017_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2017-1-bto/src@603992 (built by build)
+Revision Date: Thu Oct 05 10:11:26 2017
+
+Release Date: Tue Oct 10 02:48:58 2017
+
+                           1 --Driver Command: ccv850 -c -MD -I..\..\..\..\app\common\dhd
+                           2 --		-I..\..\..\..\app\gfx_apps\W501\res
+                           3 --		-I..\..\..\..\app\gfx_apps\W501\src\ADC
+                           4 --		-I..\..\..\..\app\gfx_apps\W501\src\CAN
+                           5 --		-I..\..\..\..\app\gfx_apps\W501\src\TFT
+                           6 --		-I..\..\..\..\app\gfx_apps\W501\src\TFT\Non_drome
+                           7 --		-I..\..\..\..\app\gfx_apps\W501\src\DIGITAL_GAUGE
+                           8 --		-I..\..\..\..\app\gfx_apps\W501\src\EEPROM
+                           9 --		-I..\..\..\..\app\gfx_apps\W501\src\INPUT
+                          10 --		-I..\..\..\..\app\gfx_apps\W501\src\ISM
+                          11 --		-I..\..\..\..\app\gfx_apps\W501\src\SOUND
+                          12 --		-I..\..\..\..\app\gfx_apps\W501\src\TELLTALE
+                          13 --		-I..\..\..\..\app\gfx_apps\W501\src\TIMER
+                          14 --		-I..\..\..\..\app\gfx_apps\W501\src\UDS
+                          15 --		-I..\..\..\..\app\gfx_apps\W501\src\
+                          16 --		-I..\..\..\..\app\gfx_apps\W501\src\images
+                          17 --		-I..\..\..\..\app\gfx_apps\W501\target\
+                          18 --		-I..\..\..\..\app\gfx_apps\W501\target\config
+                          19 --		-I..\..\..\..\bsp\board\config -I..\..\..\..\bsp\board\src\gfx
+                          20 --		-I..\..\..\..\bsp\board\src\hmi -I..\..\..\..\bsp\board\src\stdio
+                          21 --		-I..\..\..\..\bsp\board\d1mx_mango\config
+                          22 --		-I..\..\..\..\bsp\board\d1mx_mango\src
+                          23 --		-I..\..\..\..\bsp\board\d1mx_mango\src\gfx
+                          24 --		-I..\..\..\..\bsp\board\d1mx_mango\src\hmi
+                          25 --		-I..\..\..\..\bsp\board\d1mx_mango\src\stdio
+                          26 --		-I..\..\..\..\bsp\gfx\lib -I..\..\..\..\bsp\gfx\src
+                          27 --		-I..\..\..\..\bsp\hmi\lib -I..\..\..\..\bsp\hmi\src
+                          28 --		-I..\..\..\..\bsp\lib -I..\..\..\..\bsp\stdio\lib
+                          29 --		-I..\..\..\..\bsp\stdio\src -I..\..\..\..\cdi\lib
+                          30 --		-I..\..\..\..\cdi\src -I..\..\..\..\compiler\rh850_ghs\inc
+                          31 --		-I..\..\..\..\device\d1mx\lib -I..\..\..\..\device\d1mx\macro_cfg
+                          32 --		-I..\..\..\..\device\d1mx\src\dev
+                          33 --		-I..\..\..\..\device\d1mx\src\dhd
+                          34 --		-I..\..\..\..\device\d1mx\src\jcua
+                          35 --		-I..\..\..\..\device\d1mx\src\rh850_ghs
+                          36 --		-I..\..\..\..\device\d1mx\src\vowe
+                          37 --		-I..\..\..\..\device\d1x_common\macro_cfg
+                          38 --		-I..\..\..\..\device\d1x_common\src\csisw
+                          39 --		-I..\..\..\..\device\d1x_common\src\dev
+                          40 --		-I..\..\..\..\device\d1x_common\src\gfxbus
+                          41 --		-I..\..\..\..\device\d1x_common\src\gpio
+                          42 --		-I..\..\..\..\device\d1x_common\src\ostm
+                          43 --		-I..\..\..\..\device\d1x_common\src\pbg
+                          44 --		-I..\..\..\..\device\d1x_common\src\riic
+                          45 --		-I..\..\..\..\device\d1x_common\src\sfma
+                          46 --		-I..\..\..\..\device\d1x_common\src\spea
+                          47 --		-I..\..\..\..\device\d1x_common\src\tauj
+                          48 --		-I..\..\..\..\device\d1x_common\src\tick
+                          49 --		-I..\..\..\..\device\d1x_common\src\vdce
+
+                                                                      Page 2
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                          50 --		-I..\..\..\..\device\d1x_common\src\wm
+                          51 --		-I..\..\..\..\device\d1x_common\src\dma
+                          52 --		-I..\..\..\..\device\d1x_common\src\g3dma
+                          53 --		-I..\..\..\..\device\d1x_common\src\xbus
+                          54 --		-I..\..\..\..\device\d1x_common\src\pcmp
+                          55 --		-I..\..\..\..\device\d1x_common\src\taub -I..\..\..\..\device\lib
+                          56 --		-I..\..\..\..\macro\bus\pbg\lib -I..\..\..\..\macro\bus\pbg\src
+                          57 --		-I..\..\..\..\macro\ad_converter\adc7010\lib
+                          58 --		-I..\..\..\..\macro\ad_converter\adc7010\src
+                          59 --		-I..\..\..\..\macro\sm\ism\src -I..\..\..\..\macro\sm\ism\lib
+                          60 --		-I..\..\..\..\device\d1x_common\src\ism
+                          61 --		-I..\..\..\..\macro\ecm\lib -I..\..\..\..\macro\ecm\src
+                          62 --		-I..\..\..\..\device\d1x_common\src\ecm
+                          63 --		-I..\..\..\..\macro\csi\csisw\lib
+                          64 --		-I..\..\..\..\macro\csi\csisw\src -I..\..\..\..\macro\dma\dma\lib
+                          65 --		-I..\..\..\..\macro\dma\dma\src -I..\..\..\..\macro\dma\g3dma\lib
+                          66 --		-I..\..\..\..\macro\dma\g3dma\src -I..\..\..\..\macro\drw2d\lib
+                          67 --		-I..\..\..\..\macro\drw2d\platform\davehd
+                          68 --		-I..\..\..\..\macro\drw2d\platform\os\no_os
+                          69 --		-I..\..\..\..\macro\drw2d\src
+                          70 --		-I..\..\..\..\macro\flashc\sfcdb\lib
+                          71 --		-I..\..\..\..\macro\flashc\sfcdb\src
+                          72 --		-I..\..\..\..\macro\flashc\sfma\lib
+                          73 --		-I..\..\..\..\macro\flashc\sfma\src
+                          74 --		-I..\..\..\..\macro\gfxbus\lib -I..\..\..\..\macro\gfxbus\src
+                          75 --		-I..\..\..\..\macro\gfxbus\xbus\lib
+                          76 --		-I..\..\..\..\macro\gfxbus\xbus\src -I..\..\..\..\macro\gpio\lib
+                          77 --		-I..\..\..\..\macro\gpio\src
+                          78 --		-I..\..\..\..\macro\gpu\davehd\common\inc
+                          79 --		-I..\..\..\..\macro\gpu\davehd\common\inc\platform
+                          80 --		-I..\..\..\..\macro\gpu\davehd\common\inc\platform\d1mx
+                          81 --		-I..\..\..\..\macro\gpu\davehd\kernel\inc
+                          82 --		-I..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx
+                          83 --		-I..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\bridge
+                          84 --		-I..\..\..\..\macro\gpu\davehd\kernel\platform\ree
+                          85 --		-I..\..\..\..\macro\gpu\davehd\kernel\src
+                          86 --		-I..\..\..\..\macro\gpu\davehd\user\inc
+                          87 --		-I..\..\..\..\macro\gpu\davehd\user\platform\d1mx\no_os
+                          88 --		-I..\..\..\..\macro\gpu\davehd\user\src
+                          89 --		-I..\..\..\..\macro\gpu\jcua\lib -I..\..\..\..\macro\gpu\jcua\src
+                          90 --		-I..\..\..\..\macro\i2c\riic\lib -I..\..\..\..\macro\i2c\riic\src
+                          91 --		-I..\..\..\..\macro\pwm\pcmp\lib -I..\..\..\..\macro\pwm\pcmp\src
+                          92 --		-I..\..\..\..\macro\tick\lib -I..\..\..\..\macro\tick\src
+                          93 --		-I..\..\..\..\macro\timer\ostm\lib
+                          94 --		-I..\..\..\..\macro\timer\ostm\src
+                          95 --		-I..\..\..\..\macro\timer\tauj\lib
+                          96 --		-I..\..\..\..\macro\timer\tauj\src
+                          97 --		-I..\..\..\..\macro\timer\taub\lib
+                          98 --		-I..\..\..\..\macro\timer\taub\src -I..\..\..\..\macro\vdce\lib
+                          99 --		-I..\..\..\..\macro\vdce\src -I..\..\..\..\macro\vo\ddb\lib
+                         100 --		-I..\..\..\..\macro\vo\ddb\src -I..\..\..\..\macro\vo\spea\lib
+                         101 --		-I..\..\..\..\macro\vo\spea\src -I..\..\..\..\macro\vo\vowe\lib
+                         102 --		-I..\..\..\..\macro\vo\vowe\src -I..\..\..\..\macro\wm\lib
+                         103 --		-I..\..\..\..\macro\wm\src -I..\..\..\..\middleware\gfxutils\lib
+                         104 --		-I..\..\..\..\middleware\gfxutils\src
+                         105 --		-I..\..\..\..\drome\export\davehd -I..\..\..\..\drome\import
+                         106 --		-I..\..\..\..\drome\import\davehd -I..\..\..\..\drome\import\dev
+                         107 --		-I..\..\..\..\drome\import\spea -I..\..\..\..\drome\import\vdce
+                         108 --		-I..\..\..\..\drome\import\xbus
+                         109 --		-I..\..\..\..\device\d1mx\macro_cfg\csisw
+                         110 --		-I..\..\..\..\device\d1mx\macro_cfg\davehd
+
+                                                                      Page 3
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         111 --		-I..\..\..\..\device\d1mx\macro_cfg\ddb
+                         112 --		-I..\..\..\..\device\d1mx\macro_cfg\drw2d
+                         113 --		-I..\..\..\..\device\d1mx\macro_cfg\gfxbus
+                         114 --		-I..\..\..\..\device\d1mx\macro_cfg\gpio
+                         115 --		-I..\..\..\..\device\d1mx\macro_cfg\hypb
+                         116 --		-I..\..\..\..\device\d1mx\macro_cfg\hypdb
+                         117 --		-I..\..\..\..\device\d1mx\macro_cfg\jcua
+                         118 --		-I..\..\..\..\device\d1mx\macro_cfg\nfmabare
+                         119 --		-I..\..\..\..\device\d1mx\macro_cfg\octa
+                         120 --		-I..\..\..\..\device\d1mx\macro_cfg\octacdb
+                         121 --		-I..\..\..\..\device\d1mx\macro_cfg\ostm
+                         122 --		-I..\..\..\..\device\d1mx\macro_cfg\pbg
+                         123 --		-I..\..\..\..\device\d1mx\macro_cfg\riic
+                         124 --		-I..\..\..\..\device\d1mx\macro_cfg\sfcdb
+                         125 --		-I..\..\..\..\device\d1mx\macro_cfg\sfma
+                         126 --		-I..\..\..\..\device\d1mx\macro_cfg\spea
+                         127 --		-I..\..\..\..\device\d1mx\macro_cfg\tauj
+                         128 --		-I..\..\..\..\device\d1mx\macro_cfg\tick
+                         129 --		-I..\..\..\..\device\d1mx\macro_cfg\vdce
+                         130 --		-I..\..\..\..\device\d1mx\macro_cfg\vowe
+                         131 --		-I..\..\..\..\device\d1mx\macro_cfg\wm
+                         132 --		-I..\..\..\..\device\d1mx\macro_cfg\xbus
+                         133 --		-I..\..\..\..\device\d1x_common\macro_cfg\adc
+                         134 --		-I..\..\..\..\device\d1x_common\macro_cfg\csisw
+                         135 --		-I..\..\..\..\device\d1x_common\macro_cfg\davehd
+                         136 --		-I..\..\..\..\device\d1x_common\macro_cfg\ddb
+                         137 --		-I..\..\..\..\device\d1x_common\macro_cfg\drw2d
+                         138 --		-I..\..\..\..\device\d1x_common\macro_cfg\gfxbus
+                         139 --		-I..\..\..\..\device\d1x_common\macro_cfg\gpio
+                         140 --		-I..\..\..\..\device\d1x_common\macro_cfg\hypb
+                         141 --		-I..\..\..\..\device\d1x_common\macro_cfg\hypdb
+                         142 --		-I..\..\..\..\device\d1x_common\macro_cfg\jcua
+                         143 --		-I..\..\..\..\device\d1x_common\macro_cfg\nfmabare
+                         144 --		-I..\..\..\..\device\d1x_common\macro_cfg\octa
+                         145 --		-I..\..\..\..\device\d1x_common\macro_cfg\octacdb
+                         146 --		-I..\..\..\..\device\d1x_common\macro_cfg\ostm
+                         147 --		-I..\..\..\..\device\d1x_common\macro_cfg\pbg
+                         148 --		-I..\..\..\..\device\d1x_common\macro_cfg\riic
+                         149 --		-I..\..\..\..\device\d1x_common\macro_cfg\sfcdb
+                         150 --		-I..\..\..\..\device\d1x_common\macro_cfg\sfma
+                         151 --		-I..\..\..\..\device\d1x_common\macro_cfg\spea
+                         152 --		-I..\..\..\..\device\d1x_common\macro_cfg\tauj
+                         153 --		-I..\..\..\..\device\d1x_common\macro_cfg\tick
+                         154 --		-I..\..\..\..\device\d1x_common\macro_cfg\vdce
+                         155 --		-I..\..\..\..\device\d1x_common\macro_cfg\vowe
+                         156 --		-I..\..\..\..\device\d1x_common\macro_cfg\wm
+                         157 --		-I..\..\..\..\device\d1x_common\macro_cfg\xbus
+                         158 --		-I..\..\..\..\device\d1x_common\src\taub
+                         159 --		-I..\..\..\..\app\gfx_apps\W501\src\TEXT_MY --no_commons
+                         160 --		--no_implicit_include --prototype_errors -DBSP_INIT_QOS_SDRAM_ORG
+                         161 --		-DDEVICE_TYPE_D1M1X -DBSP_INIT_SFMA_ORG -DRENESAS_D1X
+                         162 --		-DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD -DUSED_CPU=RH850G3M
+                         163 --		-DUSE_BSP_GFX -DUSE_BSP_HMI_ORG -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         164 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DMA
+                         165 --		-DUSE_DRW2D -DUSE_GFXBUS -DUSE_G3DMA -DUSE_GFXUTILS -DUSE_GPIO
+                         166 --		-DUSE_JCUA -DUSE_ISM -DUSE_OSTM -DUSE_PCMP -DUSE_PBG -DUSE_RIIC
+                         167 --		-DUSE_SFCDB -DUSE_SFMA_ORG -DUSE_SPEA -DUSE_TAUB -DUSE_TAUJ
+                         168 --		-DUSE_TICK -DUSE_VDCE -DUSE_VOWE -DUSE_WM -DUSE_XBUS -DUSE_ECM -G
+                         169 --		-MD -Odebug -Zuse1bit -allocate_ep -cpu=rh850g3m -large_sda -list
+                         170 --		-no_callt -notda -passsource -preprocess_assembly_files
+                         171 --		-registermode=22 -reserve_r2 --diag_warning 1 -object_dir=.\obj
+
+                                                                      Page 4
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         172 --		-DBSP_INIT_QOS_VRAM -DUSE_RSCAN -DUSE_ADCA -DUSE_ADC7010
+                         173 --		-filetype.c ..\..\..\gfx_apps\W501\src\TFT\Non_drome\sfma.c -o
+                         174 --		.\obj\sfma.o
+                         175 --Source File:   ..\..\..\gfx_apps\W501\src\TFT\Non_drome\sfma.c
+                         176 --Directory:     G:\Vlib_svn\app\gfx_apps\W501\target
+                         177 --Compile Date:  Tue Feb 12 20:31:27 2019
+                         178 --Host OS:       Win32
+                         179 --Version:       C-RH850 2017.1.5 RELEASE VERSION
+                         180 --Release:       Compiler v2017.1.5
+                         181 --Revision Date: Tue Apr 11 09:29:40 2017
+                         182 --Release Date:  Tue Apr 11 11:12:26 2017
+                         183 -- ecom  -g -w
+                         184 
+                         185 --1: /************************************************************************************************
+                         186 --2: PROJECT : simple_draw
+                         187 --3: FILE    : $Id: sfma.c 13335 2017-04-24 07:17:12Z shinya.tomari $
+                         188 --4: ============================================================================ 
+                         189 --5: DESCRIPTION
+                         190 --6: ============================================================================
+                         191 --7:                             C O P Y R I G H T
+                         192 --8: ============================================================================
+                         193 --9:                        Copyright (c) 2013 - 2014
+                         194 --10:                                   by 
+                         195 --11:                        Renesas Electronics (Europe) GmbH.
+                         196 --12:                            Arcadiastrasse 10
+                         197 --13:                           D-40472 Duesseldorf
+                         198 --14:                                Germany
+                         199 --15:                           All rights reserved.
+                         200 --16: ============================================================================
+                         201 --17: Purpose: only for testing, not for mass production
+                         202 --19: DISCLAIMER
+                         203 --21: LICENSEE has read, understood and accepted the terms and conditions defined in
+                         204 --22: the license agreement, especially the usage rights. In any case, it is
+                         205 --23: LICENSEE's responsibility to make sure that any user of the software complies
+                         206 --24: with the terms and conditions of the signed license agreement.
+                         207 --26: SAMPLE CODE is not part of the licensed software, as such it must not be used in
+                         208 --27: mass-production applications. It can only be used for evaluation and
+                         209 --28: demonstration purposes at customer's premises listed in the signed license
+                         210 --29: agreement.
+                         211 --30: ****************************************************************************
+                         212 --31: */
+                         213 --33: /*******************************************************************************
+                         214 --34:   Section: Includes
+                         215 --35: */
+                         216 --37: #include "r_typedefs.h"        /* Renesas basic types, e.g. uint32_t */
+                         217 --38: #include "r_bsp_api.h"         /* Board support package */
+                         218 --39: #include "r_sfma_api.h"
+                         219 --40: #include "r_sfcdb_macronix.h"
+                         220 --42: #include "config.h"
+                         221 --43: #include "main.h"
+                         222 --45: /***********************************************************
+                         223 --46:   Section: Local Variables
+                         224 --47: */
+                         225 --48: static uint32_t loc_srcData   [4096];
+                         226 --49: static uint32_t loc_verifyData[4096];
+                         227 --51: /***********************************************************
+                         228 --52:   Section: Local Defines
+                         229 --53: */
+                         230 --54: #define LOC_SFMA_SECTOR_SIZE  (4096u)
+                         231 --55: #if (LOC_SFMA_UNIT == 0)
+                         232 --56: #define LOC_SF_ADDRESS_EX     (0x10000000)
+
+                                                                      Page 5
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         233 --57: #else
+                         234 --58: #define LOC_SF_ADDRESS_EX     (0xC0000000)
+                         235 --59: #endif
+                         236 --61: /***************************************************************************
+                         237 --62:   Constant: SF_DEFAULT_CAL
+                         238 --64:   Default calibration for Serial flash memory (Macronix device only).
+                         239 --66:     SPBCLK clock phase shift        3 (range 0 - 7, written to the upper 16bits)
+                         240 --67:     Sampling point phase shift      1 (range 0 - 7, written to the Lower 16 bits)
+                         241 --68: */
+                         242 --69: #define SF_SPBCLK_CLOCK_PHASE_SHIFT    (3u)
+                         243 --70: #define SF_SAMPLING_POINT_PHASE_SHIFT  (1u)
+                         244 --71: #define LOC_SFMA_DEFAULT_CAL    ((SF_SPBCLK_CLOCK_PHASE_SHIFT << 16) | SF_SAMPLING_POINT_PHASE_SHIFT)
+                         245 --74: /***********************************************************
+                         246 --75:   Section: Local Functions
+                         247 --76: */
+                         248 --77: static void loc_SFMAConfig(r_sfma_Config_t *Config, r_sfma_Mode_t Mode, r_sfma_DataTransferMode_t Transfer);
+                         249 --78: /*******************************************************************************
+                         250 --79:     Function: SetSFMAConfig
+                         251 --81:     Fills the flash device config and command structure according to the target
+                         252 --82:     device.
+                         253 --83:  */
+                         254 --85: static void loc_SFMAConfig(r_sfma_Config_t *Config, r_sfma_Mode_t Mode, r_sfma_DataTransferMode_t Transfer)
+                         255 	.text
+                         256 ..bof.G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma...47.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget..5C62DFC7..0::
+                         257 	.align	2
+                         258 	.align	2
+                         259 ..gh.f.a.2.e.0:
+                         260 	.type	..gh.f.a.2.e.0,@object
+                         261 	.size	..gh.f.a.2.e.0,0
+                         262 	.global	_loc_SFMAConfig..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.
+                         263 _loc_SFMAConfig..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.:
+                         264 _loc_SFMAConfig:
+00000000 06f0            265 	mov	r6,ep
+                         266 --	    .bf
+                         267 .LDW01:
+                         268 --86: {
+                         269 --87:     if(Config != R_NULL)
+00000002 e0f1            270 	cmp	zero,ep
+00000004 e2070501*       271 	be	.L2
+                         272 --88:     {
+                         273 --89:         Config->Mode                        = Mode;
+                         274 --line89
+                         275 ..lin.7174070a..6ea377be.0_1::
+                         276 .LDWlin1:
+00000008 013d            277 	sst.w	r7,0[ep]
+                         278 --90:         Config->MemoryNum                   = R_SFMA_MEMORY_DUAL;
+0000000a 010a            279 	mov	1,r1
+0000000c 030d            280 	sst.w	r1,4[ep]
+                         281 --91:         Config->DataTransferMode            = Transfer;
+0000000e 0545            282 	sst.w	r8,8[ep]
+                         283 --92:         Config->AddressMode                 = R_SFMA_ADDRESS_32BIT;
+00000010 010a            284 	mov	1,r1
+00000012 070d            285 	sst.w	r1,12[ep]
+                         286 --93:         Config->SerialFlashMemoryPageSize   = 0x100uL; /* 256Byte */
+00000014 200e0001        287 	movea	256,zero,r1
+00000018 090d            288 	sst.w	r1,16[ep]
+                         289 --94:         Config->SerialFlashMemoryMaxClock   = (80*1000*1000);
+0000001a 210600b4c404    290 	mov	80000000,r1
+00000020 0b0d            291 	sst.w	r1,20[ep]
+                         292 --95:         Config->CacheMode                   = R_SFMA_CACHE_OFF;
+                         293 --line95
+
+                                                                      Page 6
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         294 ..lin.7174070a..6ea377be.0_2::
+                         295 .LDWlin2:
+00000022 1705            296 	sst.w	zero,44[ep]
+                         297 --96:         Config->PerformanceEnMode           = R_SFMA_PER_EN_MODE_DISABLE;
+00000024 1b05            298 	sst.w	zero,52[ep]
+                         299 --97:         Config->Calibration                 = LOC_SFMA_DEFAULT_CAL;
+00000026 210601000300    300 	mov	196609,r1
+0000002c 190d            301 	sst.w	r1,48[ep]
+                         302 --99:         if(R_SFMA_MEMORY_DUAL == Config->MemoryNum)
+                         303 --line99
+                         304 ..lin.7174070a..6ea377be.0_3::
+                         305 .LDWlin3:
+0000002e 020d            306 	sld.w	4[ep],r1
+00000030 610a            307 	cmp	1,r1
+00000032 ba0d*           308 	bne	.L6
+                         309 --100:         {
+                         310 --101:             Config->SerialFlashMemorySectorSize = LOC_SFMA_SECTOR_SIZE * 2;
+                         311 --line101
+                         312 ..lin.7174070a..6ea377be.0_4::
+                         313 .LDWlin4:
+00000034 200e0020        314 	movea	8192,zero,r1
+00000038 0d0d            315 	sst.w	r1,24[ep]
+                         316 --102:             Config->SerialFlashMemorySize       = 128*1024*1024;
+0000003a 40660008        317 	movhi	hi(134217728),zero,r12
+0000003e 006a            318 	mov	0,r13
+00000040 be070f620000    319 	st.dw	r12,32[ep]
+00000046 a50d*           320 	br	.L8
+                         321 .L6:
+                         322 --103:         }
+                         323 --104:         else
+                         324 --105:         {
+                         325 --106:             Config->SerialFlashMemorySectorSize = LOC_SFMA_SECTOR_SIZE;
+                         326 --line106
+                         327 ..lin.7174070a..6ea377be.0_5::
+                         328 .LDWlin5:
+00000048 200e0010        329 	movea	4096,zero,r1
+0000004c 0d0d            330 	sst.w	r1,24[ep]
+                         331 --107:             Config->SerialFlashMemorySize       = 64*1024*1024;
+0000004e 40660004        332 	movhi	hi(67108864),zero,r12
+00000052 006a            333 	mov	0,r13
+00000054 be070f620000    334 	st.dw	r12,32[ep]
+                         335 .L8:
+                         336 --108:         }
+                         337 --110:         if (R_SFMA_ADDRESS_32BIT == Config->AddressMode)
+                         338 --line110
+                         339 ..lin.7174070a..6ea377be.0_6::
+                         340 .LDWlin6:
+0000005a 060d            341 	sld.w	12[ep],r1
+0000005c 610a            342 	cmp	1,r1
+0000005e 8a35*           343 	bne	.L9
+                         344 --111:         {
+                         345 --112:             if ((40*1000*1000) < Config->SerialFlashMemoryMaxClock)
+                         346 --line112
+                         347 ..lin.7174070a..6ea377be.0_7::
+                         348 .LDWlin7:
+00000060 0a75            349 	sld.w	20[ep],r14
+00000062 2106005a6202    350 	mov	40000000,r1
+00000068 e171            351 	cmp	r1,r14
+0000006a a31d*           352 	bnh	.L11
+                         353 --113:             {
+                         354 --114:                 if ((Config->DataTransferMode == R_SFMA_SDR_QUAD_IO) ||
+
+                                                                      Page 7
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         355 --line114
+                         356 ..lin.7174070a..6ea377be.0_8::
+                         357 .LDWlin8:
+0000006c 040d            358 	sld.w	8[ep],r1
+0000006e 620a            359 	cmp	2,r1
+00000070 c205*           360 	be	.L14
+00000072 040d            361 	sld.w	8[ep],r1
+00000074 650a            362 	cmp	5,r1
+00000076 fa0d*           363 	bne	.L13
+                         364 .L14:
+                         365 --115:                     (Config->DataTransferMode == R_SFMA_DDR_QUAD_IO))
+                         366 --116:                 {
+                         367 --117:                     /* at 80MHZ with external address space use performance enhance mode */
+                         368 --118:                     if(R_SFMA_MODE_EX_SPACE == Mode)
+                         369 --line118
+                         370 ..lin.7174070a..6ea377be.0_9::
+                         371 .LDWlin9:
+00000078 e039            372 	cmp	zero,r7
+0000007a 8a0d*           373 	bne	.L16
+                         374 --119:                     {
+                         375 --120:                         Config->Command = &r_sfc_Macronix_32bitAddrCmdPerformanceEnhance_80MHz;
+                         376 --line120
+                         377 ..lin.7174070a..6ea377be.0_10::
+                         378 .LDWlin10:
+0000007c 210600000000*   379 	mov	_r_sfc_Macronix_32bitAddrCmdPerformanceEnhance_80MHz,r1
+00000082 150d            380 	sst.w	r1,40[ep]
+                         381 --121:                         Config->PerformanceEnMode = R_SFMA_PER_EN_MODE_ENABLE;
+                         382 --line121
+                         383 ..lin.7174070a..6ea377be.0_11::
+                         384 .LDWlin11:
+00000084 010a            385 	mov	1,r1
+00000086 1b0d            386 	sst.w	r1,52[ep]
+00000088 8545*           387 	br	.L2
+                         388 .L16:
+                         389 --122:                     }
+                         390 --123:                     else
+                         391 --124:                     {
+                         392 --125:                         Config->Command = &r_sfc_Macronix_32bitAddrQuadCmd_80MHz;
+                         393 --line125
+                         394 ..lin.7174070a..6ea377be.0_12::
+                         395 .LDWlin12:
+0000008a 210600000000*   396 	mov	_r_sfc_Macronix_32bitAddrQuadCmd_80MHz,r1
+00000090 150d            397 	sst.w	r1,40[ep]
+00000092 b53d*           398 	br	.L2
+                         399 .L13:
+                         400 --126:                     }
+                         401 --127:                 }
+                         402 --128:                 else
+                         403 --129:                 {
+                         404 --130:                     Config->Command = &r_sfc_Macronix_32bitAddrCmd_80MHz;
+                         405 --line130
+                         406 ..lin.7174070a..6ea377be.0_13::
+                         407 .LDWlin13:
+00000094 210600000000*   408 	mov	_r_sfc_Macronix_32bitAddrCmd_80MHz,r1
+0000009a 150d            409 	sst.w	r1,40[ep]
+0000009c e535*           410 	br	.L2
+                         411 .L11:
+                         412 --131:                 }
+                         413 --132:             }
+                         414 --133:             else
+                         415 --134:             {
+
+                                                                      Page 8
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         416 --135:                 if ((Config->DataTransferMode == R_SFMA_SDR_QUAD_IO) ||
+                         417 --line135
+                         418 ..lin.7174070a..6ea377be.0_14::
+                         419 .LDWlin14:
+0000009e 040d            420 	sld.w	8[ep],r1
+000000a0 620a            421 	cmp	2,r1
+000000a2 c205*           422 	be	.L22
+000000a4 040d            423 	sld.w	8[ep],r1
+000000a6 650a            424 	cmp	5,r1
+000000a8 ea05*           425 	bne	.L21
+                         426 .L22:
+                         427 --136:                     (Config->DataTransferMode == R_SFMA_DDR_QUAD_IO))
+                         428 --137:                 {
+                         429 --138:                     Config->Command = &r_sfc_Macronix_32bitAddrQuadCmd_40MHz;
+                         430 --line138
+                         431 ..lin.7174070a..6ea377be.0_15::
+                         432 .LDWlin15:
+000000aa 210600000000*   433 	mov	_r_sfc_Macronix_32bitAddrQuadCmd_40MHz,r1
+000000b0 150d            434 	sst.w	r1,40[ep]
+000000b2 b52d*           435 	br	.L2
+                         436 .L21:
+                         437 --139:                 }
+                         438 --140:                 else
+                         439 --141:                 {
+                         440 --142:                     Config->Command = &r_sfc_Macronix_32bitAddrCmd_40MHz;
+                         441 --line142
+                         442 ..lin.7174070a..6ea377be.0_16::
+                         443 .LDWlin16:
+000000b4 210600000000*   444 	mov	_r_sfc_Macronix_32bitAddrCmd_40MHz,r1
+000000ba 150d            445 	sst.w	r1,40[ep]
+000000bc e525*           446 	br	.L2
+                         447 .L9:
+                         448 --143:                 }
+                         449 --144:             }
+                         450 --145:         }
+                         451 --146:         else
+                         452 --147:         {
+                         453 --148:             if ((40*1000*1000) < Config->SerialFlashMemoryMaxClock)
+                         454 --line148
+                         455 ..lin.7174070a..6ea377be.0_17::
+                         456 .LDWlin17:
+000000be 0a75            457 	sld.w	20[ep],r14
+000000c0 2106005a6202    458 	mov	40000000,r1
+000000c6 e171            459 	cmp	r1,r14
+000000c8 9315*           460 	bnh	.L26
+                         461 --149:             {
+                         462 --150:                 if ((Config->DataTransferMode == R_SFMA_SDR_QUAD_IO) ||
+                         463 --line150
+                         464 ..lin.7174070a..6ea377be.0_18::
+                         465 .LDWlin18:
+000000ca 040d            466 	sld.w	8[ep],r1
+000000cc 620a            467 	cmp	2,r1
+000000ce c205*           468 	be	.L29
+000000d0 040d            469 	sld.w	8[ep],r1
+000000d2 650a            470 	cmp	5,r1
+000000d4 ea05*           471 	bne	.L28
+                         472 .L29:
+                         473 --151:                     (Config->DataTransferMode == R_SFMA_DDR_QUAD_IO))
+                         474 --152:                 {
+                         475 --153:                     Config->Command = &r_sfc_Macronix_24bitAddrQuadCmd_80MHz;
+                         476 --line153
+
+                                                                      Page 9
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         477 ..lin.7174070a..6ea377be.0_19::
+                         478 .LDWlin19:
+000000d6 210600000000*   479 	mov	_r_sfc_Macronix_24bitAddrQuadCmd_80MHz,r1
+000000dc 150d            480 	sst.w	r1,40[ep]
+000000de d515*           481 	br	.L2
+                         482 .L28:
+                         483 --154:                 }
+                         484 --155:                 else
+                         485 --156:                 {
+                         486 --157:                     Config->Command = &r_sfc_Macronix_24bitAddrCmd_80MHz;
+                         487 --line157
+                         488 ..lin.7174070a..6ea377be.0_20::
+                         489 .LDWlin20:
+000000e0 210600000000*   490 	mov	_r_sfc_Macronix_24bitAddrCmd_80MHz,r1
+000000e6 150d            491 	sst.w	r1,40[ep]
+000000e8 8515*           492 	br	.L2
+                         493 .L26:
+                         494 --158:                 }
+                         495 --159:             }
+                         496 --160:             else
+                         497 --161:             {
+                         498 --162:                 if ((Config->DataTransferMode == R_SFMA_SDR_QUAD_IO) ||
+                         499 --line162
+                         500 ..lin.7174070a..6ea377be.0_21::
+                         501 .LDWlin21:
+000000ea 040d            502 	sld.w	8[ep],r1
+000000ec 620a            503 	cmp	2,r1
+000000ee c205*           504 	be	.L34
+000000f0 040d            505 	sld.w	8[ep],r1
+000000f2 650a            506 	cmp	5,r1
+000000f4 ea05*           507 	bne	.L33
+                         508 .L34:
+                         509 --163:                     (Config->DataTransferMode == R_SFMA_DDR_QUAD_IO))
+                         510 --164:                 {
+                         511 --165:                     Config->Command = &r_sfc_Macronix_24bitAddrQuadCmd_40MHz;
+                         512 --line165
+                         513 ..lin.7174070a..6ea377be.0_22::
+                         514 .LDWlin22:
+000000f6 210600000000*   515 	mov	_r_sfc_Macronix_24bitAddrQuadCmd_40MHz,r1
+000000fc 150d            516 	sst.w	r1,40[ep]
+000000fe d505*           517 	br	.L2
+                         518 .L33:
+                         519 --166:                 }
+                         520 --167:                 else
+                         521 --168:                 {
+                         522 --169:                     Config->Command = &r_sfc_Macronix_24bitAddrCmd_40MHz;
+                         523 --line169
+                         524 ..lin.7174070a..6ea377be.0_23::
+                         525 .LDWlin23:
+00000100 210600000000*   526 	mov	_r_sfc_Macronix_24bitAddrCmd_40MHz,r1
+00000106 150d            527 	sst.w	r1,40[ep]
+                         528 .L2:
+                         529 --170:                 }
+                         530 --171:             }
+                         531 --172:         }
+                         532 --173:     }
+                         533 --174: }
+                         534 --	    .ef
+                         535 .LDW11:
+                         536 --line174
+                         537 ..lin.7174070a..6ea377be.0_24::
+
+                                                                      Page 10
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         538 .LDWlin24:
+                         539 	.jumptype return
+00000108 7f00            540 	jmp	[lp]
+                         541 ..lin.7174070a..6ea377be.0_25::
+                         542 .LDWlin25:
+                         543 	.type	_loc_SFMAConfig,@function
+                         544 	.size	_loc_SFMAConfig,.-_loc_SFMAConfig
+                         545 	.type	_loc_SFMAConfig..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.,@function
+                         546 	.size	_loc_SFMAConfig..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.,.-_loc_SFMAConfig..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.
+                         547 	.align	2
+                         548 .LDW21:
+                         549 
+                         550 --_Config	ep	param
+                         551 --_Mode	r7	param
+                         552 --_Transfer	r8	param
+                         553 
+                         554 	.section ".bss","awb"
+                         555 	.align	4
+                         556 .L206:
+                         557 	.type	.L206,@object
+                         558 	.size	.L206,0
+                         559 	.global	_loc_srcData..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.
+                         560 _loc_srcData..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.:
+00000000 000000000000    561 _loc_srcData:	.space	16384
+00000006 000000000000 
+0000000c 000000000000 
+00000012 000000000000 
+00000018 000000000000 
+0000001e 000000000000 
+00000024 000000000000 
+0000002a 000000000000 
+00000030 000000000000 
+00000036 000000000000 
+0000003c 000000000000 
+00000042 000000000000 
+00000048 000000000000 
+0000004e 000000000000 
+00000054 000000000000 
+0000005a 000000000000 
+00000060 000000000000 
+00000066 000000000000 
+0000006c 000000000000 
+00000072 000000000000 
+00000078 000000000000 
+0000007e 000000000000 
+00000084 000000000000 
+0000008a 000000000000 
+00000090 000000000000 
+00000096 000000000000 
+0000009c 000000000000 
+000000a2 000000000000 
+000000a8 000000000000 
+000000ae 000000000000 
+000000b4 000000000000 
+000000ba 000000000000 
+000000c0 000000000000 
+000000c6 000000000000 
+000000cc 000000000000 
+000000d2 000000000000 
+000000d8 000000000000 
+000000de 000000000000 
+
+                                                                      Page 11
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+000000e4 000000000000 
+000000ea 000000000000 
+000000f0 000000000000 
+000000f6 000000000000 
+000000fc 00000000 
+                         562 	.type	_loc_srcData..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.,@object
+                         563 	.size	_loc_srcData..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.,16384
+                         564 	.type	_loc_srcData,@object
+                         565 	.size	_loc_srcData,16384
+                         566 	.global	_loc_verifyData..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.
+                         567 _loc_verifyData..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.:
+00004000 000000000000    568 _loc_verifyData:	.space	16384
+00004006 000000000000 
+0000400c 000000000000 
+00004012 000000000000 
+00004018 000000000000 
+0000401e 000000000000 
+00004024 000000000000 
+0000402a 000000000000 
+00004030 000000000000 
+00004036 000000000000 
+0000403c 000000000000 
+00004042 000000000000 
+00004048 000000000000 
+0000404e 000000000000 
+00004054 000000000000 
+0000405a 000000000000 
+00004060 000000000000 
+00004066 000000000000 
+0000406c 000000000000 
+00004072 000000000000 
+00004078 000000000000 
+0000407e 000000000000 
+00004084 000000000000 
+0000408a 000000000000 
+00004090 000000000000 
+00004096 000000000000 
+0000409c 000000000000 
+000040a2 000000000000 
+000040a8 000000000000 
+000040ae 000000000000 
+000040b4 000000000000 
+000040ba 000000000000 
+000040c0 000000000000 
+000040c6 000000000000 
+000040cc 000000000000 
+000040d2 000000000000 
+000040d8 000000000000 
+000040de 000000000000 
+000040e4 000000000000 
+000040ea 000000000000 
+000040f0 000000000000 
+000040f6 000000000000 
+000040fc 00000000 
+                         569 	.type	_loc_verifyData..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.,@object
+                         570 	.size	_loc_verifyData..G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma.,16384
+                         571 	.type	_loc_verifyData,@object
+                         572 	.size	_loc_verifyData,16384
+                         573 	.data
+                         574 	.text
+                         575 
+
+                                                                      Page 12
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         576 
+                         577 --177: /*******************************************************************************
+                         578 --178:     Function: loc_CompareData32
+                         579 --180:     Compare two 32-bit arrays.
+                         580 --181:     Returns index of first mismatch or length if arrays are equal.
+                         581 --182:  */
+                         582 --183: uint32_t loc_CompareData32(uint32_t a[], uint32_t b[], uint32_t length32)
+                         583 	.align	2
+                         584 	.align	2
+                         585 	.align	2
+                         586 ..gh.f.a.2.e.1:
+                         587 	.type	..gh.f.a.2.e.1,@object
+                         588 	.size	..gh.f.a.2.e.1,0
+                         589 	.global	_loc_CompareData32
+                         590 _loc_CompareData32:
+                         591 --	    .bf
+                         592 .LDW31:
+                         593 --184: {
+                         594 --185:     uint32_t i;
+                         595 --187:     for(i = 0; i < length32; i++)
+0000010a 000a            596 	mov	0,r1
+0000010c e50d*           597 	br	.L331
+                         598 .L330:
+                         599 --188:     {
+                         600 --189:         if ( a[i] != b[i] )
+                         601 --line189
+                         602 ..lin.7174070a..2b42587.0_26::
+                         603 .LDWlin26:
+0000010e 0170            604 	mov	r1,r14
+00000110 c272            605 	shl	2,r14
+00000112 0ef0            606 	mov	r14,ep
+00000114 c6f1            607 	add	r6,ep
+00000116 006d            608 	sld.w	0[ep],r13
+00000118 c771            609 	add	r7,r14
+0000011a 2e770100        610 	ld.w	0[r14],r14
+0000011e ee69            611 	cmp	r14,r13
+00000120 b205*           612 	be	.L329
+                         613 --190:         {
+                         614 --191:             return i;
+                         615 --line191
+                         616 ..lin.7174070a..2b42587.0_27::
+                         617 .LDWlin27:
+00000122 0150            618 	mov	r1,r10
+00000124 d505*           619 	br	.L326
+                         620 .L329:
+                         621 --line187
+                         622 ..lin.7174070a..2b42587.0_28::
+                         623 .LDWlin28:
+00000126 410a            624 	add	1,r1
+                         625 .L331:
+00000128 e809            626 	cmp	r8,r1
+0000012a a1f5*           627 	bl	.L330
+                         628 --192:         }
+                         629 --193:     }
+                         630 --194:     return length32;
+                         631 --line194
+                         632 ..lin.7174070a..2b42587.0_29::
+                         633 .LDWlin29:
+0000012c 0850            634 	mov	r8,r10
+                         635 .L326:
+                         636 --	    .ef
+
+                                                                      Page 13
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         637 .LDW41:
+                         638 	.jumptype return
+0000012e 7f00            639 	jmp	[lp]
+                         640 ..lin.7174070a..2b42587.0_30::
+                         641 .LDWlin30:
+                         642 	.type	_loc_CompareData32,@function
+                         643 	.size	_loc_CompareData32,.-_loc_CompareData32
+                         644 	.align	2
+                         645 .LDW51:
+                         646 --_i	r1	local
+                         647 
+                         648 --_a	r6	param
+                         649 --_b	r7	param
+                         650 --_length32	r8	param
+                         651 
+                         652 	.section ".bss","awb"
+                         653 .L374:
+                         654 	.type	.L374,@object
+                         655 	.size	.L374,0
+                         656 	.data
+                         657 	.text
+                         658 
+                         659 --195: }
+                         660 
+                         661 --196:  
+                         662 --197: /*******************************************************************************
+                         663 --198:     Function: loc_StartSFMA
+                         664 --200:     Opens SFMA for writing and writes a pattern to it.
+                         665 --201:     Afterwards SFMA is closed but opened for reading again, so that
+                         666 --202:     the application can use it.
+                         667 --203:  */
+                         668 --204: void* loc_StartSFMA(void)
+                         669 	.assert 0x0 + (_loc_verifyData - _loc_srcData) +0 == 16384
+                         670 	.align	2
+                         671 	.align	2
+                         672 	.align	2
+                         673 ..gh.f.a.2.e.2:
+                         674 	.type	..gh.f.a.2.e.2,@object
+                         675 	.size	..gh.f.a.2.e.2,0
+                         676 	.global	_loc_StartSFMA
+                         677 _loc_StartSFMA:
+00000130 a007e170        678 	prepare	{r25,r26,r27,r28,r29,r31},16
+00000134 3d0600000000*   679 	mov	_loc_srcData,r29
+0000013a 3dce0040        680 	movea	16384,r29,r25
+0000013e 1dd8            681 	mov	r29,r27
+                         682 --	    .bf
+                         683 .LDW61:
+                         684 --205: {
+                         685 --206:     r_sfma_Error_t err = R_SFMA_ERR_OK;
+                         686 --line206
+                         687 ..lin.7174070a..e0ead756.0_31::
+                         688 .LDWlin31:
+00000140 00e2            689 	mov	0,r28
+                         690 --207:     uint32_t sf_adr    = 0x00000000;
+00000142 00d2            691 	mov	0,r26
+                         692 --208:     r_sfma_Config_t cfg;
+                         693 --209:     uint32_t i;
+                         694 --211:     /* fill color: olive */
+                         695 --212:     for(i = 0; i < 4096; i++)
+00000144 000a            696 	mov	0,r1
+                         697 .L408:
+
+                                                                      Page 14
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         698 --213:     {
+                         699 --214:         loc_srcData[i] = 0xff808000;
+00000146 01f0            700 	mov	r1,ep
+00000148 c2f2            701 	shl	2,ep
+0000014a dbf1            702 	add	r27,ep
+0000014c 2e06008080ff    703 	mov	-8355840,r14
+00000152 0175            704 	sst.w	r14,0[ep]
+                         705 --line212
+                         706 ..lin.7174070a..e0ead756.0_32::
+                         707 .LDWlin32:
+00000154 410a            708 	add	1,r1
+00000156 010600f0        709 	addi	-4096,r1,zero
+0000015a e9f5*           710 	bnl	.L408
+                         711 --215:     }
+                         712 --217:     err |= R_SFMA_Init(LOC_SFMA_UNIT);
+                         713 --line217
+                         714 ..lin.7174070a..e0ead756.0_33::
+                         715 .LDWlin33:
+0000015c 0032            716 	mov	0,r6
+                         717 	jarl	_R_SFMA_Init,lp
+                         717 <EXPANSION BEGIN>
+                         717 jarl22 _R_SFMA_Init , lp 
+0000015e 80ff0000*       717 <EXPANSION END>
+00000162 0ae1            718 	or	r10,r28
+                         719 --219:     /* open for writing */
+                         720 --220:     loc_SFMAConfig(&cfg, R_SFMA_MODE_SPI_OPERATING, R_SFMA_DDR_SINGLE_IO);
+                         721 --line220
+                         722 ..lin.7174070a..e0ead756.0_34::
+                         723 .LDWlin34:
+00000164 23360800        724 	movea	8,sp,r6
+00000168 013a            725 	mov	1,r7
+0000016a 0342            726 	mov	3,r8
+                         727 	jarl	_loc_SFMAConfig,lp
+                         727 <EXPANSION BEGIN>
+                         727 jarl22 _loc_SFMAConfig , lp 
+0000016c bfff94fe*       727 <EXPANSION END>
+                         728 --221:     err |= R_SFMA_Open(LOC_SFMA_UNIT, &cfg);
+                         729 --line221
+                         730 ..lin.7174070a..e0ead756.0_35::
+                         731 .LDWlin35:
+00000170 0032            732 	mov	0,r6
+00000172 233e0800        733 	movea	8,sp,r7
+                         734 	jarl	_R_SFMA_Open,lp
+                         734 <EXPANSION BEGIN>
+                         734 jarl22 _R_SFMA_Open , lp 
+00000176 80ff0000*       734 <EXPANSION END>
+0000017a 0ae1            735 	or	r10,r28
+                         736 --222:     err |= R_SFMA_ProtectionModeSet(LOC_SFMA_UNIT, R_SFMA_MODE_UNPROTECT);
+                         737 --line222
+                         738 ..lin.7174070a..e0ead756.0_36::
+                         739 .LDWlin36:
+0000017c 0032            740 	mov	0,r6
+0000017e 013a            741 	mov	1,r7
+                         742 	jarl	_R_SFMA_ProtectionModeSet,lp
+                         742 <EXPANSION BEGIN>
+                         742 jarl22 _R_SFMA_ProtectionModeSet , lp 
+00000180 80ff0000*       742 <EXPANSION END>
+00000184 0ae1            743 	or	r10,r28
+                         744 --223:     
+                         745 --224:     /* check if data is already there & program only if data is missing*/
+                         746 --225:     err |= R_SFMA_DataRead(LOC_SFMA_UNIT, sf_adr, (uint8_t*)loc_verifyData, sizeof(loc_srcData));
+
+                                                                      Page 15
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         747 --line225
+                         748 ..lin.7174070a..e0ead756.0_37::
+                         749 .LDWlin37:
+00000186 200e0040        750 	movea	16384,zero,r1
+0000018a 1a40            751 	mov	r26,r8
+0000018c 63cf0100        752 	st.w	r25,0[sp]
+00000190 004a            753 	mov	0,r9
+00000192 630f0500        754 	st.w	r1,4[sp]
+00000196 0032            755 	mov	0,r6
+                         756 	jarl	_R_SFMA_DataRead,lp
+                         756 <EXPANSION BEGIN>
+                         756 jarl22 _R_SFMA_DataRead , lp 
+00000198 80ff0000*       756 <EXPANSION END>
+0000019c 0ae1            757 	or	r10,r28
+                         758 --226:     if (4096 != loc_CompareData32(loc_srcData, loc_verifyData, 4096))
+                         759 --line226
+                         760 ..lin.7174070a..e0ead756.0_38::
+                         761 .LDWlin38:
+0000019e 1b30            762 	mov	r27,r6
+000001a0 1938            763 	mov	r25,r7
+000001a2 20460010        764 	movea	4096,zero,r8
+                         765 	jarl	_loc_CompareData32,lp
+                         765 <EXPANSION BEGIN>
+                         765 jarl22 _loc_CompareData32 , lp 
+000001a6 bfff64ff*       765 <EXPANSION END>
+000001aa 0a0600f0        766 	addi	-4096,r10,zero
+000001ae e22d*           767 	be	.L409
+                         768 --227:     {
+                         769 --228:         /* write data to serial flash */
+                         770 --229:         err |= R_SFMA_DataErase(LOC_SFMA_UNIT, sf_adr, sizeof(loc_srcData));
+                         771 --line229
+                         772 ..lin.7174070a..e0ead756.0_39::
+                         773 .LDWlin39:
+000001b0 200e0040        774 	movea	16384,zero,r1
+000001b4 1a40            775 	mov	r26,r8
+000001b6 630f0100        776 	st.w	r1,0[sp]
+000001ba 004a            777 	mov	0,r9
+000001bc 0032            778 	mov	0,r6
+                         779 	jarl	_R_SFMA_DataErase,lp
+                         779 <EXPANSION BEGIN>
+                         779 jarl22 _R_SFMA_DataErase , lp 
+000001be 80ff0000*       779 <EXPANSION END>
+000001c2 0ae1            780 	or	r10,r28
+                         781 --230:         err |= R_SFMA_DataWrite(LOC_SFMA_UNIT, sf_adr, (uint8_t*)loc_srcData, sizeof(loc_srcData));
+                         782 --line230
+                         783 ..lin.7174070a..e0ead756.0_40::
+                         784 .LDWlin40:
+000001c4 200e0040        785 	movea	16384,zero,r1
+000001c8 1a40            786 	mov	r26,r8
+000001ca 63df0100        787 	st.w	r27,0[sp]
+000001ce 004a            788 	mov	0,r9
+000001d0 630f0500        789 	st.w	r1,4[sp]
+000001d4 0032            790 	mov	0,r6
+                         791 	jarl	_R_SFMA_DataWrite,lp
+                         791 <EXPANSION BEGIN>
+                         791 jarl22 _R_SFMA_DataWrite , lp 
+000001d6 80ff0000*       791 <EXPANSION END>
+000001da 0ae1            792 	or	r10,r28
+                         793 --231:     
+                         794 --232:         /* verify the data is correct */
+                         795 --233:         err |= R_SFMA_DataRead(LOC_SFMA_UNIT, sf_adr, (uint8_t*)loc_verifyData, sizeof(loc_srcData));
+
+                                                                      Page 16
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         796 --line233
+                         797 ..lin.7174070a..e0ead756.0_41::
+                         798 .LDWlin41:
+000001dc 200e0040        799 	movea	16384,zero,r1
+000001e0 1a40            800 	mov	r26,r8
+000001e2 63cf0100        801 	st.w	r25,0[sp]
+000001e6 004a            802 	mov	0,r9
+000001e8 630f0500        803 	st.w	r1,4[sp]
+000001ec 0032            804 	mov	0,r6
+                         805 	jarl	_R_SFMA_DataRead,lp
+                         805 <EXPANSION BEGIN>
+                         805 jarl22 _R_SFMA_DataRead , lp 
+000001ee 80ff0000*       805 <EXPANSION END>
+000001f2 0ae1            806 	or	r10,r28
+                         807 --234:         if (4096 != loc_CompareData32(loc_srcData, loc_verifyData, 4096))
+                         808 --line234
+                         809 ..lin.7174070a..e0ead756.0_42::
+                         810 .LDWlin42:
+000001f4 1b30            811 	mov	r27,r6
+000001f6 1938            812 	mov	r25,r7
+000001f8 20460010        813 	movea	4096,zero,r8
+                         814 	jarl	_loc_CompareData32,lp
+                         814 <EXPANSION BEGIN>
+                         814 jarl22 _loc_CompareData32 , lp 
+000001fc bfff0eff*       814 <EXPANSION END>
+00000200 0a0600f0        815 	addi	-4096,r10,zero
+00000204 b205*           816 	be	.L409
+                         817 --235:         {
+                         818 --236:             err |= R_SFMA_ERR_NG;
+                         819 --line236
+                         820 ..lin.7174070a..e0ead756.0_43::
+                         821 .LDWlin43:
+00000206 9ce60100        822 	ori	1,r28,r28
+                         823 .L409:
+                         824 --237:         }
+                         825 --238:     }
+                         826 --239:     err |= R_SFMA_Close(LOC_SFMA_UNIT);
+0000020a 0032            827 	mov	0,r6
+                         828 	jarl	_R_SFMA_Close,lp
+                         828 <EXPANSION BEGIN>
+                         828 jarl22 _R_SFMA_Close , lp 
+0000020c 80ff0000*       828 <EXPANSION END>
+00000210 0ae1            829 	or	r10,r28
+                         830 --241:     /* open again for reading */
+                         831 --242:     loc_SFMAConfig(&cfg, R_SFMA_MODE_EX_SPACE, R_SFMA_DDR_QUAD_IO);
+                         832 --line242
+                         833 ..lin.7174070a..e0ead756.0_44::
+                         834 .LDWlin44:
+00000212 23360800        835 	movea	8,sp,r6
+00000216 003a            836 	mov	0,r7
+00000218 0542            837 	mov	5,r8
+                         838 	jarl	_loc_SFMAConfig,lp
+                         838 <EXPANSION BEGIN>
+                         838 jarl22 _loc_SFMAConfig , lp 
+0000021a bfffe6fd*       838 <EXPANSION END>
+                         839 --243:     err |= R_SFMA_Open(LOC_SFMA_UNIT, &cfg);
+                         840 --line243
+                         841 ..lin.7174070a..e0ead756.0_45::
+                         842 .LDWlin45:
+0000021e 0032            843 	mov	0,r6
+00000220 233e0800        844 	movea	8,sp,r7
+
+                                                                      Page 17
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         845 	jarl	_R_SFMA_Open,lp
+                         845 <EXPANSION BEGIN>
+                         845 jarl22 _R_SFMA_Open , lp 
+00000224 80ff0000*       845 <EXPANSION END>
+00000228 0ae1            846 	or	r10,r28
+                         847 --244:     err |= R_SFMA_AccessAddressSet(LOC_SFMA_UNIT, sf_adr, R_SFMA_ACCESS_RANGE_128MB);
+                         848 --line244
+                         849 ..lin.7174070a..e0ead756.0_46::
+                         850 .LDWlin46:
+0000022a 020a            851 	mov	2,r1
+0000022c 1a40            852 	mov	r26,r8
+0000022e 630f0100        853 	st.w	r1,0[sp]
+00000232 004a            854 	mov	0,r9
+00000234 0032            855 	mov	0,r6
+                         856 	jarl	_R_SFMA_AccessAddressSet,lp
+                         856 <EXPANSION BEGIN>
+                         856 jarl22 _R_SFMA_AccessAddressSet , lp 
+00000236 80ff0000*       856 <EXPANSION END>
+0000023a 0ae1            857 	or	r10,r28
+                         858 --246:     if(err != R_SFMA_ERR_OK)
+                         859 --line246
+                         860 ..lin.7174070a..e0ead756.0_47::
+                         861 .LDWlin47:
+0000023c e0e1            862 	cmp	zero,r28
+0000023e c205*           863 	be	.L413
+                         864 --247:     {
+                         865 --248:         loc_Error((int32_t)err);
+                         866 --line248
+                         867 ..lin.7174070a..e0ead756.0_48::
+                         868 .LDWlin48:
+00000240 1c30            869 	mov	r28,r6
+                         870 	jarl	_loc_Error,lp
+                         870 <EXPANSION BEGIN>
+                         870 jarl22 _loc_Error , lp 
+00000242 80ff0000*       870 <EXPANSION END>
+                         871 .L413:
+                         872 --249:     }
+                         873 --250:     return (void *)(LOC_SF_ADDRESS_EX + sf_adr);
+                         874 --line250
+                         875 ..lin.7174070a..e0ead756.0_49::
+                         876 .LDWlin49:
+00000246 5a560010        877 	movhi	hi(268435456),r26,r10
+                         878 --	    .ef
+                         879 .LDW71:
+                         880 --line251
+                         881 ..lin.7174070a..e0ead756.0_50::
+                         882 .LDWlin50:
+0000024a 6006ff70        883 	dispose	16,{r25,r26,r27,r28,r29,r31},[lp]
+                         884 ..lin.7174070a..e0ead756.0_51::
+                         885 .LDWlin51:
+                         886 	.type	_loc_StartSFMA,@function
+                         887 	.size	_loc_StartSFMA,.-_loc_StartSFMA
+                         888 	.align	2
+                         889 .LDW81:
+                         890 --_err	r28	local
+                         891 --_sf_adr	r26	local
+                         892 --_cfg	8[sp]	local
+                         893 --_i	r1	local
+                         894 
+                         895 	.data
+                         896 	.text
+
+                                                                      Page 18
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         897 
+                         898 --251: }
+                         899 
+                         900 --253: /*******************************************************************************
+                         901 --254:     Function: loc_StopSFMA
+                         902 --256:     Closes and stops SFMA
+                         903 --257:  */
+                         904 --258: void loc_StopSFMA(void)
+                         905 	.align	2
+                         906 	.align	2
+                         907 	.align	2
+                         908 ..gh.f.a.2.e.3:
+                         909 	.type	..gh.f.a.2.e.3,@object
+                         910 	.size	..gh.f.a.2.e.3,0
+                         911 	.global	_loc_StopSFMA
+                         912 _loc_StopSFMA:
+0000024e 80076100        913 	prepare	{r29,r31},0
+                         914 --	    .bf
+                         915 .LDW91:
+                         916 --259: {
+                         917 --260:     r_sfma_Error_t err = R_SFMA_ERR_OK;
+00000252 00ea            918 	mov	0,r29
+                         919 --262:     err |= R_SFMA_Close(LOC_SFMA_UNIT);
+00000254 0032            920 	mov	0,r6
+                         921 	jarl	_R_SFMA_Close,lp
+                         921 <EXPANSION BEGIN>
+                         921 jarl22 _R_SFMA_Close , lp 
+00000256 80ff0000*       921 <EXPANSION END>
+0000025a 0ae9            922 	or	r10,r29
+                         923 --263:     err |= R_SFMA_DeInit(LOC_SFMA_UNIT);
+                         924 --line263
+                         925 ..lin.7174070a..ab23814e.0_52::
+                         926 .LDWlin52:
+0000025c 0032            927 	mov	0,r6
+                         928 	jarl	_R_SFMA_DeInit,lp
+                         928 <EXPANSION BEGIN>
+                         928 jarl22 _R_SFMA_DeInit , lp 
+0000025e 80ff0000*       928 <EXPANSION END>
+00000262 0ae9            929 	or	r10,r29
+                         930 --265:     if(err != R_SFMA_ERR_OK)
+                         931 --line265
+                         932 ..lin.7174070a..ab23814e.0_53::
+                         933 .LDWlin53:
+00000264 e0e9            934 	cmp	zero,r29
+00000266 c205*           935 	be	.L602
+                         936 --266:     {
+                         937 --267:         loc_Error((int32_t)err);
+                         938 --line267
+                         939 ..lin.7174070a..ab23814e.0_54::
+                         940 .LDWlin54:
+00000268 1d30            941 	mov	r29,r6
+                         942 	jarl	_loc_Error,lp
+                         942 <EXPANSION BEGIN>
+                         942 jarl22 _loc_Error , lp 
+0000026a 80ff0000*       942 <EXPANSION END>
+                         943 .L602:
+                         944 --268:     }
+                         945 --269: }
+                         946 --	    .ef
+                         947 .LDW02:
+                         948 --line269
+
+                                                                      Page 19
+                                                              C:\Users\MANGESH\AppData\Local\Temp\gh_00007gg1.si
+                         949 ..lin.7174070a..ab23814e.0_55::
+                         950 .LDWlin55:
+0000026e 40067f00        951 	dispose	0,{r29,r31},[lp]
+                         952 ..lin.7174070a..ab23814e.0_56::
+                         953 .LDWlin56:
+                         954 	.type	_loc_StopSFMA,@function
+                         955 	.size	_loc_StopSFMA,.-_loc_StopSFMA
+                         956 	.align	2
+                         957 .LDW12:
+                         958 --_err	r29	local
+                         959 
+                         960 	.section ".bss","awb"
+                         961 .L638:
+                         962 	.type	.L638,@object
+                         963 	.size	.L638,0
+                         964 	.data
+                         965 	.text
+                         966 
+                         967 	.align	2
+                         968 --_r_sfc_Macronix_32bitAddrCmd_40MHz	_r_sfc_Macronix_32bitAddrCmd_40MHz	import
+                         969 --_r_sfc_Macronix_32bitAddrCmd_80MHz	_r_sfc_Macronix_32bitAddrCmd_80MHz	import
+                         970 --_r_sfc_Macronix_24bitAddrCmd_40MHz	_r_sfc_Macronix_24bitAddrCmd_40MHz	import
+                         971 --_r_sfc_Macronix_24bitAddrCmd_80MHz	_r_sfc_Macronix_24bitAddrCmd_80MHz	import
+                         972 --_r_sfc_Macronix_32bitAddrQuadCmd_40MHz	_r_sfc_Macronix_32bitAddrQuadCmd_40MHz	import
+                         973 --_r_sfc_Macronix_32bitAddrQuadCmd_80MHz	_r_sfc_Macronix_32bitAddrQuadCmd_80MHz	import
+                         974 --_r_sfc_Macronix_24bitAddrQuadCmd_40MHz	_r_sfc_Macronix_24bitAddrQuadCmd_40MHz	import
+                         975 --_r_sfc_Macronix_24bitAddrQuadCmd_80MHz	_r_sfc_Macronix_24bitAddrQuadCmd_80MHz	import
+                         976 --_r_sfc_Macronix_32bitAddrCmdPerformanceEnhance_80MHz	_r_sfc_Macronix_32bitAddrCmdPerformanceEnhance_80MHz	import
+                         977 --_loc_srcData	_loc_srcData	static
+                         978 --_loc_verifyData	_loc_verifyData	static
+                         979 
+                         980 	.data
+                         981 	.ghsnote version,19
+                         982 	.ghsnote tools,3
+                         983 	.ghsnote options,656
+                         984 	.text
+                         985 	.align	2
+                         986 ..eof.G.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget.5Cobj.5Csfma...47.3A.5CVlib_svn.5Capp.5Cgfx_apps.5CW501.5Ctarget..5C62DFC7..0::
+                         987 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M,SDA_EXTRA_REGS_0
